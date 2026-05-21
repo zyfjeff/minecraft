@@ -452,7 +452,7 @@ export default function Home(qoderProps) {
           </Link>
         </div>
 
-        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 'var(--space-md)' }} data-qoder-id="qel-div-a449ff9d" data-qoder-source="{&quot;qoderId&quot;:&quot;qel-div-a449ff9d&quot;,&quot;filePath&quot;:&quot;react-vite/src/pages/Home.jsx&quot;,&quot;componentName&quot;:&quot;Home&quot;,&quot;elementRole&quot;:&quot;div&quot;,&quot;loc&quot;:{&quot;line&quot;:153,&quot;column&quot;:9}}">
+        <div className="recommended-grid" style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 'var(--space-md)' }} data-qoder-id="qel-div-a449ff9d" data-qoder-source="{&quot;qoderId&quot;:&quot;qel-div-a449ff9d&quot;,&quot;filePath&quot;:&quot;react-vite/src/pages/Home.jsx&quot;,&quot;componentName&quot;:&quot;Home&quot;,&quot;elementRole&quot;:&quot;div&quot;,&quot;loc&quot;:{&quot;line&quot;:153,&quot;column&quot;:9}}">
           {/* Quest cards — fully data-driven from public.quests via useAuth().quests.
               - quest.route present  -> wrap in <Link> + fire-and-forget claimQuest on click
               - quest.route absent   -> <div onClick=claimQuest> (in-place quest)

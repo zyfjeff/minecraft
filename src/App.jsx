@@ -1,35 +1,143 @@
 import { Routes, Route, NavLink, Link, Navigate, useLocation } from 'react-router-dom'
-import { useState, lazy, Suspense } from 'react'
-import Home from './pages/Home'
-import CourseList from './pages/CourseList'
-import CourseDetail from './pages/CourseDetail'
-import VideoLesson from './pages/VideoLesson'
-import ReadingPractice from './pages/ReadingPractice'
-import VocabPractice from './pages/VocabPractice'
-import Achievements from './pages/Achievements'
-import Credits from './pages/Credits'
-import Login from './pages/Login'
+import { useState, lazy, Suspense, Component } from 'react'
+
+/**
+ * lazyWithRetry—包装 React.lazy，为动态 import() 提供：
+ *  1. 失败重试：网络拖拽一次下载不会全面白屏。
+ *  2. Hash 失配自恢复：部署后用户 SW 仍缓旧 index.html 会
+ *     去请求不存在的 chunk。多次重试仍失败代表疑似 chunk
+ *     失配，只要之前未刷过，就设 sessionStorage flag 后强制
+ *     reload—拿到新 index.html。如果本页 session 已刷过一次仍失败，
+ *     则往上抛让 RouteErrorBoundary 接管，避免无限刷新循环。
+ */
+function lazyWithRetry(factory, retries = 2, interval = 400) {
+  const KEY = 'cw-chunk-reload'
+  return lazy(async () => {
+    let lastErr
+    for (let i = 0; i <= retries; i++) {
+      try {
+        const mod = await factory()
+        // 加载成功，清除刷新 flag。
+        try { sessionStorage.removeItem(KEY) } catch {}
+        return mod
+      } catch (err) {
+        lastErr = err
+        if (i < retries) await new Promise((r) => setTimeout(r, interval * (i + 1)))
+      }
+    }
+    // 多次失败：疑似 hash 失配，本 session 未刷过则强刷一次。
+    try {
+      if (typeof window !== 'undefined' && !sessionStorage.getItem(KEY)) {
+        sessionStorage.setItem(KEY, '1')
+        window.location.reload()
+        // 序列中返回一个 pending 的 promise，避免同步抛错
+        return new Promise(() => {})
+      }
+    } catch {}
+    throw lastErr
+  })
+}
+
+// 路由级 ErrorBoundary：捕获 lazy chunk 加载失败、页面渲染错误。
+// 避免仅靠 <Suspense> 时“丢出错”会闪白屏。
+class RouteErrorBoundary extends Component {
+  constructor(props) {
+    super(props)
+    this.state = { hasError: false }
+  }
+  static getDerivedStateFromError() { return { hasError: true } }
+  componentDidCatch(err) {
+    if (typeof console !== 'undefined') console.error('[RouteErrorBoundary]', err)
+  }
+  handleReload = () => {
+    try { sessionStorage.removeItem('cw-chunk-reload') } catch {}
+    window.location.reload()
+  }
+  render() {
+    if (!this.state.hasError) return this.props.children
+    return (
+      <div
+        role="alert"
+        style={{
+          minHeight: 240,
+          display: 'flex',
+          flexDirection: 'column',
+          alignItems: 'center',
+          justifyContent: 'center',
+          gap: 12,
+          padding: 24,
+          color: 'var(--color-muted)',
+          textAlign: 'center',
+        }}
+      >
+        <div style={{ fontSize: 14 }}>页面加载失败，可能是网络不稳定或已发布新版本。</div>
+        <button
+          type="button"
+          onClick={this.handleReload}
+          className="btn"
+          style={{ minHeight: 44, padding: '8px 20px' }}
+        >
+          重新加载
+        </button>
+      </div>
+    )
+  }
+}
+
+// 路由级懒加载：每个页面单独成 chunk，首屏只下载当前路由 + 共享 vendor。
+// CourseList / VideoLesson / Home 体积都接近或超过 60 KB 源代码，单页面拆分
+// 后首屏 JS 可减少 60% 以上；进入对应路由时按需拉取。
+const Home = lazyWithRetry(() => import('./pages/Home'))
+const CourseList = lazyWithRetry(() => import('./pages/CourseList'))
+const CourseDetail = lazyWithRetry(() => import('./pages/CourseDetail'))
+const VideoLesson = lazyWithRetry(() => import('./pages/VideoLesson'))
+const ReadingPractice = lazyWithRetry(() => import('./pages/ReadingPractice'))
+const VocabPractice = lazyWithRetry(() => import('./pages/VocabPractice'))
+const Achievements = lazyWithRetry(() => import('./pages/Achievements'))
+const Credits = lazyWithRetry(() => import('./pages/Credits'))
+const Login = lazyWithRetry(() => import('./pages/Login'))
+const NotFound = lazyWithRetry(() => import('./pages/NotFound'))
+const Profile = lazyWithRetry(() => import('./pages/Profile'))
+const VocabBook = lazyWithRetry(() => import('./pages/VocabBook'))
+const VocabReview = lazyWithRetry(() => import('./pages/VocabReview'))
+const StatsPage = lazyWithRetry(() => import('./pages/StatsPage'))
 import RequireAuth from './auth/RequireAuth'
 // Admin 路由懒加载：普通用户从不访问 /admin/*，不该让它们出现在首屏 bundle。
 // 配合 vite.config.js 的 manualChunks （admin-pages chunk）一起生效。
-const RequireAdmin = lazy(() => import('./admin/RequireAdmin'))
-const AdminCourseList = lazy(() => import('./admin/AdminCourseList'))
-const AdminCourseEditor = lazy(() => import('./admin/AdminCourseEditor'))
-const AdminRewardsList = lazy(() => import('./admin/AdminRewardsList'))
-const AdminRewardsEditor = lazy(() => import('./admin/AdminRewardsEditor'))
-const AdminQuestsList = lazy(() => import('./admin/AdminQuestsList'))
-const AdminQuestsEditor = lazy(() => import('./admin/AdminQuestsEditor'))
-import NotFound from './pages/NotFound'
-import Profile from './pages/Profile'
-import VocabBook from './pages/VocabBook'
-import VocabReview from './pages/VocabReview'
-import StatsPage from './pages/StatsPage'
+const RequireAdmin = lazyWithRetry(() => import('./admin/RequireAdmin'))
+const AdminCourseList = lazyWithRetry(() => import('./admin/AdminCourseList'))
+const AdminCourseEditor = lazyWithRetry(() => import('./admin/AdminCourseEditor'))
+const AdminRewardsList = lazyWithRetry(() => import('./admin/AdminRewardsList'))
+const AdminRewardsEditor = lazyWithRetry(() => import('./admin/AdminRewardsEditor'))
+const AdminQuestsList = lazyWithRetry(() => import('./admin/AdminQuestsList'))
+const AdminQuestsEditor = lazyWithRetry(() => import('./admin/AdminQuestsEditor'))
 import NetworkStatus from './components/NetworkStatus'
 import { useAuth } from './auth/AuthContext'
 
 const AdminLoading = () => (
   <div style={{ padding: 32, textAlign: 'center', color: 'var(--color-muted)', fontSize: 14 }}>
     Loading admin…
+  </div>
+)
+
+// Generic page-level Suspense fallback. Kept tiny on purpose so the spinner
+// itself never delays the perceived navigation; bottom-nav and header remain
+// interactive while the page chunk streams in.
+const PageLoading = () => (
+  <div
+    role="status"
+    aria-live="polite"
+    style={{
+      minHeight: 240,
+      display: 'flex',
+      alignItems: 'center',
+      justifyContent: 'center',
+      color: 'var(--color-muted)',
+      fontFamily: 'var(--font-display)',
+      fontSize: 14,
+    }}
+  >
+    Loading…
   </div>
 )
 
@@ -103,11 +211,15 @@ export default function App(qoderProps) {
   return (
     <>
     <NetworkStatus />
-    <Routes data-qoder-id="qel-routes-52f01edd" data-qoder-source="{&quot;qoderId&quot;:&quot;qel-routes-52f01edd&quot;,&quot;filePath&quot;:&quot;react-vite/src/App.jsx&quot;,&quot;componentName&quot;:&quot;App&quot;,&quot;elementRole&quot;:&quot;routes&quot;,&quot;loc&quot;:{&quot;line&quot;:60,&quot;column&quot;:5}}">
-      <Route path="/login" element={<Login />}  data-qoder-id="qel-route-68bedcb4" data-qoder-source="{&quot;qoderId&quot;:&quot;qel-route-68bedcb4&quot;,&quot;filePath&quot;:&quot;react-vite/src/App.jsx&quot;,&quot;componentName&quot;:&quot;App&quot;,&quot;elementRole&quot;:&quot;route&quot;,&quot;loc&quot;:{&quot;line&quot;:61,&quot;column&quot;:7}}"/>
-      {/* Public routes: accessible without login */}
-      <Route path="/*" element={<AppLayout {...(qoderProps || {})} />} />
-    </Routes>
+    <RouteErrorBoundary>
+    <Suspense fallback={<PageLoading />}>
+      <Routes data-qoder-id="qel-routes-52f01edd" data-qoder-source="{&quot;qoderId&quot;:&quot;qel-routes-52f01edd&quot;,&quot;filePath&quot;:&quot;react-vite/src/App.jsx&quot;,&quot;componentName&quot;:&quot;App&quot;,&quot;elementRole&quot;:&quot;routes&quot;,&quot;loc&quot;:{&quot;line&quot;:60,&quot;column&quot;:5}}">
+        <Route path="/login" element={<Login />}  data-qoder-id="qel-route-68bedcb4" data-qoder-source="{&quot;qoderId&quot;:&quot;qel-route-68bedcb4&quot;,&quot;filePath&quot;:&quot;react-vite/src/App.jsx&quot;,&quot;componentName&quot;:&quot;App&quot;,&quot;elementRole&quot;:&quot;route&quot;,&quot;loc&quot;:{&quot;line&quot;:61,&quot;column&quot;:7}}"/>
+        {/* Public routes: accessible without login */}
+        <Route path="/*" element={<AppLayout {...(qoderProps || {})} />} />
+      </Routes>
+    </Suspense>
+    </RouteErrorBoundary>
     </>
   )
 }
@@ -207,6 +319,8 @@ function AppLayout(qoderProps) {
 
       {/* Main Content */}
       <main id="main-content" className="app-content" data-qoder-id="qel-app-content-a452c868" data-qoder-source="{&quot;qoderId&quot;:&quot;qel-app-content-a452c868&quot;,&quot;filePath&quot;:&quot;react-vite/src/App.jsx&quot;,&quot;componentName&quot;:&quot;App&quot;,&quot;elementRole&quot;:&quot;app-content&quot;,&quot;loc&quot;:{&quot;line&quot;:84,&quot;column&quot;:7}}">
+        <RouteErrorBoundary>
+        <Suspense fallback={<PageLoading />}>
         <Routes data-qoder-id="qel-routes-cbf31bef" data-qoder-source="{&quot;qoderId&quot;:&quot;qel-routes-cbf31bef&quot;,&quot;filePath&quot;:&quot;react-vite/src/App.jsx&quot;,&quot;componentName&quot;:&quot;App&quot;,&quot;elementRole&quot;:&quot;routes&quot;,&quot;loc&quot;:{&quot;line&quot;:85,&quot;column&quot;:9}}">
           {/* ── Public routes (guest-accessible) ── */}
           <Route path="/courses" element={<CourseList />} />
@@ -233,6 +347,8 @@ function AppLayout(qoderProps) {
           <Route path="/admin/quest/:id" element={<Suspense fallback={<AdminLoading />}><RequireAdmin><AdminQuestsEditor /></RequireAdmin></Suspense>} />
           <Route path="*" element={<NotFound />} />
         </Routes>
+        </Suspense>
+        </RouteErrorBoundary>
       </main>
 
       {/* Footer with attribution + Credits link */}

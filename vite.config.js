@@ -12,12 +12,16 @@ export default defineConfig({
         name: 'CraftWords - Minecraft English Learning',
         short_name: 'CraftWords',
         description: 'Learn English through Minecraft-themed lessons, vocabulary, and quests!',
+        id: '/',
         theme_color: '#5B8731',
         background_color: '#FFF8F0',
         display: 'standalone',
+        display_override: ['standalone', 'minimal-ui'],
         orientation: 'portrait',
         scope: '/',
         start_url: '/',
+        lang: 'en',
+        dir: 'ltr',
         categories: ['education', 'games'],
         icons: [
           {
@@ -32,9 +36,20 @@ export default defineConfig({
             type: 'image/svg+xml',
             purpose: 'maskable',
           },
+          {
+            src: 'apple-touch-icon.svg',
+            sizes: '180x180',
+            type: 'image/svg+xml',
+            purpose: 'any',
+          },
         ],
       },
       workbox: {
+        // 新 SW 立即接管 + 清理过期缓存，避免用户拿旧 index.html
+        // 去拉已不存在的 hash chunk（例如 page-stats-AbC.js）而白屏。
+        skipWaiting: true,
+        clientsClaim: true,
+        cleanupOutdatedCaches: true,
         // Cache Google Fonts
         runtimeCaching: [
           {
@@ -88,6 +103,12 @@ export default defineConfig({
           // 把所有 admin 路由（src/admin/）合起来成一个懒加载 chunk。
           // 只有实际访问 /admin/* 的用户才会拉。
           if (id.includes('/src/admin/')) return 'admin-pages'
+          // 将最大几个页面拆为独立 chunk（配合 React.lazy）：
+          // 首屏不会下载这些，进入对应路由才拉。
+          if (id.includes('/src/pages/VideoLesson')) return 'page-video'
+          if (id.includes('/src/pages/ReadingPractice')) return 'page-reading'
+          if (id.includes('/src/pages/CourseList')) return 'page-courses'
+          if (id.includes('/src/pages/Home')) return 'page-home'
         },
       },
     },

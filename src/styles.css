@@ -94,7 +94,13 @@
 }
 
 html, body, #root {
-  height: 100%;
+  /* Android Chrome 动态地址栏会在滚动时伸缩。
+     若只用 height:100%，则始终等于"地址栏可见时的小视口"；
+     但子宝 .app-container 另用 100dvh，地址栏收起后会超出
+     #root，被 overflow:hidden 裁掉底部（表现为底部导航不完整）。
+     这里统一用 dvh（fallback vh）使所有层级高度保持一致。 */
+  height: 100vh;
+  height: 100dvh;
   width: 100%;
   overflow: hidden;
 }
@@ -143,7 +149,9 @@ h4 {
 .app-container {
   display: flex;
   flex-direction: column;
-  height: 100vh;
+  /* 继承 #root 的 dvh 高度，避免在 Android Chrome 上与 #root
+     的 100% 高度不一致导致底部被裁。 */
+  height: 100%;
   width: 100%;
   max-width: 1024px;
   margin: 0 auto;
@@ -157,7 +165,10 @@ h4 {
   overflow-y: auto;
   overflow-x: hidden;
   padding: var(--space-lg);
-  padding-bottom: 80px;
+  /* Reserve space for bottom nav + iPhone home indicator safe area */
+  padding-bottom: calc(80px + env(safe-area-inset-bottom, 0px));
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior-y: contain;
 }
 
 /* --- Top Status Bar --- */
@@ -166,6 +177,10 @@ h4 {
   align-items: center;
   justify-content: space-between;
   padding: var(--space-md) var(--space-lg);
+  /* Respect iOS notch / status bar safe area */
+  padding-top: calc(var(--space-md) + env(safe-area-inset-top, 0px));
+  padding-left: calc(var(--space-lg) + env(safe-area-inset-left, 0px));
+  padding-right: calc(var(--space-lg) + env(safe-area-inset-right, 0px));
   background: var(--color-surface);
   border-bottom: 2px solid rgba(139, 105, 20, 0.08);
 }
@@ -224,6 +239,10 @@ h4 {
   align-items: center;
   justify-content: space-around;
   padding: var(--space-sm) var(--space-sm);
+  /* Extend background into iPhone home indicator area */
+  padding-bottom: calc(var(--space-sm) + env(safe-area-inset-bottom, 0px));
+  padding-left: calc(var(--space-sm) + env(safe-area-inset-left, 0px));
+  padding-right: calc(var(--space-sm) + env(safe-area-inset-right, 0px));
   background: var(--color-surface);
   border-top: 2px solid rgba(139, 105, 20, 0.08);
   z-index: 100;
@@ -233,8 +252,11 @@ h4 {
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
   gap: 2px;
   padding: var(--space-xs) var(--space-sm);
+  /* Apple HIG / Material guideline: minimum 44px tap target */
+  min-height: 44px;
   border-radius: var(--radius-md);
   text-decoration: none;
   color: var(--color-muted);
@@ -246,6 +268,9 @@ h4 {
   flex: 1;
   overflow: hidden;
   white-space: nowrap;
+  /* Suppress iOS tap highlight; rely on our own active styles */
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
 }
 
 .nav-item:hover {
@@ -283,6 +308,160 @@ h4 {
   gap: var(--space-md);
 }
 
+/* 超窄屏（< 480px，多数手机竖屏）：2 列下每个卡片仅 ~148px，
+   减去 24px*2 padding 与 56px 缩略图后文字区只剩 ~28px，描述会被
+   压成 5-8 行、卡片被拉長。这里改为单列，同时压缩 padding。 */
+@media (max-width: 480px) {
+  .course-grid {
+    grid-template-columns: 1fr;
+    gap: var(--space-sm);
+  }
+  .course-grid .card { padding: var(--space-md); }
+}
+
+/* 卡片内文字重置：
+   - h4 标题：触发 nowrap+ellipsis 会直接裁成 "Mineraf..."，
+     改为多行省略（最多 2 行），保留可读性。
+   - p 描述：inline 未限制行数，需手动限为 2 行避免拉长卡片。
+   inline style 优先级最高，所以 white-space 需用 !important 覆盖。 */
+.course-grid .card h4 {
+  white-space: normal !important;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  line-clamp: 2;
+  word-break: break-word;
+  line-height: 1.3;
+}
+.course-grid .card p {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  line-clamp: 2;
+  overflow: hidden;
+  word-break: break-word;
+  line-height: 1.4;
+}
+
+/* --- Home “Recommended Courses” / Today's Quests 网格 ---
+   inline 写死 gridTemplateColumns: '1fr 1fr'，在 360-480px 竖屏下每张
+   卡片仅 ~148px，padding 24px*2 + 36px 图标后文字区仅剩 ~50px，
+   标题/描述表现为多行压缩、长词被刪航。这里：
+   1) 窄屏覆盖 inline 为 1 列（!important）
+   2) 压缩 padding
+   3) 标题/描述加 line-clamp 与 word-break，保证可识别。 */
+.recommended-grid .card h4 {
+  word-break: break-word;
+  overflow-wrap: anywhere;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  line-clamp: 2;
+  overflow: hidden;
+  line-height: 1.3;
+}
+.recommended-grid .card p {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  line-clamp: 2;
+  overflow: hidden;
+  word-break: break-word;
+  line-height: 1.4;
+}
+@media (max-width: 480px) {
+  .recommended-grid {
+    grid-template-columns: 1fr !important;
+    gap: var(--space-sm) !important;
+  }
+  .recommended-grid .card {
+    padding: var(--space-md);
+  }
+  /* 竖屏单列下可以多显示一行描述，帮助识别 */
+  .recommended-grid .card p { -webkit-line-clamp: 3; line-clamp: 3; }
+}
+
+/* --- Achievements: Level Overview 响应式 ---
+   inline 将 Level Circle (100px, flexShrink:0) 与 Stats Grid 2×2
+   (flexShrink:0) 同时锁在同一行 flex 中，中间 flex:1 的 XP
+   进度区在 360px 竖屏下会被挤压到 0 甚至负宽，从而完全
+   看不到进度条。这里在 ≤ 600px 时改为纵向堆叠、所有
+   区块按顺序满宽展示。 */
+@media (max-width: 600px) {
+  [data-component="level-overview"] {
+    padding: var(--space-md) !important;
+  }
+  [data-component="level-overview"] > div:first-child {
+    flex-direction: column !important;
+    gap: var(--space-md) !important;
+    align-items: stretch !important;
+  }
+  /* Level Circle 由 100×100 缩小到 80×80，并在纵向上居中 */
+  [data-component="level-overview"] > div:first-child > div:first-child {
+    width: 80px !important;
+    height: 80px !important;
+    align-self: center;
+  }
+  /* h2 标题过大会损害信息密度 */
+  [data-component="level-overview"] h2 { font-size: 20px; }
+}
+
+/* --- Achievements: Badges Grid 响应式 ---
+   inline 写死 2 列，在 360-480px 下每张卡片仅 ~148px，
+   减去 52px 图标 + gap 后文字区仅 ~80px：
+   - 成就名称被压成多行换行
+   - 进度条与计数文字被挤
+   - Unlocked! 状态可能被覇跳行
+   这里在 ≤ 480px 改为单列，并为标题/描述加限行。 */
+[data-component="badges-grid"] .card h4 {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  word-break: break-word;
+  line-height: 1.3;
+}
+[data-component="badges-grid"] .card p {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  line-clamp: 2;
+  overflow: hidden;
+  word-break: break-word;
+  line-height: 1.35;
+}
+@media (max-width: 480px) {
+  [data-component="badges-grid"] {
+    grid-template-columns: 1fr !important;
+    gap: var(--space-sm) !important;
+  }
+  [data-component="badges-grid"] .card {
+    padding: var(--space-md);
+  }
+  /* 单列模式下有足够空间，描述可以释放为 1 行以量可读 */
+  [data-component="badges-grid"] .card h4 { white-space: normal; }
+}
+
+/* --- Achievements: Treasure Inventory 响应式 ---
+   inline 写死 4 列，360px 竖屏下每格仅 ~72px，padding
+   后内容区仅剩 ~24px，48×48 图标与名称都被严重挤压。
+   按屏宽梯度调整列数。 */
+@media (max-width: 600px) {
+  [data-component="treasure-inventory"] {
+    grid-template-columns: repeat(3, 1fr) !important;
+    gap: var(--space-sm) !important;
+  }
+  [data-component="treasure-inventory"] .card {
+    padding: var(--space-md) var(--space-sm) !important;
+  }
+}
+@media (max-width: 380px) {
+  [data-component="treasure-inventory"] {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+}
+
 @media (min-width: 768px) {
   .app-container { max-width: 1100px; }
   .course-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
@@ -291,6 +470,24 @@ h4 {
 @media (min-width: 1280px) {
   .app-container { max-width: 1280px; }
   .course-grid { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+}
+
+/* --- Mobile landscape (手机横屏) ---
+   在 iPhone/Android 横屏下高度仅 ≤3×原高，容易让详情页出现
+   上下都要滚动的犼局。这里动态压缩 padding / nav 尺寸，以免
+   表单、视频与字幕区被压出可视区。 */
+@media (orientation: landscape) and (max-height: 500px) {
+  .app-content {
+    padding: var(--space-md);
+    padding-bottom: calc(64px + env(safe-area-inset-bottom, 0px));
+  }
+  .top-bar { padding: var(--space-sm) var(--space-md); }
+  .bottom-nav { padding: 4px var(--space-sm); }
+  .nav-item { font-size: 10px; min-height: 40px; gap: 0; }
+  .nav-icon { width: 20px; height: 20px; }
+  /* 减少主标题占高，优先保障学习内容 */
+  h1 { font-size: 24px; }
+  h2 { font-size: 20px; }
 }
 
 /* --- Buttons --- */
@@ -304,6 +501,20 @@ h4 {
   border: none;
   cursor: pointer;
   transition: all var(--motion-fast) var(--motion-ease);
+  /* Mobile tap UX: kill blue flash, prevent text-selection on rapid taps */
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
+  user-select: none;
+  /* Ensure all buttons meet the 44px tap-target minimum */
+  min-height: 44px;
+}
+
+/* Form controls: keep font-size >= 16px to prevent iOS Safari auto-zoom on focus */
+input,
+textarea,
+select {
+  font-size: 16px;
+  font-family: inherit;
 }
 
 .btn-primary {
