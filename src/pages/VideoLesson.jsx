@@ -228,6 +228,11 @@ export default function VideoLesson(qoderProps) {
   // (so they don't have to scroll up to watch the next clip).
   const stageRef = useRef(null)
   const quizCardRef = useRef(null)
+  
+    // 答对后自动推进下一段的定时器句柄：避免孩子需要手动点
+    // "Next segment”。在以下场景需清理：用户提前点击 Next 按钮、
+    // 组件卸载、segIdx 或 segState 变化。
+    const autoAdvanceTimerRef = useRef(null)
 
   // ---- Report tracking (accumulated during the lesson) ----
   const lessonStartRef = useRef(Date.now())
@@ -477,6 +482,15 @@ export default function VideoLesson(qoderProps) {
     }
     if (isCorrect) {
       setSegState('revealed')
+      // 体验优化：答对后隐式推进下一段，留出~1.6s 让用户
+      // 一眼词汇/中文翻译。用户仍可随时点 Next 按钮提前跳转。
+      // qtype === 'none' / 无 blank 的 cloze 是在 useEffect 里直接进入
+      // revealed（未走 handleSegmentAnswer），不会被这里影响。
+      if (autoAdvanceTimerRef.current) clearTimeout(autoAdvanceTimerRef.current)
+      autoAdvanceTimerRef.current = setTimeout(() => {
+        autoAdvanceTimerRef.current = null
+        continueToNextSegment()
+      }, 1600)
       return
     }
     // wrong: lose 1 heart, brief flash.
@@ -493,6 +507,11 @@ export default function VideoLesson(qoderProps) {
   }
 
   function continueToNextSegment() {
+    // 清理“答对后自动推进”定时器（无论是它触发还是用户手动点击进入）。
+    if (autoAdvanceTimerRef.current) {
+      clearTimeout(autoAdvanceTimerRef.current)
+      autoAdvanceTimerRef.current = null
+    }
     if (segIdx >= totalSegs - 1) {
       setSegState('done')
       setCooldownStep('seq')
@@ -521,6 +540,16 @@ export default function VideoLesson(qoderProps) {
     })
     return () => cancelAnimationFrame(id)
   }, [segState, segIdx])
+
+  // 卸载时清理“答对后自动推进”定时器，避免跨路由踿到 stale state。
+  useEffect(() => {
+    return () => {
+      if (autoAdvanceTimerRef.current) {
+        clearTimeout(autoAdvanceTimerRef.current)
+        autoAdvanceTimerRef.current = null
+      }
+    }
+  }, [])
 
   // Advance cooldown drill chain. Skips speed if there are no usable items,
   // and skips mcq if the lesson never had one — in either case we still want
@@ -943,7 +972,9 @@ export default function VideoLesson(qoderProps) {
                   fontWeight: 700, cursor: 'pointer', fontSize: 14,
                 }}
               >
-                {segIdx >= totalSegs - 1 ? 'Finish listening →' : 'Next segment →'}
+                {segIdx >= totalSegs - 1
+                  ? 'Finish listening →'
+                  : (autoAdvanceTimerRef.current ? 'Next segment → (auto)' : 'Next segment →')}
               </button>
             </>
           )}
