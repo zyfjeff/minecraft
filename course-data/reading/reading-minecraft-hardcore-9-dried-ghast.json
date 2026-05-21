@@ -1,0 +1,130 @@
+{
+  "course": {
+    "id": "reading-minecraft-hardcore-9-dried-ghast",
+    "kind": "reading",
+    "title": "Learn English with Minecraft Hardcore #9 - Dried Ghast — Reading",
+    "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore #9 - Dried Ghast\" — 4 reading segments with mixed quizzes.",
+    "difficulty": 2,
+    "est_minutes": 6,
+    "xp_reward": 40,
+    "unlock_level": 2,
+    "thumbnail_key": "reading",
+    "source_label": "Based on Learn English with Minecraft — Ep. 14",
+    "source_url": "https://www.youtube.com/watch?v=soiVEJ5Njsg",
+    "source_license": "youtube-embed",
+    "sort_order": 114,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "reading_passage",
+    "title": "Learn English with Minecraft Hardcore #9 - Dried Ghast — Reading Practice",
+    "passage_md": "I returned to the Nether to hunt more ghasts for their **tears**. Ghast tears are a key ingredient for brewing **regeneration** potions that slowly restore your health over time.\n\nFinding ghasts wasn't easy. They float high in the air above the lava seas and make a **distinctive** crying sound. I built tall platforms to get **closer** to their flight paths.\n\nMy strategy was to deflect their fireballs back at them using perfect **timing**. The fireball turns into a projectile that damages the ghast when hit back **accurately**.\n\nAfter defeating three ghasts, I had enough tears to brew several potions. I returned home feeling **accomplished** and immediately started setting up my **brewing** stand with blaze powder as fuel.",
+    "transcript_zh": "我回到下界猎杀更多恶魂获取它们的眼泪。恶魂之泪是酿造再生药水的关键材料，能随时间慢慢恢复你的生命值。\n\n找到恶魂并不容易。它们在岩浆海上方高处漂浮，发出独特的哭泣声。我建了高台来靠近它们的飞行路径。\n\n我的策略是用完美的时机把它们的火球打回去。火球变成一个弹射物，精确打回时会伤害恶魂。\n\n打败三只恶魂后，我有了足够的眼泪来酿造几瓶药水。我回家时感到很有成就感，立即开始用烈焰粉作为燃料设置酿造台。",
+    "highlight_words": [
+      "tears",
+      "regeneration",
+      "timing",
+      "accurately",
+      "brewing"
+    ],
+    "xp_reward": 20
+  },
+  "segments": [
+    {
+      "sort_order": 0,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I returned to the Nether to hunt more ghasts for their **tears**. Ghast tears are a key ingredient for brewing **regeneration** potions that slowly restore your health over time.",
+      "sentence_zh": "我回到下界猎杀更多恶魂获取它们的眼泪。恶魂之泪是酿造再生药水的关键材料，能随时间慢慢恢复你的生命值。",
+      "blank_word": "tears",
+      "distractors": [
+        "permanent",
+        "organized",
+        "mysterious"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    },
+    {
+      "sort_order": 1,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "Finding ghasts wasn't easy. They float high in the air above the lava seas and make a **distinctive** crying sound. I built tall platforms to get **closer** to their flight paths.",
+      "sentence_zh": "找到恶魂并不容易。它们在岩浆海上方高处漂浮，发出独特的哭泣声。我建了高台来靠近它们的飞行路径。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "comprehension",
+      "quiz_payload": {
+        "prompt": "What happened in this paragraph?",
+        "options": [
+          "Finding ghasts wasn't easy",
+          "The player went to sleep in a village",
+          "Nothing interesting happened today",
+          "The player decided to quit the game"
+        ],
+        "correct": 0
+      }
+    },
+    {
+      "sort_order": 2,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "My strategy was to deflect their fireballs back at them using perfect **timing**. The fireball turns into a projectile that damages the ghast when hit back **accurately**.",
+      "sentence_zh": "我的策略是用完美的时机把它们的火球打回去。火球变成一个弹射物，精确打回时会伤害恶魂。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "word_match",
+      "quiz_payload": {
+        "pairs": [
+          {
+            "word": "timing",
+            "definition": "Choosing the right moment"
+          },
+          {
+            "word": "accurately",
+            "definition": "In an exact correct way"
+          },
+          {
+            "word": "timing",
+            "definition": "Choosing the right moment"
+          }
+        ],
+        "shuffled_defs": [
+          "Choosing the right moment",
+          "Choosing the right moment",
+          "In an exact correct way"
+        ]
+      }
+    },
+    {
+      "sort_order": 3,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "After defeating three ghasts, I had enough tears to brew several potions. I returned home feeling **accomplished** and immediately started setting up my **brewing** stand with blaze powder as fuel.",
+      "sentence_zh": "打败三只恶魂后，我有了足够的眼泪来酿造几瓶药水。我回家时感到很有成就感，立即开始用烈焰粉作为燃料设置酿造台。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "true_false",
+      "quiz_payload": {
+        "statement": "After defeating three ghasts, I had enough tears to brew several potions.",
+        "correct": true
+      }
+    }
+  ],
+  "question": {
+    "kind": "mcq",
+    "prompt": "What are ghast tears used for?",
+    "payload": {
+      "options": [
+        "Brewing regeneration potions",
+        "Crafting armor",
+        "Building portals",
+        "Trading with villagers"
+      ],
+      "correct": 0
+    },
+    "xp_reward": 10,
+    "sort_order": 0
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "course": {
+    "id": "reading-minecraft-hardcore-live-deep-cave-exploration",
+    "kind": "reading",
+    "title": "Learn English with Minecraft Hardcore LIVE - Deep Cave Exploration — Reading",
+    "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore LIVE - Deep Cave Exploration\" — 5 reading segments with mixed quizzes.",
+    "difficulty": 3,
+    "est_minutes": 8,
+    "xp_reward": 50,
+    "unlock_level": 3,
+    "thumbnail_key": "reading",
+    "source_label": "Based on Learn English with Minecraft — Ep. 31",
+    "source_url": "https://www.youtube.com/watch?v=Z283MWUglhw",
+    "source_license": "youtube-embed",
+    "sort_order": 131,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "reading_passage",
+    "title": "Learn English with Minecraft Hardcore LIVE - Deep Cave Exploration — Reading Practice",
+    "passage_md": "Today's live stream took me into the deepest caves I've ever **explored**. Below Y-level -40, the darkness was absolute and hostile mobs lurked around every **corner**.\n\nI discovered a massive lush cave filled with **glowing** berries hanging from the ceiling. Axolotls swam in the underground pools, and dripleaf plants provided natural **platforms** to cross.\n\nDeep slate replaced normal stone at this level, making everything look darker and more **mysterious**. I found a vein of diamond ore embedded in the deepslate — harder to mine but equally **rewarding**.\n\nA warden almost caught me when I accidentally stepped on a sculk sensor! These **terrifying** blind creatures detect vibrations and deal massive damage. I had to sneak out very **quietly**.\n\nI escaped with a full inventory of ores and rare blocks. The deep caves are **incredibly** dangerous but offer the best rewards for brave **adventurers** willing to take the risk.",
+    "transcript_zh": "今天的直播带我进入了我探索过的最深的洞穴。在Y坐标-40以下，黑暗是绝对的，敌对生物潜伏在每个角落。\n\n我发现了一个巨大的繁茂洞穴，天花板上挂满了发光的浆果。美西螈在地下水池中游泳，大型垂滴叶提供了天然的平台来穿越。\n\n深板岩在这个层级替代了普通石头，让一切看起来更暗更神秘。我发现了嵌在深板岩中的钻石矿脉——更难开采但同样值得。\n\n当我不小心踩到潜声感测体时，一只监守者差点抓到我！这些可怕的盲眼生物通过振动探测，造成巨大伤害。我不得不非常安静地潜行离开。\n\n我带着满包的矿石和稀有方块逃了出来。深层洞穴极其危险但为愿意冒险的勇敢冒险家提供最好的回报。",
+    "highlight_words": [
+      "explored",
+      "mysterious",
+      "terrifying",
+      "incredibly",
+      "adventurers"
+    ],
+    "xp_reward": 20
+  },
+  "segments": [
+    {
+      "sort_order": 0,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "Today's live stream took me into the deepest caves I've ever **explored**. Below Y-level -40, the darkness was absolute and hostile mobs lurked around every **corner**.",
+      "sentence_zh": "今天的直播带我进入了我探索过的最深的洞穴。在Y坐标-40以下，黑暗是绝对的，敌对生物潜伏在每个角落。",
+      "blank_word": "explored",
+      "distractors": [
+        "entrance",
+        "equipment",
+        "dangerous"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    },
+    {
+      "sort_order": 1,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I discovered a massive lush cave filled with **glowing** berries hanging from the ceiling. Axolotls swam in the underground pools, and dripleaf plants provided natural **platforms** to cross.",
+      "sentence_zh": "我发现了一个巨大的繁茂洞穴，天花板上挂满了发光的浆果。美西螈在地下水池中游泳，大型垂滴叶提供了天然的平台来穿越。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "comprehension",
+      "quiz_payload": {
+        "prompt": "What happened in this paragraph?",
+        "options": [
+          "I discovered a massive lush cave filled with glowing berries...",
+          "The player went to sleep in a village",
+          "Nothing interesting happened today",
+          "The player decided to quit the game"
+        ],
+        "correct": 0
+      }
+    },
+    {
+      "sort_order": 2,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "Deep slate replaced normal stone at this level, making everything look darker and more **mysterious**. I found a vein of diamond ore embedded in the deepslate — harder to mine but equally **rewarding**.",
+      "sentence_zh": "深板岩在这个层级替代了普通石头，让一切看起来更暗更神秘。我发现了嵌在深板岩中的钻石矿脉——更难开采但同样值得。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "word_match",
+      "quiz_payload": {
+        "pairs": [
+          {
+            "word": "mysterious",
+            "definition": "Strange and unknown"
+          },
+          {
+            "word": "rewarding",
+            "definition": "A word related to rewarding"
+          },
+          {
+            "word": "mysterious",
+            "definition": "Strange and unknown"
+          }
+        ],
+        "shuffled_defs": [
+          "Strange and unknown",
+          "A word related to rewarding",
+          "Strange and unknown"
+        ]
+      }
+    },
+    {
+      "sort_order": 3,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "A warden almost caught me when I accidentally stepped on a sculk sensor! These **terrifying** blind creatures detect vibrations and deal massive damage. I had to sneak out very **quietly**.",
+      "sentence_zh": "当我不小心踩到潜声感测体时，一只监守者差点抓到我！这些可怕的盲眼生物通过振动探测，造成巨大伤害。我不得不非常安静地潜行离开。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "sentence_order",
+      "quiz_payload": {
+        "sentences": [
+          "A warden almost caught me when I accidentally stepped on a sculk sensor.",
+          "These terrifying blind creatures detect vibrations and deal massive damage.",
+          "I had to sneak out very quietly."
+        ],
+        "correct_order": [
+          0,
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "sort_order": 4,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I escaped with a full inventory of ores and rare blocks. The deep caves are **incredibly** dangerous but offer the best rewards for brave **adventurers** willing to take the risk.",
+      "sentence_zh": "我带着满包的矿石和稀有方块逃了出来。深层洞穴极其危险但为愿意冒险的勇敢冒险家提供最好的回报。",
+      "blank_word": "incredibly",
+      "distractors": [
+        "fortunate",
+        "scattered",
+        "incredible"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    }
+  ],
+  "question": {
+    "kind": "mcq",
+    "prompt": "What dangerous creature detects players by vibrations?",
+    "payload": {
+      "options": [
+        "The Warden",
+        "A Creeper",
+        "An Enderman",
+        "A Ghast"
+      ],
+      "correct": 0
+    },
+    "xp_reward": 10,
+    "sort_order": 0
+  }
+}

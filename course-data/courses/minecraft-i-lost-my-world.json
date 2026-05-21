@@ -1,0 +1,146 @@
+{
+  "course": {
+    "id": "minecraft-i-lost-my-world",
+    "kind": "listening",
+    "title": "I Lost My World — Goodbye to Fishland",
+    "description": "Kenzo's hard drive broke and his Minecraft world Fishland was lost forever. In this emotional episode, he says goodbye to his world and reframes the loss as an opportunity to improve. Practice listening for emotion words, conditional structures, and reflective questions.",
+    "difficulty": 2,
+    "est_minutes": 10,
+    "xp_reward": 60,
+    "unlock_level": 1,
+    "source_label": "Learn English with Minecraft — Ep. 11",
+    "source_url": "https://www.youtube.com/watch?v=-ihCJt7Vx_U",
+    "source_license": "youtube-embed",
+    "sort_order": 11,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "video_segment",
+    "title": "I Lost My World — Goodbye to Fishland",
+    "yt_video_id": "-ihCJt7Vx_U",
+    "yt_start_sec": 0,
+    "yt_end_sec": 590,
+    "transcript_en": "Today I have some bad news. The hard drive inside my computer broke, and I lost a lot of data, including my Minecraft world Fishland. I spent hours and hours trying to fix it, but I couldn't. So in this video, we're going to say goodbye to my old Minecraft world Fishland, and I will talk about what I'm going to do with this Minecraft series in the future. My name is Kenzo, and this is English from the Ground Up. This is the cord that killed my Minecraft world. But as for my Minecraft world Fishland, well, it's gone. I searched and searched, but it couldn't be recovered. So I'm sad to say that episode 10 will be the final video in this series to take place in Fishland. What now? What is going to happen to this Minecraft series? Well, recently I've been watching this guy named Cam from the YouTube channel Struthless, and he likes to ask the question: how is the worst thing that's ever happened to me actually the best thing that's ever happened to me? How could me losing my Minecraft world be the best thing that's ever happened to me? Well, it would be the best thing that's ever happened to me if it gave me the opportunity to look back on the series and improve my videos, taking the series to the next level. So I'm going to use this as an opportunity to improve my videos and rebuild the world from the ground up. Well, it's going to continue, and I've actually already started a new world. It's going to be better than ever. So if you liked this video, like and subscribe. Thank you so much for watching, and I will see you in the next video. See ya!",
+    "transcript_zh": "今天我有个坏消息。我电脑里的硬盘坏了，我丢失了大量数据，包括我的 Minecraft 世界 Fishland。我花了好几个小时尝试修复，但没能成功。所以在这个视频里，我们要和我的旧 Minecraft 世界 Fishland 告别，我也会聊聊接下来的 Minecraft 系列计划。我叫 Kenzo，欢迎来到 English from the Ground Up。最近我在看 YouTube 频道 Struthless 的 Cam，他喜欢问一个问题：我经历过的最糟糕的事，怎么会是我经历过的最好的事？我失去 Minecraft 世界这件事，怎么会是我经历过的最好的事？嗯，如果它让我有机会回顾系列、改进视频、把系列带到下一个层次——那它就会是我经历过的最好的事。所以我打算把这次当作一个改进视频、从头重建世界的机会。系列会继续，我已经开始了一个新世界，它会比以前任何时候都更好。",
+    "highlight_words": ["recovered", "opportunity", "subscribe", "rebuild", "frustrating", "ground up", "reframe"],
+    "xp_reward": 25
+  },
+  "segments": [
+    {
+      "start_sec": 1,
+      "end_sec": 42,
+      "sentence_en": "Today I have some bad news. The hard drive inside my computer broke, and I lost a lot of data, including my Minecraft world Fishland. I spent hours and hours trying to fix it, but I couldn't.",
+      "sentence_zh": "今天我有个坏消息。我电脑里的硬盘坏了，我丢失了大量数据，包括我的 Minecraft 世界 Fishland。我花了好几个小时尝试修复，但没能成功。",
+      "blank_word": "lost",
+      "distractors": ["found", "saved", "shared"],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 42,
+      "end_sec": 60,
+      "sentence_en": "My name is Kenzo, and this is English from the Ground Up. This is the cord that killed my Minecraft world.",
+      "sentence_zh": "我叫 Kenzo，欢迎来到 English from the Ground Up。就是这根线毁掉了我的 Minecraft 世界。",
+      "blank_word": "",
+      "distractors": [],
+      "qtype": "detail_mcq",
+      "quiz_payload": {
+        "prompt": "What does Kenzo say killed his Minecraft world?",
+        "options": ["A power outage", "A virus", "A cord (cable)", "An update"],
+        "correct": 2
+      }
+    },
+    {
+      "start_sec": 109,
+      "end_sec": 126,
+      "sentence_en": "But as for my Minecraft world Fishland, well, it's gone. I searched and searched, but it couldn't be recovered.",
+      "sentence_zh": "但说到我的 Minecraft 世界 Fishland——它没了。我找了又找，但没能恢复回来。",
+      "blank_word": "",
+      "distractors": [],
+      "qtype": "true_false",
+      "quiz_payload": {
+        "statement": "Kenzo eventually recovered his Minecraft world Fishland.",
+        "correct": false
+      }
+    },
+    {
+      "start_sec": 126,
+      "end_sec": 160,
+      "sentence_en": "So I'm sad to say that episode 10 will be the final video in this series to take place in Fishland.",
+      "sentence_zh": "所以我难过地宣布，第 10 集将是这个系列里最后一个发生在 Fishland 的视频。",
+      "blank_word": "",
+      "distractors": [],
+      "qtype": "comprehension",
+      "quiz_payload": {
+        "prompt": "Which episode will be the LAST one filmed in Fishland?",
+        "options": ["Episode 1", "Episode 5", "Episode 10", "Episode 15"],
+        "correct": 2
+      }
+    },
+    {
+      "start_sec": 437,
+      "end_sec": 475,
+      "sentence_en": "Recently I've been watching this guy named Cam from the YouTube channel Struthless, and he likes to ask the question: how is the worst thing that's ever happened to me actually the best thing that's ever happened to me?",
+      "sentence_zh": "最近我在看 YouTube 频道 Struthless 的 Cam，他喜欢问一个问题：我经历过的最糟糕的事，怎么会是我经历过的最好的事？",
+      "blank_word": "",
+      "distractors": [],
+      "qtype": "speaker_intent",
+      "quiz_payload": {
+        "prompt": "Why does Kenzo bring up Cam's question?",
+        "options": [
+          "To recommend the channel Struthless",
+          "To use a new perspective and turn his loss into something positive",
+          "To complain about other YouTubers",
+          "To explain why he watches less YouTube"
+        ],
+        "correct": 1
+      }
+    },
+    {
+      "start_sec": 475,
+      "end_sec": 516,
+      "sentence_en": "How could me losing my Minecraft world be the best thing that's ever happened to me? Well, it would be the best thing that's ever happened to me if it gave me the opportunity to look back on the series and improve my videos.",
+      "sentence_zh": "失去 Minecraft 世界怎么会是我经历过的最好的事？嗯——如果它让我有机会回顾系列、改进我的视频，那它就会是我经历过的最好的事。",
+      "blank_word": "opportunity",
+      "distractors": ["chance", "moment", "reason"],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 549,
+      "end_sec": 577,
+      "sentence_en": "Well, it's going to continue, and I've actually already started a new world. It's going to be better than ever. So if you liked this video, like and subscribe.",
+      "sentence_zh": "系列会继续。我其实已经开始了一个新世界，它会比以前任何时候都更好。所以如果你喜欢这个视频，请点赞和订阅。",
+      "blank_word": "subscribe",
+      "distractors": ["share", "comment", "follow"],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 577,
+      "end_sec": 586,
+      "sentence_en": "Thank you so much for watching, and I will see you in the next video. See ya!",
+      "sentence_zh": "非常感谢观看，下个视频再见。拜啦！",
+      "blank_word": "watching",
+      "distractors": ["listening", "reading", "subscribing"],
+      "qtype": "cloze",
+      "quiz_payload": null
+    }
+  ],
+  "question": {
+    "kind": "mcq",
+    "prompt": "What is the main message of this video?",
+    "payload": {
+      "options": [
+        "Kenzo is quitting Minecraft videos forever",
+        "Kenzo lost his Minecraft world but sees it as a chance to improve and rebuild",
+        "Kenzo found a way to recover all his lost data",
+        "Kenzo is angry at his computer and YouTube"
+      ],
+      "correct": 1
+    },
+    "xp_reward": 10,
+    "sort_order": 0
+  }
+}

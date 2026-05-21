@@ -1,0 +1,153 @@
+{
+  "course": {
+    "id": "reading-minecraft-hardcore-11-building-a-barn",
+    "kind": "reading",
+    "title": "Learn English with Minecraft Hardcore #11 - Building a Barn — Reading",
+    "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore #11 - Building a Barn\" — 5 reading segments with mixed quizzes.",
+    "difficulty": 3,
+    "est_minutes": 8,
+    "xp_reward": 50,
+    "unlock_level": 3,
+    "thumbnail_key": "reading",
+    "source_label": "Based on Learn English with Minecraft — Ep. 12",
+    "source_url": "https://www.youtube.com/watch?v=qEyG1_o6nbk",
+    "source_license": "youtube-embed",
+    "sort_order": 112,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "reading_passage",
+    "title": "Learn English with Minecraft Hardcore #11 - Building a Barn — Reading Practice",
+    "passage_md": "Today I decided to build a **barn** for my animals. I gathered lots of oak wood and **planks** to create the frame. The barn needed to be big enough for cows, sheep, and chickens.\n\nI started by placing the **foundation** using cobblestone blocks. Then I built the walls with oak planks and added large **windows** to let natural light inside for the animals.\n\nThe roof was the hardest part. I used **stairs** blocks to create a sloped design that looked realistic. I also added hay bales inside for **decoration** and for feeding the animals.\n\nNext, I needed to **lure** the animals into the barn using their favorite foods. Cows follow wheat, sheep follow wheat too, and chickens follow **seeds**. I led them one group at a time.\n\nFinally, the barn was complete with all my animals safely inside. I added a fence gate as the **entrance** so they couldn't escape. This barn will help me **breed** animals for food and resources.",
+    "transcript_zh": "今天我决定为动物建造一个谷仓。我收集了很多橡木和木板来制作框架。谷仓需要足够大来容纳牛、羊和鸡。\n\n我先用圆石方块铺设地基。然后用橡木板建造墙壁，并加了大窗户让自然光照进来给动物。\n\n屋顶是最难的部分。我用楼梯方块创造了一个看起来逼真的斜坡设计。我还在里面放了干草块作为装饰和喂养动物。\n\n接下来，我需要用动物最喜欢的食物把它们引诱进谷仓。牛跟着小麦走，羊也跟着小麦走，鸡跟着种子走。我一组一组地带它们进去。\n\n最后，谷仓完工了，所有动物都安全地在里面。我加了一个栅栏门作为入口这样它们跑不出去。这个谷仓将帮助我繁殖动物来获取食物和资源。",
+    "highlight_words": [
+      "barn",
+      "foundation",
+      "stairs",
+      "lure",
+      "breed"
+    ],
+    "xp_reward": 20
+  },
+  "segments": [
+    {
+      "sort_order": 0,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "Today I decided to build a **barn** for my animals. I gathered lots of oak wood and **planks** to create the frame. The barn needed to be big enough for cows, sheep, and chickens.",
+      "sentence_zh": "今天我决定为动物建造一个谷仓。我收集了很多橡木和木板来制作框架。谷仓需要足够大来容纳牛、羊和鸡。",
+      "blank_word": "barn",
+      "distractors": [
+        "material",
+        "dangerous",
+        "abandoned"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    },
+    {
+      "sort_order": 1,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I started by placing the **foundation** using cobblestone blocks. Then I built the walls with oak planks and added large **windows** to let natural light inside for the animals.",
+      "sentence_zh": "我先用圆石方块铺设地基。然后用橡木板建造墙壁，并加了大窗户让自然光照进来给动物。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "comprehension",
+      "quiz_payload": {
+        "prompt": "What happened in this paragraph?",
+        "options": [
+          "I started by placing the foundation using cobblestone blocks...",
+          "The player went to sleep in a village",
+          "Nothing interesting happened today",
+          "The player decided to quit the game"
+        ],
+        "correct": 0
+      }
+    },
+    {
+      "sort_order": 2,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "The roof was the hardest part. I used **stairs** blocks to create a sloped design that looked realistic. I also added hay bales inside for **decoration** and for feeding the animals.",
+      "sentence_zh": "屋顶是最难的部分。我用楼梯方块创造了一个看起来逼真的斜坡设计。我还在里面放了干草块作为装饰和喂养动物。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "word_match",
+      "quiz_payload": {
+        "pairs": [
+          {
+            "word": "stairs",
+            "definition": "A word related to stairs"
+          },
+          {
+            "word": "decoration",
+            "definition": "A word related to decoration"
+          },
+          {
+            "word": "stairs",
+            "definition": "A word related to stairs"
+          }
+        ],
+        "shuffled_defs": [
+          "A word related to stairs",
+          "A word related to stairs",
+          "A word related to decoration"
+        ]
+      }
+    },
+    {
+      "sort_order": 3,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "Next, I needed to **lure** the animals into the barn using their favorite foods. Cows follow wheat, sheep follow wheat too, and chickens follow **seeds**. I led them one group at a time.",
+      "sentence_zh": "接下来，我需要用动物最喜欢的食物把它们引诱进谷仓。牛跟着小麦走，羊也跟着小麦走，鸡跟着种子走。我一组一组地带它们进去。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "sentence_order",
+      "quiz_payload": {
+        "sentences": [
+          "Next, I needed to lure the animals into the barn using their favorite foods.",
+          "Cows follow wheat, sheep follow wheat too, and chickens follow seeds.",
+          "I led them one group at a time."
+        ],
+        "correct_order": [
+          0,
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "sort_order": 4,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "Finally, the barn was complete with all my animals safely inside. I added a fence gate as the **entrance** so they couldn't escape. This barn will help me **breed** animals for food and resources.",
+      "sentence_zh": "最后，谷仓完工了，所有动物都安全地在里面。我加了一个栅栏门作为入口这样它们跑不出去。这个谷仓将帮助我繁殖动物来获取食物和资源。",
+      "blank_word": "entrance",
+      "distractors": [
+        "constructed",
+        "scattered",
+        "valuable"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    }
+  ],
+  "question": {
+    "kind": "mcq",
+    "prompt": "Why did the player build a barn?",
+    "payload": {
+      "options": [
+        "To keep animals safe and breed them for resources",
+        "To store weapons",
+        "To hide from monsters",
+        "To grow crops"
+      ],
+      "correct": 0
+    },
+    "xp_reward": 10,
+    "sort_order": 0
+  }
+}

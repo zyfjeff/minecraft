@@ -1,0 +1,155 @@
+{
+  "course": {
+    "id": "reading-minecraft-hardcore-live-xp-farm",
+    "kind": "reading",
+    "title": "Learn English with Minecraft Hardcore LIVE - XP Farm — Reading",
+    "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore LIVE - XP Farm\" — 5 reading segments with mixed quizzes.",
+    "difficulty": 3,
+    "est_minutes": 8,
+    "xp_reward": 50,
+    "unlock_level": 3,
+    "thumbnail_key": "reading",
+    "source_label": "Based on Learn English with Minecraft — Ep. 7",
+    "source_url": "https://www.youtube.com/watch?v=YfYpTu86Vdg",
+    "source_license": "youtube-embed",
+    "sort_order": 107,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "reading_passage",
+    "title": "Learn English with Minecraft Hardcore LIVE - XP Farm — Reading Practice",
+    "passage_md": "I built my second XP farm using a different **design** — a zombie spawner I found in a dungeon. Spawner-based farms are more **reliable** because they produce mobs constantly.\n\nThe key to a spawner farm is controlling the **environment** around it. Mobs only spawn when it's dark and when a player is within sixteen blocks. I added water **streams** to push zombies to a kill zone.\n\nI made the zombies fall exactly twenty-two blocks so they have half a heart of health left. This means I can kill them with one punch and still get full XP — the most **efficient** method.\n\nThe farm also collects zombie drops **automatically** using hoppers connected to chests. I get iron ingots, carrots, potatoes, and **occasionally** rare enchanted armor.\n\nWith both farms running, I can reach level thirty in just a few minutes. This gives me **unlimited** enchanting power to keep all my gear at maximum **strength** throughout the game.",
+    "transcript_zh": "我用不同的设计建了第二个经验值农场——一个在地牢找到的僵尸生成器。基于生成器的农场更可靠因为它们不断产生怪物。\n\n生成器农场的关键是控制周围的环境。怪物只在黑暗中且玩家在十六格内时生成。我加了水流把僵尸推到击杀区。\n\n我让僵尸恰好掉落二十二格这样它们只剩半颗心的血量。这意味着我一拳就能杀死它们并且获得全部经验值——最高效的方法。\n\n农场还使用连接箱子的漏斗自动收集僵尸掉落物。我能得到铁锭、胡萝卜、土豆和偶尔稀有的附魔盔甲。\n\n两个农场运行后，我只需几分钟就能到达30级。这给了我无限的附魔能力来在整个游戏中保持所有装备最大强度。",
+    "highlight_words": [
+      "design",
+      "environment",
+      "efficient",
+      "automatically",
+      "unlimited"
+    ],
+    "xp_reward": 20
+  },
+  "segments": [
+    {
+      "sort_order": 0,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I built my second XP farm using a different **design** — a zombie spawner I found in a dungeon. Spawner-based farms are more **reliable** because they produce mobs constantly.",
+      "sentence_zh": "我用不同的设计建了第二个经验值农场——一个在地牢找到的僵尸生成器。基于生成器的农场更可靠因为它们不断产生怪物。",
+      "blank_word": "design",
+      "distractors": [
+        "abandoned",
+        "permanent",
+        "mysterious"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    },
+    {
+      "sort_order": 1,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "The key to a spawner farm is controlling the **environment** around it. Mobs only spawn when it's dark and when a player is within sixteen blocks. I added water **streams** to push zombies to a kill zone.",
+      "sentence_zh": "生成器农场的关键是控制周围的环境。怪物只在黑暗中且玩家在十六格内时生成。我加了水流把僵尸推到击杀区。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "comprehension",
+      "quiz_payload": {
+        "prompt": "What happened in this paragraph?",
+        "options": [
+          "The key to a spawner farm is controlling the environment aro...",
+          "The player went to sleep in a village",
+          "Nothing interesting happened today",
+          "The player decided to quit the game"
+        ],
+        "correct": 0
+      }
+    },
+    {
+      "sort_order": 2,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I made the zombies fall exactly twenty-two blocks so they have half a heart of health left. This means I can kill them with one punch and still get full XP — the most **efficient** method.",
+      "sentence_zh": "我让僵尸恰好掉落二十二格这样它们只剩半颗心的血量。这意味着我一拳就能杀死它们并且获得全部经验值——最高效的方法。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "word_match",
+      "quiz_payload": {
+        "pairs": [
+          {
+            "word": "efficient",
+            "definition": "A word related to efficient"
+          },
+          {
+            "word": "efficient",
+            "definition": "A word related to efficient"
+          },
+          {
+            "word": "method",
+            "definition": "A word related to method"
+          }
+        ],
+        "shuffled_defs": [
+          "A word related to method",
+          "A word related to efficient",
+          "A word related to efficient"
+        ]
+      }
+    },
+    {
+      "sort_order": 3,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "The farm also collects zombie drops **automatically** using hoppers connected to chests. I get iron ingots, carrots, potatoes, and **occasionally** rare enchanted armor.",
+      "sentence_zh": "农场还使用连接箱子的漏斗自动收集僵尸掉落物。我能得到铁锭、胡萝卜、土豆和偶尔稀有的附魔盔甲。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "sentence_order",
+      "quiz_payload": {
+        "sentences": [
+          "First action happened.",
+          "Then the next step followed.",
+          "Finally the result occurred.",
+          "The task was complete."
+        ],
+        "correct_order": [
+          0,
+          1,
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "sort_order": 4,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "With both farms running, I can reach level thirty in just a few minutes. This gives me **unlimited** enchanting power to keep all my gear at maximum **strength** throughout the game.",
+      "sentence_zh": "两个农场运行后，我只需几分钟就能到达30级。这给了我无限的附魔能力来在整个游戏中保持所有装备最大强度。",
+      "blank_word": "unlimited",
+      "distractors": [
+        "equipment",
+        "dangerous",
+        "scattered"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    }
+  ],
+  "question": {
+    "kind": "mcq",
+    "prompt": "Why do zombies fall exactly 22 blocks?",
+    "payload": {
+      "options": [
+        "So they have half a heart left for one-punch kills",
+        "To kill them instantly",
+        "Because it looks cool",
+        "The farm doesn't work otherwise"
+      ],
+      "correct": 0
+    },
+    "xp_reward": 10,
+    "sort_order": 0
+  }
+}

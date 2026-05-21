@@ -1,0 +1,121 @@
+{
+  "course": {
+    "id": "minecraft-hardcore-9-dried-ghast",
+    "kind": "listening",
+    "title": "Learn English with Minecraft Hardcore #9 - Dried Ghast",
+    "description": "Learn English with Minecraft — Episode 14. 5 curated listening segments with cloze quizzes.",
+    "difficulty": 1,
+    "est_minutes": 5,
+    "xp_reward": 55,
+    "unlock_level": 1,
+    "source_label": "Learn English with Minecraft — Ep. 14",
+    "source_url": "https://www.youtube.com/watch?v=soiVEJ5Njsg",
+    "source_license": "youtube-embed",
+    "sort_order": 14,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "video_segment",
+    "title": "Learn English with Minecraft Hardcore #9 - Dried Ghast",
+    "yt_video_id": "soiVEJ5Njsg",
+    "yt_start_sec": 0,
+    "yt_end_sec": 366,
+    "transcript_en": "My name is Kenzo and in this video you will acquire English naturally by watching, listening, and following along as I play Minecraft Hardcore. And in this video, I want to go back to the Nether and search for the baby ghast. I cleared out my inventory. I have some food. I have some potions of fire resistance. I should pick up some blocks. Let's pick up some deep slate blocks. Let's go outside. Let's open the door and close the door. Let's go to our portal. So far in this series, we've survived 40 days. All right, let's go into the portal. Here we are. So, the baby guests spawn in this biome with the bones and the soul sand and the blue fire. So, I'm going to look for this biome. Die. Die. Cooked pork chop because it was on fire. over there are some bones and I can also see some blue fire and I think that is soul sand over there. So, I'm going to head this direction. I'm going to get some stone and I'm going to build a bridge this way. This is really dangerous. I hope there are no guasts. I'm building a bridge out of stone. I'm close. Let's keep going. Here we Let's make a staircase down. I'll make a staircase. Okay. [music] I think this is the right biome. So, I'm going to look for the baby I think it's usually next to the bones. Ooh, I see some bones over there. Let's go look over there. Oh, skeletons. Oh, there are lots of skeletons here. Let's get out my sword. Okay, let's eat some bread. Okay, I'm going to wait here for my health to regenerate. Okay, let's see. Let's kill this ghast. Never mind. I'm on fire. The skeleton's on fire. Die, skeleton. Do I have a bow? I have three bows, but they're all almost broken. I'm going to combine them like this. There we go. And I have four arrows. Okay. Is there a baby ghast here? No. No baby ghast. This skeleton has gold Run. Run. I see it. I'm safe. I found the baby ghast. I'm going to eat some bread. I can hear the skeletons out there. Die. I killed it. Let's break this block. Okay, there's another skeleton. Die, skeleton. I killed that skeleton. Let's eat more There it is. I'm going to get my pickaxe. Let's pick it up. I got it. Okay, now I'm going to quickly run back Let's go. Let's go. Run, run, [music] run, run. I'm running. Run, run. Here's my bridge. Let's go. Let's go. Let's go. Run. I'm so close. Here's my portal. Let's go through the portal. We did it. I'm back home. Okay, let's go home. Let's open the door, close the door, and let's go to sleep. Here it is, the dried ghast. [snorts] In the next video, I'll grow this dried ghast into a big ghast, but I'm going to end this video right here. If you're enjoying these videos, I have a Kofi page where you could make a donation to help support this channel. Big thank you to these supporters. Thanks for watching and I will see you in the [music] next video. See you.",
+    "transcript_zh": "在这一集中，玩家去下界寻找恶魂。他通过地狱门进入下界后发现有很多骷髅。他拿出剑战斗，寻找是否有小恶魂。一个骷髅装备精良很难对付。他打碎方块发现另一只骷髅并将其击杀。最后他回到家中，关门休息。",
+    "highlight_words": [
+      "portal",
+      "sword",
+      "skeleton",
+      "killed",
+      "close"
+    ],
+    "xp_reward": 20
+  },
+  "segments": [
+    {
+      "start_sec": 40,
+      "end_sec": 53,
+      "sentence_en": "Let's open the door and close the door. Let's go to our portal. So far in this series, we've survived 40 days.",
+      "sentence_zh": "让我们开门再关门。让我们去地狱 __BLANK__。",
+      "blank_word": "portal",
+      "distractors": [
+        "glass",
+        "nightfall",
+        "safe"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 157,
+      "end_sec": 171,
+      "sentence_en": "There are lots of skeletons here. Let's get out my sword. Okay, let's eat some bread.",
+      "sentence_zh": "这里有很多骷髅。让我拿出 __BLANK__。好的。",
+      "blank_word": "sword",
+      "distractors": [
+        "arrow",
+        "fortune",
+        "kenzo"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 221,
+      "end_sec": 239,
+      "sentence_en": "There a baby ghast here? No. No baby ghast. This skeleton has gold Run.",
+      "sentence_zh": "这里有小恶魂吗？没有。没有小恶魂。这只 __BLANK__ 很强。",
+      "blank_word": "skeleton",
+      "distractors": [
+        "island",
+        "volcanic",
+        "snorts"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 268,
+      "end_sec": 281,
+      "sentence_en": "Let's break this block. Okay, there's another skeleton. Die, skeleton. I killed that skeleton. Let's eat more.",
+      "sentence_zh": "让我打碎这个方块。好的，又一只骷髅。去死吧。__BLANK__ 了它。",
+      "blank_word": "killed",
+      "distractors": [
+        "whistle",
+        "campsite",
+        "help"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 327,
+      "end_sec": 341,
+      "sentence_en": "I'm back home. Okay, let's go home. Let's open the door, close the door, and let's go to sleep. Here it is,.",
+      "sentence_zh": "我回家了。好的，让我们回家。让我们开门，__BLANK__ 门。",
+      "blank_word": "close",
+      "distractors": [
+        "metal",
+        "plant",
+        "kill"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    }
+  ],
+  "question": {
+    "kind": "mcq",
+    "prompt": "What mob was the player looking for in the Nether?",
+    "payload": {
+      "options": [
+        "A baby ghast",
+        "An Enderman",
+        "A Wither skeleton",
+        "A Blaze"
+      ],
+      "correct": 0
+    },
+    "xp_reward": 10
+  }
+}

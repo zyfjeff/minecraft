@@ -1,0 +1,155 @@
+{
+  "course": {
+    "id": "reading-minecraft-hardcore-1-my-first-night",
+    "kind": "reading",
+    "title": "Learn English with Minecraft Hardcore #1 – My First Night — Reading",
+    "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore #1 – My First Night\" — 5 reading segments with mixed quizzes.",
+    "difficulty": 3,
+    "est_minutes": 8,
+    "xp_reward": 50,
+    "unlock_level": 3,
+    "thumbnail_key": "reading",
+    "source_label": "Based on Learn English with Minecraft — Ep. 22",
+    "source_url": "https://www.youtube.com/watch?v=fdP-zeNxvVQ",
+    "source_license": "youtube-embed",
+    "sort_order": 122,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "reading_passage",
+    "title": "Learn English with Minecraft Hardcore #1 – My First Night — Reading Practice",
+    "passage_md": "On my first night in Minecraft Hardcore mode, I spawned in a **jungle** biome. I needed to find **resources** quickly before darkness fell. I chopped down trees to collect wood and crafted a **crafting** table to make basic tools.\n\nThe sun was setting fast, so I dug into a hillside to create a small **shelter**. Inside, I placed torches to keep monsters away. I could hear **zombies** groaning outside my dirt walls.\n\nWhen morning came, I ventured out with my wooden **pickaxe** to find coal and stone. I discovered a cave entrance nearby. The adventure was just beginning, but surviving the first night felt like a huge **achievement**.\n\nI found some iron ore deep in the cave and started **smelting** it in my furnace. With iron tools, I could mine faster and defend myself better against the **dangerous** creatures lurking underground.\n\nFinally, I built a proper crafting table and made a **shield** to protect myself. Hardcore mode means one life only — no respawning. Every decision matters when death is **permanent**.",
+    "transcript_zh": "在我的Minecraft极限模式第一个夜晚，我出生在一个丛林生态群系。我需要在天黑前快速找到资源。我砍倒树木收集木头，制作了工作台来做基础工具。\n\n太阳很快就要落山了，所以我挖进山坡做了一个小庇护所。里面我放了火把来防止怪物靠近。我能听到僵尸在泥墙外面呻吟。\n\n天亮后，我带着木镐外出寻找煤炭和石头。我在附近发现了一个洞穴入口。冒险才刚刚开始，但活过第一个夜晚感觉像是巨大的成就。\n\n我在洞穴深处找到了一些铁矿石，开始在熔炉中冶炼。有了铁工具，我可以挖得更快，也能更好地抵御潜伏在地下的危险生物。\n\n最后，我造了一个合适的工作台并做了一面盾牌保护自己。极限模式意味着只有一条命——不能重生。当死亡是永久的时候，每个决定都很重要。",
+    "highlight_words": [
+      "jungle",
+      "crafting",
+      "shelter",
+      "pickaxe",
+      "smelting"
+    ],
+    "xp_reward": 20
+  },
+  "segments": [
+    {
+      "sort_order": 0,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "On my first night in Minecraft Hardcore mode, I spawned in a **jungle** biome. I needed to find **resources** quickly before darkness fell. I chopped down trees to collect wood and crafted a **crafting** table to make basic tools.",
+      "sentence_zh": "在我的Minecraft极限模式第一个夜晚，我出生在一个丛林生态群系。我需要在天黑前快速找到资源。我砍倒树木收集木头，制作了工作台来做基础工具。",
+      "blank_word": "jungle",
+      "distractors": [
+        "material",
+        "enormous",
+        "abandoned"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    },
+    {
+      "sort_order": 1,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "The sun was setting fast, so I dug into a hillside to create a small **shelter**. Inside, I placed torches to keep monsters away. I could hear **zombies** groaning outside my dirt walls.",
+      "sentence_zh": "太阳很快就要落山了，所以我挖进山坡做了一个小庇护所。里面我放了火把来防止怪物靠近。我能听到僵尸在泥墙外面呻吟。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "comprehension",
+      "quiz_payload": {
+        "prompt": "What happened in this paragraph?",
+        "options": [
+          "The sun was setting fast, so I dug into a hillside to create...",
+          "The player went to sleep in a village",
+          "Nothing interesting happened today",
+          "The player decided to quit the game"
+        ],
+        "correct": 0
+      }
+    },
+    {
+      "sort_order": 2,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "When morning came, I ventured out with my wooden **pickaxe** to find coal and stone. I discovered a cave entrance nearby. The adventure was just beginning, but surviving the first night felt like a huge **achievement**.",
+      "sentence_zh": "天亮后，我带着木镐外出寻找煤炭和石头。我在附近发现了一个洞穴入口。冒险才刚刚开始，但活过第一个夜晚感觉像是巨大的成就。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "word_match",
+      "quiz_payload": {
+        "pairs": [
+          {
+            "word": "pickaxe",
+            "definition": "A tool for mining stone and ore"
+          },
+          {
+            "word": "achievement",
+            "definition": "A word related to achievement"
+          },
+          {
+            "word": "pickaxe",
+            "definition": "A tool for mining stone and ore"
+          }
+        ],
+        "shuffled_defs": [
+          "A word related to achievement",
+          "A tool for mining stone and ore",
+          "A tool for mining stone and ore"
+        ]
+      }
+    },
+    {
+      "sort_order": 3,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I found some iron ore deep in the cave and started **smelting** it in my furnace. With iron tools, I could mine faster and defend myself better against the **dangerous** creatures lurking underground.",
+      "sentence_zh": "我在洞穴深处找到了一些铁矿石，开始在熔炉中冶炼。有了铁工具，我可以挖得更快，也能更好地抵御潜伏在地下的危险生物。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "sentence_order",
+      "quiz_payload": {
+        "sentences": [
+          "First action happened.",
+          "Then the next step followed.",
+          "Finally the result occurred.",
+          "The task was complete."
+        ],
+        "correct_order": [
+          0,
+          1,
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "sort_order": 4,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "Finally, I built a proper crafting table and made a **shield** to protect myself. Hardcore mode means one life only — no respawning. Every decision matters when death is **permanent**.",
+      "sentence_zh": "最后，我造了一个合适的工作台并做了一面盾牌保护自己。极限模式意味着只有一条命——不能重生。当死亡是永久的时候，每个决定都很重要。",
+      "blank_word": "shield",
+      "distractors": [
+        "fortunate",
+        "entrance",
+        "valuable"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    }
+  ],
+  "question": {
+    "kind": "mcq",
+    "prompt": "What makes Hardcore mode different from normal Minecraft?",
+    "payload": {
+      "options": [
+        "You only have one life and cannot respawn",
+        "You have unlimited resources",
+        "There are no monsters",
+        "The world is much smaller"
+      ],
+      "correct": 0
+    },
+    "xp_reward": 10,
+    "sort_order": 0
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "course": {
+    "id": "minecraft-15-searching-for-cherry-blossoms",
+    "kind": "listening",
+    "title": "Searching for Cherry Blossoms",
+    "description": "Learn English with Minecraft — Episode 16. 5 curated listening segments with cloze quizzes.",
+    "difficulty": 2,
+    "est_minutes": 8,
+    "xp_reward": 55,
+    "unlock_level": 1,
+    "source_label": "Learn English with Minecraft — Ep. 16",
+    "source_url": "https://www.youtube.com/watch?v=oUvKyBGIcbw",
+    "source_license": "youtube-embed",
+    "sort_order": 16,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "video_segment",
+    "title": "Learn English with Minecraft #15 - Searching for Cherry Blossoms",
+    "yt_video_id": "oUvKyBGIcbw",
+    "yt_start_sec": 0,
+    "yt_end_sec": 974,
+    "transcript_en": "I'm completely lost in the last episode of learn English with Minecraft I went searching for some of the new things that they added in Minecraft version 1.20 and in this video I'm going to continue searching for new things but first I need to find my way back I have a terrible sense of direction and I don't see myself anywhere on my map I'm going to need to find my way back all on my own I guess I'll start by sailing this way well I'm going to get out of my boat and uh oh I'll throw away uh some cobblestone and pick up my boat I think I'm going to climb to the top of a mountain and see if I can see my house anywhere I don't see anything that looks familiar let's keep searching my compass is pointing this way maybe I'll follow my compass and see where it takes me up here up up up so this is where my compass is pointing me to which definitely isn't my house so my compass will not help me uh home where is my home I'm lost I don't know where to go I'm going to get back in my boat and search by boat my house is on the shore so if I get close I should be able to see it easily oh no I don't see any lens it's completely ocean as far as I can see oh no I'm lost oh no um I found this buried treasure map close to my house so maybe if I find this buried treasure I'll also be able to find my house let's head towards the X I think it's this way oh okay I'm getting closer this is the old shipwreck yeah this is the Shipwreck that I found in the last video I remember seeing these Turtles I think they're the same Turtles I think I'm going in the right direction I can see my house I was really scared that I was never going to be able to find my house again all right I'm going to put away all of my things in my inventory and then I'm going to build a better map and then I'm going to search for the new things in Minecraft 1.20 my farm my enchanting room my mind my chest room that is a relief all right I'm going to put away all of my things all right I put away everything in my inventory that I don't need to bring with me and now it's almost morning and also time for me oh wait I almost forgot to build a new map oh dear okay now I have a map that I can see myself that will help all right now let's go searching for the new biome the cherry blossom biome let's get in my boat and we're sailing away goodbye again house all right oh an Enderman I'm looking at you come get me oh die die Enderman wow all right all right I killed the Enderman but he didn't drop an eye when you're fighting Enderman you're always safe in the water because the Enderman can't go into the water so it's safe cherry blossom biome where are you this is a huge ocean I'll sail far away if I have to find the cherry blossom biome another sunken ship I'm going to explore it quickly another treasure map uh oh to the surface all right there's more treasure up there and let's go back down another chest oh oh up swim up all right back in the boat and now let's quickly find some more buried treasure this way I think it's going to be up there on the shore I'm going to eat this bread all right am I close oh I'm very close okay let's get off of the boat find the buried treasure all right I'm going to start digging right here there it is the treasure all right what's inside lots of stuff all right I'm going to break this chest and take it all like this and let's continue searching for the cherry blossom biome off we go so far I haven't seen anything new but we'll continue searching whoa it looks very cold over there I'm going to get off of my boat like this and search on land or on ice this river is completely Frozen it's very slippery it's slippery oh and there's some snow on the ground over there the Sun is going down soon it'll be completely dark whoa a village I can see a village over there that's good because it's getting dark I can sleep in the village for tonight all right there are light posts and houses oh this is an igloo inside there are people sleeping I can hear a cat close by going meow another house all right all right sir get out of the bed because I need to sleep and sleep time and it's morning all right I'm glad that I found this Village polar bears oh geez I'm sorry I'm sorry leave me alone ah I'm running away this polar bear is mad at me oh oh the polar bear is probably trying to protect its little baby okay bye polar bear I'm going away now oh my goodness still chasing me I'm going to go in the water I don't think it can swim oh wow it can it can oh no I'm sorry no where's my boat let's go let's go go I think I'm safe that polar bear was really mad at me all right let's continue our search for the cherry blossom biome wow there are some huge mountains right I'm going to climb to the top of that and there I should be able to see if there's a cherry blossom biome nearby let's head towards the mountain oh I can see a bee up there up up up I'm climbing up the mountain all right I think I'm getting close to the top I was impaled by a stalagmireth well I guess that brings me to the ends of this video like And subscribe see ya",
+    "transcript_zh": "",
+    "highlight_words": [
+      "mountain",
+      "buried",
+      "relief",
+      "fighting",
+      "chest"
+    ],
+    "xp_reward": 20
+  },
+  "segments": [
+    {
+      "start_sec": 79,
+      "end_sec": 93,
+      "sentence_en": "And pick up my boat I think I'm going to climb to the top of a mountain and see if I can.",
+      "sentence_zh": "",
+      "blank_word": "mountain",
+      "distractors": [
+        "shoreline",
+        "whisper",
+        "brings"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 229,
+      "end_sec": 247,
+      "sentence_en": "If I find this buried treasure I'll also be able to find my house let's head towards the X.",
+      "sentence_zh": "",
+      "blank_word": "buried",
+      "distractors": [
+        "wave",
+        "bone",
+        "throw"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 370,
+      "end_sec": 388,
+      "sentence_en": "That is a relief all right I'm going to put away all of my things all right.",
+      "sentence_zh": "",
+      "blank_word": "relief",
+      "distractors": [
+        "eclipse",
+        "crown",
+        "bread"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 476,
+      "end_sec": 490,
+      "sentence_en": "I killed the Enderman but he didn't drop an eye when you're fighting Enderman you're always safe.",
+      "sentence_zh": "",
+      "blank_word": "fighting",
+      "distractors": [
+        "hammer",
+        "ladder",
+        "frozen"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 619,
+      "end_sec": 632,
+      "sentence_en": "I'm going to break this chest and take it all like.",
+      "sentence_zh": "",
+      "blank_word": "chest",
+      "distractors": [
+        "pumpkin",
+        "rainbow",
+        "find"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    }
+  ]
+}

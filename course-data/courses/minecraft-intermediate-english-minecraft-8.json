@@ -1,0 +1,107 @@
+{
+  "course": {
+    "id": "minecraft-intermediate-english-minecraft-8",
+    "kind": "listening",
+    "title": "Intermediate English - Minecraft #8",
+    "description": "Learn English with Minecraft — Episode 46. 5 curated listening segments with cloze quizzes.",
+    "difficulty": 2,
+    "est_minutes": 6,
+    "xp_reward": 55,
+    "unlock_level": 1,
+    "source_label": "Learn English with Minecraft — Ep. 46",
+    "source_url": "https://www.youtube.com/watch?v=6AXCvilr5JU",
+    "source_license": "youtube-embed",
+    "sort_order": 46,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "video_segment",
+    "title": "Intermediate English - Minecraft #8",
+    "yt_video_id": "6AXCvilr5JU",
+    "yt_start_sec": 0,
+    "yt_end_sec": 677,
+    "transcript_en": "This cauldron just filled with lava it's working hello and welcome back to learn English with Minecraft my name is Kenzo and this is English from the ground up and I have a lot of new things to show you let's go outside let's open the gate and go outside I did a lot of building off camera MH the first thing that I'll show you is my new water elevator this is my new water elevator this water elevator is a lot faster than my previous one so to go down to my spider XP farm I'll go down this waterfall let's go down and I'm falling I'm falling to the bottom and just like that here I am at the XP farm now to go back up I'll go up this side do you see the bubbles Rising this side will take me up to the surface let's go up it goes really fast mhm and here we are the next thing that I want to show you is right over there oh let's get on this mine cart ah I missed it let's wait for the next mine cart okay and let's hop off all right look at this zombie die zombie die zombies whoa baby zombie ah ah no spiders too die die die oh and Phantoms oh I'm going to run inside oh I'm going to eat some fish all right let's go back outside let's open the door di dive I killed the die okay I killed the Phantoms did I pick up any Phantom membrane let's see yeah two Phantom membranes awesome look at this I built a building around the Villager breeder so this building is kind of like a protective shell around the Villager breeder oh look the sun's coming up it's morning in the last video I found all of this iron and I need to smelt it in a furnace um but first on need to pick up some bamboo to use as fuel so let's go over to the bamboo Farm let's get on this mine cart and here we are at the bamboo Farm whoa look at that spider up there okay let's see how much bamboo is in this chest open whoa it's almost full bamboo all right with the bamboo let's build some bamboo bamboo here are the bamboo blocks I built 64 uh let's build some more okay I'm going to place my iron in the furnace as well as some bamboo blocks all right we're smelting iron here and let's start smelting some iron here as well so I'll put some blocks of bamboo in here as well as The Rock iron while we wait for this I have some more things to show you the reason I collected all of that iron in the last video is to build cauldrons and the cauldrons will be used to build a lava generator and the lava generator is right here I'll go down there and show jump all right here we are so this will be a lava a generator but I still need to build some cauldrons to place here at the bottom so there's still a little bit of work to do on this lava generator but hopefully I can finish it in this video all right let's go this way do you remember the skeleton spawner that I found in the last video look at this so these are two more water and this will take me to the skeleton Farm to go down I need to go to the left here this waterfall will take me down to the skeleton farm so let's go down and I'm falling here we are here I can wait for the skeletons to fall down and I can kill them with one punch watch this punch punch punch and the skeletons Drop Bones and arrows all right and this elevator takes up and this water elevator is also fast and here we are at the surface so that is my skeleton Farm let's hop on and let's get off there we go all right let's see if my iron is finished smelting okay here we have 21 iron here we have 55 iron okay let's start building some cauldrons so each cauldron requires seven iron 1 2 3 4 5 6 7 seven iron makes one cauldron I'm going to need a bunch of cauldron okay I built eight cauldrons and if I need to I can build more dive I saw a zombie oh and a skeleton die die so the first thing that I'll do is place the drip Stone up here on the glass so let's take the dripstone and I'll place it on the glass all right I placed all the drip Stone now underneath this drip Stone I'll place the cauldrons so I'll take these eight cauldrons and I'll place them underneath like this I'm going to need to build four more cauldrons one two three ah I need more iron ingots there we go and four okay one 2 3 4 now I've placed all cauldrons the last thing that I need to do is collect a bunch of lava and place the lava up there up there mhm so right now I'm going to pick up some buckets and begin collecting lava to bring back here to the lava generator I'm going to pick up all of the buckets that I buckets seven buckets here and one water bucket I'm going to dump out this water there we go so I have a total of eight buckets now I'm going to find some lava I think there's some lava around here so I'm going to get off of my boat let's see here it is lava I'm going to scoop up as much lava as I lava there we go let's get back in my boat and let's go back to my lava generator whoa what's going on with my mine carts up there whoa that one okay let's get off um I'll take some Cobblestone jump jump I'm going to place the lava in here one 2 3 4 5 6 7 8 so I need four more buckets of lava okay let's go back down let's get back in my one two three four there we go and that is all of the lava that all need and back okay let's place the final four lava buckets 1 2 3 4 One Two Three 4 One 2 3 4 and there we go the lava generator complete so now the lava is dripping from these drip stones into the cauldrons this cauldron just filled with lava it's working so now I can scoop up the lava from this cauldron using my bucket like this I scooped up the lava and now I have a lava bucket so using this machine I can collect infinite lava lava is a great source of fuel mhm each lava bucket can smelt a 100 blocks so let's pick up this lava and put it in the furnace that lava will smelt all of this copper into copper ingots mhm just with one bucket of lava all right I've successfully built a lava generator tell me in a comment below what I should build next like they all do",
+    "transcript_zh": "",
+    "highlight_words": [
+      "missed",
+      "furnace",
+      "collected",
+      "build",
+      "smelt"
+    ],
+    "xp_reward": 20
+  },
+  "segments": [
+    {
+      "start_sec": 92,
+      "end_sec": 105,
+      "sentence_en": "There oh let's get on this mine cart ah I missed it let's wait for the next mine cart okay and let's.",
+      "sentence_zh": "",
+      "blank_word": "missed",
+      "distractors": [
+        "cloud",
+        "storm",
+        "bubbles"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 174,
+      "end_sec": 186,
+      "sentence_en": "And I need to smelt it in a furnace um but first on need to pick up some bamboo to use as.",
+      "sentence_zh": "",
+      "blank_word": "furnace",
+      "distractors": [
+        "kingdom",
+        "beach",
+        "cauldrons"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 241,
+      "end_sec": 256,
+      "sentence_en": "While we wait for this I have some more things to show you the reason I collected all of that iron in.",
+      "sentence_zh": "",
+      "blank_word": "collected",
+      "distractors": [
+        "pumpkin",
+        "rainbow",
+        "outside"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 392,
+      "end_sec": 407,
+      "sentence_en": "And if I need to I can build more dive I saw a zombie oh and a skeleton die die so the.",
+      "sentence_zh": "",
+      "blank_word": "build",
+      "distractors": [
+        "eclipse",
+        "plant",
+        "camera"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 641,
+      "end_sec": 653,
+      "sentence_en": "So let's pick up this lava and put it in the furnace that lava will smelt all of this copper.",
+      "sentence_zh": "",
+      "blank_word": "smelt",
+      "distractors": [
+        "sand",
+        "wood",
+        "lava"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    }
+  ]
+}

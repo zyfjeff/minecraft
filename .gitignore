@@ -1,0 +1,17 @@
+node_modules/
+dist/
+
+# Local env files (contain Supabase keys, never commit)
+.env
+.env.local
+.env.*.local
+
+# Local test credentials (never commit)
+.test-credentials.local
+
+# Logs
+npm-debug.log*
+*.log
+
+# OS
+.DS_Store

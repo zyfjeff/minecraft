@@ -1,0 +1,107 @@
+{
+  "course": {
+    "id": "minecraft-5-i-lost-everything",
+    "kind": "listening",
+    "title": "I Lost Everything..",
+    "description": "Learn English with Minecraft — Episode 5. 5 curated listening segments with cloze quizzes.",
+    "difficulty": 2,
+    "est_minutes": 9,
+    "xp_reward": 55,
+    "unlock_level": 1,
+    "source_label": "Learn English with Minecraft — Ep. 5",
+    "source_url": "https://www.youtube.com/watch?v=gdxS4eSqGtE",
+    "source_license": "youtube-embed",
+    "sort_order": 5,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "video_segment",
+    "title": "Learn English with Minecraft #5 - I Lost Everything..",
+    "yt_video_id": "gdxS4eSqGtE",
+    "yt_start_sec": 0,
+    "yt_end_sec": 1107,
+    "transcript_en": "Hello and welcome back to learning English with Minecraft my name is Kenzo and this is English from the ground up in the last video I found some carrots and watermelon and planted them here at my house and off camera I was going to expand this farm this way so I got a shovel and started digging up all the sand and as I was digging up the sand I noticed something right now I have a stone shovel so watch how fast I can dig with a stone shovel look at this shovel this shovel is gold it's a gold shovel and this shovel is also enchanted with magical abilities so now now watch how fast I can dig with this shovel do you see do you see how fast that shovel dug up the sand this made me realize that before I start building huge structures and digging up the Sands to expand the farm before I do all of that I should find some diamonds and make diamond tools because with diamond tools all of that will be way faster so in this video I'm going to find diamonds and I'm not ending this video until I find diamonds I'm going to sleep and in the morning I'm going to collect all the things I'll need to go underground to search for diamonds so it's morning it's morning I can hear oh I can hear this zombie okay now I think that I have everything I will need to go exploring underground I have one two three four five six six pickaxes one two three swords and some torches some food I think I have everything I will need so I'm going to go search for a cave there's a zombie with gold armor I think he drops a golden helmet yeah cool where could a cave be I'm going to head into the forest that oh there are zombies chasing me wow there are lots of monsters chasing all right the forest it's raining it's raining I haven't found a cave yet I'm still searching skeleton over there when it's raining the monsters don't burn in the sunlight there's no sun there's no sun up there in the sky it's just gray the skies are just Gray are there any caves here I don't see any okay wow so many creepers oh okay die skeleton this is really dangerous okay I'm gonna go down here when I first pick up a little bit of I'm glad that I have armor I'm going to place a torch oh no it stops okay this cave stops right here so I'm going back up okay we're here at the surface and I'm going to run is that the village over there I think so I can sleep at the village for tonight okay we're here finally someplace safe I'm going to find a bed here's one and sleep and hopefully in the morning it won't be raining anymore there we go good weather blue skies the Sun no rain that is good for me it's time to go back to my search for a in the last video I found this swamp right here but I didn't explore it so now I think that it's time to explore this swamp the swamps are a new biome I haven't yet explored a swamp like this in Minecraft so this should be exciting I see lots of roots are these roots Mangrove roots wow I can't see anything here some fish wow I really like the swamp lots of different fish I don't know what this fish is doing it's just spinning around in circles this one too think the fish are glitched out they're having a rave party this fish is normal this is a normal fish this fish isn't dancing I am completely lost I have no idea where I am but it's okay because I have a map I still haven't found a cave it's a little Pond right here I'm going to leave the swamp because I can't see very well in the swamp and I'm looking for a cave any caves oh maybe over there nope not a cave oh my God it's the village again I went in a circle I am the worst the worst in the world with directions I went in a big circle nope not a cave still no caves caves where are you cave nope again no any caves anywhere oh wow that is a beautiful waterfall over there are you a cave okay this looks like a cave it's been 30 minutes and I finally found a cave that looks promising so I'm going to go down there ooh there's light down here I'm going to place a torch where is this light coming from is it this oh weird I can't believe that we're already five episodes into this series and I haven't found diamonds it's about time we found some diamonds there's some iron okay well we found some iron which is a good sign because it means we're getting I don't think that I need any more I'm looking for diamonds okay wow this place is huge there has to be some diamonds down here I'm going to eat something before going down there my health is low there we go I ate some watermelons and now I'm going to start digging down this way as usual there are lots of monsters going to eat again when your hunger bar is full is full then you can regenerate health this place is so dangerous I'm going to need more torches soon I am hiding right now because there are tons of monsters here I'm going to build more torches with coal and sticks now I have 40 more torches oh diamonds we found diamonds just one okay just one Diamond but it's okay this this is the first diamonds that we've found in this world no no okay I really don't want to die now that I've found a diamond so I'm going to hide until I have regained my health I'm going to run that way run run down here okay I think I'm safe okay I'm getting really deep I need to find some more diamonds oh wow oh some lapis I'll collect this lapis real quick and there we go back up here oh another skeleton no get out of here me alone die die oh that was close where are the diamonds maybe over here this seems a little bit dangerous to be this close to Lava are there any diamonds here whoa oh oh I'm on fire am I gonna die am I dead no wow I survived that was another close call okay well no diamonds here time to continue on maybe I'll go up there and continue searching going up I hate skeletons skeletons are my worst enemy I am never going to find that place well that sucks technically found some diamonds and now I'm upset so I'm going to end this video right here thank you for watching and I will see in the next video",
+    "transcript_zh": "",
+    "highlight_words": [
+      "shovel",
+      "zombie",
+      "armor",
+      "swamp",
+      "build"
+    ],
+    "xp_reward": 20
+  },
+  "segments": [
+    {
+      "start_sec": 39,
+      "end_sec": 56,
+      "sentence_en": "Now I have a stone shovel so watch how fast I can dig with a stone shovel look.",
+      "sentence_zh": "",
+      "blank_word": "shovel",
+      "distractors": [
+        "cake",
+        "shore",
+        "fast"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 174,
+      "end_sec": 196,
+      "sentence_en": "I'm going to go search for a cave there's a zombie with gold armor I think he drops a golden helmet.",
+      "sentence_zh": "",
+      "blank_word": "zombie",
+      "distractors": [
+        "fire",
+        "hammer",
+        "welcome"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 301,
+      "end_sec": 318,
+      "sentence_en": "When I first pick up a little bit of I'm glad that I have armor I'm going to place a torch oh.",
+      "sentence_zh": "",
+      "blank_word": "armor",
+      "distractors": [
+        "cloud",
+        "sand",
+        "tonight"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 439,
+      "end_sec": 453,
+      "sentence_en": "I really like the swamp lots of different fish I don't know what this fish is doing.",
+      "sentence_zh": "",
+      "blank_word": "swamp",
+      "distractors": [
+        "beach",
+        "ladder",
+        "swords"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 779,
+      "end_sec": 794,
+      "sentence_en": "I am hiding right now because there are tons of monsters here I'm going to build more torches with coal and sticks.",
+      "sentence_zh": "",
+      "blank_word": "build",
+      "distractors": [
+        "rock",
+        "crown",
+        "hate"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "course": {
+    "id": "vocab-precious-resources",
+    "kind": "vocabulary",
+    "title": "Precious Resources",
+    "description": "Discover the valuable ores and gems hidden underground.",
+    "difficulty": 3,
+    "est_minutes": 10,
+    "xp_reward": 35,
+    "unlock_level": 1,
+    "source_label": "CraftWords Vocabulary",
+    "source_url": "",
+    "source_license": "original",
+    "sort_order": 104,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "vocab_drill",
+    "title": "Precious Resources",
+    "yt_video_id": null,
+    "yt_start_sec": null,
+    "yt_end_sec": null,
+    "passage_md": null,
+    "transcript_en": null,
+    "transcript_zh": null,
+    "highlight_words": [
+      "diamond",
+      "emerald",
+      "gold",
+      "coal",
+      "redstone",
+      "netherite",
+      "iron",
+      "ore"
+    ],
+    "xp_reward": 35
+  },
+  "segments": []
+}

@@ -1,0 +1,155 @@
+{
+  "course": {
+    "id": "reading-minecraft-hardcore-14-enchanting-weapons",
+    "kind": "reading",
+    "title": "Learn English with Minecraft Hardcore #14 - Enchanting Weapons!! — Reading",
+    "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore #14 - Enchanting Weapons!!\" — 5 reading segments with mixed quizzes.",
+    "difficulty": 3,
+    "est_minutes": 8,
+    "xp_reward": 50,
+    "unlock_level": 3,
+    "thumbnail_key": "reading",
+    "source_label": "Based on Learn English with Minecraft — Ep. 6",
+    "source_url": "https://www.youtube.com/watch?v=4qYXqdCiOkQ",
+    "source_license": "youtube-embed",
+    "sort_order": 106,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "reading_passage",
+    "title": "Learn English with Minecraft Hardcore #14 - Enchanting Weapons!! — Reading Practice",
+    "passage_md": "With plenty of experience points from my XP farm, I was ready to **enchant** my best weapons and tools. I placed my enchanting table surrounded by **bookshelves** for maximum power.\n\nThe enchanting table needs fifteen bookshelves arranged around it to unlock the highest level **enchantments**. Each bookshelf must be exactly two blocks away with nothing **blocking** the path.\n\nI enchanted my diamond sword first and got Sharpness IV and Fire Aspect. Fire Aspect is amazing because it sets enemies on **fire** when you hit them, dealing extra **damage** over time.\n\nNext, I enchanted my bow with Power V and Infinity. **Infinity** means I never run out of arrows — I only need one arrow in my **inventory** and it works forever.\n\nMy diamond pickaxe received Efficiency V and Fortune III. Fortune makes ore blocks drop **multiple** items instead of one. Now every diamond block could give me up to four **diamonds**!",
+    "transcript_zh": "有了经验值农场提供的大量经验值，我准备好给最好的武器和工具附魔了。我把附魔台放在书架环绕的地方以获得最大能力。\n\n附魔台需要十五个书架环绕排列才能解锁最高等级的附魔。每个书架必须刚好两格远且中间没有任何东西阻挡。\n\n我首先给钻石剑附魔，获得了锋利IV和火焰附加。火焰附加很棒因为当你击中敌人时会点燃他们，随时间造成额外伤害。\n\n接下来，我给弓附魔了力量V和无限。无限意味着我永远不会用完箭——我只需要背包里有一支箭它就能永远使用。\n\n我的钻石镐获得了效率V和时运III。时运让矿石方块掉落多个物品而不是一个。现在每个钻石矿最多能给我四颗钻石！",
+    "highlight_words": [
+      "enchant",
+      "bookshelves",
+      "damage",
+      "Infinity",
+      "multiple"
+    ],
+    "xp_reward": 20
+  },
+  "segments": [
+    {
+      "sort_order": 0,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "With plenty of experience points from my XP farm, I was ready to **enchant** my best weapons and tools. I placed my enchanting table surrounded by **bookshelves** for maximum power.",
+      "sentence_zh": "有了经验值农场提供的大量经验值，我准备好给最好的武器和工具附魔了。我把附魔台放在书架环绕的地方以获得最大能力。",
+      "blank_word": "enchant",
+      "distractors": [
+        "prevented",
+        "mountain",
+        "powerful"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    },
+    {
+      "sort_order": 1,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "The enchanting table needs fifteen bookshelves arranged around it to unlock the highest level **enchantments**. Each bookshelf must be exactly two blocks away with nothing **blocking** the path.",
+      "sentence_zh": "附魔台需要十五个书架环绕排列才能解锁最高等级的附魔。每个书架必须刚好两格远且中间没有任何东西阻挡。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "comprehension",
+      "quiz_payload": {
+        "prompt": "What happened in this paragraph?",
+        "options": [
+          "The enchanting table needs fifteen bookshelves arranged arou...",
+          "The player went to sleep in a village",
+          "Nothing interesting happened today",
+          "The player decided to quit the game"
+        ],
+        "correct": 0
+      }
+    },
+    {
+      "sort_order": 2,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I enchanted my diamond sword first and got Sharpness IV and Fire Aspect. Fire Aspect is amazing because it sets enemies on **fire** when you hit them, dealing extra **damage** over time.",
+      "sentence_zh": "我首先给钻石剑附魔，获得了锋利IV和火焰附加。火焰附加很棒因为当你击中敌人时会点燃他们，随时间造成额外伤害。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "word_match",
+      "quiz_payload": {
+        "pairs": [
+          {
+            "word": "fire",
+            "definition": "A word related to fire"
+          },
+          {
+            "word": "damage",
+            "definition": "A word related to damage"
+          },
+          {
+            "word": "fire",
+            "definition": "A word related to fire"
+          }
+        ],
+        "shuffled_defs": [
+          "A word related to fire",
+          "A word related to damage",
+          "A word related to fire"
+        ]
+      }
+    },
+    {
+      "sort_order": 3,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "Next, I enchanted my bow with Power V and Infinity. **Infinity** means I never run out of arrows — I only need one arrow in my **inventory** and it works forever.",
+      "sentence_zh": "接下来，我给弓附魔了力量V和无限。无限意味着我永远不会用完箭——我只需要背包里有一支箭它就能永远使用。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "sentence_order",
+      "quiz_payload": {
+        "sentences": [
+          "First action happened.",
+          "Then the next step followed.",
+          "Finally the result occurred.",
+          "The task was complete."
+        ],
+        "correct_order": [
+          0,
+          1,
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "sort_order": 4,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "My diamond pickaxe received Efficiency V and Fortune III. Fortune makes ore blocks drop **multiple** items instead of one. Now every diamond block could give me up to four **diamonds**!",
+      "sentence_zh": "我的钻石镐获得了效率V和时运III。时运让矿石方块掉落多个物品而不是一个。现在每个钻石矿最多能给我四颗钻石！",
+      "blank_word": "multiple",
+      "distractors": [
+        "surrounded",
+        "discovered",
+        "ancient"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    }
+  ],
+  "question": {
+    "kind": "mcq",
+    "prompt": "How many bookshelves are needed for maximum enchanting power?",
+    "payload": {
+      "options": [
+        "Fifteen bookshelves",
+        "Five bookshelves",
+        "Twenty bookshelves",
+        "Ten bookshelves"
+      ],
+      "correct": 0
+    },
+    "xp_reward": 10,
+    "sort_order": 0
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "course": {
+    "id": "reading-minecraft-hardcore-18-desert",
+    "kind": "reading",
+    "title": "Learn English with Minecraft Hardcore #18 - Desert?? — Reading",
+    "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore #18 - Desert??\" — 5 reading segments with mixed quizzes.",
+    "difficulty": 3,
+    "est_minutes": 8,
+    "xp_reward": 50,
+    "unlock_level": 3,
+    "thumbnail_key": "reading",
+    "source_label": "Based on Learn English with Minecraft — Ep. 33",
+    "source_url": "https://www.youtube.com/watch?v=6vHJSgMzMVk",
+    "source_license": "youtube-embed",
+    "sort_order": 133,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "reading_passage",
+    "title": "Learn English with Minecraft Hardcore #18 - Desert?? — Reading Practice",
+    "passage_md": "I set out on a long journey to find a **desert** biome. I needed sand for glass and wanted to find a desert **temple** with hidden treasure inside.\n\nAfter traveling for many minutes, the green grass **gradually** changed to sand. Cactus plants appeared and the trees **disappeared** completely. I had found the desert!\n\nI spotted a desert temple in the distance — a large **pyramid** shape made of sandstone. Inside, there are four hidden chests, but they're protected by a TNT **trap** underneath.\n\nI carefully broke the floor blocks to **avoid** triggering the pressure plate connected to TNT. One wrong step and everything would explode! I moved slowly and **precisely** to stay safe.\n\nThe treasure chests contained diamonds, gold, and enchanted books! The desert trip was **worthwhile** after all. I also collected stacks of sand to make glass for my base **windows**.",
+    "transcript_zh": "我出发去寻找沙漠生态群系。我需要沙子来做玻璃，还想找到一座里面有隐藏宝物的沙漠神殿。\n\n走了很多分钟后，绿色的草地逐渐变成了沙子。仙人掌出现了，树木完全消失了。我找到了沙漠！\n\n我发现远处有一座沙漠神殿——一个由砂岩制成的大金字塔形状。里面有四个隐藏箱子，但底下有TNT陷阱保护。\n\n我小心地打破地板方块来避免触发连接TNT的压力板。走错一步所有东西都会爆炸！我慢慢地精确移动来保持安全。\n\n宝箱里有钻石、金子和附魔书！这趟沙漠之旅终究是值得的。我还收集了成堆的沙子来为基地的窗户制作玻璃。",
+    "highlight_words": [
+      "desert",
+      "temple",
+      "pyramid",
+      "avoid",
+      "worthwhile"
+    ],
+    "xp_reward": 20
+  },
+  "segments": [
+    {
+      "sort_order": 0,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I set out on a long journey to find a **desert** biome. I needed sand for glass and wanted to find a desert **temple** with hidden treasure inside.",
+      "sentence_zh": "我出发去寻找沙漠生态群系。我需要沙子来做玻璃，还想找到一座里面有隐藏宝物的沙漠神殿。",
+      "blank_word": "desert",
+      "distractors": [
+        "ancient",
+        "equipment",
+        "essential"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    },
+    {
+      "sort_order": 1,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "After traveling for many minutes, the green grass **gradually** changed to sand. Cactus plants appeared and the trees **disappeared** completely. I had found the desert!",
+      "sentence_zh": "走了很多分钟后，绿色的草地逐渐变成了沙子。仙人掌出现了，树木完全消失了。我找到了沙漠！",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "comprehension",
+      "quiz_payload": {
+        "prompt": "What happened in this paragraph?",
+        "options": [
+          "After traveling for many minutes, the green grass gradually ...",
+          "The player went to sleep in a village",
+          "Nothing interesting happened today",
+          "The player decided to quit the game"
+        ],
+        "correct": 0
+      }
+    },
+    {
+      "sort_order": 2,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I spotted a desert temple in the distance — a large **pyramid** shape made of sandstone. Inside, there are four hidden chests, but they're protected by a TNT **trap** underneath.",
+      "sentence_zh": "我发现远处有一座沙漠神殿——一个由砂岩制成的大金字塔形状。里面有四个隐藏箱子，但底下有TNT陷阱保护。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "word_match",
+      "quiz_payload": {
+        "pairs": [
+          {
+            "word": "pyramid",
+            "definition": "A word related to pyramid"
+          },
+          {
+            "word": "trap",
+            "definition": "A word related to trap"
+          },
+          {
+            "word": "pyramid",
+            "definition": "A word related to pyramid"
+          }
+        ],
+        "shuffled_defs": [
+          "A word related to pyramid",
+          "A word related to trap",
+          "A word related to pyramid"
+        ]
+      }
+    },
+    {
+      "sort_order": 3,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I carefully broke the floor blocks to **avoid** triggering the pressure plate connected to TNT. One wrong step and everything would explode! I moved slowly and **precisely** to stay safe.",
+      "sentence_zh": "我小心地打破地板方块来避免触发连接TNT的压力板。走错一步所有东西都会爆炸！我慢慢地精确移动来保持安全。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "sentence_order",
+      "quiz_payload": {
+        "sentences": [
+          "I carefully broke the floor blocks to avoid triggering the pressure plate connected to TNT.",
+          "One wrong step and everything would explode.",
+          "I moved slowly and precisely to stay safe."
+        ],
+        "correct_order": [
+          0,
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "sort_order": 4,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "The treasure chests contained diamonds, gold, and enchanted books! The desert trip was **worthwhile** after all. I also collected stacks of sand to make glass for my base **windows**.",
+      "sentence_zh": "宝箱里有钻石、金子和附魔书！这趟沙漠之旅终究是值得的。我还收集了成堆的沙子来为基地的窗户制作玻璃。",
+      "blank_word": "worthwhile",
+      "distractors": [
+        "powerful",
+        "enormous",
+        "corridor"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    }
+  ],
+  "question": {
+    "kind": "mcq",
+    "prompt": "What danger is hidden in a desert temple?",
+    "payload": {
+      "options": [
+        "A TNT trap under the floor",
+        "Hostile mobs",
+        "Lava pits",
+        "Poison arrows"
+      ],
+      "correct": 0
+    },
+    "xp_reward": 10,
+    "sort_order": 0
+  }
+}

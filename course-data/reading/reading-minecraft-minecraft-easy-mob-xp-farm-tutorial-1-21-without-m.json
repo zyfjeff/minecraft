@@ -1,0 +1,99 @@
+{
+  "course": {
+    "id": "reading-minecraft-minecraft-easy-mob-xp-farm-tutorial-1-21-without-m",
+    "kind": "reading",
+    "title": "Minecraft: EASY MOB XP FARM TUTORIAL! 1.21 (Without Mob Spawner) — Reading",
+    "description": "Read and practice vocabulary from \"Minecraft: EASY MOB XP FARM TUTORIAL! 1.21 (Without Mob Spawner)\" — 3 reading segments with mixed quizzes.",
+    "difficulty": 1,
+    "est_minutes": 4,
+    "xp_reward": 30,
+    "unlock_level": 1,
+    "thumbnail_key": "reading",
+    "source_label": "Based on Learn English with Minecraft — Ep. 23",
+    "source_url": "https://www.youtube.com/watch?v=AuAt9zR1sDM",
+    "source_license": "youtube-embed",
+    "sort_order": 123,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "reading_passage",
+    "title": "Minecraft: EASY MOB XP FARM TUTORIAL! 1.21 (Without Mob Spawner) — Reading Practice",
+    "passage_md": "This tutorial shows how to build an easy mob XP farm without using a **spawner**. This design works anywhere in the world and produces experience from all basic mob **types**.\n\nThe farm uses a dark room platform where mobs spawn **naturally** at night. Water pushes them off the edge into a collection funnel that drops them to a **specific** height.\n\nYou need basic **materials**: cobblestone for the platform, water buckets for the pushing mechanism, and signs or trapdoors to trick mob **pathfinding** so they walk off the edge.",
+    "transcript_zh": "这个教程展示如何在不使用生成器的情况下建造一个简单的怪物经验值农场。这个设计在世界任何地方都能使用，从所有基本怪物类型产生经验。\n\n农场使用一个黑暗房间平台让怪物在夜间自然生成。水把它们推下边缘进入收集漏斗，落到特定高度。\n\n你需要基本材料：圆石做平台、水桶做推动机制、告示牌或活板门来欺骗怪物的寻路让它们走下边缘。",
+    "highlight_words": [
+      "spawner",
+      "naturally",
+      "specific",
+      "materials",
+      "pathfinding"
+    ],
+    "xp_reward": 20
+  },
+  "segments": [
+    {
+      "sort_order": 0,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "This tutorial shows how to build an easy mob XP farm without using a **spawner**. This design works anywhere in the world and produces experience from all basic mob **types**.",
+      "sentence_zh": "这个教程展示如何在不使用生成器的情况下建造一个简单的怪物经验值农场。这个设计在世界任何地方都能使用，从所有基本怪物类型产生经验。",
+      "blank_word": "spawner",
+      "distractors": [
+        "dangerous",
+        "treasure",
+        "collected"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    },
+    {
+      "sort_order": 1,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "The farm uses a dark room platform where mobs spawn **naturally** at night. Water pushes them off the edge into a collection funnel that drops them to a **specific** height.",
+      "sentence_zh": "农场使用一个黑暗房间平台让怪物在夜间自然生成。水把它们推下边缘进入收集漏斗，落到特定高度。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "comprehension",
+      "quiz_payload": {
+        "prompt": "What happened in this paragraph?",
+        "options": [
+          "The farm uses a dark room platform where mobs spawn naturall...",
+          "The player went to sleep in a village",
+          "Nothing interesting happened today",
+          "The player decided to quit the game"
+        ],
+        "correct": 0
+      }
+    },
+    {
+      "sort_order": 2,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "You need basic **materials**: cobblestone for the platform, water buckets for the pushing mechanism, and signs or trapdoors to trick mob **pathfinding** so they walk off the edge.",
+      "sentence_zh": "你需要基本材料：圆石做平台、水桶做推动机制、告示牌或活板门来欺骗怪物的寻路让它们走下边缘。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "true_false",
+      "quiz_payload": {
+        "statement": "You need basic materials: cobblestone for the platform, water buckets for the pushing mechanism, and signs or trapdoors to trick mob pathfinding so they walk off the edge.",
+        "correct": true
+      }
+    }
+  ],
+  "question": {
+    "kind": "mcq",
+    "prompt": "What makes mobs walk off the platform edge?",
+    "payload": {
+      "options": [
+        "Signs or trapdoors trick their pathfinding",
+        "They are attracted to light",
+        "TNT pushes them",
+        "Water pressure forces them"
+      ],
+      "correct": 0
+    },
+    "xp_reward": 10,
+    "sort_order": 0
+  }
+}

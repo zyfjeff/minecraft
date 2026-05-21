@@ -1,0 +1,130 @@
+{
+  "course": {
+    "id": "reading-minecraft-hardcore-6-potato-farm",
+    "kind": "reading",
+    "title": "Learn English with Minecraft Hardcore #6 - Potato Farm! — Reading",
+    "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore #6 - Potato Farm!\" — 4 reading segments with mixed quizzes.",
+    "difficulty": 2,
+    "est_minutes": 6,
+    "xp_reward": 40,
+    "unlock_level": 2,
+    "thumbnail_key": "reading",
+    "source_label": "Based on Learn English with Minecraft — Ep. 17",
+    "source_url": "https://www.youtube.com/watch?v=t3CcSNOqoSs",
+    "source_license": "youtube-embed",
+    "sort_order": 117,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "reading_passage",
+    "title": "Learn English with Minecraft Hardcore #6 - Potato Farm! — Reading Practice",
+    "passage_md": "Food is essential for survival, so I built an automatic **potato** farm. Potatoes are one of the best foods because they're easy to grow and give good **hunger** restoration.\n\nI started by creating rows of farmland using my hoe. Water must be within four blocks of farmland to keep it **hydrated**. I placed water **channels** between every row of crops.\n\nThe automatic **harvesting** system uses water dispensers controlled by redstone. When I press a button, water flows across the farm and breaks all the mature crops, **collecting** them at the bottom.\n\nI planted over a hundred potatoes and waited for them to grow. Baked potatoes restore five hunger points and are the **simplest** cooked food to make — just put raw potatoes in a **furnace**!",
+    "transcript_zh": "食物对生存至关重要，所以我建了一个自动化土豆农场。土豆是最好的食物之一，因为容易种植且恢复饥饿值效果好。\n\n我先用锄头创建一排排农田。水必须在农田四格以内才能保持湿润。我在每排作物之间放了水道。\n\n自动收割系统使用由红石控制的水发射器。当我按按钮时，水流过农场并打破所有成熟作物，把它们收集到底部。\n\n我种了一百多个土豆等它们生长。烤土豆恢复五点饥饿值，是最简单的熟食——只需把生土豆放进熔炉！",
+    "highlight_words": [
+      "potato",
+      "hydrated",
+      "harvesting",
+      "collecting",
+      "simplest"
+    ],
+    "xp_reward": 20
+  },
+  "segments": [
+    {
+      "sort_order": 0,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "Food is essential for survival, so I built an automatic **potato** farm. Potatoes are one of the best foods because they're easy to grow and give good **hunger** restoration.",
+      "sentence_zh": "食物对生存至关重要，所以我建了一个自动化土豆农场。土豆是最好的食物之一，因为容易种植且恢复饥饿值效果好。",
+      "blank_word": "potato",
+      "distractors": [
+        "fortress",
+        "enormous",
+        "ancient"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    },
+    {
+      "sort_order": 1,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I started by creating rows of farmland using my hoe. Water must be within four blocks of farmland to keep it **hydrated**. I placed water **channels** between every row of crops.",
+      "sentence_zh": "我先用锄头创建一排排农田。水必须在农田四格以内才能保持湿润。我在每排作物之间放了水道。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "comprehension",
+      "quiz_payload": {
+        "prompt": "What happened in this paragraph?",
+        "options": [
+          "I started by creating rows of farmland using my hoe",
+          "The player went to sleep in a village",
+          "Nothing interesting happened today",
+          "The player decided to quit the game"
+        ],
+        "correct": 0
+      }
+    },
+    {
+      "sort_order": 2,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "The automatic **harvesting** system uses water dispensers controlled by redstone. When I press a button, water flows across the farm and breaks all the mature crops, **collecting** them at the bottom.",
+      "sentence_zh": "自动收割系统使用由红石控制的水发射器。当我按按钮时，水流过农场并打破所有成熟作物，把它们收集到底部。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "word_match",
+      "quiz_payload": {
+        "pairs": [
+          {
+            "word": "harvesting",
+            "definition": "A word related to harvesting"
+          },
+          {
+            "word": "collecting",
+            "definition": "A word related to collecting"
+          },
+          {
+            "word": "harvesting",
+            "definition": "A word related to harvesting"
+          }
+        ],
+        "shuffled_defs": [
+          "A word related to harvesting",
+          "A word related to harvesting",
+          "A word related to collecting"
+        ]
+      }
+    },
+    {
+      "sort_order": 3,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I planted over a hundred potatoes and waited for them to grow. Baked potatoes restore five hunger points and are the **simplest** cooked food to make — just put raw potatoes in a **furnace**!",
+      "sentence_zh": "我种了一百多个土豆等它们生长。烤土豆恢复五点饥饿值，是最简单的熟食——只需把生土豆放进熔炉！",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "true_false",
+      "quiz_payload": {
+        "statement": "I planted over a hundred potatoes and waited for them to grow.",
+        "correct": true
+      }
+    }
+  ],
+  "question": {
+    "kind": "mcq",
+    "prompt": "How does the automatic farm harvest crops?",
+    "payload": {
+      "options": [
+        "Water flows and breaks mature crops",
+        "Pistons push them",
+        "Villagers collect them",
+        "The player must harvest manually"
+      ],
+      "correct": 0
+    },
+    "xp_reward": 10,
+    "sort_order": 0
+  }
+}

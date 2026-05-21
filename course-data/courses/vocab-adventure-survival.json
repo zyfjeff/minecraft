@@ -1,0 +1,35 @@
+{
+  "course": {
+    "id": "vocab-adventure-survival",
+    "kind": "vocabulary",
+    "title": "Adventure & Survival",
+    "description": "Learn essential vocabulary for exploring and surviving in the Minecraft world.",
+    "difficulty": 2,
+    "est_minutes": 12,
+    "xp_reward": 30,
+    "unlock_level": 1,
+    "thumbnail_key": "vocabulary",
+    "source_label": "CraftWords Vocabulary",
+    "source_url": "",
+    "source_license": "original",
+    "sort_order": 200,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "vocab_drill",
+    "title": "Adventure & Survival",
+    "highlight_words": [
+      "explore",
+      "search",
+      "survive",
+      "adventure",
+      "wander",
+      "dangerous",
+      "escape",
+      "discover"
+    ],
+    "xp_reward": 30
+  },
+  "segments": []
+}

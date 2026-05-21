@@ -1,0 +1,63 @@
+{
+  "course": {
+    "id": "reading-minecraft-10-animals",
+    "kind": "reading",
+    "title": "Animals — Reading",
+    "description": "Read and practice vocabulary from \"Animals\" — 3 reading segments with mixed quizzes.",
+    "difficulty": 1,
+    "est_minutes": 4,
+    "xp_reward": 30,
+    "unlock_level": 1,
+    "thumbnail_key": "reading",
+    "source_label": "Based on Learn English with Minecraft — Ep. 10",
+    "source_url": "https://www.youtube.com/watch?v=vH0rXyK62CE",
+    "source_license": "youtube-embed",
+    "sort_order": 110,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "reading_passage",
+    "title": "Animals — Reading Practice",
+    "passage_md": "",
+    "transcript_zh": "",
+    "highlight_words": [],
+    "xp_reward": 20
+  },
+  "segments": [
+    {
+      "sort_order": 0,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "",
+      "sentence_zh": "",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    },
+    {
+      "sort_order": 1,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "",
+      "sentence_zh": "",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "comprehension",
+      "quiz_payload": null
+    },
+    {
+      "sort_order": 2,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "",
+      "sentence_zh": "",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "true_false",
+      "quiz_payload": null
+    }
+  ],
+  "question": null
+}

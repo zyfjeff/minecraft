@@ -1,0 +1,153 @@
+{
+  "course": {
+    "id": "reading-minecraft-hardcore-12-quest-for-the-anvil",
+    "kind": "reading",
+    "title": "Learn English with Minecraft Hardcore #12 - Quest for the Anvil! — Reading",
+    "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore #12 - Quest for the Anvil!\" — 5 reading segments with mixed quizzes.",
+    "difficulty": 3,
+    "est_minutes": 8,
+    "xp_reward": 50,
+    "unlock_level": 3,
+    "thumbnail_key": "reading",
+    "source_label": "Based on Learn English with Minecraft — Ep. 10",
+    "source_url": "https://www.youtube.com/watch?v=9b19-z45Xe0",
+    "source_license": "youtube-embed",
+    "sort_order": 110,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "reading_passage",
+    "title": "Learn English with Minecraft Hardcore #12 - Quest for the Anvil! — Reading Practice",
+    "passage_md": "I needed an **anvil** to repair my enchanted tools and combine enchantments. Making one requires three iron blocks and four iron **ingots** — that's a lot of iron to mine!\n\nI went deep **underground** to find enough iron ore. The caves were dark and full of hostile mobs. I had to fight off several **skeletons** while mining.\n\nAfter collecting over thirty iron ore, I returned to my base to **smelt** them all in the furnace. While waiting, I organized my chests and stored my **valuable** items safely.\n\nWith enough iron ingots ready, I crafted the anvil on my crafting table. It appeared as a heavy gray block that makes a satisfying **metallic** sound when you use it. I was so **excited** to finally have one!\n\nI immediately used the anvil to **repair** my diamond pickaxe and combine two sharpness books onto my sword. The anvil is one of the most useful blocks for **maintaining** your best gear.",
+    "transcript_zh": "我需要一个铁砧来修复附魔工具和合并附魔。制作一个需要三个铁块和四个铁锭——需要挖很多铁矿！\n\n我去了很深的地下寻找足够的铁矿石。洞穴又暗又充满敌对生物。我在挖矿时不得不击退了几只骷髅。\n\n收集了三十多个铁矿石后，我回到基地把它们全部放进熔炉冶炼。在等待的同时，我整理了箱子并安全存放了贵重物品。\n\n有了足够的铁锭，我在工作台上制作了铁砧。它是一个沉重的灰色方块，使用时会发出令人满意的金属声。我终于有了一个，太兴奋了！\n\n我立即用铁砧修复了钻石镐，并把两本锋利附魔书合并到了剑上。铁砧是维护最佳装备最有用的方块之一。",
+    "highlight_words": [
+      "anvil",
+      "underground",
+      "smelt",
+      "repair",
+      "maintaining"
+    ],
+    "xp_reward": 20
+  },
+  "segments": [
+    {
+      "sort_order": 0,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I needed an **anvil** to repair my enchanted tools and combine enchantments. Making one requires three iron blocks and four iron **ingots** — that's a lot of iron to mine!",
+      "sentence_zh": "我需要一个铁砧来修复附魔工具和合并附魔。制作一个需要三个铁块和四个铁锭——需要挖很多铁矿！",
+      "blank_word": "anvil",
+      "distractors": [
+        "ancient",
+        "enormous",
+        "essential"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    },
+    {
+      "sort_order": 1,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I went deep **underground** to find enough iron ore. The caves were dark and full of hostile mobs. I had to fight off several **skeletons** while mining.",
+      "sentence_zh": "我去了很深的地下寻找足够的铁矿石。洞穴又暗又充满敌对生物。我在挖矿时不得不击退了几只骷髅。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "comprehension",
+      "quiz_payload": {
+        "prompt": "What happened in this paragraph?",
+        "options": [
+          "I went deep underground to find enough iron ore",
+          "The player went to sleep in a village",
+          "Nothing interesting happened today",
+          "The player decided to quit the game"
+        ],
+        "correct": 0
+      }
+    },
+    {
+      "sort_order": 2,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "After collecting over thirty iron ore, I returned to my base to **smelt** them all in the furnace. While waiting, I organized my chests and stored my **valuable** items safely.",
+      "sentence_zh": "收集了三十多个铁矿石后，我回到基地把它们全部放进熔炉冶炼。在等待的同时，我整理了箱子并安全存放了贵重物品。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "word_match",
+      "quiz_payload": {
+        "pairs": [
+          {
+            "word": "smelt",
+            "definition": "A word related to smelt"
+          },
+          {
+            "word": "valuable",
+            "definition": "A word related to valuable"
+          },
+          {
+            "word": "smelt",
+            "definition": "A word related to smelt"
+          }
+        ],
+        "shuffled_defs": [
+          "A word related to smelt",
+          "A word related to valuable",
+          "A word related to smelt"
+        ]
+      }
+    },
+    {
+      "sort_order": 3,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "With enough iron ingots ready, I crafted the anvil on my crafting table. It appeared as a heavy gray block that makes a satisfying **metallic** sound when you use it. I was so **excited** to finally have one!",
+      "sentence_zh": "有了足够的铁锭，我在工作台上制作了铁砧。它是一个沉重的灰色方块，使用时会发出令人满意的金属声。我终于有了一个，太兴奋了！",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "sentence_order",
+      "quiz_payload": {
+        "sentences": [
+          "With enough iron ingots ready, I crafted the anvil on my crafting table.",
+          "It appeared as a heavy gray block that makes a satisfying metallic sound when you use it.",
+          "I was so excited to finally have one."
+        ],
+        "correct_order": [
+          0,
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "sort_order": 4,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I immediately used the anvil to **repair** my diamond pickaxe and combine two sharpness books onto my sword. The anvil is one of the most useful blocks for **maintaining** your best gear.",
+      "sentence_zh": "我立即用铁砧修复了钻石镐，并把两本锋利附魔书合并到了剑上。铁砧是维护最佳装备最有用的方块之一。",
+      "blank_word": "repair",
+      "distractors": [
+        "valuable",
+        "fortress",
+        "ancient"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    }
+  ],
+  "question": {
+    "kind": "mcq",
+    "prompt": "How much iron is needed to craft an anvil?",
+    "payload": {
+      "options": [
+        "Three iron blocks and four iron ingots",
+        "One iron block",
+        "Five diamonds",
+        "Two gold blocks"
+      ],
+      "correct": 0
+    },
+    "xp_reward": 10,
+    "sort_order": 0
+  }
+}

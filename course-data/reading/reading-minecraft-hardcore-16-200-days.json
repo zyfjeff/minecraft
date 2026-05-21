@@ -1,0 +1,155 @@
+{
+  "course": {
+    "id": "reading-minecraft-hardcore-16-200-days",
+    "kind": "reading",
+    "title": "Learn English with Minecraft Hardcore #16 - 200 DAYS — Reading",
+    "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore #16 - 200 DAYS\" — 5 reading segments with mixed quizzes.",
+    "difficulty": 3,
+    "est_minutes": 8,
+    "xp_reward": 50,
+    "unlock_level": 3,
+    "thumbnail_key": "reading",
+    "source_label": "Based on Learn English with Minecraft — Ep. 2",
+    "source_url": "https://www.youtube.com/watch?v=hKlhp2NcdCY",
+    "source_license": "youtube-embed",
+    "sort_order": 102,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "reading_passage",
+    "title": "Learn English with Minecraft Hardcore #16 - 200 DAYS — Reading Practice",
+    "passage_md": "I have now survived 200 days in Minecraft Hardcore mode! Looking back at my **journey**, I started with nothing and now have a fully **established** base with farms and enchanted gear.\n\nMy base has grown from a simple dirt hole to a **massive** compound with multiple buildings. I have a main house, a barn, an XP farm, storage rooms, and beautiful **gardens** around everything.\n\nThe most dangerous moment was when a creeper **exploded** behind me near a cliff. I almost fell into lava! That experience taught me to always stay **alert** and never let my guard down.\n\nI've defeated hundreds of mobs, explored dozens of caves, and collected more resources than I could ever use. The **satisfaction** of surviving this long in Hardcore is **incredible**.\n\nMy next goal is to find a stronghold and **defeat** the Ender Dragon. It will be the ultimate test of everything I've prepared. One mistake could end 200 days of **progress** forever.",
+    "transcript_zh": "我现在已经在Minecraft极限模式中存活了200天！回顾我的旅程，我从一无所有开始，现在拥有一个设施完善的基地，有农场和附魔装备。\n\n我的基地从一个简单的泥洞发展成了一个巨大的建筑群。我有一栋主屋、一个谷仓、一个经验值农场、储藏室，以及周围美丽的花园。\n\n最危险的时刻是当一只苦力怕在悬崖边的我身后爆炸。我差点掉进岩浆！那次经历教会了我要始终保持警觉，永远不放松警惕。\n\n我打败了数百只怪物，探索了数十个洞穴，收集了比我能用的还多的资源。在极限模式中存活这么久的满足感是难以置信的。\n\n我的下一个目标是找到要塞并打败末影龙。这将是对我所有准备的终极考验。一个错误就可能永远终结200天的进度。",
+    "highlight_words": [
+      "journey",
+      "massive",
+      "exploded",
+      "satisfaction",
+      "defeat"
+    ],
+    "xp_reward": 20
+  },
+  "segments": [
+    {
+      "sort_order": 0,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I have now survived 200 days in Minecraft Hardcore mode! Looking back at my **journey**, I started with nothing and now have a fully **established** base with farms and enchanted gear.",
+      "sentence_zh": "我现在已经在Minecraft极限模式中存活了200天！回顾我的旅程，我从一无所有开始，现在拥有一个设施完善的基地，有农场和附魔装备。",
+      "blank_word": "journey",
+      "distractors": [
+        "permanent",
+        "approached",
+        "attempted"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    },
+    {
+      "sort_order": 1,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "My base has grown from a simple dirt hole to a **massive** compound with multiple buildings. I have a main house, a barn, an XP farm, storage rooms, and beautiful **gardens** around everything.",
+      "sentence_zh": "我的基地从一个简单的泥洞发展成了一个巨大的建筑群。我有一栋主屋、一个谷仓、一个经验值农场、储藏室，以及周围美丽的花园。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "comprehension",
+      "quiz_payload": {
+        "prompt": "What happened in this paragraph?",
+        "options": [
+          "My base has grown from a simple dirt hole to a massive compo...",
+          "The player went to sleep in a village",
+          "Nothing interesting happened today",
+          "The player decided to quit the game"
+        ],
+        "correct": 0
+      }
+    },
+    {
+      "sort_order": 2,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "The most dangerous moment was when a creeper **exploded** behind me near a cliff. I almost fell into lava! That experience taught me to always stay **alert** and never let my guard down.",
+      "sentence_zh": "最危险的时刻是当一只苦力怕在悬崖边的我身后爆炸。我差点掉进岩浆！那次经历教会了我要始终保持警觉，永远不放松警惕。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "word_match",
+      "quiz_payload": {
+        "pairs": [
+          {
+            "word": "exploded",
+            "definition": "Burst apart violently"
+          },
+          {
+            "word": "alert",
+            "definition": "A word related to alert"
+          },
+          {
+            "word": "exploded",
+            "definition": "Burst apart violently"
+          }
+        ],
+        "shuffled_defs": [
+          "A word related to alert",
+          "Burst apart violently",
+          "Burst apart violently"
+        ]
+      }
+    },
+    {
+      "sort_order": 3,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I've defeated hundreds of mobs, explored dozens of caves, and collected more resources than I could ever use. The **satisfaction** of surviving this long in Hardcore is **incredible**.",
+      "sentence_zh": "我打败了数百只怪物，探索了数十个洞穴，收集了比我能用的还多的资源。在极限模式中存活这么久的满足感是难以置信的。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "sentence_order",
+      "quiz_payload": {
+        "sentences": [
+          "First action happened.",
+          "Then the next step followed.",
+          "Finally the result occurred.",
+          "The task was complete."
+        ],
+        "correct_order": [
+          0,
+          1,
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "sort_order": 4,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "My next goal is to find a stronghold and **defeat** the Ender Dragon. It will be the ultimate test of everything I've prepared. One mistake could end 200 days of **progress** forever.",
+      "sentence_zh": "我的下一个目标是找到要塞并打败末影龙。这将是对我所有准备的终极考验。一个错误就可能永远终结200天的进度。",
+      "blank_word": "defeat",
+      "distractors": [
+        "equipment",
+        "approached",
+        "fortunate"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    }
+  ],
+  "question": {
+    "kind": "mcq",
+    "prompt": "What is the player's next goal after surviving 200 days?",
+    "payload": {
+      "options": [
+        "To find a stronghold and defeat the Ender Dragon",
+        "To build a bigger house",
+        "To start a new world",
+        "To find more diamonds"
+      ],
+      "correct": 0
+    },
+    "xp_reward": 10,
+    "sort_order": 0
+  }
+}

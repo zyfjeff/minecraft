@@ -1,0 +1,107 @@
+{
+  "course": {
+    "id": "minecraft-6-making-friends",
+    "kind": "listening",
+    "title": "Making Friends?",
+    "description": "Learn English with Minecraft — Episode 6. 5 curated listening segments with cloze quizzes.",
+    "difficulty": 2,
+    "est_minutes": 8,
+    "xp_reward": 55,
+    "unlock_level": 1,
+    "source_label": "Learn English with Minecraft — Ep. 6",
+    "source_url": "https://www.youtube.com/watch?v=Ddf6ok5GXoo",
+    "source_license": "youtube-embed",
+    "sort_order": 6,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "video_segment",
+    "title": "Learn English with Minecraft #6 - Making Friends?",
+    "yt_video_id": "Ddf6ok5GXoo",
+    "yt_start_sec": 0,
+    "yt_end_sec": 964,
+    "transcript_en": "Hello and welcome back to learning English with Minecraft my name is Kenzo and in this series I teach English while playing Minecraft and it looks like there's a zombie in our garden right here get out of here get out of my garden if you watched my last video then you know that I died and lost everything that I had I dyed while searching for diamonds underground and lost everything so I respawned in the village and I had to find my way back home well I built some new tools and re-equipped myself after dying in the last episode I felt a little bit defeated and I don't really want to go back underground and search for diamonds again and to be honest I since the beginning of this series have felt a little bit lonely I built this house all by myself I've gone exploring caves by myself I've gone Sailing by myself I've had to do everything all by myself so in this video I am going on a quest to find a companion whether it be a wolf or a pig or a chicken or even a fish I'm going to find something to befriend let's see what I have that I could give to an animal I have some wheat I think that sheep like wheat and also maybe cows I have a seed which I could give to a um what else I don't have any bones dogs like bones but I don't have any I have carrots as well I think that pigs like carrots more carrots all right let's go search for a companion are there any fish down here not you oh no I'm almost dead I forgot to eat food regain my strength the creatures in Minecraft like to dance around these days when there are a lot of little fish we call them a school of fish school of fish there are some bunnies are there any animals here that want to be my friend there's a horse hmm I think that horses like apples and right now I don't have any apples hello chicken do you want to be my friend I'm going to give him some seeds some seeds here you go and now he loves me we're Buddies I'm going to call him Egbert is his name I'm going to take Egbert back home wherever that is I'm a little bit lost I think this way no this way this way hmm yeah there's the there's the tip let's go Eggbert let's go I'm taking Egbert back to the house with oh no come on Egbert come on Egbert is a little bit slow but it's almost there you see Egbert you see this is my house this is where I live that house is where I am taking you okay Eggbert so now it's time we have to across across the river swim swim Egbert is swimming he's flapping his wings Egbert swims really slow you know you can do it Egbert come on come on you can do it oh no There's a Zombie down there in the river right there I can see him he's holding a trident Egbert is all by himself out there okay I'm going to kill the zombie I die I did it Egbert it's safe now let's go an egg I got an egg all right let's go let's go let's go come on Egbert come on almost come on Egbert yay Egbert is here I'm going to close the doors I'm going to close the doors there you go all right Egbert welcome to the house so I have two name tags two name tags these name tags can be used to name things like Eggbert I want to use one of these name tags to name Eggbert but in order to use a name tag first I need an anvil and to build an anvil I need a lot of let's see how much iron I have now I have 30 iron I don't know if 30 iron is enough or not let's see I'll need three iron blocks iron blocks in order to build an anvil so each block each block of iron takes nine iron ingots and now one one two three one two three oh I am one iron ingot short I just need one more iron ingot to put right here one short I guess right now I'm going to sleep and in the morning I'll go get one iron ingot somewhere so for now I'm going to sleep all right see you later Egbert I'm going to look for iron see you later all right it's time to find one block of iron I'm just gonna go down here I think that I will definitely find some iron down here I'm going to continue digging this all the way to the bottom of the world and maybe along the way I'll find some to finish building my anvil so oh here we are this this right here this is bedrock and Bedrock is at the very bottom of the so that means I am at the bottom of the I can't go down any further so here I'm going to dig a tunnel this way I haven't seen any iron I think I might be too deep to find iron I'm going to go back up a little bit I've been here several times now and I know that I've seen Iron here there is some iron there we go all right I've got some iron and now I'm going back up I'm back up to my house so I can build the Anvil all right and back up the long staircase all right it's night time I'm going to smelt the iron into iron ingots and while it's melting I'll sleep let's see do I have any sticks but I can build some I'm going to build more torches with sticks and coal and now now I'm going to light up all of this island with torches a skeleton I remember what skeletons did to me in the last video no forgiveness for skeletons some carrots I'm going to eat some of these carrots our farm is producing a lot of food I'm going to pick up this bone right because I think in the future I will want a dog I'm placing all of these torches so that this island in the night will be all lit if this island is lit up in the night monsters won't spawn here so I'm placing all these torches to make this area this island more safe in the I think that I'm going to plant bamboo all around the outside of this island like a huge wall of bamboo all right the iron has to be done yep iron so now one two three blocks of iron and one two three four iron ingots makes an anvil anvils can do lots of different things but right now I'm just using the Anvil to make my name tag so I am naming you Eggbert so I will type e g b e r t right here and now I have a name tag called Eggbert that I can give to this chicken there you go Egbert now this chicken is officially named Eggbert hello Eggbert I feel much better now that I have a friend in this world Eggbert so I'm going to end this video right if you liked this video you could click the like button or subscribe to my channel by clicking up here and if you want to continue learning you could watch my last video by clicking down here thank you so much for watching and I will see you in the next video see ya",
+    "transcript_zh": "",
+    "highlight_words": [
+      "zombie",
+      "chicken",
+      "build",
+      "building",
+      "anvil"
+    ],
+    "xp_reward": 20
+  },
+  "segments": [
+    {
+      "start_sec": 13,
+      "end_sec": 28,
+      "sentence_en": "And it looks like there's a zombie in our garden right here get out of here get.",
+      "sentence_zh": "",
+      "blank_word": "zombie",
+      "distractors": [
+        "pumpkin",
+        "forest",
+        "playing"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 119,
+      "end_sec": 131,
+      "sentence_en": "It be a wolf or a pig or a chicken or even a fish I'm going to find something to befriend let's.",
+      "sentence_zh": "",
+      "blank_word": "chicken",
+      "distractors": [
+        "eclipse",
+        "helmet",
+        "zombie"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 491,
+      "end_sec": 505,
+      "sentence_en": "But in order to use a name tag first I need an anvil and to build an anvil I need a lot.",
+      "sentence_zh": "",
+      "blank_word": "build",
+      "distractors": [
+        "magic",
+        "fortune",
+        "button"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 614,
+      "end_sec": 629,
+      "sentence_en": "The way to the bottom of the world and maybe along the way I'll find some to finish building my anvil.",
+      "sentence_zh": "",
+      "blank_word": "building",
+      "distractors": [
+        "nightfall",
+        "pirate",
+        "future"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 871,
+      "end_sec": 884,
+      "sentence_en": "Two three four iron ingots makes an anvil anvils can do lots of different things but right now I'm just using the.",
+      "sentence_zh": "",
+      "blank_word": "anvil",
+      "distractors": [
+        "hammer",
+        "bracelet",
+        "dogs"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    }
+  ]
+}

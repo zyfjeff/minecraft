@@ -1,0 +1,65 @@
+{
+  "course": {
+    "id": "minecraft-minecraft-easy-mob-xp-farm-tutorial-1-21-without-m",
+    "kind": "listening",
+    "title": "Minecraft: EASY MOB XP FARM TUTORIAL! 1.21 (Without Mob Spawner)",
+    "description": "Learn English with Minecraft — Episode 23. 2 curated listening segments with cloze quizzes.",
+    "difficulty": 1,
+    "est_minutes": 5,
+    "xp_reward": 40,
+    "unlock_level": 1,
+    "source_label": "Learn English with Minecraft — Ep. 23",
+    "source_url": "https://www.youtube.com/watch?v=AuAt9zR1sDM",
+    "source_license": "youtube-embed",
+    "sort_order": 23,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "video_segment",
+    "title": "Minecraft: EASY MOB XP FARM TUTORIAL! 1.21 (Without Mob Spawner)",
+    "yt_video_id": "AuAt9zR1sDM",
+    "yt_start_sec": 0,
+    "yt_end_sec": 72,
+    "transcript_en": "Got you. Got you. Got you. hey, hey. Let's",
+    "transcript_zh": "这是一个简单的怪物经验值农场教程，适用于Minecraft 1.21版本，不需要使用刷怪笼。",
+    "highlight_words": [],
+    "xp_reward": 20
+  },
+  "segments": [
+    {
+      "start_sec": 1,
+      "end_sec": 4,
+      "sentence_en": "Got you. Got you. Got you.",
+      "sentence_zh": "抓到你了。抓到你了。抓到你了。",
+      "blank_word": "",
+      "distractors": [],
+      "qtype": "none",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 71,
+      "end_sec": 72,
+      "sentence_en": "Hey, hey. Let's.",
+      "sentence_zh": "嘿，嘿。让我们开始。",
+      "blank_word": "",
+      "distractors": [],
+      "qtype": "none",
+      "quiz_payload": null
+    }
+  ],
+  "question": {
+    "kind": "mcq",
+    "prompt": "What type of farm is this tutorial about?",
+    "payload": {
+      "options": [
+        "A mob XP farm without spawner",
+        "A crop farm",
+        "An iron golem farm",
+        "A fishing farm"
+      ],
+      "correct": 0
+    },
+    "xp_reward": 10
+  }
+}

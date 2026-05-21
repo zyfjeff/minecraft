@@ -1,0 +1,155 @@
+{
+  "course": {
+    "id": "reading-minecraft-hardcore-live-upgrading-to-diamond",
+    "kind": "reading",
+    "title": "Learn English with Minecraft Hardcore LIVE - Upgrading to DIAMOND  💎 — Reading",
+    "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore LIVE - Upgrading to DIAMOND  💎\" — 5 reading segments with mixed quizzes.",
+    "difficulty": 3,
+    "est_minutes": 8,
+    "xp_reward": 50,
+    "unlock_level": 3,
+    "thumbnail_key": "reading",
+    "source_label": "Based on Learn English with Minecraft — Ep. 5",
+    "source_url": "https://www.youtube.com/watch?v=5GkSh-z9hIY",
+    "source_license": "youtube-embed",
+    "sort_order": 105,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "reading_passage",
+    "title": "Learn English with Minecraft Hardcore LIVE - Upgrading to DIAMOND  💎 — Reading Practice",
+    "passage_md": "Today my goal was to upgrade all my iron tools and armor to **diamond**. This requires finding many diamond ore blocks deep underground at the **lowest** levels of the world.\n\nI used my Fortune III pickaxe which makes each diamond ore drop **multiple** diamonds instead of just one. This enchantment is incredibly **efficient** for rare resource gathering.\n\nMining at Y-level -59 was dangerous but **productive**. I found three veins of diamonds within an hour! Lava pools were the biggest threat — one wrong step and I'd lose **everything**.\n\nWith thirty-five diamonds collected, I crafted a full set of diamond armor, a sword, and a pickaxe. The **transformation** from iron to diamond gear made me feel much more **confident**.\n\nDiamond tools are much more **durable** than iron — they last over 1500 uses compared to iron's 250. With unbreaking enchantments, they'll last **practically** forever.",
+    "transcript_zh": "今天我的目标是把所有铁质工具和盔甲升级为钻石。这需要在世界最低层级的深地下找到很多钻石矿块。\n\n我使用了时运III镐，让每个钻石矿掉落多颗钻石而不是只有一颗。这个附魔对收集稀有资源非常高效。\n\n在Y坐标-59挖矿很危险但很有收获。一小时内我找到了三脉钻石！岩浆池是最大的威胁——走错一步就会失去一切。\n\n收集了三十五颗钻石后，我制作了一整套钻石盔甲、一把剑和一把镐。从铁质装备到钻石装备的转变让我感觉自信多了。\n\n钻石工具比铁质的耐用得多——它们能使用超过1500次，而铁的只有250次。加上耐久附魔，它们实际上能永远使用。",
+    "highlight_words": [
+      "diamond",
+      "multiple",
+      "productive",
+      "transformation",
+      "durable"
+    ],
+    "xp_reward": 20
+  },
+  "segments": [
+    {
+      "sort_order": 0,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "Today my goal was to upgrade all my iron tools and armor to **diamond**. This requires finding many diamond ore blocks deep underground at the **lowest** levels of the world.",
+      "sentence_zh": "今天我的目标是把所有铁质工具和盔甲升级为钻石。这需要在世界最低层级的深地下找到很多钻石矿块。",
+      "blank_word": "diamond",
+      "distractors": [
+        "creature",
+        "dangerous",
+        "scattered"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    },
+    {
+      "sort_order": 1,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I used my Fortune III pickaxe which makes each diamond ore drop **multiple** diamonds instead of just one. This enchantment is incredibly **efficient** for rare resource gathering.",
+      "sentence_zh": "我使用了时运III镐，让每个钻石矿掉落多颗钻石而不是只有一颗。这个附魔对收集稀有资源非常高效。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "comprehension",
+      "quiz_payload": {
+        "prompt": "What happened in this paragraph?",
+        "options": [
+          "I used my Fortune III pickaxe which makes each diamond ore d...",
+          "The player went to sleep in a village",
+          "Nothing interesting happened today",
+          "The player decided to quit the game"
+        ],
+        "correct": 0
+      }
+    },
+    {
+      "sort_order": 2,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "Mining at Y-level -59 was dangerous but **productive**. I found three veins of diamonds within an hour! Lava pools were the biggest threat — one wrong step and I'd lose **everything**.",
+      "sentence_zh": "在Y坐标-59挖矿很危险但很有收获。一小时内我找到了三脉钻石！岩浆池是最大的威胁——走错一步就会失去一切。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "word_match",
+      "quiz_payload": {
+        "pairs": [
+          {
+            "word": "productive",
+            "definition": "A word related to productive"
+          },
+          {
+            "word": "everything",
+            "definition": "A word related to everything"
+          },
+          {
+            "word": "productive",
+            "definition": "A word related to productive"
+          }
+        ],
+        "shuffled_defs": [
+          "A word related to productive",
+          "A word related to everything",
+          "A word related to productive"
+        ]
+      }
+    },
+    {
+      "sort_order": 3,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "With thirty-five diamonds collected, I crafted a full set of diamond armor, a sword, and a pickaxe. The **transformation** from iron to diamond gear made me feel much more **confident**.",
+      "sentence_zh": "收集了三十五颗钻石后，我制作了一整套钻石盔甲、一把剑和一把镐。从铁质装备到钻石装备的转变让我感觉自信多了。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "sentence_order",
+      "quiz_payload": {
+        "sentences": [
+          "First action happened.",
+          "Then the next step followed.",
+          "Finally the result occurred.",
+          "The task was complete."
+        ],
+        "correct_order": [
+          0,
+          1,
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "sort_order": 4,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "Diamond tools are much more **durable** than iron — they last over 1500 uses compared to iron's 250. With unbreaking enchantments, they'll last **practically** forever.",
+      "sentence_zh": "钻石工具比铁质的耐用得多——它们能使用超过1500次，而铁的只有250次。加上耐久附魔，它们实际上能永远使用。",
+      "blank_word": "durable",
+      "distractors": [
+        "fortress",
+        "mysterious",
+        "ancient"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    }
+  ],
+  "question": {
+    "kind": "mcq",
+    "prompt": "How many uses does a diamond tool have compared to iron?",
+    "payload": {
+      "options": [
+        "Over 1500 vs iron's 250",
+        "500 vs iron's 100",
+        "2000 vs iron's 500",
+        "1000 vs iron's 400"
+      ],
+      "correct": 0
+    },
+    "xp_reward": 10,
+    "sort_order": 0
+  }
+}

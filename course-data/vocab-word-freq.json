@@ -1,0 +1,2938 @@
+{
+  "total_unique": 2105,
+  "total_filtered": 2001,
+  "mc_words_count": 188,
+  "general_words_count": 1151,
+  "mc_words": [
+    {
+      "word": "iron",
+      "count": 778,
+      "isMC": true,
+      "episodes": 33
+    },
+    {
+      "word": "chest",
+      "count": 575,
+      "isMC": true,
+      "episodes": 40
+    },
+    {
+      "word": "diamond",
+      "count": 562,
+      "isMC": true,
+      "episodes": 33
+    },
+    {
+      "word": "bamboo",
+      "count": 474,
+      "isMC": true,
+      "episodes": 18
+    },
+    {
+      "word": "boat",
+      "count": 390,
+      "isMC": true,
+      "episodes": 20
+    },
+    {
+      "word": "nether",
+      "count": 389,
+      "isMC": true,
+      "episodes": 18
+    },
+    {
+      "word": "stone",
+      "count": 385,
+      "isMC": true,
+      "episodes": 32
+    },
+    {
+      "word": "pickaxe",
+      "count": 338,
+      "isMC": true,
+      "episodes": 29
+    },
+    {
+      "word": "jump",
+      "count": 336,
+      "isMC": true,
+      "episodes": 32
+    },
+    {
+      "word": "glass",
+      "count": 292,
+      "isMC": true,
+      "episodes": 21
+    },
+    {
+      "word": "farm",
+      "count": 289,
+      "isMC": true,
+      "episodes": 22
+    },
+    {
+      "word": "redstone",
+      "count": 271,
+      "isMC": true,
+      "episodes": 20
+    },
+    {
+      "word": "torch",
+      "count": 264,
+      "isMC": true,
+      "episodes": 28
+    },
+    {
+      "word": "block",
+      "count": 263,
+      "isMC": true,
+      "episodes": 26
+    },
+    {
+      "word": "skeleton",
+      "count": 261,
+      "isMC": true,
+      "episodes": 25
+    },
+    {
+      "word": "netherite",
+      "count": 256,
+      "isMC": true,
+      "episodes": 10
+    },
+    {
+      "word": "zombie",
+      "count": 254,
+      "isMC": true,
+      "episodes": 29
+    },
+    {
+      "word": "villager",
+      "count": 254,
+      "isMC": true,
+      "episodes": 13
+    },
+    {
+      "word": "wood",
+      "count": 249,
+      "isMC": true,
+      "episodes": 28
+    },
+    {
+      "word": "dirt",
+      "count": 247,
+      "isMC": true,
+      "episodes": 17
+    },
+    {
+      "word": "sword",
+      "count": 240,
+      "isMC": true,
+      "episodes": 26
+    },
+    {
+      "word": "portal",
+      "count": 222,
+      "isMC": true,
+      "episodes": 17
+    },
+    {
+      "word": "enchanting",
+      "count": 219,
+      "isMC": true,
+      "episodes": 18
+    },
+    {
+      "word": "gold",
+      "count": 219,
+      "isMC": true,
+      "episodes": 17
+    },
+    {
+      "word": "armor",
+      "count": 208,
+      "isMC": true,
+      "episodes": 25
+    },
+    {
+      "word": "creeper",
+      "count": 197,
+      "isMC": true,
+      "episodes": 21
+    },
+    {
+      "word": "level",
+      "count": 195,
+      "isMC": true,
+      "episodes": 17
+    },
+    {
+      "word": "button",
+      "count": 194,
+      "isMC": true,
+      "episodes": 35
+    },
+    {
+      "word": "coal",
+      "count": 190,
+      "isMC": true,
+      "episodes": 22
+    },
+    {
+      "word": "cave",
+      "count": 182,
+      "isMC": true,
+      "episodes": 16
+    },
+    {
+      "word": "smithing",
+      "count": 180,
+      "isMC": true,
+      "episodes": 10
+    },
+    {
+      "word": "village",
+      "count": 174,
+      "isMC": true,
+      "episodes": 12
+    },
+    {
+      "word": "map",
+      "count": 171,
+      "isMC": true,
+      "episodes": 18
+    },
+    {
+      "word": "spider",
+      "count": 170,
+      "isMC": true,
+      "episodes": 21
+    },
+    {
+      "word": "ender",
+      "count": 167,
+      "isMC": true,
+      "episodes": 10
+    },
+    {
+      "word": "sand",
+      "count": 163,
+      "isMC": true,
+      "episodes": 12
+    },
+    {
+      "word": "shovel",
+      "count": 155,
+      "isMC": true,
+      "episodes": 18
+    },
+    {
+      "word": "cobblestone",
+      "count": 153,
+      "isMC": true,
+      "episodes": 15
+    },
+    {
+      "word": "trap",
+      "count": 150,
+      "isMC": true,
+      "episodes": 8
+    },
+    {
+      "word": "bow",
+      "count": 140,
+      "isMC": true,
+      "episodes": 13
+    },
+    {
+      "word": "crafting",
+      "count": 135,
+      "isMC": true,
+      "episodes": 19
+    },
+    {
+      "word": "swim",
+      "count": 132,
+      "isMC": true,
+      "episodes": 20
+    },
+    {
+      "word": "enderman",
+      "count": 128,
+      "isMC": true,
+      "episodes": 19
+    },
+    {
+      "word": "sheep",
+      "count": 126,
+      "isMC": true,
+      "episodes": 12
+    },
+    {
+      "word": "obsidian",
+      "count": 125,
+      "isMC": true,
+      "episodes": 7
+    },
+    {
+      "word": "lapis",
+      "count": 121,
+      "isMC": true,
+      "episodes": 18
+    },
+    {
+      "word": "planks",
+      "count": 115,
+      "isMC": true,
+      "episodes": 13
+    },
+    {
+      "word": "enchant",
+      "count": 115,
+      "isMC": true,
+      "episodes": 13
+    },
+    {
+      "word": "furnace",
+      "count": 113,
+      "isMC": true,
+      "episodes": 16
+    },
+    {
+      "word": "fence",
+      "count": 111,
+      "isMC": true,
+      "episodes": 9
+    },
+    {
+      "word": "horse",
+      "count": 108,
+      "isMC": true,
+      "episodes": 6
+    },
+    {
+      "word": "blaze",
+      "count": 104,
+      "isMC": true,
+      "episodes": 5
+    },
+    {
+      "word": "door",
+      "count": 103,
+      "isMC": true,
+      "episodes": 13
+    },
+    {
+      "word": "cod",
+      "count": 101,
+      "isMC": true,
+      "episodes": 4
+    },
+    {
+      "word": "dragon",
+      "count": 98,
+      "isMC": true,
+      "episodes": 6
+    },
+    {
+      "word": "wheat",
+      "count": 97,
+      "isMC": true,
+      "episodes": 15
+    },
+    {
+      "word": "rail",
+      "count": 93,
+      "isMC": true,
+      "episodes": 7
+    },
+    {
+      "word": "cherry",
+      "count": 92,
+      "isMC": true,
+      "episodes": 9
+    },
+    {
+      "word": "helmet",
+      "count": 87,
+      "isMC": true,
+      "episodes": 15
+    },
+    {
+      "word": "bucket",
+      "count": 85,
+      "isMC": true,
+      "episodes": 9
+    },
+    {
+      "word": "magma",
+      "count": 78,
+      "isMC": true,
+      "episodes": 4
+    },
+    {
+      "word": "brewing",
+      "count": 77,
+      "isMC": true,
+      "episodes": 5
+    },
+    {
+      "word": "quartz",
+      "count": 74,
+      "isMC": true,
+      "episodes": 3
+    },
+    {
+      "word": "bread",
+      "count": 73,
+      "isMC": true,
+      "episodes": 12
+    },
+    {
+      "word": "smelting",
+      "count": 72,
+      "isMC": true,
+      "episodes": 12
+    },
+    {
+      "word": "soul",
+      "count": 72,
+      "isMC": true,
+      "episodes": 4
+    },
+    {
+      "word": "leggings",
+      "count": 68,
+      "isMC": true,
+      "episodes": 11
+    },
+    {
+      "word": "boots",
+      "count": 62,
+      "isMC": true,
+      "episodes": 11
+    },
+    {
+      "word": "biome",
+      "count": 61,
+      "isMC": true,
+      "episodes": 5
+    },
+    {
+      "word": "crossbow",
+      "count": 59,
+      "isMC": true,
+      "episodes": 6
+    },
+    {
+      "word": "leather",
+      "count": 59,
+      "isMC": true,
+      "episodes": 10
+    },
+    {
+      "word": "cow",
+      "count": 58,
+      "isMC": true,
+      "episodes": 6
+    },
+    {
+      "word": "ingot",
+      "count": 58,
+      "isMC": true,
+      "episodes": 10
+    },
+    {
+      "word": "stronghold",
+      "count": 55,
+      "isMC": true,
+      "episodes": 3
+    },
+    {
+      "word": "rod",
+      "count": 55,
+      "isMC": true,
+      "episodes": 5
+    },
+    {
+      "word": "fortress",
+      "count": 53,
+      "isMC": true,
+      "episodes": 6
+    },
+    {
+      "word": "compass",
+      "count": 52,
+      "isMC": true,
+      "episodes": 5
+    },
+    {
+      "word": "shield",
+      "count": 51,
+      "isMC": true,
+      "episodes": 5
+    },
+    {
+      "word": "drop",
+      "count": 51,
+      "isMC": true,
+      "episodes": 15
+    },
+    {
+      "word": "piston",
+      "count": 50,
+      "isMC": true,
+      "episodes": 4
+    },
+    {
+      "word": "axe",
+      "count": 50,
+      "isMC": true,
+      "episodes": 8
+    },
+    {
+      "word": "clay",
+      "count": 50,
+      "isMC": true,
+      "episodes": 1
+    },
+    {
+      "word": "inventory",
+      "count": 49,
+      "isMC": true,
+      "episodes": 13
+    },
+    {
+      "word": "gate",
+      "count": 48,
+      "isMC": true,
+      "episodes": 7
+    },
+    {
+      "word": "string",
+      "count": 47,
+      "isMC": true,
+      "episodes": 8
+    },
+    {
+      "word": "chicken",
+      "count": 47,
+      "isMC": true,
+      "episodes": 8
+    },
+    {
+      "word": "apple",
+      "count": 46,
+      "isMC": true,
+      "episodes": 6
+    },
+    {
+      "word": "emerald",
+      "count": 46,
+      "isMC": true,
+      "episodes": 5
+    },
+    {
+      "word": "salmon",
+      "count": 46,
+      "isMC": true,
+      "episodes": 5
+    },
+    {
+      "word": "lantern",
+      "count": 44,
+      "isMC": true,
+      "episodes": 10
+    },
+    {
+      "word": "bone",
+      "count": 43,
+      "isMC": true,
+      "episodes": 4
+    },
+    {
+      "word": "gunpowder",
+      "count": 42,
+      "isMC": true,
+      "episodes": 6
+    },
+    {
+      "word": "spawn",
+      "count": 40,
+      "isMC": true,
+      "episodes": 10
+    },
+    {
+      "word": "phantom",
+      "count": 40,
+      "isMC": true,
+      "episodes": 2
+    },
+    {
+      "word": "witch",
+      "count": 39,
+      "isMC": true,
+      "episodes": 5
+    },
+    {
+      "word": "gravel",
+      "count": 38,
+      "isMC": true,
+      "episodes": 9
+    },
+    {
+      "word": "smelt",
+      "count": 36,
+      "isMC": true,
+      "episodes": 9
+    },
+    {
+      "word": "kelp",
+      "count": 36,
+      "isMC": true,
+      "episodes": 1
+    },
+    {
+      "word": "anvil",
+      "count": 35,
+      "isMC": true,
+      "episodes": 5
+    },
+    {
+      "word": "amethyst",
+      "count": 35,
+      "isMC": true,
+      "episodes": 5
+    },
+    {
+      "word": "pig",
+      "count": 35,
+      "isMC": true,
+      "episodes": 5
+    },
+    {
+      "word": "parrot",
+      "count": 34,
+      "isMC": true,
+      "episodes": 4
+    },
+    {
+      "word": "drowned",
+      "count": 32,
+      "isMC": true,
+      "episodes": 6
+    },
+    {
+      "word": "experience",
+      "count": 32,
+      "isMC": true,
+      "episodes": 5
+    },
+    {
+      "word": "ladder",
+      "count": 31,
+      "isMC": true,
+      "episodes": 2
+    },
+    {
+      "word": "lead",
+      "count": 31,
+      "isMC": true,
+      "episodes": 5
+    },
+    {
+      "word": "copper",
+      "count": 29,
+      "isMC": true,
+      "episodes": 6
+    },
+    {
+      "word": "arrow",
+      "count": 28,
+      "isMC": true,
+      "episodes": 6
+    },
+    {
+      "word": "slab",
+      "count": 28,
+      "isMC": true,
+      "episodes": 4
+    },
+    {
+      "word": "flint",
+      "count": 27,
+      "isMC": true,
+      "episodes": 5
+    },
+    {
+      "word": "squid",
+      "count": 27,
+      "isMC": true,
+      "episodes": 6
+    },
+    {
+      "word": "dispenser",
+      "count": 27,
+      "isMC": true,
+      "episodes": 2
+    },
+    {
+      "word": "slime",
+      "count": 26,
+      "isMC": true,
+      "episodes": 3
+    },
+    {
+      "word": "dock",
+      "count": 25,
+      "isMC": true,
+      "episodes": 4
+    },
+    {
+      "word": "saddle",
+      "count": 25,
+      "isMC": true,
+      "episodes": 6
+    },
+    {
+      "word": "hoe",
+      "count": 24,
+      "isMC": true,
+      "episodes": 3
+    },
+    {
+      "word": "smoker",
+      "count": 22,
+      "isMC": true,
+      "episodes": 1
+    },
+    {
+      "word": "pearl",
+      "count": 22,
+      "isMC": true,
+      "episodes": 5
+    },
+    {
+      "word": "cat",
+      "count": 21,
+      "isMC": true,
+      "episodes": 4
+    },
+    {
+      "word": "cartography",
+      "count": 21,
+      "isMC": true,
+      "episodes": 2
+    },
+    {
+      "word": "sapling",
+      "count": 20,
+      "isMC": true,
+      "episodes": 4
+    },
+    {
+      "word": "carrot",
+      "count": 20,
+      "isMC": true,
+      "episodes": 3
+    },
+    {
+      "word": "potato",
+      "count": 19,
+      "isMC": true,
+      "episodes": 6
+    },
+    {
+      "word": "mushroom",
+      "count": 18,
+      "isMC": true,
+      "episodes": 2
+    },
+    {
+      "word": "potion",
+      "count": 17,
+      "isMC": true,
+      "episodes": 4
+    },
+    {
+      "word": "wither",
+      "count": 17,
+      "isMC": true,
+      "episodes": 2
+    },
+    {
+      "word": "shelter",
+      "count": 16,
+      "isMC": true,
+      "episodes": 1
+    },
+    {
+      "word": "spyglass",
+      "count": 16,
+      "isMC": true,
+      "episodes": 2
+    },
+    {
+      "word": "barrel",
+      "count": 16,
+      "isMC": true,
+      "episodes": 2
+    },
+    {
+      "word": "golem",
+      "count": 15,
+      "isMC": true,
+      "episodes": 4
+    },
+    {
+      "word": "stack",
+      "count": 15,
+      "isMC": true,
+      "episodes": 4
+    },
+    {
+      "word": "sugarcane",
+      "count": 15,
+      "isMC": true,
+      "episodes": 4
+    },
+    {
+      "word": "steel",
+      "count": 15,
+      "isMC": true,
+      "episodes": 3
+    },
+    {
+      "word": "trident",
+      "count": 15,
+      "isMC": true,
+      "episodes": 4
+    },
+    {
+      "word": "steak",
+      "count": 14,
+      "isMC": true,
+      "episodes": 3
+    },
+    {
+      "word": "tame",
+      "count": 13,
+      "isMC": true,
+      "episodes": 2
+    },
+    {
+      "word": "health",
+      "count": 12,
+      "isMC": true,
+      "episodes": 5
+    },
+    {
+      "word": "piglin",
+      "count": 12,
+      "isMC": true,
+      "episodes": 3
+    },
+    {
+      "word": "crimson",
+      "count": 12,
+      "isMC": true,
+      "episodes": 3
+    },
+    {
+      "word": "cake",
+      "count": 12,
+      "isMC": true,
+      "episodes": 1
+    },
+    {
+      "word": "bat",
+      "count": 10,
+      "isMC": true,
+      "episodes": 3
+    },
+    {
+      "word": "dripstone",
+      "count": 10,
+      "isMC": true,
+      "episodes": 2
+    },
+    {
+      "word": "lever",
+      "count": 10,
+      "isMC": true,
+      "episodes": 2
+    },
+    {
+      "word": "shears",
+      "count": 10,
+      "isMC": true,
+      "episodes": 2
+    },
+    {
+      "word": "elytra",
+      "count": 9,
+      "isMC": true,
+      "episodes": 2
+    },
+    {
+      "word": "mobs",
+      "count": 9,
+      "isMC": true,
+      "episodes": 3
+    },
+    {
+      "word": "fletching",
+      "count": 9,
+      "isMC": true,
+      "episodes": 2
+    },
+    {
+      "word": "panda",
+      "count": 9,
+      "isMC": true,
+      "episodes": 2
+    },
+    {
+      "word": "bee",
+      "count": 9,
+      "isMC": true,
+      "episodes": 3
+    },
+    {
+      "word": "pumpkin",
+      "count": 9,
+      "isMC": true,
+      "episodes": 2
+    },
+    {
+      "word": "tnt",
+      "count": 9,
+      "isMC": true,
+      "episodes": 2
+    },
+    {
+      "word": "ghast",
+      "count": 9,
+      "isMC": true,
+      "episodes": 1
+    },
+    {
+      "word": "hostile",
+      "count": 9,
+      "isMC": true,
+      "episodes": 1
+    },
+    {
+      "word": "respawn",
+      "count": 7,
+      "isMC": true,
+      "episodes": 2
+    },
+    {
+      "word": "beetroot",
+      "count": 7,
+      "isMC": true,
+      "episodes": 1
+    },
+    {
+      "word": "splash",
+      "count": 7,
+      "isMC": true,
+      "episodes": 2
+    },
+    {
+      "word": "observer",
+      "count": 6,
+      "isMC": true,
+      "episodes": 1
+    },
+    {
+      "word": "loom",
+      "count": 6,
+      "isMC": true,
+      "episodes": 2
+    },
+    {
+      "word": "survival",
+      "count": 6,
+      "isMC": true,
+      "episodes": 2
+    },
+    {
+      "word": "difficulty",
+      "count": 6,
+      "isMC": true,
+      "episodes": 1
+    },
+    {
+      "word": "hunger",
+      "count": 6,
+      "isMC": true,
+      "episodes": 2
+    },
+    {
+      "word": "breed",
+      "count": 6,
+      "isMC": true,
+      "episodes": 2
+    },
+    {
+      "word": "melon",
+      "count": 6,
+      "isMC": true,
+      "episodes": 2
+    },
+    {
+      "word": "plank",
+      "count": 6,
+      "isMC": true,
+      "episodes": 2
+    },
+    {
+      "word": "trapdoor",
+      "count": 6,
+      "isMC": true,
+      "episodes": 1
+    },
+    {
+      "word": "ravine",
+      "count": 4,
+      "isMC": true,
+      "episodes": 1
+    },
+    {
+      "word": "stair",
+      "count": 4,
+      "isMC": true,
+      "episodes": 2
+    },
+    {
+      "word": "dolphin",
+      "count": 3,
+      "isMC": true,
+      "episodes": 1
+    },
+    {
+      "word": "daylight",
+      "count": 3,
+      "isMC": true,
+      "episodes": 1
+    },
+    {
+      "word": "grindstone",
+      "count": 3,
+      "isMC": true,
+      "episodes": 1
+    },
+    {
+      "word": "wolf",
+      "count": 3,
+      "isMC": true,
+      "episodes": 1
+    },
+    {
+      "word": "seed",
+      "count": 3,
+      "isMC": true,
+      "episodes": 1
+    },
+    {
+      "word": "pillager",
+      "count": 3,
+      "isMC": true,
+      "episodes": 1
+    },
+    {
+      "word": "ocelot",
+      "count": 3,
+      "isMC": true,
+      "episodes": 1
+    },
+    {
+      "word": "sprint",
+      "count": 3,
+      "isMC": true,
+      "episodes": 1
+    },
+    {
+      "word": "ore",
+      "count": 3,
+      "isMC": true,
+      "episodes": 1
+    },
+    {
+      "word": "repeater",
+      "count": 3,
+      "isMC": true,
+      "episodes": 1
+    },
+    {
+      "word": "firework",
+      "count": 3,
+      "isMC": true,
+      "episodes": 1
+    },
+    {
+      "word": "honey",
+      "count": 3,
+      "isMC": true,
+      "episodes": 1
+    },
+    {
+      "word": "blast",
+      "count": 3,
+      "isMC": true,
+      "episodes": 1
+    },
+    {
+      "word": "mangrove",
+      "count": 3,
+      "isMC": true,
+      "episodes": 1
+    },
+    {
+      "word": "mansion",
+      "count": 3,
+      "isMC": true,
+      "episodes": 1
+    },
+    {
+      "word": "breeding",
+      "count": 3,
+      "isMC": true,
+      "episodes": 1
+    },
+    {
+      "word": "warden",
+      "count": 3,
+      "isMC": true,
+      "episodes": 1
+    },
+    {
+      "word": "sneak",
+      "count": 1,
+      "isMC": true,
+      "episodes": 1
+    },
+    {
+      "word": "hopper",
+      "count": 1,
+      "isMC": true,
+      "episodes": 1
+    },
+    {
+      "word": "detector",
+      "count": 1,
+      "isMC": true,
+      "episodes": 1
+    },
+    {
+      "word": "sandstone",
+      "count": 1,
+      "isMC": true,
+      "episodes": 1
+    }
+  ],
+  "general_words": [
+    {
+      "word": "let's",
+      "count": 2196,
+      "isMC": false,
+      "episodes": 48
+    },
+    {
+      "word": "i'll",
+      "count": 1867,
+      "isMC": false,
+      "episodes": 49
+    },
+    {
+      "word": "build",
+      "count": 1407,
+      "isMC": false,
+      "episodes": 48
+    },
+    {
+      "word": "it's",
+      "count": 1351,
+      "isMC": false,
+      "episodes": 50
+    },
+    {
+      "word": "video",
+      "count": 842,
+      "isMC": false,
+      "episodes": 49
+    },
+    {
+      "word": "there's",
+      "count": 734,
+      "isMC": false,
+      "episodes": 48
+    },
+    {
+      "word": "music",
+      "count": 660,
+      "isMC": false,
+      "episodes": 50
+    },
+    {
+      "word": "diamonds",
+      "count": 627,
+      "isMC": false,
+      "episodes": 27
+    },
+    {
+      "word": "whoa",
+      "count": 531,
+      "isMC": false,
+      "episodes": 44
+    },
+    {
+      "word": "mine",
+      "count": 458,
+      "isMC": false,
+      "episodes": 28
+    },
+    {
+      "word": "don't",
+      "count": 448,
+      "isMC": false,
+      "episodes": 42
+    },
+    {
+      "word": "uh-oh",
+      "count": 424,
+      "isMC": false,
+      "episodes": 26
+    },
+    {
+      "word": "i've",
+      "count": 412,
+      "isMC": false,
+      "episodes": 44
+    },
+    {
+      "word": "house",
+      "count": 397,
+      "isMC": false,
+      "episodes": 34
+    },
+    {
+      "word": "sleep",
+      "count": 369,
+      "isMC": false,
+      "episodes": 41
+    },
+    {
+      "word": "pick",
+      "count": 366,
+      "isMC": false,
+      "episodes": 36
+    },
+    {
+      "word": "torches",
+      "count": 364,
+      "isMC": false,
+      "episodes": 28
+    },
+    {
+      "word": "water",
+      "count": 362,
+      "isMC": false,
+      "episodes": 30
+    },
+    {
+      "word": "lava",
+      "count": 354,
+      "isMC": false,
+      "episodes": 27
+    },
+    {
+      "word": "fish",
+      "count": 354,
+      "isMC": false,
+      "episodes": 23
+    },
+    {
+      "word": "blocks",
+      "count": 348,
+      "isMC": false,
+      "episodes": 30
+    },
+    {
+      "word": "rails",
+      "count": 344,
+      "isMC": false,
+      "episodes": 12
+    },
+    {
+      "word": "table",
+      "count": 339,
+      "isMC": false,
+      "episodes": 25
+    },
+    {
+      "word": "building",
+      "count": 332,
+      "isMC": false,
+      "episodes": 32
+    },
+    {
+      "word": "close",
+      "count": 313,
+      "isMC": false,
+      "episodes": 42
+    },
+    {
+      "word": "built",
+      "count": 312,
+      "isMC": false,
+      "episodes": 37
+    },
+    {
+      "word": "we're",
+      "count": 311,
+      "isMC": false,
+      "episodes": 37
+    },
+    {
+      "word": "that's",
+      "count": 310,
+      "isMC": false,
+      "episodes": 38
+    },
+    {
+      "word": "inside",
+      "count": 297,
+      "isMC": false,
+      "episodes": 36
+    },
+    {
+      "word": "cool",
+      "count": 293,
+      "isMC": false,
+      "episodes": 37
+    },
+    {
+      "word": "continue",
+      "count": 289,
+      "isMC": false,
+      "episodes": 36
+    },
+    {
+      "word": "uhoh",
+      "count": 281,
+      "isMC": false,
+      "episodes": 23
+    },
+    {
+      "word": "break",
+      "count": 277,
+      "isMC": false,
+      "episodes": 31
+    },
+    {
+      "word": "staircase",
+      "count": 269,
+      "isMC": false,
+      "episodes": 26
+    },
+    {
+      "word": "morning",
+      "count": 241,
+      "isMC": false,
+      "episodes": 40
+    },
+    {
+      "word": "collect",
+      "count": 240,
+      "isMC": false,
+      "episodes": 32
+    },
+    {
+      "word": "hello",
+      "count": 231,
+      "isMC": false,
+      "episodes": 48
+    },
+    {
+      "word": "home",
+      "count": 231,
+      "isMC": false,
+      "episodes": 32
+    },
+    {
+      "word": "room",
+      "count": 228,
+      "isMC": false,
+      "episodes": 25
+    },
+    {
+      "word": "tools",
+      "count": 220,
+      "isMC": false,
+      "episodes": 24
+    },
+    {
+      "word": "name",
+      "count": 219,
+      "isMC": false,
+      "episodes": 42
+    },
+    {
+      "word": "using",
+      "count": 206,
+      "isMC": false,
+      "episodes": 34
+    },
+    {
+      "word": "open",
+      "count": 206,
+      "isMC": false,
+      "episodes": 26
+    },
+    {
+      "word": "fishing",
+      "count": 205,
+      "isMC": false,
+      "episodes": 12
+    },
+    {
+      "word": "chests",
+      "count": 200,
+      "isMC": false,
+      "episodes": 25
+    },
+    {
+      "word": "spawner",
+      "count": 192,
+      "isMC": false,
+      "episodes": 16
+    },
+    {
+      "word": "finished",
+      "count": 189,
+      "isMC": false,
+      "episodes": 27
+    },
+    {
+      "word": "potatoes",
+      "count": 188,
+      "isMC": false,
+      "episodes": 20
+    },
+    {
+      "word": "barn",
+      "count": 177,
+      "isMC": false,
+      "episodes": 12
+    },
+    {
+      "word": "search",
+      "count": 175,
+      "isMC": false,
+      "episodes": 26
+    },
+    {
+      "word": "almost",
+      "count": 174,
+      "isMC": false,
+      "episodes": 34
+    },
+    {
+      "word": "thank",
+      "count": 171,
+      "isMC": false,
+      "episodes": 42
+    },
+    {
+      "word": "surface",
+      "count": 170,
+      "isMC": false,
+      "episodes": 24
+    },
+    {
+      "word": "cart",
+      "count": 170,
+      "isMC": false,
+      "episodes": 11
+    },
+    {
+      "word": "finally",
+      "count": 168,
+      "isMC": false,
+      "episodes": 28
+    },
+    {
+      "word": "throw",
+      "count": 168,
+      "isMC": false,
+      "episodes": 23
+    },
+    {
+      "word": "sticks",
+      "count": 164,
+      "isMC": false,
+      "episodes": 26
+    },
+    {
+      "word": "roof",
+      "count": 162,
+      "isMC": false,
+      "episodes": 16
+    },
+    {
+      "word": "shoot",
+      "count": 160,
+      "isMC": false,
+      "episodes": 13
+    },
+    {
+      "word": "awesome",
+      "count": 158,
+      "isMC": false,
+      "episodes": 31
+    },
+    {
+      "word": "can't",
+      "count": 156,
+      "isMC": false,
+      "episodes": 32
+    },
+    {
+      "word": "bunch",
+      "count": 155,
+      "isMC": false,
+      "episodes": 26
+    },
+    {
+      "word": "night",
+      "count": 155,
+      "isMC": false,
+      "episodes": 28
+    },
+    {
+      "word": "digging",
+      "count": 155,
+      "isMC": false,
+      "episodes": 20
+    },
+    {
+      "word": "ground",
+      "count": 154,
+      "isMC": false,
+      "episodes": 42
+    },
+    {
+      "word": "paper",
+      "count": 154,
+      "isMC": false,
+      "episodes": 10
+    },
+    {
+      "word": "looks",
+      "count": 153,
+      "isMC": false,
+      "episodes": 33
+    },
+    {
+      "word": "powered",
+      "count": 150,
+      "isMC": false,
+      "episodes": 5
+    },
+    {
+      "word": "doors",
+      "count": 148,
+      "isMC": false,
+      "episodes": 21
+    },
+    {
+      "word": "welcome",
+      "count": 147,
+      "isMC": false,
+      "episodes": 48
+    },
+    {
+      "word": "guess",
+      "count": 146,
+      "isMC": false,
+      "episodes": 26
+    },
+    {
+      "word": "searching",
+      "count": 142,
+      "isMC": false,
+      "episodes": 26
+    },
+    {
+      "word": "skeletons",
+      "count": 141,
+      "isMC": false,
+      "episodes": 24
+    },
+    {
+      "word": "sugar",
+      "count": 141,
+      "isMC": false,
+      "episodes": 12
+    },
+    {
+      "word": "monsters",
+      "count": 139,
+      "isMC": false,
+      "episodes": 26
+    },
+    {
+      "word": "destroy",
+      "count": 136,
+      "isMC": false,
+      "episodes": 20
+    },
+    {
+      "word": "watching",
+      "count": 135,
+      "isMC": false,
+      "episodes": 41
+    },
+    {
+      "word": "always",
+      "count": 135,
+      "isMC": false,
+      "episodes": 33
+    },
+    {
+      "word": "trees",
+      "count": 134,
+      "isMC": false,
+      "episodes": 15
+    },
+    {
+      "word": "fire",
+      "count": 134,
+      "isMC": false,
+      "episodes": 19
+    },
+    {
+      "word": "trying",
+      "count": 133,
+      "isMC": false,
+      "episodes": 35
+    },
+    {
+      "word": "getting",
+      "count": 131,
+      "isMC": false,
+      "episodes": 30
+    },
+    {
+      "word": "series",
+      "count": 129,
+      "isMC": false,
+      "episodes": 33
+    },
+    {
+      "word": "push",
+      "count": 128,
+      "isMC": false,
+      "episodes": 10
+    },
+    {
+      "word": "cane",
+      "count": 127,
+      "isMC": false,
+      "episodes": 11
+    },
+    {
+      "word": "stairs",
+      "count": 127,
+      "isMC": false,
+      "episodes": 12
+    },
+    {
+      "word": "they're",
+      "count": 124,
+      "isMC": false,
+      "episodes": 28
+    },
+    {
+      "word": "enchanted",
+      "count": 123,
+      "isMC": false,
+      "episodes": 18
+    },
+    {
+      "word": "watch",
+      "count": 122,
+      "isMC": false,
+      "episodes": 26
+    },
+    {
+      "word": "subscribe",
+      "count": 121,
+      "isMC": false,
+      "episodes": 41
+    },
+    {
+      "word": "liked",
+      "count": 121,
+      "isMC": false,
+      "episodes": 40
+    },
+    {
+      "word": "leave",
+      "count": 120,
+      "isMC": false,
+      "episodes": 23
+    },
+    {
+      "word": "spiders",
+      "count": 119,
+      "isMC": false,
+      "episodes": 11
+    },
+    {
+      "word": "different",
+      "count": 118,
+      "isMC": false,
+      "episodes": 26
+    },
+    {
+      "word": "learn",
+      "count": 117,
+      "isMC": false,
+      "episodes": 39
+    },
+    {
+      "word": "food",
+      "count": 117,
+      "isMC": false,
+      "episodes": 22
+    },
+    {
+      "word": "deep",
+      "count": 117,
+      "isMC": false,
+      "episodes": 18
+    },
+    {
+      "word": "huge",
+      "count": 117,
+      "isMC": false,
+      "episodes": 30
+    },
+    {
+      "word": "enchantment",
+      "count": 114,
+      "isMC": false,
+      "episodes": 16
+    },
+    {
+      "word": "beat",
+      "count": 111,
+      "isMC": false,
+      "episodes": 27
+    },
+    {
+      "word": "windows",
+      "count": 109,
+      "isMC": false,
+      "episodes": 11
+    },
+    {
+      "word": "ingots",
+      "count": 109,
+      "isMC": false,
+      "episodes": 15
+    },
+    {
+      "word": "fences",
+      "count": 108,
+      "isMC": false,
+      "episodes": 10
+    },
+    {
+      "word": "once",
+      "count": 107,
+      "isMC": false,
+      "episodes": 23
+    },
+    {
+      "word": "goes",
+      "count": 107,
+      "isMC": false,
+      "episodes": 24
+    },
+    {
+      "word": "raining",
+      "count": 106,
+      "isMC": false,
+      "episodes": 19
+    },
+    {
+      "word": "hopefully",
+      "count": 105,
+      "isMC": false,
+      "episodes": 25
+    },
+    {
+      "word": "wait",
+      "count": 105,
+      "isMC": false,
+      "episodes": 16
+    },
+    {
+      "word": "channel",
+      "count": 105,
+      "isMC": false,
+      "episodes": 30
+    },
+    {
+      "word": "river",
+      "count": 105,
+      "isMC": false,
+      "episodes": 17
+    },
+    {
+      "word": "great",
+      "count": 104,
+      "isMC": false,
+      "episodes": 22
+    },
+    {
+      "word": "better",
+      "count": 104,
+      "isMC": false,
+      "episodes": 25
+    },
+    {
+      "word": "exploring",
+      "count": 104,
+      "isMC": false,
+      "episodes": 17
+    },
+    {
+      "word": "haven't",
+      "count": 104,
+      "isMC": false,
+      "episodes": 19
+    },
+    {
+      "word": "what's",
+      "count": 104,
+      "isMC": false,
+      "episodes": 20
+    },
+    {
+      "word": "wart",
+      "count": 101,
+      "isMC": false,
+      "episodes": 5
+    },
+    {
+      "word": "full",
+      "count": 100,
+      "isMC": false,
+      "episodes": 22
+    },
+    {
+      "word": "running",
+      "count": 99,
+      "isMC": false,
+      "episodes": 20
+    },
+    {
+      "word": "bottom",
+      "count": 99,
+      "isMC": false,
+      "episodes": 18
+    },
+    {
+      "word": "fast",
+      "count": 98,
+      "isMC": false,
+      "episodes": 24
+    },
+    {
+      "word": "seeds",
+      "count": 98,
+      "isMC": false,
+      "episodes": 10
+    },
+    {
+      "word": "slabs",
+      "count": 97,
+      "isMC": false,
+      "episodes": 9
+    },
+    {
+      "word": "villagers",
+      "count": 97,
+      "isMC": false,
+      "episodes": 10
+    },
+    {
+      "word": "trade",
+      "count": 95,
+      "isMC": false,
+      "episodes": 7
+    },
+    {
+      "word": "ancient",
+      "count": 95,
+      "isMC": false,
+      "episodes": 5
+    },
+    {
+      "word": "template",
+      "count": 95,
+      "isMC": false,
+      "episodes": 7
+    },
+    {
+      "word": "plant",
+      "count": 91,
+      "isMC": false,
+      "episodes": 10
+    },
+    {
+      "word": "bridge",
+      "count": 90,
+      "isMC": false,
+      "episodes": 13
+    },
+    {
+      "word": "dark",
+      "count": 90,
+      "isMC": false,
+      "episodes": 22
+    },
+    {
+      "word": "explore",
+      "count": 90,
+      "isMC": false,
+      "episodes": 17
+    },
+    {
+      "word": "makes",
+      "count": 90,
+      "isMC": false,
+      "episodes": 23
+    },
+    {
+      "word": "bring",
+      "count": 90,
+      "isMC": false,
+      "episodes": 19
+    },
+    {
+      "word": "power",
+      "count": 89,
+      "isMC": false,
+      "episodes": 7
+    },
+    {
+      "word": "means",
+      "count": 88,
+      "isMC": false,
+      "episodes": 22
+    },
+    {
+      "word": "carrots",
+      "count": 88,
+      "isMC": false,
+      "episodes": 13
+    },
+    {
+      "word": "plate",
+      "count": 88,
+      "isMC": false,
+      "episodes": 11
+    },
+    {
+      "word": "teach",
+      "count": 87,
+      "isMC": false,
+      "episodes": 28
+    },
+    {
+      "word": "arrows",
+      "count": 86,
+      "isMC": false,
+      "episodes": 12
+    },
+    {
+      "word": "begin",
+      "count": 86,
+      "isMC": false,
+      "episodes": 17
+    },
+    {
+      "word": "debris",
+      "count": 86,
+      "isMC": false,
+      "episodes": 4
+    },
+    {
+      "word": "potions",
+      "count": 85,
+      "isMC": false,
+      "episodes": 10
+    },
+    {
+      "word": "wooden",
+      "count": 84,
+      "isMC": false,
+      "episodes": 8
+    },
+    {
+      "word": "replace",
+      "count": 83,
+      "isMC": false,
+      "episodes": 13
+    },
+    {
+      "word": "zombies",
+      "count": 82,
+      "isMC": false,
+      "episodes": 18
+    },
+    {
+      "word": "area",
+      "count": 81,
+      "isMC": false,
+      "episodes": 19
+    },
+    {
+      "word": "shaft",
+      "count": 79,
+      "isMC": false,
+      "episodes": 9
+    },
+    {
+      "word": "safe",
+      "count": 79,
+      "isMC": false,
+      "episodes": 22
+    },
+    {
+      "word": "outside",
+      "count": 79,
+      "isMC": false,
+      "episodes": 14
+    },
+    {
+      "word": "camera",
+      "count": 78,
+      "isMC": false,
+      "episodes": 18
+    },
+    {
+      "word": "books",
+      "count": 78,
+      "isMC": false,
+      "episodes": 8
+    },
+    {
+      "word": "placed",
+      "count": 76,
+      "isMC": false,
+      "episodes": 16
+    },
+    {
+      "word": "light",
+      "count": 76,
+      "isMC": false,
+      "episodes": 18
+    },
+    {
+      "word": "breeder",
+      "count": 76,
+      "isMC": false,
+      "episodes": 6
+    },
+    {
+      "word": "check",
+      "count": 75,
+      "isMC": false,
+      "episodes": 13
+    },
+    {
+      "word": "cows",
+      "count": 75,
+      "isMC": false,
+      "episodes": 11
+    },
+    {
+      "word": "working",
+      "count": 75,
+      "isMC": false,
+      "episodes": 12
+    },
+    {
+      "word": "tunnel",
+      "count": 75,
+      "isMC": false,
+      "episodes": 8
+    },
+    {
+      "word": "stop",
+      "count": 74,
+      "isMC": false,
+      "episodes": 16
+    },
+    {
+      "word": "animals",
+      "count": 74,
+      "isMC": false,
+      "episodes": 9
+    },
+    {
+      "word": "we'll",
+      "count": 74,
+      "isMC": false,
+      "episodes": 21
+    },
+    {
+      "word": "emeralds",
+      "count": 74,
+      "isMC": false,
+      "episodes": 10
+    },
+    {
+      "word": "slate",
+      "count": 74,
+      "isMC": false,
+      "episodes": 5
+    },
+    {
+      "word": "underground",
+      "count": 73,
+      "isMC": false,
+      "episodes": 16
+    },
+    {
+      "word": "ready",
+      "count": 73,
+      "isMC": false,
+      "episodes": 19
+    },
+    {
+      "word": "future",
+      "count": 73,
+      "isMC": false,
+      "episodes": 20
+    },
+    {
+      "word": "didn't",
+      "count": 72,
+      "isMC": false,
+      "episodes": 20
+    },
+    {
+      "word": "pistons",
+      "count": 72,
+      "isMC": false,
+      "episodes": 3
+    },
+    {
+      "word": "finish",
+      "count": 71,
+      "isMC": false,
+      "episodes": 16
+    },
+    {
+      "word": "garden",
+      "count": 70,
+      "isMC": false,
+      "episodes": 9
+    },
+    {
+      "word": "click",
+      "count": 69,
+      "isMC": false,
+      "episodes": 21
+    },
+    {
+      "word": "cartographer",
+      "count": 69,
+      "isMC": false,
+      "episodes": 3
+    },
+    {
+      "word": "kill",
+      "count": 68,
+      "isMC": false,
+      "episodes": 20
+    },
+    {
+      "word": "tower",
+      "count": 67,
+      "isMC": false,
+      "episodes": 7
+    },
+    {
+      "word": "treasure",
+      "count": 67,
+      "isMC": false,
+      "episodes": 3
+    },
+    {
+      "word": "dangerous",
+      "count": 66,
+      "isMC": false,
+      "episodes": 16
+    },
+    {
+      "word": "oops",
+      "count": 66,
+      "isMC": false,
+      "episodes": 19
+    },
+    {
+      "word": "grass",
+      "count": 66,
+      "isMC": false,
+      "episodes": 10
+    },
+    {
+      "word": "walls",
+      "count": 66,
+      "isMC": false,
+      "episodes": 10
+    },
+    {
+      "word": "wool",
+      "count": 66,
+      "isMC": false,
+      "episodes": 5
+    },
+    {
+      "word": "flower",
+      "count": 66,
+      "isMC": false,
+      "episodes": 3
+    },
+    {
+      "word": "killed",
+      "count": 65,
+      "isMC": false,
+      "episodes": 19
+    },
+    {
+      "word": "nope",
+      "count": 65,
+      "isMC": false,
+      "episodes": 13
+    },
+    {
+      "word": "doing",
+      "count": 65,
+      "isMC": false,
+      "episodes": 20
+    },
+    {
+      "word": "doesn't",
+      "count": 64,
+      "isMC": false,
+      "episodes": 18
+    },
+    {
+      "word": "egbert",
+      "count": 64,
+      "isMC": false,
+      "episodes": 4
+    },
+    {
+      "word": "remember",
+      "count": 64,
+      "isMC": false,
+      "episodes": 19
+    },
+    {
+      "word": "floor",
+      "count": 64,
+      "isMC": false,
+      "episodes": 12
+    },
+    {
+      "word": "jungle",
+      "count": 63,
+      "isMC": false,
+      "episodes": 14
+    },
+    {
+      "word": "middle",
+      "count": 63,
+      "isMC": false,
+      "episodes": 9
+    },
+    {
+      "word": "eyes",
+      "count": 61,
+      "isMC": false,
+      "episodes": 8
+    },
+    {
+      "word": "faster",
+      "count": 60,
+      "isMC": false,
+      "episodes": 15
+    },
+    {
+      "word": "apples",
+      "count": 60,
+      "isMC": false,
+      "episodes": 2
+    },
+    {
+      "word": "swimming",
+      "count": 59,
+      "isMC": false,
+      "episodes": 14
+    },
+    {
+      "word": "skin",
+      "count": 59,
+      "isMC": false,
+      "episodes": 2
+    },
+    {
+      "word": "stand",
+      "count": 59,
+      "isMC": false,
+      "episodes": 8
+    },
+    {
+      "word": "lost",
+      "count": 58,
+      "isMC": false,
+      "episodes": 15
+    },
+    {
+      "word": "pigs",
+      "count": 58,
+      "isMC": false,
+      "episodes": 12
+    },
+    {
+      "word": "works",
+      "count": 58,
+      "isMC": false,
+      "episodes": 12
+    },
+    {
+      "word": "second",
+      "count": 58,
+      "isMC": false,
+      "episodes": 12
+    },
+    {
+      "word": "buckets",
+      "count": 58,
+      "isMC": false,
+      "episodes": 6
+    },
+    {
+      "word": "bookshelves",
+      "count": 58,
+      "isMC": false,
+      "episodes": 5
+    },
+    {
+      "word": "died",
+      "count": 57,
+      "isMC": false,
+      "episodes": 12
+    },
+    {
+      "word": "sound",
+      "count": 57,
+      "isMC": false,
+      "episodes": 12
+    },
+    {
+      "word": "order",
+      "count": 57,
+      "isMC": false,
+      "episodes": 12
+    },
+    {
+      "word": "cauldron",
+      "count": 57,
+      "isMC": false,
+      "episodes": 3
+    },
+    {
+      "word": "pots",
+      "count": 57,
+      "isMC": false,
+      "episodes": 2
+    },
+    {
+      "word": "unbreaking",
+      "count": 56,
+      "isMC": false,
+      "episodes": 9
+    },
+    {
+      "word": "final",
+      "count": 56,
+      "isMC": false,
+      "episodes": 16
+    },
+    {
+      "word": "moss",
+      "count": 56,
+      "isMC": false,
+      "episodes": 4
+    },
+    {
+      "word": "broke",
+      "count": 55,
+      "isMC": false,
+      "episodes": 14
+    },
+    {
+      "word": "today",
+      "count": 54,
+      "isMC": false,
+      "episodes": 19
+    },
+    {
+      "word": "went",
+      "count": 53,
+      "isMC": false,
+      "episodes": 15
+    },
+    {
+      "word": "explored",
+      "count": 53,
+      "isMC": false,
+      "episodes": 15
+    },
+    {
+      "word": "golden",
+      "count": 53,
+      "isMC": false,
+      "episodes": 11
+    },
+    {
+      "word": "picked",
+      "count": 52,
+      "isMC": false,
+      "episodes": 11
+    },
+    {
+      "word": "collected",
+      "count": 52,
+      "isMC": false,
+      "episodes": 14
+    },
+    {
+      "word": "elevator",
+      "count": 52,
+      "isMC": false,
+      "episodes": 7
+    },
+    {
+      "word": "bastion",
+      "count": 52,
+      "isMC": false,
+      "episodes": 2
+    },
+    {
+      "word": "chamber",
+      "count": 52,
+      "isMC": false,
+      "episodes": 3
+    },
+    {
+      "word": "videos",
+      "count": 51,
+      "isMC": false,
+      "episodes": 11
+    },
+    {
+      "word": "worked",
+      "count": 51,
+      "isMC": false,
+      "episodes": 7
+    },
+    {
+      "word": "rain",
+      "count": 51,
+      "isMC": false,
+      "episodes": 12
+    },
+    {
+      "word": "book",
+      "count": 51,
+      "isMC": false,
+      "episodes": 6
+    },
+    {
+      "word": "able",
+      "count": 51,
+      "isMC": false,
+      "episodes": 11
+    },
+    {
+      "word": "tall",
+      "count": 50,
+      "isMC": false,
+      "episodes": 10
+    },
+    {
+      "word": "quickly",
+      "count": 50,
+      "isMC": false,
+      "episodes": 14
+    },
+    {
+      "word": "instead",
+      "count": 50,
+      "isMC": false,
+      "episodes": 14
+    },
+    {
+      "word": "puffer",
+      "count": 50,
+      "isMC": false,
+      "episodes": 4
+    },
+    {
+      "word": "fortune",
+      "count": 49,
+      "isMC": false,
+      "episodes": 11
+    },
+    {
+      "word": "best",
+      "count": 49,
+      "isMC": false,
+      "episodes": 8
+    },
+    {
+      "word": "path",
+      "count": 49,
+      "isMC": false,
+      "episodes": 10
+    },
+    {
+      "word": "creepers",
+      "count": 49,
+      "isMC": false,
+      "episodes": 10
+    },
+    {
+      "word": "trials",
+      "count": 49,
+      "isMC": false,
+      "episodes": 2
+    },
+    {
+      "word": "looking",
+      "count": 48,
+      "isMC": false,
+      "episodes": 13
+    },
+    {
+      "word": "flesh",
+      "count": 48,
+      "isMC": false,
+      "episodes": 7
+    },
+    {
+      "word": "forgot",
+      "count": 48,
+      "isMC": false,
+      "episodes": 15
+    },
+    {
+      "word": "sailing",
+      "count": 48,
+      "isMC": false,
+      "episodes": 10
+    },
+    {
+      "word": "empty",
+      "count": 48,
+      "isMC": false,
+      "episodes": 11
+    },
+    {
+      "word": "it'll",
+      "count": 48,
+      "isMC": false,
+      "episodes": 14
+    },
+    {
+      "word": "started",
+      "count": 48,
+      "isMC": false,
+      "episodes": 15
+    },
+    {
+      "word": "normal",
+      "count": 48,
+      "isMC": false,
+      "episodes": 8
+    },
+    {
+      "word": "flowers",
+      "count": 47,
+      "isMC": false,
+      "episodes": 6
+    },
+    {
+      "word": "here's",
+      "count": 47,
+      "isMC": false,
+      "episodes": 14
+    },
+    {
+      "word": "stable",
+      "count": 47,
+      "isMC": false,
+      "episodes": 2
+    },
+    {
+      "word": "sail",
+      "count": 46,
+      "isMC": false,
+      "episodes": 7
+    },
+    {
+      "word": "tons",
+      "count": 46,
+      "isMC": false,
+      "episodes": 12
+    },
+    {
+      "word": "dropped",
+      "count": 46,
+      "isMC": false,
+      "episodes": 10
+    },
+    {
+      "word": "caught",
+      "count": 46,
+      "isMC": false,
+      "episodes": 3
+    },
+    {
+      "word": "below",
+      "count": 45,
+      "isMC": false,
+      "episodes": 12
+    },
+    {
+      "word": "across",
+      "count": 45,
+      "isMC": false,
+      "episodes": 13
+    },
+    {
+      "word": "foreign",
+      "count": 45,
+      "isMC": false,
+      "episodes": 17
+    },
+    {
+      "word": "wall",
+      "count": 45,
+      "isMC": false,
+      "episodes": 10
+    },
+    {
+      "word": "attack",
+      "count": 45,
+      "isMC": false,
+      "episodes": 8
+    },
+    {
+      "word": "support",
+      "count": 45,
+      "isMC": false,
+      "episodes": 11
+    },
+    {
+      "word": "clicking",
+      "count": 45,
+      "isMC": false,
+      "episodes": 10
+    },
+    {
+      "word": "railway",
+      "count": 45,
+      "isMC": false,
+      "episodes": 6
+    },
+    {
+      "word": "broken",
+      "count": 45,
+      "isMC": false,
+      "episodes": 13
+    },
+    {
+      "word": "dust",
+      "count": 45,
+      "isMC": false,
+      "episodes": 9
+    },
+    {
+      "word": "baby",
+      "count": 45,
+      "isMC": false,
+      "episodes": 7
+    },
+    {
+      "word": "templates",
+      "count": 45,
+      "isMC": false,
+      "episodes": 6
+    },
+    {
+      "word": "missed",
+      "count": 44,
+      "isMC": false,
+      "episodes": 12
+    },
+    {
+      "word": "sorry",
+      "count": 44,
+      "isMC": false,
+      "episodes": 12
+    },
+    {
+      "word": "placing",
+      "count": 44,
+      "isMC": false,
+      "episodes": 12
+    },
+    {
+      "word": "called",
+      "count": 44,
+      "isMC": false,
+      "episodes": 11
+    },
+    {
+      "word": "soon",
+      "count": 43,
+      "isMC": false,
+      "episodes": 17
+    },
+    {
+      "word": "fill",
+      "count": 43,
+      "isMC": false,
+      "episodes": 9
+    },
+    {
+      "word": "never",
+      "count": 43,
+      "isMC": false,
+      "episodes": 13
+    },
+    {
+      "word": "fireworks",
+      "count": 43,
+      "isMC": false,
+      "episodes": 4
+    },
+    {
+      "word": "rotten",
+      "count": 42,
+      "isMC": false,
+      "episodes": 7
+    },
+    {
+      "word": "black",
+      "count": 42,
+      "isMC": false,
+      "episodes": 4
+    },
+    {
+      "word": "ocean",
+      "count": 42,
+      "isMC": false,
+      "episodes": 8
+    },
+    {
+      "word": "spawning",
+      "count": 42,
+      "isMC": false,
+      "episodes": 9
+    },
+    {
+      "word": "soil",
+      "count": 42,
+      "isMC": false,
+      "episodes": 6
+    },
+    {
+      "word": "learning",
+      "count": 42,
+      "isMC": false,
+      "episodes": 10
+    },
+    {
+      "word": "dive",
+      "count": 42,
+      "isMC": false,
+      "episodes": 12
+    },
+    {
+      "word": "stay",
+      "count": 42,
+      "isMC": false,
+      "episodes": 13
+    },
+    {
+      "word": "planted",
+      "count": 42,
+      "isMC": false,
+      "episodes": 9
+    },
+    {
+      "word": "efficiency",
+      "count": 42,
+      "isMC": false,
+      "episodes": 5
+    },
+    {
+      "word": "watermelon",
+      "count": 42,
+      "isMC": false,
+      "episodes": 3
+    },
+    {
+      "word": "discs",
+      "count": 42,
+      "isMC": false,
+      "episodes": 2
+    },
+    {
+      "word": "cast",
+      "count": 42,
+      "isMC": false,
+      "episodes": 2
+    },
+    {
+      "word": "mountain",
+      "count": 41,
+      "isMC": false,
+      "episodes": 7
+    },
+    {
+      "word": "coming",
+      "count": 41,
+      "isMC": false,
+      "episodes": 15
+    },
+    {
+      "word": "fell",
+      "count": 41,
+      "isMC": false,
+      "episodes": 12
+    },
+    {
+      "word": "mind",
+      "count": 41,
+      "isMC": false,
+      "episodes": 8
+    },
+    {
+      "word": "bricks",
+      "count": 41,
+      "isMC": false,
+      "episodes": 4
+    },
+    {
+      "word": "logs",
+      "count": 40,
+      "isMC": false,
+      "episodes": 5
+    },
+    {
+      "word": "grow",
+      "count": 40,
+      "isMC": false,
+      "episodes": 7
+    },
+    {
+      "word": "scaffolding",
+      "count": 40,
+      "isMC": false,
+      "episodes": 3
+    },
+    {
+      "word": "hole",
+      "count": 40,
+      "isMC": false,
+      "episodes": 8
+    },
+    {
+      "word": "catch",
+      "count": 40,
+      "isMC": false,
+      "episodes": 2
+    },
+    {
+      "word": "growing",
+      "count": 39,
+      "isMC": false,
+      "episodes": 10
+    },
+    {
+      "word": "connect",
+      "count": 39,
+      "isMC": false,
+      "episodes": 7
+    },
+    {
+      "word": "connects",
+      "count": 39,
+      "isMC": false,
+      "episodes": 9
+    },
+    {
+      "word": "added",
+      "count": 39,
+      "isMC": false,
+      "episodes": 6
+    },
+    {
+      "word": "stops",
+      "count": 39,
+      "isMC": false,
+      "episodes": 10
+    },
+    {
+      "word": "tutorial",
+      "count": 39,
+      "isMC": false,
+      "episodes": 4
+    },
+    {
+      "word": "mushrooms",
+      "count": 38,
+      "isMC": false,
+      "episodes": 5
+    },
+    {
+      "word": "later",
+      "count": 38,
+      "isMC": false,
+      "episodes": 8
+    },
+    {
+      "word": "chickens",
+      "count": 38,
+      "isMC": false,
+      "episodes": 7
+    }
+  ]
+}

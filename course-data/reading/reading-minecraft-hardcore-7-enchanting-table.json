@@ -1,0 +1,130 @@
+{
+  "course": {
+    "id": "reading-minecraft-hardcore-7-enchanting-table",
+    "kind": "reading",
+    "title": "Learn English with Minecraft Hardcore #7 -  Enchanting Table — Reading",
+    "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore #7 -  Enchanting Table\" — 4 reading segments with mixed quizzes.",
+    "difficulty": 2,
+    "est_minutes": 6,
+    "xp_reward": 40,
+    "unlock_level": 2,
+    "thumbnail_key": "reading",
+    "source_label": "Based on Learn English with Minecraft — Ep. 16",
+    "source_url": "https://www.youtube.com/watch?v=oNDic1ldnvg",
+    "source_license": "youtube-embed",
+    "sort_order": 116,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "reading_passage",
+    "title": "Learn English with Minecraft Hardcore #7 -  Enchanting Table — Reading Practice",
+    "passage_md": "To enchant my tools, I needed to craft an **enchanting** table. This requires two diamonds, four obsidian blocks, and a book — all **expensive** materials to gather.\n\nMining obsidian was the hardest part. You need a diamond pickaxe and each block takes about ten seconds to break. The obsidian forms where water meets **lava** and turns it into a hard black **substance**.\n\nI placed the enchanting table in a special room and surrounded it with fifteen bookshelves. The bookshelves must have one block of air between them and the table for the **magic** to flow **properly**.\n\nMy first enchantment was Efficiency IV on my pickaxe! The enchanting table shows three **options** at different levels. Spending lapis lazuli and experience levels **activates** the enchantment.",
+    "transcript_zh": "为了给工具附魔，我需要制作一个附魔台。这需要两颗钻石、四块黑曜石和一本书——都是昂贵的材料。\n\n挖黑曜石是最难的部分。你需要钻石镐，每块大约需要十秒钟才能打破。黑曜石在水遇到岩浆并将其变成坚硬黑色物质时形成。\n\n我把附魔台放在一个特殊房间并用十五个书架环绕。书架和台子之间必须有一格空气让魔法正常流通。\n\n我的第一个附魔是给镐附的效率IV！附魔台显示三个不同等级的选项。花费青金石和经验等级激活附魔。",
+    "highlight_words": [
+      "enchanting",
+      "lava",
+      "substance",
+      "magic",
+      "activates"
+    ],
+    "xp_reward": 20
+  },
+  "segments": [
+    {
+      "sort_order": 0,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "To enchant my tools, I needed to craft an **enchanting** table. This requires two diamonds, four obsidian blocks, and a book — all **expensive** materials to gather.",
+      "sentence_zh": "为了给工具附魔，我需要制作一个附魔台。这需要两颗钻石、四块黑曜石和一本书——都是昂贵的材料。",
+      "blank_word": "enchanting",
+      "distractors": [
+        "constructed",
+        "permanent",
+        "organized"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    },
+    {
+      "sort_order": 1,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "Mining obsidian was the hardest part. You need a diamond pickaxe and each block takes about ten seconds to break. The obsidian forms where water meets **lava** and turns it into a hard black **substance**.",
+      "sentence_zh": "挖黑曜石是最难的部分。你需要钻石镐，每块大约需要十秒钟才能打破。黑曜石在水遇到岩浆并将其变成坚硬黑色物质时形成。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "comprehension",
+      "quiz_payload": {
+        "prompt": "What happened in this paragraph?",
+        "options": [
+          "Mining obsidian was the hardest part",
+          "The player went to sleep in a village",
+          "Nothing interesting happened today",
+          "The player decided to quit the game"
+        ],
+        "correct": 0
+      }
+    },
+    {
+      "sort_order": 2,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I placed the enchanting table in a special room and surrounded it with fifteen bookshelves. The bookshelves must have one block of air between them and the table for the **magic** to flow **properly**.",
+      "sentence_zh": "我把附魔台放在一个特殊房间并用十五个书架环绕。书架和台子之间必须有一格空气让魔法正常流通。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "word_match",
+      "quiz_payload": {
+        "pairs": [
+          {
+            "word": "magic",
+            "definition": "A word related to magic"
+          },
+          {
+            "word": "properly",
+            "definition": "A word related to properly"
+          },
+          {
+            "word": "magic",
+            "definition": "A word related to magic"
+          }
+        ],
+        "shuffled_defs": [
+          "A word related to magic",
+          "A word related to properly",
+          "A word related to magic"
+        ]
+      }
+    },
+    {
+      "sort_order": 3,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "My first enchantment was Efficiency IV on my pickaxe! The enchanting table shows three **options** at different levels. Spending lapis lazuli and experience levels **activates** the enchantment.",
+      "sentence_zh": "我的第一个附魔是给镐附的效率IV！附魔台显示三个不同等级的选项。花费青金石和经验等级激活附魔。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "true_false",
+      "quiz_payload": {
+        "statement": "My first enchantment was Efficiency IV on my pickaxe.",
+        "correct": true
+      }
+    }
+  ],
+  "question": {
+    "kind": "mcq",
+    "prompt": "What materials are needed to craft an enchanting table?",
+    "payload": {
+      "options": [
+        "Two diamonds, four obsidian, and a book",
+        "Three iron blocks",
+        "Five emeralds",
+        "One diamond and wood"
+      ],
+      "correct": 0
+    },
+    "xp_reward": 10,
+    "sort_order": 0
+  }
+}

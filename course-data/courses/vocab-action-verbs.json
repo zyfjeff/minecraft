@@ -1,0 +1,40 @@
+{
+  "course": {
+    "id": "vocab-action-verbs",
+    "kind": "vocabulary",
+    "title": "Action Verbs",
+    "description": "Essential action words for your Minecraft adventure.",
+    "difficulty": 3,
+    "est_minutes": 8,
+    "xp_reward": 30,
+    "unlock_level": 1,
+    "source_label": "CraftWords Vocabulary",
+    "source_url": "",
+    "source_license": "original",
+    "sort_order": 109,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "vocab_drill",
+    "title": "Action Verbs",
+    "yt_video_id": null,
+    "yt_start_sec": null,
+    "yt_end_sec": null,
+    "passage_md": null,
+    "transcript_en": null,
+    "transcript_zh": null,
+    "highlight_words": [
+      "explore",
+      "survive",
+      "collect",
+      "destroy",
+      "protect",
+      "escape",
+      "attack",
+      "harvest"
+    ],
+    "xp_reward": 30
+  },
+  "segments": []
+}

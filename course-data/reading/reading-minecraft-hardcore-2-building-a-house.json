@@ -1,0 +1,155 @@
+{
+  "course": {
+    "id": "reading-minecraft-hardcore-2-building-a-house",
+    "kind": "reading",
+    "title": "Learn English with Minecraft Hardcore #2 – Building a House — Reading",
+    "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore #2 – Building a House\" — 5 reading segments with mixed quizzes.",
+    "difficulty": 3,
+    "est_minutes": 8,
+    "xp_reward": 50,
+    "unlock_level": 3,
+    "thumbnail_key": "reading",
+    "source_label": "Based on Learn English with Minecraft — Ep. 21",
+    "source_url": "https://www.youtube.com/watch?v=FPPHtVAnh8o",
+    "source_license": "youtube-embed",
+    "sort_order": 121,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "reading_passage",
+    "title": "Learn English with Minecraft Hardcore #2 – Building a House — Reading Practice",
+    "passage_md": "After surviving my first night, I decided to build a proper **house** instead of living in a dirt hole. I gathered oak logs and **converted** them into planks for the walls and floor.\n\nI chose a flat area near a river for the **location**. Having water nearby is useful for farming and escaping from mobs. I cleared the ground and started placing the **foundation** blocks.\n\nThe walls went up quickly using oak planks. I left spaces for **windows** and placed glass panes I crafted from sand. Natural light helps you see inside without using too many **torches**.\n\nFor the roof, I used dark oak stairs to create a nice **slope**. A good roof makes your house look much better and also keeps rain sounds from being too loud **inside** your home.\n\nFinally, I added a bed, crafting table, furnace, and chest inside. I also placed a wooden door as the **entrance**. My first real house in Hardcore mode felt like a huge **accomplishment**!",
+    "transcript_zh": "在度过第一个夜晚后，我决定建一栋正式的房子而不是住在泥洞里。我收集了橡木原木并把它们转化成木板来做墙壁和地板。\n\n我选了一个靠近河流的平地作为位置。附近有水对种地和逃离怪物很有用。我清理了地面并开始放置地基方块。\n\n墙壁用橡木板很快建好了。我留了窗户的位置并放了用沙子做的玻璃板。自然光帮助你在不用太多火把的情况下看清屋内。\n\n屋顶我用了深色橡木楼梯来创造一个漂亮的斜坡。好的屋顶让房子看起来好很多，还能让雨声在屋内不那么大声。\n\n最后，我在里面放了一张床、工作台、熔炉和箱子。我还放了一扇木门作为入口。在极限模式中拥有第一栋真正的房子感觉是巨大的成就！",
+    "highlight_words": [
+      "house",
+      "foundation",
+      "windows",
+      "slope",
+      "entrance"
+    ],
+    "xp_reward": 20
+  },
+  "segments": [
+    {
+      "sort_order": 0,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "After surviving my first night, I decided to build a proper **house** instead of living in a dirt hole. I gathered oak logs and **converted** them into planks for the walls and floor.",
+      "sentence_zh": "在度过第一个夜晚后，我决定建一栋正式的房子而不是住在泥洞里。我收集了橡木原木并把它们转化成木板来做墙壁和地板。",
+      "blank_word": "house",
+      "distractors": [
+        "dangerous",
+        "valuable",
+        "enormous"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    },
+    {
+      "sort_order": 1,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I chose a flat area near a river for the **location**. Having water nearby is useful for farming and escaping from mobs. I cleared the ground and started placing the **foundation** blocks.",
+      "sentence_zh": "我选了一个靠近河流的平地作为位置。附近有水对种地和逃离怪物很有用。我清理了地面并开始放置地基方块。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "comprehension",
+      "quiz_payload": {
+        "prompt": "What happened in this paragraph?",
+        "options": [
+          "I chose a flat area near a river for the location",
+          "The player went to sleep in a village",
+          "Nothing interesting happened today",
+          "The player decided to quit the game"
+        ],
+        "correct": 0
+      }
+    },
+    {
+      "sort_order": 2,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "The walls went up quickly using oak planks. I left spaces for **windows** and placed glass panes I crafted from sand. Natural light helps you see inside without using too many **torches**.",
+      "sentence_zh": "墙壁用橡木板很快建好了。我留了窗户的位置并放了用沙子做的玻璃板。自然光帮助你在不用太多火把的情况下看清屋内。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "word_match",
+      "quiz_payload": {
+        "pairs": [
+          {
+            "word": "windows",
+            "definition": "A word related to windows"
+          },
+          {
+            "word": "torches",
+            "definition": "A word related to torches"
+          },
+          {
+            "word": "windows",
+            "definition": "A word related to windows"
+          }
+        ],
+        "shuffled_defs": [
+          "A word related to windows",
+          "A word related to windows",
+          "A word related to torches"
+        ]
+      }
+    },
+    {
+      "sort_order": 3,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "For the roof, I used dark oak stairs to create a nice **slope**. A good roof makes your house look much better and also keeps rain sounds from being too loud **inside** your home.",
+      "sentence_zh": "屋顶我用了深色橡木楼梯来创造一个漂亮的斜坡。好的屋顶让房子看起来好很多，还能让雨声在屋内不那么大声。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "sentence_order",
+      "quiz_payload": {
+        "sentences": [
+          "First action happened.",
+          "Then the next step followed.",
+          "Finally the result occurred.",
+          "The task was complete."
+        ],
+        "correct_order": [
+          0,
+          1,
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "sort_order": 4,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "Finally, I added a bed, crafting table, furnace, and chest inside. I also placed a wooden door as the **entrance**. My first real house in Hardcore mode felt like a huge **accomplishment**!",
+      "sentence_zh": "最后，我在里面放了一张床、工作台、熔炉和箱子。我还放了一扇木门作为入口。在极限模式中拥有第一栋真正的房子感觉是巨大的成就！",
+      "blank_word": "entrance",
+      "distractors": [
+        "dangerous",
+        "treasure",
+        "prevented"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    }
+  ],
+  "question": {
+    "kind": "mcq",
+    "prompt": "Why did the player choose a location near a river?",
+    "payload": {
+      "options": [
+        "For farming and escaping from mobs",
+        "For fishing only",
+        "Because it looks pretty",
+        "To find diamonds"
+      ],
+      "correct": 0
+    },
+    "xp_reward": 10,
+    "sort_order": 0
+  }
+}

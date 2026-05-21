@@ -1,0 +1,155 @@
+{
+  "course": {
+    "id": "reading-minecraft-hardcore-10-happy-ghast",
+    "kind": "reading",
+    "title": "Learn English with Minecraft Hardcore #10 - Happy Ghast — Reading",
+    "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore #10 - Happy Ghast\" — 5 reading segments with mixed quizzes.",
+    "difficulty": 3,
+    "est_minutes": 8,
+    "xp_reward": 50,
+    "unlock_level": 3,
+    "thumbnail_key": "reading",
+    "source_label": "Based on Learn English with Minecraft — Ep. 13",
+    "source_url": "https://www.youtube.com/watch?v=P_Q-hrtVMUw",
+    "source_license": "youtube-embed",
+    "sort_order": 113,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "reading_passage",
+    "title": "Learn English with Minecraft Hardcore #10 - Happy Ghast — Reading Practice",
+    "passage_md": "Today I discovered a **ghast** in the Nether — a large, floating white creature that shoots **fireballs** at you. I needed to be very careful not to get knocked off the cliffs by its explosive attacks.\n\nI tried to deflect the fireballs back at the ghast by hitting them with my **sword**. After several attempts, I finally managed to hit one back and **defeated** the ghast. It dropped a ghast tear.\n\nThe Nether is full of **dangerous** creatures, but the ghast is one of the scariest because it attacks from far away. You need to watch the sky **constantly** while exploring.\n\nAfter collecting the ghast tear, I built a small **platform** to keep myself safe from the lava below. The Nether fortress was **visible** in the distance, waiting to be explored.\n\nI decided to head home through my **portal** before more ghasts appeared. My inventory was full of useful **materials** from this dangerous adventure in the Nether.",
+    "transcript_zh": "今天我在下界发现了一只恶魂——一种会向你发射火球的大型白色浮空生物。我需要非常小心不被它的爆炸性攻击从悬崖上击落。\n\n我试着用剑把火球打回恶魂身上。经过几次尝试，我终于成功把一个火球打回去并打败了恶魂。它掉落了一个恶魂之泪。\n\n下界充满了危险的生物，但恶魂是最可怕的之一，因为它从远处攻击。在探索时你需要不断注意天空。\n\n收集了恶魂之泪后，我建了一个小平台让自己远离下面的岩浆。下界堡垒在远处可见，等待被探索。\n\n我决定在更多恶魂出现之前通过传送门回家。我的背包里装满了这次下界危险冒险中获得的有用材料。",
+    "highlight_words": [
+      "ghast",
+      "fireballs",
+      "sword",
+      "dangerous",
+      "portal"
+    ],
+    "xp_reward": 20
+  },
+  "segments": [
+    {
+      "sort_order": 0,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "Today I discovered a **ghast** in the Nether — a large, floating white creature that shoots **fireballs** at you. I needed to be very careful not to get knocked off the cliffs by its explosive attacks.",
+      "sentence_zh": "今天我在下界发现了一只恶魂——一种会向你发射火球的大型白色浮空生物。我需要非常小心不被它的爆炸性攻击从悬崖上击落。",
+      "blank_word": "ghast",
+      "distractors": [
+        "abandoned",
+        "corridor",
+        "constructed"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    },
+    {
+      "sort_order": 1,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I tried to deflect the fireballs back at the ghast by hitting them with my **sword**. After several attempts, I finally managed to hit one back and **defeated** the ghast. It dropped a ghast tear.",
+      "sentence_zh": "我试着用剑把火球打回恶魂身上。经过几次尝试，我终于成功把一个火球打回去并打败了恶魂。它掉落了一个恶魂之泪。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "comprehension",
+      "quiz_payload": {
+        "prompt": "What happened in this paragraph?",
+        "options": [
+          "I tried to deflect the fireballs back at the ghast by hittin...",
+          "The player went to sleep in a village",
+          "Nothing interesting happened today",
+          "The player decided to quit the game"
+        ],
+        "correct": 0
+      }
+    },
+    {
+      "sort_order": 2,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "The Nether is full of **dangerous** creatures, but the ghast is one of the scariest because it attacks from far away. You need to watch the sky **constantly** while exploring.",
+      "sentence_zh": "下界充满了危险的生物，但恶魂是最可怕的之一，因为它从远处攻击。在探索时你需要不断注意天空。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "word_match",
+      "quiz_payload": {
+        "pairs": [
+          {
+            "word": "dangerous",
+            "definition": "Something that can hurt you"
+          },
+          {
+            "word": "constantly",
+            "definition": "All the time without stopping"
+          },
+          {
+            "word": "dangerous",
+            "definition": "Something that can hurt you"
+          }
+        ],
+        "shuffled_defs": [
+          "Something that can hurt you",
+          "Something that can hurt you",
+          "All the time without stopping"
+        ]
+      }
+    },
+    {
+      "sort_order": 3,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "After collecting the ghast tear, I built a small **platform** to keep myself safe from the lava below. The Nether fortress was **visible** in the distance, waiting to be explored.",
+      "sentence_zh": "收集了恶魂之泪后，我建了一个小平台让自己远离下面的岩浆。下界堡垒在远处可见，等待被探索。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "sentence_order",
+      "quiz_payload": {
+        "sentences": [
+          "First action happened.",
+          "Then the next step followed.",
+          "Finally the result occurred.",
+          "The task was complete."
+        ],
+        "correct_order": [
+          0,
+          1,
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "sort_order": 4,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I decided to head home through my **portal** before more ghasts appeared. My inventory was full of useful **materials** from this dangerous adventure in the Nether.",
+      "sentence_zh": "我决定在更多恶魂出现之前通过传送门回家。我的背包里装满了这次下界危险冒险中获得的有用材料。",
+      "blank_word": "portal",
+      "distractors": [
+        "collected",
+        "dangerous",
+        "prevented"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    }
+  ],
+  "question": {
+    "kind": "mcq",
+    "prompt": "What useful item did the ghast drop when defeated?",
+    "payload": {
+      "options": [
+        "A ghast tear for potions",
+        "A diamond",
+        "A golden apple",
+        "An enchanted book"
+      ],
+      "correct": 0
+    },
+    "xp_reward": 10,
+    "sort_order": 0
+  }
+}

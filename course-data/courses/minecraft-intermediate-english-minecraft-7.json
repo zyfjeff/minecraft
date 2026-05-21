@@ -1,0 +1,102 @@
+{
+  "course": {
+    "id": "minecraft-intermediate-english-minecraft-7",
+    "kind": "listening",
+    "title": "Intermediate English - Minecraft #7",
+    "description": "Learn English with Minecraft — Episode 45. 5 curated listening segments with cloze quizzes.",
+    "difficulty": 2,
+    "est_minutes": 5,
+    "xp_reward": 55,
+    "unlock_level": 1,
+    "source_label": "Learn English with Minecraft — Ep. 45",
+    "source_url": "https://www.youtube.com/watch?v=DB5FNXyS2R4",
+    "source_license": "youtube-embed",
+    "sort_order": 45,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "video_segment",
+    "title": "Intermediate English - Minecraft #7",
+    "yt_video_id": "DB5FNXyS2R4",
+    "yt_start_sec": 0,
+    "yt_end_sec": 630,
+    "transcript_en": "Uhoh a spawner hello and welcome back to learn English with Minecraft my name is Kenzo and this is English from the ground up and today we're going to be doing some building mhm I'm going to build a lava generator and in order to build a lava generator I'm going to need a bunch of iron so right now I'm going to go explore some caves in search of iron I have my fortune 2 pickaxe I have some food oh I'll need torches oh here are 64 torches I'll take those I'll take some wood planks um I'll take an arrow for my bow um I'll pick up some more cooked fish okay and I think I have everything I'll need so let's go explore some caves oh it's night time first I'm going to sleep sleep close okay it's morning now let's go search for some caves oh there's a zombie that's burning die he's burning in the sunlight okay ah I'm going to run from that zombie I want to start exploring over in this direction I haven't really explored over here oh is this a cave no oh I think I found a cave yeah let's explore this cave and search for some iron I need torches light we have light there's some coal and there's some copper but no whoa why is there one single grass block here ah skeletons die wow wow this netherite sword is really powerful it killed that skeleton in one hit wow another skeleton ah die torch whoa more skeletons there are tons of skeletons in this cave wow look at all of these arrows on the ground iron okay I'm going to use my fortune 2 pickaxe to mine the what look it's another grass whoa uh-oh a spawner it's a skeleton spawner block and die die I'm going to place torches torches torches okay I placed torches all around the spawner that should stop the skeletons from spawning I'll put one out here as well whoa more skeletons wow it's a skeleton spawner I can turn this skeleton spawner into another XP farm so I'm not going to destroy this spawner no but let's look inside these chests open a music disc there's some rotten flesh some bones some Gunpowder a name tag and some bread okay I'll pick up all of this stuff let's break this chest break and let's open this chest open some string some rotten flesh one wheat and some Diamond horse armor okay I'll break this chest and pick everything up I'm going to build a staircase up to the surface right here so I can find this skeleton spawner again in the future so I'm going to build a staircase oh listen it sounds like it's raining up there on the surface oh there's some dirt here I think we've reached the surface surface okay yep it's raining oh wow my house is right there this skeleton spawner is really close to awesome okay I built this tall Stone Tower and I'll Place one torch on top there we go all right now I'll be able to find the skeleton spawner again in the future let's go down the staircase all right and we're back here at the spawner there's some iron right here I'll use my fortune 2 pickaxe and let's mine it we're up to 14 iron okay that's a good start let's continue searching for iron whoa this cave looks huge oh I can see some iron down there okay I'm going to head down there Iron whoa more iron some drip Stone to build whoa I'm hearing Thunder up there it's really loud okay in order to build the lava generator I'm also going to need some of this drip Stone there we go I picked up a bunch of drip Stone uh 37 drip Stone okay let's continue searching for iron oh some more iron die die ooh I need to eat I'm going to eat some fish and he oh there's some iron all right let's mine this iron okay now we're up to 44 iron zombie ah Die Another zombie more iron oh another zombie die zombie Die Another zombie is there a zombie spawner around thunder sounds really scary hopefully my house isn't on fire up there torch aha more iron okay I'll throw away um five gravel so now I've picked up a whole stack of 64 amethyst I need to throw something away um I'll throw away eight rotten flesh and I'll pick up some of these amethyst okay I picked up 44 amethyst cool ooh oh uh-oh another spawner a spider spawner torch torch torch torch torch torch okay once again I plac torches all around the spider spawner this spawner doesn't have any chests next to it no it's just the spawner I already have a spider XP farm so I'm going to destroy this spawner uh here we go break all right diamonds wow I placed a torch right here but I didn't see these diamonds I'll throw away a bow all right let's mine these diamonds just one okay there was only one diamond block but I got two diamonds from it I want to find a little bit more iron but I only have six torches left wow tons of iron here wow so much iron so much iron let's see oh I can't even pick up all this iron I guess I'll throw seven gunpowder all right now I'm going to start heading back up to the surface back up up creeper shoot oh I ah phew I'm following my torches back home I need to eat oh I'm back here at my skeleton spawner all right where's my staircase oh here it is all right back up the staircase and we're back home that's",
+    "transcript_zh": "",
+    "highlight_words": [
+      "explore",
+      "skeleton",
+      "build",
+      "spawner"
+    ],
+    "xp_reward": 20
+  },
+  "segments": [
+    {
+      "start_sec": 27,
+      "end_sec": 40,
+      "sentence_en": "I'm going to need a bunch of iron so right now I'm going to go explore some caves in search of iron.",
+      "sentence_zh": "",
+      "blank_word": "explore",
+      "distractors": [
+        "mineral",
+        "skeleton",
+        "build"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 149,
+      "end_sec": 164,
+      "sentence_en": "This netherite sword is really powerful it killed that skeleton in one hit wow another skeleton ah die.",
+      "sentence_zh": "",
+      "blank_word": "skeleton",
+      "distractors": [
+        "mountain",
+        "bracelet",
+        "torches"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 261,
+      "end_sec": 274,
+      "sentence_en": "And some Diamond horse armor okay I'll break this chest and pick everything up I'm going to build a staircase up to.",
+      "sentence_zh": "",
+      "blank_word": "build",
+      "distractors": [
+        "sand",
+        "hammer",
+        "fire"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 331,
+      "end_sec": 346,
+      "sentence_en": "Now I'll be able to find the skeleton spawner again in the future let's go down the staircase all right and we're.",
+      "sentence_zh": "",
+      "blank_word": "spawner",
+      "distractors": [
+        "castle",
+        "kingdom",
+        "future"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 413,
+      "end_sec": 426,
+      "sentence_en": "I need to eat I'm going to eat some fish and he oh there's some iron all right let's mine this iron.",
+      "sentence_zh": "",
+      "blank_word": "",
+      "distractors": [],
+      "qtype": "none",
+      "quiz_payload": null
+    }
+  ]
+}

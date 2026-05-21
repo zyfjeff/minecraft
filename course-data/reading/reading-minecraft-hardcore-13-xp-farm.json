@@ -1,0 +1,153 @@
+{
+  "course": {
+    "id": "reading-minecraft-hardcore-13-xp-farm",
+    "kind": "reading",
+    "title": "Learn English with Minecraft Hardcore #13 - XP Farm — Reading",
+    "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore #13 - XP Farm\" — 5 reading segments with mixed quizzes.",
+    "difficulty": 3,
+    "est_minutes": 8,
+    "xp_reward": 50,
+    "unlock_level": 3,
+    "thumbnail_key": "reading",
+    "source_label": "Based on Learn English with Minecraft — Ep. 8",
+    "source_url": "https://www.youtube.com/watch?v=Ia8jk7HqtiY",
+    "source_license": "youtube-embed",
+    "sort_order": 108,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "reading_passage",
+    "title": "Learn English with Minecraft Hardcore #13 - XP Farm — Reading Practice",
+    "passage_md": "I decided to build an XP farm to collect **experience** points faster. Experience is needed for **enchanting** tools and weapons, making them much more powerful.\n\nThe design uses a dark room where **hostile** mobs spawn naturally. They fall through a hole and take damage from the drop, leaving them with very little **health** for easy kills.\n\nI built the spawning platform high above the ground using lots of **cobblestone**. The water channels push the mobs toward the central drop **shaft** where they fall down.\n\nAfter hours of building, the farm was finally working! Zombies, skeletons, and spiders were falling down and I could **defeat** them with one hit. The XP orbs flew toward me **rapidly**.\n\nWithin minutes I gained enough levels to enchant my diamond sword with **Sharpness** V. This XP farm will be **essential** for keeping all my gear enchanted throughout the game.",
+    "transcript_zh": "我决定建一个经验值农场来更快地收集经验值。经验值是附魔工具和武器所需要的，能让它们变得更强大。\n\n这个设计使用一个暗室让敌对生物自然生成。它们通过一个洞掉落并受到坠落伤害，只剩下很少的血量方便击杀。\n\n我在高处用大量圆石建造了生成平台。水流把怪物推向中央坠落通道让它们掉下去。\n\n经过数小时的建造，农场终于运作了！僵尸、骷髅和蜘蛛不断掉落，我一击就能打败它们。经验球快速地飞向我。\n\n几分钟内我就获得了足够的等级来给钻石剑附魔锋利V。这个经验值农场对于在整个游戏中保持装备附魔至关重要。",
+    "highlight_words": [
+      "experience",
+      "enchanting",
+      "hostile",
+      "cobblestone",
+      "essential"
+    ],
+    "xp_reward": 20
+  },
+  "segments": [
+    {
+      "sort_order": 0,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I decided to build an XP farm to collect **experience** points faster. Experience is needed for **enchanting** tools and weapons, making them much more powerful.",
+      "sentence_zh": "我决定建一个经验值农场来更快地收集经验值。经验值是附魔工具和武器所需要的，能让它们变得更强大。",
+      "blank_word": "experience",
+      "distractors": [
+        "collected",
+        "mysterious",
+        "mountain"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    },
+    {
+      "sort_order": 1,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "The design uses a dark room where **hostile** mobs spawn naturally. They fall through a hole and take damage from the drop, leaving them with very little **health** for easy kills.",
+      "sentence_zh": "这个设计使用一个暗室让敌对生物自然生成。它们通过一个洞掉落并受到坠落伤害，只剩下很少的血量方便击杀。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "comprehension",
+      "quiz_payload": {
+        "prompt": "What happened in this paragraph?",
+        "options": [
+          "The design uses a dark room where hostile mobs spawn natural...",
+          "The player went to sleep in a village",
+          "Nothing interesting happened today",
+          "The player decided to quit the game"
+        ],
+        "correct": 0
+      }
+    },
+    {
+      "sort_order": 2,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I built the spawning platform high above the ground using lots of **cobblestone**. The water channels push the mobs toward the central drop **shaft** where they fall down.",
+      "sentence_zh": "我在高处用大量圆石建造了生成平台。水流把怪物推向中央坠落通道让它们掉下去。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "word_match",
+      "quiz_payload": {
+        "pairs": [
+          {
+            "word": "cobblestone",
+            "definition": "Rough grey building stone"
+          },
+          {
+            "word": "shaft",
+            "definition": "A word related to shaft"
+          },
+          {
+            "word": "cobblestone",
+            "definition": "Rough grey building stone"
+          }
+        ],
+        "shuffled_defs": [
+          "Rough grey building stone",
+          "A word related to shaft",
+          "Rough grey building stone"
+        ]
+      }
+    },
+    {
+      "sort_order": 3,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "After hours of building, the farm was finally working! Zombies, skeletons, and spiders were falling down and I could **defeat** them with one hit. The XP orbs flew toward me **rapidly**.",
+      "sentence_zh": "经过数小时的建造，农场终于运作了！僵尸、骷髅和蜘蛛不断掉落，我一击就能打败它们。经验球快速地飞向我。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "sentence_order",
+      "quiz_payload": {
+        "sentences": [
+          "After hours of building, the farm was finally working.",
+          "Zombies, skeletons, and spiders were falling down and I could defeat them with one hit.",
+          "The XP orbs flew toward me rapidly."
+        ],
+        "correct_order": [
+          0,
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "sort_order": 4,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "Within minutes I gained enough levels to enchant my diamond sword with **Sharpness** V. This XP farm will be **essential** for keeping all my gear enchanted throughout the game.",
+      "sentence_zh": "几分钟内我就获得了足够的等级来给钻石剑附魔锋利V。这个经验值农场对于在整个游戏中保持装备附魔至关重要。",
+      "blank_word": "Sharpness",
+      "distractors": [
+        "attempted",
+        "destroyed",
+        "corridor"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    }
+  ],
+  "question": {
+    "kind": "mcq",
+    "prompt": "What is the main purpose of an XP farm?",
+    "payload": {
+      "options": [
+        "To collect experience points for enchanting",
+        "To grow food",
+        "To find diamonds",
+        "To breed animals"
+      ],
+      "correct": 0
+    },
+    "xp_reward": 10,
+    "sort_order": 0
+  }
+}

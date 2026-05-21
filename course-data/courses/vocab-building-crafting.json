@@ -1,0 +1,35 @@
+{
+  "course": {
+    "id": "vocab-building-crafting",
+    "kind": "vocabulary",
+    "title": "Building & Crafting",
+    "description": "Master the vocabulary of construction and crafting in Minecraft.",
+    "difficulty": 2,
+    "est_minutes": 12,
+    "xp_reward": 30,
+    "unlock_level": 1,
+    "thumbnail_key": "vocabulary",
+    "source_label": "CraftWords Vocabulary",
+    "source_url": "",
+    "source_license": "original",
+    "sort_order": 201,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "vocab_drill",
+    "title": "Building & Crafting",
+    "highlight_words": [
+      "build",
+      "wall",
+      "shelter",
+      "furnace",
+      "anvil",
+      "upgrade",
+      "repair",
+      "design"
+    ],
+    "xp_reward": 30
+  },
+  "segments": []
+}

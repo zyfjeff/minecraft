@@ -1,0 +1,130 @@
+{
+  "course": {
+    "id": "reading-minecraft-hardcore-5-building-a-chest-room",
+    "kind": "reading",
+    "title": "Learn English with Minecraft Hardcore #5 - Building a Chest Room — Reading",
+    "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore #5 - Building a Chest Room\" — 4 reading segments with mixed quizzes.",
+    "difficulty": 2,
+    "est_minutes": 6,
+    "xp_reward": 40,
+    "unlock_level": 2,
+    "thumbnail_key": "reading",
+    "source_label": "Based on Learn English with Minecraft — Ep. 18",
+    "source_url": "https://www.youtube.com/watch?v=8wJSC4i1-nw",
+    "source_license": "youtube-embed",
+    "sort_order": 118,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "reading_passage",
+    "title": "Learn English with Minecraft Hardcore #5 - Building a Chest Room — Reading Practice",
+    "passage_md": "My inventory was always full, so I decided to build a dedicated **storage** room. Organization is important in Minecraft because you collect so many different **materials** over time.\n\nI dug out a large underground room and filled it with double chests. I **organized** them by category: ores and metals, wood and plants, food, weapons, and **miscellaneous** items.\n\nI made item frames and placed them on each chest to show what's inside without **opening** them. This visual system makes finding specific items much **faster** when you're in a hurry.\n\nThe chest room connects to my main house through a **corridor**. I added redstone lamps along the ceiling for automatic lighting. Now I always know exactly where **everything** is stored!",
+    "transcript_zh": "我的背包总是满的，所以我决定建一个专门的储藏室。在Minecraft中整理很重要，因为你随时间会收集很多不同的材料。\n\n我挖出了一个大型地下房间并放满了双箱子。我按类别整理它们：矿石和金属、木材和植物、食物、武器和杂项物品。\n\n我做了物品展示框放在每个箱子上来展示里面的东西而不需要打开它们。这个视觉系统让你在赶时间时找特定物品快得多。\n\n储藏室通过一条走廊连接到主屋。我在天花板上加了红石灯来自动照明。现在我总是确切知道所有东西存放在哪里！",
+    "highlight_words": [
+      "storage",
+      "organized",
+      "materials",
+      "corridor",
+      "faster"
+    ],
+    "xp_reward": 20
+  },
+  "segments": [
+    {
+      "sort_order": 0,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "My inventory was always full, so I decided to build a dedicated **storage** room. Organization is important in Minecraft because you collect so many different **materials** over time.",
+      "sentence_zh": "我的背包总是满的，所以我决定建一个专门的储藏室。在Minecraft中整理很重要，因为你随时间会收集很多不同的材料。",
+      "blank_word": "storage",
+      "distractors": [
+        "organized",
+        "permanent",
+        "structure"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    },
+    {
+      "sort_order": 1,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I dug out a large underground room and filled it with double chests. I **organized** them by category: ores and metals, wood and plants, food, weapons, and **miscellaneous** items.",
+      "sentence_zh": "我挖出了一个大型地下房间并放满了双箱子。我按类别整理它们：矿石和金属、木材和植物、食物、武器和杂项物品。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "comprehension",
+      "quiz_payload": {
+        "prompt": "What happened in this paragraph?",
+        "options": [
+          "I dug out a large underground room and filled it with double...",
+          "The player went to sleep in a village",
+          "Nothing interesting happened today",
+          "The player decided to quit the game"
+        ],
+        "correct": 0
+      }
+    },
+    {
+      "sort_order": 2,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I made item frames and placed them on each chest to show what's inside without **opening** them. This visual system makes finding specific items much **faster** when you're in a hurry.",
+      "sentence_zh": "我做了物品展示框放在每个箱子上来展示里面的东西而不需要打开它们。这个视觉系统让你在赶时间时找特定物品快得多。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "word_match",
+      "quiz_payload": {
+        "pairs": [
+          {
+            "word": "opening",
+            "definition": "A word related to opening"
+          },
+          {
+            "word": "faster",
+            "definition": "A word related to faster"
+          },
+          {
+            "word": "opening",
+            "definition": "A word related to opening"
+          }
+        ],
+        "shuffled_defs": [
+          "A word related to opening",
+          "A word related to opening",
+          "A word related to faster"
+        ]
+      }
+    },
+    {
+      "sort_order": 3,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "The chest room connects to my main house through a **corridor**. I added redstone lamps along the ceiling for automatic lighting. Now I always know exactly where **everything** is stored!",
+      "sentence_zh": "储藏室通过一条走廊连接到主屋。我在天花板上加了红石灯来自动照明。现在我总是确切知道所有东西存放在哪里！",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "true_false",
+      "quiz_payload": {
+        "statement": "The chest room connects to my main house through a corridor.",
+        "correct": true
+      }
+    }
+  ],
+  "question": {
+    "kind": "mcq",
+    "prompt": "How did the player label the chests?",
+    "payload": {
+      "options": [
+        "Using item frames on each chest",
+        "Writing signs",
+        "Using colored wool",
+        "They didn't label them"
+      ],
+      "correct": 0
+    },
+    "xp_reward": 10,
+    "sort_order": 0
+  }
+}

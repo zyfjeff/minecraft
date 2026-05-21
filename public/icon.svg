@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Background: Minecraft grass block style -->
+  <rect width="512" height="512" rx="64" fill="#5B8731"/>
+  <!-- Dirt layer -->
+  <rect y="256" width="512" height="256" rx="0" fill="#8B5E3C"/>
+  <rect x="0" y="448" width="512" height="64" rx="0 0 64 64" fill="#8B5E3C"/>
+  <!-- Pixel grass tufts -->
+  <rect x="64" y="224" width="64" height="32" fill="#3D6B1E"/>
+  <rect x="192" y="192" width="64" height="64" fill="#3D6B1E"/>
+  <rect x="320" y="224" width="64" height="32" fill="#3D6B1E"/>
+  <rect x="384" y="192" width="64" height="64" fill="#3D6B1E"/>
+  <!-- "CW" letters in pixel style -->
+  <!-- C letter -->
+  <rect x="112" y="128" width="32" height="32" fill="#FFFFFF"/>
+  <rect x="144" y="128" width="32" height="32" fill="#FFFFFF"/>
+  <rect x="176" y="128" width="32" height="32" fill="#FFFFFF"/>
+  <rect x="112" y="160" width="32" height="32" fill="#FFFFFF"/>
+  <rect x="112" y="192" width="32" height="32" fill="#FFFFFF"/>
+  <rect x="112" y="224" width="32" height="32" fill="#FFFFFF"/>
+  <rect x="112" y="256" width="32" height="32" fill="#FFFFFF"/>
+  <rect x="144" y="256" width="32" height="32" fill="#FFFFFF"/>
+  <rect x="176" y="256" width="32" height="32" fill="#FFFFFF"/>
+  <!-- W letter -->
+  <rect x="256" y="128" width="32" height="32" fill="#FFFFFF"/>
+  <rect x="256" y="160" width="32" height="32" fill="#FFFFFF"/>
+  <rect x="256" y="192" width="32" height="32" fill="#FFFFFF"/>
+  <rect x="256" y="224" width="32" height="32" fill="#FFFFFF"/>
+  <rect x="256" y="256" width="32" height="32" fill="#FFFFFF"/>
+  <rect x="288" y="256" width="32" height="32" fill="#FFFFFF"/>
+  <rect x="320" y="224" width="32" height="32" fill="#FFFFFF"/>
+  <rect x="320" y="192" width="32" height="32" fill="#FFFFFF"/>
+  <rect x="352" y="256" width="32" height="32" fill="#FFFFFF"/>
+  <rect x="384" y="128" width="32" height="32" fill="#FFFFFF"/>
+  <rect x="384" y="160" width="32" height="32" fill="#FFFFFF"/>
+  <rect x="384" y="192" width="32" height="32" fill="#FFFFFF"/>
+  <rect x="384" y="224" width="32" height="32" fill="#FFFFFF"/>
+  <rect x="384" y="256" width="32" height="32" fill="#FFFFFF"/>
+  <!-- Bottom text "ENGLISH" in small pixels -->
+  <rect x="128" y="336" width="256" height="48" rx="8" fill="rgba(0,0,0,0.3)"/>
+  <text x="256" y="369" text-anchor="middle" font-family="monospace" font-size="32" font-weight="bold" fill="#F5A623">ENGLISH</text>
+</svg>

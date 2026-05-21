@@ -1,0 +1,130 @@
+{
+  "course": {
+    "id": "reading-minecraft-hardcore-4-exploring-a-village",
+    "kind": "reading",
+    "title": "Learn English with Minecraft Hardcore #4 - Exploring a Village — Reading",
+    "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore #4 - Exploring a Village\" — 4 reading segments with mixed quizzes.",
+    "difficulty": 2,
+    "est_minutes": 6,
+    "xp_reward": 40,
+    "unlock_level": 2,
+    "thumbnail_key": "reading",
+    "source_label": "Based on Learn English with Minecraft — Ep. 19",
+    "source_url": "https://www.youtube.com/watch?v=TOsHihn6jNE",
+    "source_license": "youtube-embed",
+    "sort_order": 119,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "reading_passage",
+    "title": "Learn English with Minecraft Hardcore #4 - Exploring a Village — Reading Practice",
+    "passage_md": "I discovered a **village** while exploring the plains biome. Villages have useful resources and **villagers** who trade items with you using emeralds as currency.\n\nThe blacksmith's chest contained iron ingots and an iron sword! Villager houses also have beds, which you can use to set your **respawn** point. I traded wheat for **emeralds** with a farmer.\n\nI found a librarian villager who sells **enchanted** books! These are incredibly valuable because you can apply them to your tools using an anvil. I bought a Fortune III book.\n\nAt night, zombies tried to attack the villagers. I had to **defend** them by fighting off the zombies and placing torches around the village to **prevent** spawning.",
+    "transcript_zh": "我在探索平原生态群系时发现了一个村庄。村庄有有用的资源和村民，他们用绿宝石作为货币与你交易物品。\n\n铁匠的箱子里有铁锭和一把铁剑！村民的房子还有床，你可以用来设置重生点。我用小麦跟农民交换了绿宝石。\n\n我找到了一个卖附魔书的图书管理员村民！这些非常珍贵因为你可以用铁砧把它们应用到工具上。我买了一本时运III书。\n\n到了晚上，僵尸试图攻击村民。我不得不通过击退僵尸和在村庄周围放火把来保护他们防止生成。",
+    "highlight_words": [
+      "village",
+      "villagers",
+      "emeralds",
+      "enchanted",
+      "defend"
+    ],
+    "xp_reward": 20
+  },
+  "segments": [
+    {
+      "sort_order": 0,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I discovered a **village** while exploring the plains biome. Villages have useful resources and **villagers** who trade items with you using emeralds as currency.",
+      "sentence_zh": "我在探索平原生态群系时发现了一个村庄。村庄有有用的资源和村民，他们用绿宝石作为货币与你交易物品。",
+      "blank_word": "village",
+      "distractors": [
+        "collected",
+        "valuable",
+        "attempted"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    },
+    {
+      "sort_order": 1,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "The blacksmith's chest contained iron ingots and an iron sword! Villager houses also have beds, which you can use to set your **respawn** point. I traded wheat for **emeralds** with a farmer.",
+      "sentence_zh": "铁匠的箱子里有铁锭和一把铁剑！村民的房子还有床，你可以用来设置重生点。我用小麦跟农民交换了绿宝石。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "comprehension",
+      "quiz_payload": {
+        "prompt": "What happened in this paragraph?",
+        "options": [
+          "The blacksmith's chest contained iron ingots and an iron swo...",
+          "The player went to sleep in a village",
+          "Nothing interesting happened today",
+          "The player decided to quit the game"
+        ],
+        "correct": 0
+      }
+    },
+    {
+      "sort_order": 2,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I found a librarian villager who sells **enchanted** books! These are incredibly valuable because you can apply them to your tools using an anvil. I bought a Fortune III book.",
+      "sentence_zh": "我找到了一个卖附魔书的图书管理员村民！这些非常珍贵因为你可以用铁砧把它们应用到工具上。我买了一本时运III书。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "word_match",
+      "quiz_payload": {
+        "pairs": [
+          {
+            "word": "enchanted",
+            "definition": "A word related to enchanted"
+          },
+          {
+            "word": "enchanted",
+            "definition": "A word related to enchanted"
+          },
+          {
+            "word": "valuable",
+            "definition": "A word related to valuable"
+          }
+        ],
+        "shuffled_defs": [
+          "A word related to valuable",
+          "A word related to enchanted",
+          "A word related to enchanted"
+        ]
+      }
+    },
+    {
+      "sort_order": 3,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "At night, zombies tried to attack the villagers. I had to **defend** them by fighting off the zombies and placing torches around the village to **prevent** spawning.",
+      "sentence_zh": "到了晚上，僵尸试图攻击村民。我不得不通过击退僵尸和在村庄周围放火把来保护他们防止生成。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "true_false",
+      "quiz_payload": {
+        "statement": "At night, zombies tried to attack the villagers.",
+        "correct": true
+      }
+    }
+  ],
+  "question": {
+    "kind": "mcq",
+    "prompt": "What currency do villagers use for trading?",
+    "payload": {
+      "options": [
+        "Emeralds",
+        "Diamonds",
+        "Gold coins",
+        "Iron ingots"
+      ],
+      "correct": 0
+    },
+    "xp_reward": 10,
+    "sort_order": 0
+  }
+}

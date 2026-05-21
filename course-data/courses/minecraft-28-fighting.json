@@ -1,0 +1,102 @@
+{
+  "course": {
+    "id": "minecraft-28-fighting",
+    "kind": "listening",
+    "title": "Fighting",
+    "description": "Learn English with Minecraft — Episode 29. 5 curated listening segments with cloze quizzes.",
+    "difficulty": 2,
+    "est_minutes": 9,
+    "xp_reward": 55,
+    "unlock_level": 1,
+    "source_label": "Learn English with Minecraft — Ep. 29",
+    "source_url": "https://www.youtube.com/watch?v=1Ih4BBtcjCE",
+    "source_license": "youtube-embed",
+    "sort_order": 29,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "video_segment",
+    "title": "Learn English with Minecraft #28 - Fighting",
+    "yt_video_id": "1Ih4BBtcjCE",
+    "yt_start_sec": 0,
+    "yt_end_sec": 1026,
+    "transcript_en": "Hello and welcome back to learn English Minecraft this is a series where I teach English while trying to beat Minecraft my name is Kenzo and this is English from the ground up this is going to be a really fun episode because in this video I'm going to use some of the new Enchanted tools that I built in the last episode to go underground and I love the videos where I get to go exploring now there's one thing that I want to do before I leave to go exploring and that is build a shield so let's see a shield to build a shield I need 1 2 3 4 five six wood and one iron ingot okay one two 3 four five six wood and one iron ingot all right a shield I bu built a shield and now I'm going to enchant this Shield jump all right here we are at the room Shield lapis oh well you can't enchant Shields oh well the cool thing about shields is that I can hold the shield in my hand like this now I'm holding my sword in my right hand and my shield in my left hand and I can block while I'm holding a shield like this block block all right I'm going to build some torches there we go all right and I think now I have everything that I will need to go exploring underground I have tools my food oh and I also brought my crossbow and 14 arrows all right it's time to go exploring all right I'm going to start by exploring down here in my mine because there's a lot that I haven't explored down here let's go down here we are wow my new enchant Ed sword right here has knockback two which pushes the monsters far away when I hit whoa I'm going to go down there what is oh I can't collect it it just breaks let's go this torch I'm going to place torches so I can find my way back torch what's up torch torch torch uh-oh zombies uhoh and a skeleton ooh run die wow this new sword is really good o there's a skeleton I'm going to load my crossbow and I'm going to try to shoot skeleton it didn't kill wow this is a strong skeleton I missed come here skeleton got him I'm surprised that it took three shots to kill that skeleton because this crossbow has four h there are lot more skeletons over whoa that skeleton is riding the spider uh-oh I hear more skeletons there it is die die die wow oh my goodness die die D oh wow there are tons of monsters oops I accidentally hit the bat instead of the creeper oh well diamonds I'm going to collect this diamond after I kill this zombie okay whoa more zombies okay torch torch I'm placing torches all around so monsters stop spawning all right let's just one Diamond okay just one Diamond but to collect this diamond I'm going to use my new enchanted diamond pickaxe so this pickaxe has the fortune 2 enchantment which means that it might give me two diamonds instead of just one we'll see break see two diamonds two diamonds that's because of my fortune 2 enchantment an Enderman die Enderman die die die wow that was really Okay I need to be careful I'm going to wait here while I heal ooh I see some light over whoa could have be lava yep lava I'm going to go back down whoa this is a huge cave okay die zombie die zombie die die my sword pushes the zombies so far away okay I really like my shield The Shield is really helpful against uhoh come on uhoh okay few die die wow I've had to fight so many monsters whoa okay I see some more lava uhoh okay I need to heal and there's more skeletons how many arrows do I have left let's see oh whoa that is a lot of lava I'm going to go around the lava okay going around around around okay and right next to the lava there's some H so far I've only found one block of diamonds and a ton of they're shooting each other what is happening these skeletons are shooting other die all right well that was easy torch tons of skeletons there are one two three four five six skeletons over there I'm not going over there no more diamonds finally I found more torch only eight torches left okay I'm going to mine these diamonds using my enchanted pickaxe here we go just one just one Diamond just one Diamond three diamonds total there's a ton of lava around die die die okay that was some good fighting I'm getting better at fighting MH whoa okay there's diamonds right there but they're going to be difficult get I'm going to try to block off this lava okay like that all water this area is full of water well I guess I'll also block off okay two diamonds so now I'm up to five die die die oh thank you diamond sword I need to find some coal so I can build more torches I'm running running running run run I need to find coal I have haven't seen any coal down here I think I'm too deep down to find coal so I'm going back up a little bit I'm not going down there no way more lapis I've found tons of lapis the M shaft okay I'm going back up to the m shaft okay few any coal any oh look it's my staircase so I actually found my way back to my staircase well I guess I'll go back up to my house and pick up some torches there and I also think I'm going to end this video right here and in the next episode I'll continue my big adventure underground thank you so much for watching if you liked this video please click the like button or subscribe to my and as always I will see you in the next video see",
+    "transcript_zh": "",
+    "highlight_words": [
+      "enchant",
+      "pushes",
+      "skeleton",
+      "diamond"
+    ],
+    "xp_reward": 20
+  },
+  "segments": [
+    {
+      "start_sec": 84,
+      "end_sec": 96,
+      "sentence_en": "And one iron ingot all right a shield I bu built a shield and now I'm going to enchant this Shield.",
+      "sentence_zh": "",
+      "blank_word": "enchant",
+      "distractors": [
+        "hammer",
+        "lightning",
+        "happening"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 208,
+      "end_sec": 221,
+      "sentence_en": "Here has knockback two which pushes the monsters far away when I hit.",
+      "sentence_zh": "",
+      "blank_word": "pushes",
+      "distractors": [
+        "eclipse",
+        "mineral",
+        "running"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 345,
+      "end_sec": 357,
+      "sentence_en": "I missed come here skeleton got him I'm surprised that it took three shots to kill that skeleton.",
+      "sentence_zh": "",
+      "blank_word": "skeleton",
+      "distractors": [
+        "adventure",
+        "compass",
+        "arrows"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 484,
+      "end_sec": 497,
+      "sentence_en": "But to collect this diamond I'm going to use my new enchanted diamond pickaxe.",
+      "sentence_zh": "",
+      "blank_word": "diamond",
+      "distractors": [
+        "piece",
+        "kingdom",
+        "build"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 930,
+      "end_sec": 945,
+      "sentence_en": "Here I think I'm too deep down to find coal so I'm going back up a little bit.",
+      "sentence_zh": "",
+      "blank_word": "",
+      "distractors": [],
+      "qtype": "none",
+      "quiz_payload": null
+    }
+  ]
+}

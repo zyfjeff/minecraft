@@ -1,0 +1,153 @@
+{
+  "course": {
+    "id": "reading-minecraft-hardcore-live-tnt",
+    "kind": "reading",
+    "title": "Learn English with Minecraft Hardcore LIVE - TNT!! — Reading",
+    "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore LIVE - TNT!!\" — 5 reading segments with mixed quizzes.",
+    "difficulty": 3,
+    "est_minutes": 8,
+    "xp_reward": 50,
+    "unlock_level": 3,
+    "thumbnail_key": "reading",
+    "source_label": "Based on Learn English with Minecraft — Ep. 34",
+    "source_url": "https://www.youtube.com/watch?v=WvjoDM3Ug5w",
+    "source_license": "youtube-embed",
+    "sort_order": 134,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "reading_passage",
+    "title": "Learn English with Minecraft Hardcore LIVE - TNT!! — Reading Practice",
+    "passage_md": "I decided to experiment with **TNT** — the most explosive block in Minecraft! Making TNT requires gunpowder from creepers and sand from **beaches** or deserts.\n\nI crafted twenty TNT blocks and built a small testing area far from my base. You should NEVER use TNT near your **buildings** because the **explosion** destroys everything in a large radius.\n\nI lit the TNT with flint and steel and ran away quickly! The explosion created a massive **crater** in the ground. TNT is useful for clearing large areas of land for building **projects**.\n\nI also tried using TNT for mining by placing it at the bottom of a mine shaft. The explosion **revealed** many ores that were hidden in the walls. It's **risky** but effective!\n\nThe most fun was building a TNT cannon that launches blocks far away! The **mechanism** uses water to protect the launcher and redstone to **ignite** the propellant TNT at the right moment.",
+    "transcript_zh": "我决定实验TNT——Minecraft中最具爆炸性的方块！制作TNT需要苦力怕的火药和来自海滩或沙漠的沙子。\n\n我制作了二十块TNT并在离基地很远的地方建了一个小测试区。你绝不应该在建筑附近使用TNT，因为爆炸会摧毁大范围内的一切。\n\n我用打火石点燃了TNT然后赶紧跑开！爆炸在地面上创造了一个巨大的坑。TNT对清理大面积土地用于建筑项目很有用。\n\n我还尝试在矿井底部放TNT来挖矿。爆炸揭示了许多隐藏在墙壁中的矿石。这很冒险但有效！\n\n最有趣的是建造一个能把方块发射到远处的TNT大炮！这个机制用水保护发射器并用红石在正确时刻点燃推进TNT。",
+    "highlight_words": [
+      "TNT",
+      "explosion",
+      "crater",
+      "revealed",
+      "mechanism"
+    ],
+    "xp_reward": 20
+  },
+  "segments": [
+    {
+      "sort_order": 0,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I decided to experiment with **TNT** — the most explosive block in Minecraft! Making TNT requires gunpowder from creepers and sand from **beaches** or deserts.",
+      "sentence_zh": "我决定实验TNT——Minecraft中最具爆炸性的方块！制作TNT需要苦力怕的火药和来自海滩或沙漠的沙子。",
+      "blank_word": "TNT",
+      "distractors": [
+        "mysterious",
+        "fortunate",
+        "organized"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    },
+    {
+      "sort_order": 1,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I crafted twenty TNT blocks and built a small testing area far from my base. You should NEVER use TNT near your **buildings** because the **explosion** destroys everything in a large radius.",
+      "sentence_zh": "我制作了二十块TNT并在离基地很远的地方建了一个小测试区。你绝不应该在建筑附近使用TNT，因为爆炸会摧毁大范围内的一切。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "comprehension",
+      "quiz_payload": {
+        "prompt": "What happened in this paragraph?",
+        "options": [
+          "I crafted twenty TNT blocks and built a small testing area f...",
+          "The player went to sleep in a village",
+          "Nothing interesting happened today",
+          "The player decided to quit the game"
+        ],
+        "correct": 0
+      }
+    },
+    {
+      "sort_order": 2,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I lit the TNT with flint and steel and ran away quickly! The explosion created a massive **crater** in the ground. TNT is useful for clearing large areas of land for building **projects**.",
+      "sentence_zh": "我用打火石点燃了TNT然后赶紧跑开！爆炸在地面上创造了一个巨大的坑。TNT对清理大面积土地用于建筑项目很有用。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "word_match",
+      "quiz_payload": {
+        "pairs": [
+          {
+            "word": "crater",
+            "definition": "A word related to crater"
+          },
+          {
+            "word": "projects",
+            "definition": "A word related to projects"
+          },
+          {
+            "word": "crater",
+            "definition": "A word related to crater"
+          }
+        ],
+        "shuffled_defs": [
+          "A word related to crater",
+          "A word related to projects",
+          "A word related to crater"
+        ]
+      }
+    },
+    {
+      "sort_order": 3,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I also tried using TNT for mining by placing it at the bottom of a mine shaft. The explosion **revealed** many ores that were hidden in the walls. It's **risky** but effective!",
+      "sentence_zh": "我还尝试在矿井底部放TNT来挖矿。爆炸揭示了许多隐藏在墙壁中的矿石。这很冒险但有效！",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "sentence_order",
+      "quiz_payload": {
+        "sentences": [
+          "I also tried using TNT for mining by placing it at the bottom of a mine shaft.",
+          "The explosion revealed many ores that were hidden in the walls.",
+          "It's risky but effective."
+        ],
+        "correct_order": [
+          0,
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "sort_order": 4,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "The most fun was building a TNT cannon that launches blocks far away! The **mechanism** uses water to protect the launcher and redstone to **ignite** the propellant TNT at the right moment.",
+      "sentence_zh": "最有趣的是建造一个能把方块发射到远处的TNT大炮！这个机制用水保护发射器并用红石在正确时刻点燃推进TNT。",
+      "blank_word": "mechanism",
+      "distractors": [
+        "entrance",
+        "fortress",
+        "equipment"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    }
+  ],
+  "question": {
+    "kind": "mcq",
+    "prompt": "What materials are needed to craft TNT?",
+    "payload": {
+      "options": [
+        "Gunpowder and sand",
+        "Iron and coal",
+        "Diamond and redstone",
+        "Wood and stone"
+      ],
+      "correct": 0
+    },
+    "xp_reward": 10,
+    "sort_order": 0
+  }
+}

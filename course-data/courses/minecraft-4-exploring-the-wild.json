@@ -1,0 +1,107 @@
+{
+  "course": {
+    "id": "minecraft-4-exploring-the-wild",
+    "kind": "listening",
+    "title": "Exploring the Wild",
+    "description": "Learn English with Minecraft — Episode 4. 5 curated listening segments with cloze quizzes.",
+    "difficulty": 2,
+    "est_minutes": 7,
+    "xp_reward": 55,
+    "unlock_level": 1,
+    "source_label": "Learn English with Minecraft — Ep. 4",
+    "source_url": "https://www.youtube.com/watch?v=CwQ4D9U5dfs",
+    "source_license": "youtube-embed",
+    "sort_order": 4,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "video_segment",
+    "title": "Learn English with Minecraft #4 - Exploring the Wild",
+    "yt_video_id": "CwQ4D9U5dfs",
+    "yt_start_sec": 0,
+    "yt_end_sec": 842,
+    "transcript_en": "Hello and welcome back to learning English with Minecraft Minecraft my name is Kenzo and this is English from the up in the last video I explored the cave a little bit more and mined a lot of iron and Redstone and gold and I built this map mhm so in this video I'm going to explore the surrounding areas and hopefully find some carrots or potatoes or a cave or a village or something interesting so I'm going to get in my boat and off we go oh it's cool all right there we go I think I'm going to head towards the jungle over there because I like Jungles did I bring food I didn't bring food maybe I can find some watermelon in the jungle to eat aha there is some watermelon all right eating the watermelon do you like watermelon I like watermelon but it's not my favorite fruit More Watermelon we can also plant watermelon at the house ooh it's a panda bear hello so we've got a lot of water melons now oh and these are cocoa beans mhm you can use cocoa beans to bake whoa all of that all of that is bamboo that is a lot of bamboo I'm going to collect some of that bamboo because I think you can use bamboo as a source of fuel like coal this is a lot of watermelons let's see almost two full stacks of watermelons I'm going to collect some of bamboo all right lots of bamboo well we've got bamboo we've got cocoa beans and we've got watermelons I'm so happy that we have a map because I don't have to worry about lost because I can always see where my house is right there these things I can't remember what they're called but they're actually really tough because there are a lot of enemies nearby that shoot with crossbows so I am not going to go over there not yet I'm going to put my boat back down my like that and get and start sailing hey it's some hello a little family of turtles the Moon is coming up and the Sun is going down I'm going to get off now and break my boat there we go I'm running away going to dive in the water okay and jump out and continue running oo what is that is that lava an Enderman that's called an Enderman oh whoa oh no it's a whole horde of zombies go away oh no it's a village I found a village another Village hopefully this Village has carrots or potatoes cool there are two Villages close by it's a skeleton skeleton oh no I might die Iron Golem protect uhoh these These are zombie villagers which means that zombies have already killed some villagers in this and these zombies are trying to kill oh get him Iron Golem nice this is a bell this is a bell when I ring ding the Bell like this all of the villagers go back inside I'm going to look for a bed bed monsters nearby it's to you okay I saw carrots okay I'm going to sleep and in the morning I'll collect carrots okay look at all these carrots this is great I'm just going to steal your carrots Mr villager and your beetroots I see something over there what is ah this is the ruins of a Nether Portal if you complete if you complete the portal by placing obsidian there and there and if you light it with flint and steel then you can create a portal to another dimension called the nether it's full of fire and dangerous monsters whoa inside the chest is Obsidian and Enchanted tools and flint and steel this is what you need to light awesome whoa what was that weird okay well I found some watermelon some cocoa beans some bamboo and some carrots so I think it's time to head back home and I can plant all these things so my house is right here and I am up here so I need to go this direction this right here is a swamp there are frogs in the swamp but I'm not going to explore in the swamp right now right now I'm going back home which is this direction I think I'm getting aha I can see the two huge formations near my house right over there I am swimming with a pickaxe in my this is probably not the best way to okay I'm getting very close to my house now all right and we're home wonderful this wheat is ready to be harvested so I'm going to break it and collect the wheat these beetroots as well okay so right here I'm going to plant more beetroots here I'm going to plant more wheat right here I'm going to carrots there we go and over here I'll plant watermelon this is a oh this is what I use to till the soil this I need to till the soil first before I can plant on the soil now I can plant watermelon on all soil all right cool so this will take some time to grow but pretty soon I'll have a lot of food that I have grown so this is great it's getting dark time to sleep close the doors and go to sleep in my bed and it's morning morning time I think I might break a little section of this wall and create a doorway right H and I'll put doors right here like this oh but first I should Place some stones on the floor here and here so that it looks better there we go now I have a door to my farm I'm going to place some of these slabs right here because if I jump across to this side of the dirt well it ruins the soil right here so if I walk if I just walk instead of jumping then it keeps the soil good so I'm going to place Stones here and here cool I built this Farm off camera because it was pretty boring to watch because all I was doing was digging up all the sand and replacing it with dirt it took a long time to dig up all this sand I'm going to place the bamboo right here and now I've planted the bamboo all the iron is finished smelting so now I have 63 iron ingots with 63 iron ingots I can build all the different iron tools I'm going to put on these golden boots so I need some pants and a helmet so I'm going to build iron pants or iron leggings and an iron helmet there we go now I'll put both of these on one two there we go so now I have 1 2 3 4 five and a half armor so I won't die as easily I'm going to put all of my things all of my things in these chests right now now it's organized in these chests magic okay I think I'm going to end this video right here we went exploring and found some carrots some bamboo watermelon and cocoa beans and planted them at our house thank you so much for watching this video if you liked it you can subscribe to my channel by clicking up here and I we'll see you in the next video see you",
+    "transcript_zh": "",
+    "highlight_words": [
+      "explore",
+      "called",
+      "swamp",
+      "watermelon",
+      "build"
+    ],
+    "xp_reward": 20
+  },
+  "segments": [
+    {
+      "start_sec": 28,
+      "end_sec": 40,
+      "sentence_en": "So in this video I'm going to explore the surrounding areas and hopefully find some carrots or potatoes or a cave or.",
+      "sentence_zh": "",
+      "blank_word": "explore",
+      "distractors": [
+        "whirlpool",
+        "dragon",
+        "doorway"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 263,
+      "end_sec": 277,
+      "sentence_en": "That is that lava an Enderman that's called an Enderman oh whoa oh no it's a whole horde.",
+      "sentence_zh": "",
+      "blank_word": "called",
+      "distractors": [
+        "ladder",
+        "champion",
+        "gold"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 500,
+      "end_sec": 513,
+      "sentence_en": "There are frogs in the swamp but I'm not going to explore in the swamp right now right now.",
+      "sentence_zh": "",
+      "blank_word": "swamp",
+      "distractors": [
+        "forest",
+        "lava",
+        "looks"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 612,
+      "end_sec": 626,
+      "sentence_en": "Now I can plant watermelon on all soil all right cool so this will take some time to grow.",
+      "sentence_zh": "",
+      "blank_word": "watermelon",
+      "distractors": [
+        "lightning",
+        "underwater",
+        "leggings"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 753,
+      "end_sec": 766,
+      "sentence_en": "So now I have 63 iron ingots with 63 iron ingots I can build all the different iron tools I'm going to.",
+      "sentence_zh": "",
+      "blank_word": "build",
+      "distractors": [
+        "beach",
+        "apple",
+        "collect"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    }
+  ]
+}

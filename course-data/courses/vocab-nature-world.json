@@ -1,0 +1,35 @@
+{
+  "course": {
+    "id": "vocab-nature-world",
+    "kind": "vocabulary",
+    "title": "Nature & World",
+    "description": "Explore vocabulary about the natural environments and landscapes in Minecraft.",
+    "difficulty": 2,
+    "est_minutes": 12,
+    "xp_reward": 30,
+    "unlock_level": 1,
+    "thumbnail_key": "vocabulary",
+    "source_label": "CraftWords Vocabulary",
+    "source_url": "",
+    "source_license": "original",
+    "sort_order": 202,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "vocab_drill",
+    "title": "Nature & World",
+    "highlight_words": [
+      "jungle",
+      "cave",
+      "underground",
+      "surface",
+      "biome",
+      "forest",
+      "mountain",
+      "desert"
+    ],
+    "xp_reward": 30
+  },
+  "segments": []
+}

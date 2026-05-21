@@ -1,0 +1,155 @@
+{
+  "course": {
+    "id": "reading-minecraft-hardcore-live-intermediate-listening",
+    "kind": "reading",
+    "title": "Learn English with Minecraft Hardcore LIVE (Intermediate Listening) — Reading",
+    "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore LIVE (Intermediate Listening)\" — 5 reading segments with mixed quizzes.",
+    "difficulty": 3,
+    "est_minutes": 8,
+    "xp_reward": 50,
+    "unlock_level": 3,
+    "thumbnail_key": "reading",
+    "source_label": "Based on Learn English with Minecraft — Ep. 11",
+    "source_url": "https://www.youtube.com/watch?v=v688HknW5nw",
+    "source_license": "youtube-embed",
+    "sort_order": 111,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "reading_passage",
+    "title": "Learn English with Minecraft Hardcore LIVE (Intermediate Listening) — Reading Practice",
+    "passage_md": "In this episode, I practiced more **advanced** English while playing. I described my actions using complex sentences and new **vocabulary** to help intermediate learners improve.\n\nI explained the difference between \"gonna\" and \"going to\" while building a **structure**. Spoken English often uses contractions and casual forms that are different from **written** English.\n\nWhile mining, I used phrasal verbs like \"dig out,\" \"run into,\" and \"come across.\" These multi-word verbs are **essential** for natural-sounding English **conversation**.\n\nI encountered a spider and described the situation using past tense **narration**: \"I was walking through the cave when suddenly a spider appeared behind me and attacked!\"\n\nLearning English through gaming makes it more **enjoyable** because you connect words with actions. The **context** of Minecraft helps you remember vocabulary naturally.",
+    "transcript_zh": "在这一集中，我一边玩一边练习更高级的英语。我用复杂句子和新词汇描述我的行为来帮助中级学习者提高。\n\n我在建造一个结构时解释了gonna和going to的区别。口语英语经常使用缩写和随意形式，与书面英语不同。\n\n挖矿时，我使用了短语动词如dig out、run into和come across。这些多词动词对于自然流畅的英语会话至关重要。\n\n我遇到了一只蜘蛛并用过去时叙述描述情况：我正走在洞穴里，突然一只蜘蛛出现在我身后并攻击了我！\n\n通过游戏学英语更有趣，因为你把词汇和动作联系起来。Minecraft的语境帮助你自然地记住词汇。",
+    "highlight_words": [
+      "advanced",
+      "vocabulary",
+      "essential",
+      "narration",
+      "context"
+    ],
+    "xp_reward": 20
+  },
+  "segments": [
+    {
+      "sort_order": 0,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "In this episode, I practiced more **advanced** English while playing. I described my actions using complex sentences and new **vocabulary** to help intermediate learners improve.",
+      "sentence_zh": "在这一集中，我一边玩一边练习更高级的英语。我用复杂句子和新词汇描述我的行为来帮助中级学习者提高。",
+      "blank_word": "advanced",
+      "distractors": [
+        "ancient",
+        "structure",
+        "creature"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    },
+    {
+      "sort_order": 1,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I explained the difference between \"gonna\" and \"going to\" while building a **structure**. Spoken English often uses contractions and casual forms that are different from **written** English.",
+      "sentence_zh": "我在建造一个结构时解释了gonna和going to的区别。口语英语经常使用缩写和随意形式，与书面英语不同。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "comprehension",
+      "quiz_payload": {
+        "prompt": "What happened in this paragraph?",
+        "options": [
+          "I explained the difference between \"gonna\" and \"going to\" wh...",
+          "The player went to sleep in a village",
+          "Nothing interesting happened today",
+          "The player decided to quit the game"
+        ],
+        "correct": 0
+      }
+    },
+    {
+      "sort_order": 2,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "While mining, I used phrasal verbs like \"dig out,\" \"run into,\" and \"come across.\" These multi-word verbs are **essential** for natural-sounding English **conversation**.",
+      "sentence_zh": "挖矿时，我使用了短语动词如dig out、run into和come across。这些多词动词对于自然流畅的英语会话至关重要。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "word_match",
+      "quiz_payload": {
+        "pairs": [
+          {
+            "word": "essential",
+            "definition": "Absolutely necessary"
+          },
+          {
+            "word": "conversation",
+            "definition": "A word related to conversation"
+          },
+          {
+            "word": "essential",
+            "definition": "Absolutely necessary"
+          }
+        ],
+        "shuffled_defs": [
+          "A word related to conversation",
+          "Absolutely necessary",
+          "Absolutely necessary"
+        ]
+      }
+    },
+    {
+      "sort_order": 3,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I encountered a spider and described the situation using past tense **narration**: \"I was walking through the cave when suddenly a spider appeared behind me and attacked!\"",
+      "sentence_zh": "我遇到了一只蜘蛛并用过去时叙述描述情况：我正走在洞穴里，突然一只蜘蛛出现在我身后并攻击了我！",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "sentence_order",
+      "quiz_payload": {
+        "sentences": [
+          "First action happened.",
+          "Then the next step followed.",
+          "Finally the result occurred.",
+          "The task was complete."
+        ],
+        "correct_order": [
+          0,
+          1,
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "sort_order": 4,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "Learning English through gaming makes it more **enjoyable** because you connect words with actions. The **context** of Minecraft helps you remember vocabulary naturally.",
+      "sentence_zh": "通过游戏学英语更有趣，因为你把词汇和动作联系起来。Minecraft的语境帮助你自然地记住词汇。",
+      "blank_word": "enjoyable",
+      "distractors": [
+        "corridor",
+        "powerful",
+        "valuable"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    }
+  ],
+  "question": {
+    "kind": "mcq",
+    "prompt": "Why is learning English through gaming effective?",
+    "payload": {
+      "options": [
+        "You connect words with actions and context",
+        "Games are easy",
+        "You don't need to study",
+        "It's faster than textbooks"
+      ],
+      "correct": 0
+    },
+    "xp_reward": 10,
+    "sort_order": 0
+  }
+}

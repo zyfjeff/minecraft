@@ -1,0 +1,107 @@
+{
+  "course": {
+    "id": "minecraft-8-my-new-skin",
+    "kind": "listening",
+    "title": "My New Skin??",
+    "description": "Learn English with Minecraft — Episode 8. 5 curated listening segments with cloze quizzes.",
+    "difficulty": 2,
+    "est_minutes": 7,
+    "xp_reward": 55,
+    "unlock_level": 1,
+    "source_label": "Learn English with Minecraft — Ep. 8",
+    "source_url": "https://www.youtube.com/watch?v=oQq9xhM1pZE",
+    "source_license": "youtube-embed",
+    "sort_order": 8,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "video_segment",
+    "title": "Learn English with Minecraft #8 - My New Skin??",
+    "yt_video_id": "oQq9xhM1pZE",
+    "yt_start_sec": 0,
+    "yt_end_sec": 812,
+    "transcript_en": "Hello and welcome back to learn English with Minecraft the series where I teach English while trying to survive in except today I'm not actually going to be playing Minecraft instead I'm going to do something that I should have done a long time ago today I'm going to design a custom skin to play with my name is Kenzo and this is English from the ground up so this is skin this is my skin and in Minecraft a skin is what your character looks like and there are a lot of different skins you can choose from but you can also design your own and that is exactly what I'm going to do I'm designing my skin on minecraftskins.com which is a website where you can design skins for free I've already started designing my skin right I want my skin to look kind of like me so far I've designed my black hair my fluffy black hair my brown eyes right here and right here my brown and I'm wearing a yellow shirt and green I'm not finished yet the first thing that I want to do is make my shirt striped I want the shirt to have white and yellow stripes Maybe this color and I'm going to start drawing stripes like this I think that's too white I want it to be a little bit more yellow like that this color let's see what that looks like okay I like this color a lot more it looks a little bit like a b but that's okay because bees are my favorite bug so I'm going to draw these stripes on all sides on this side on this side and on this side so I'll start by drawing these stripes on this arm and now I'll draw the stripes on the back on the back on the back and now time to move on to the last arm right here maybe I'll also draw Stripes up here up here on the shoulders like this and like this okay I like that so now I'm wearing a striped shirt a striped shirt but my shirt needs a collar a collar this this right here is the collar of the shirt and I want the collar to be pink maybe this color so now I'm going to draw the collar of the shirt and I'll draw the same thing on the back the back okay so now the shirt has a collar but I need to change this right here where the neck is because the neck should be the same color as my face like cool so now my shirt has a collar and I also have a neck and there's still a couple things that I want to add first thing that I want to add is some of this pink color on the end of the sleeves right here so this this is called a sleeve and I want to change the color of the end the end right here of the sleeve and I want it to be the same color as the collar so I'm going to select this pink color draw some pink on the end of the sleeve right here and I'll do the same thing on the other cool I colored the end of the sleeves and now there's only one thing that's missing and that is my watch I always wear this watch so I need to put it on my Minecraft skin the face of the watch will be white like this and the strap the strap is kind of green so I'll make it the same color as the okay there we go now it's time to move on to the pants so I want there to be rips and holes in the pants so I'm going to try to design some ripped pants right now okay the first try was a failure but I'm going to try again okay well it's not perfect but it's good enough for me so now I'm going to move on to the shoes I'm going to design some shoes down here I think I'm going to make the shoes okay so now it's time to move on to the final thing that I want to add which is body armor because I'm going to need it to survive so I'm going to do my best to design some body armor for my skin I'm starting by drawing some straps that go over my the shoulder straps so this is the main chest plate I'm going to draw the same thing on the all right something like that a lot of body armor also has straps that go right so I'm going to draw those now remove the arms and now I'm just going to add details to the chest plate okay I'm happy with that and like before I'll do the same thing on the back like this that kind of looks like body armor I think it's finished it's not the best skin in the world but it's good enough for me I've never designed a Minecraft skin before so this was my first try now I'm going to download this skin and enter my Minecraft world to see what it looks like in the game download all right opening Minecraft I'm excited change skin no no I don't know how to change my skin back to Google how to change Minecraft skin bedrock use owned skins okay own skins right here choose new here we go they look the same maybe this one all right what's happening right here what's Happening Here oh I see I need to erase erase erase erase erase erase erase all right try number two this one it looks good okay let's enter the world fish land and there we go my custom skin I love it I'm very happy with this skin so I'm going to end this video right here check out my next Minecraft video to see me playing with my new skin if you liked this video you could click the like button or subscribe to my channel by clicking up here and if you want to continue learning you could watch my last video by clicking down here thank you so much for watching and I will see you in the next video see ya",
+    "transcript_zh": "",
+    "highlight_words": [
+      "character",
+      "striped",
+      "white",
+      "chest",
+      "enter"
+    ],
+    "xp_reward": 20
+  },
+  "segments": [
+    {
+      "start_sec": 40,
+      "end_sec": 54,
+      "sentence_en": "So this is skin this is my skin and in Minecraft a skin is what your character looks.",
+      "sentence_zh": "",
+      "blank_word": "character",
+      "distractors": [
+        "mysticism",
+        "mountain",
+        "english"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 122,
+      "end_sec": 135,
+      "sentence_en": "First thing that I want to do is make my shirt striped I want the shirt to have white and yellow stripes.",
+      "sentence_zh": "",
+      "blank_word": "striped",
+      "distractors": [
+        "castle",
+        "pirate",
+        "download"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 403,
+      "end_sec": 418,
+      "sentence_en": "It on my Minecraft skin the face of the watch will be white like this and the strap the strap is kind.",
+      "sentence_zh": "",
+      "blank_word": "white",
+      "distractors": [
+        "piece",
+        "forest",
+        "sides"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 556,
+      "end_sec": 571,
+      "sentence_en": "So this is the main chest plate I'm going to draw the same thing on the all right something like.",
+      "sentence_zh": "",
+      "blank_word": "chest",
+      "distractors": [
+        "sand",
+        "leaf",
+        "fluffy"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 738,
+      "end_sec": 759,
+      "sentence_en": "This one it looks good okay let's enter the world fish land and there we go.",
+      "sentence_zh": "",
+      "blank_word": "enter",
+      "distractors": [
+        "paddock",
+        "plant",
+        "erase"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    }
+  ]
+}

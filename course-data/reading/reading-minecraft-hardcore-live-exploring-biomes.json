@@ -1,0 +1,155 @@
+{
+  "course": {
+    "id": "reading-minecraft-hardcore-live-exploring-biomes",
+    "kind": "reading",
+    "title": "Learn English with Minecraft Hardcore LIVE - Exploring Biomes — Reading",
+    "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore LIVE - Exploring Biomes\" — 5 reading segments with mixed quizzes.",
+    "difficulty": 3,
+    "est_minutes": 8,
+    "xp_reward": 50,
+    "unlock_level": 3,
+    "thumbnail_key": "reading",
+    "source_label": "Based on Learn English with Minecraft — Ep. 3",
+    "source_url": "https://www.youtube.com/watch?v=NYcwUO9D7vA",
+    "source_license": "youtube-embed",
+    "sort_order": 103,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "reading_passage",
+    "title": "Learn English with Minecraft Hardcore LIVE - Exploring Biomes — Reading Practice",
+    "passage_md": "I embarked on an epic **journey** to explore as many biomes as possible. My goal was to find a cherry grove, a rare pink biome with beautiful **blossoming** trees.\n\nI traveled through forests, plains, swamps, and taigas. Each biome had **unique** features: the swamp had witch huts, the taiga had foxes, and the plains had **horses** I could tame.\n\nThe most **spectacular** biome I found was a mushroom island surrounded by ocean. No hostile mobs spawn there naturally, making it the safest place in the entire **world**.\n\nAfter hours of exploring, I finally spotted the pink trees of a cherry grove on a distant **hilltop**. The petals floated down like snow and the whole area looked absolutely **magical**.\n\nI collected cherry saplings to plant back at my base and made the long **return** trip home. Exploring different biomes reminds me why Minecraft never gets **boring**.",
+    "transcript_zh": "我踏上了一场史诗般的旅程来探索尽可能多的生态群系。我的目标是找到樱花林，一个有美丽开花树木的稀有粉色生态群系。\n\n我穿越了森林、平原、沼泽和针叶林。每个生态群系都有独特的特征：沼泽有女巫小屋，针叶林有狐狸，平原有可以驯服的马。\n\n我找到的最壮观的生态群系是一个被海洋环绕的蘑菇岛。那里不会自然生成敌对生物，使它成为整个世界最安全的地方。\n\n探索了数小时后，我终于在远处的山顶看到了樱花林的粉色树木。花瓣像雪一样飘落，整个区域看起来绝对神奇。\n\n我收集了樱花树苗带回基地种植并踏上了漫长的回家路。探索不同的生态群系让我想起为什么Minecraft永远不会无聊。",
+    "highlight_words": [
+      "journey",
+      "unique",
+      "spectacular",
+      "magical",
+      "return"
+    ],
+    "xp_reward": 20
+  },
+  "segments": [
+    {
+      "sort_order": 0,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I embarked on an epic **journey** to explore as many biomes as possible. My goal was to find a cherry grove, a rare pink biome with beautiful **blossoming** trees.",
+      "sentence_zh": "我踏上了一场史诗般的旅程来探索尽可能多的生态群系。我的目标是找到樱花林，一个有美丽开花树木的稀有粉色生态群系。",
+      "blank_word": "journey",
+      "distractors": [
+        "destroyed",
+        "powerful",
+        "scattered"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    },
+    {
+      "sort_order": 1,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I traveled through forests, plains, swamps, and taigas. Each biome had **unique** features: the swamp had witch huts, the taiga had foxes, and the plains had **horses** I could tame.",
+      "sentence_zh": "我穿越了森林、平原、沼泽和针叶林。每个生态群系都有独特的特征：沼泽有女巫小屋，针叶林有狐狸，平原有可以驯服的马。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "comprehension",
+      "quiz_payload": {
+        "prompt": "What happened in this paragraph?",
+        "options": [
+          "I traveled through forests, plains, swamps, and taigas",
+          "The player went to sleep in a village",
+          "Nothing interesting happened today",
+          "The player decided to quit the game"
+        ],
+        "correct": 0
+      }
+    },
+    {
+      "sort_order": 2,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "The most **spectacular** biome I found was a mushroom island surrounded by ocean. No hostile mobs spawn there naturally, making it the safest place in the entire **world**.",
+      "sentence_zh": "我找到的最壮观的生态群系是一个被海洋环绕的蘑菇岛。那里不会自然生成敌对生物，使它成为整个世界最安全的地方。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "word_match",
+      "quiz_payload": {
+        "pairs": [
+          {
+            "word": "spectacular",
+            "definition": "A word related to spectacular"
+          },
+          {
+            "word": "world",
+            "definition": "A word related to world"
+          },
+          {
+            "word": "spectacular",
+            "definition": "A word related to spectacular"
+          }
+        ],
+        "shuffled_defs": [
+          "A word related to world",
+          "A word related to spectacular",
+          "A word related to spectacular"
+        ]
+      }
+    },
+    {
+      "sort_order": 3,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "After hours of exploring, I finally spotted the pink trees of a cherry grove on a distant **hilltop**. The petals floated down like snow and the whole area looked absolutely **magical**.",
+      "sentence_zh": "探索了数小时后，我终于在远处的山顶看到了樱花林的粉色树木。花瓣像雪一样飘落，整个区域看起来绝对神奇。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "sentence_order",
+      "quiz_payload": {
+        "sentences": [
+          "First action happened.",
+          "Then the next step followed.",
+          "Finally the result occurred.",
+          "The task was complete."
+        ],
+        "correct_order": [
+          0,
+          1,
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "sort_order": 4,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I collected cherry saplings to plant back at my base and made the long **return** trip home. Exploring different biomes reminds me why Minecraft never gets **boring**.",
+      "sentence_zh": "我收集了樱花树苗带回基地种植并踏上了漫长的回家路。探索不同的生态群系让我想起为什么Minecraft永远不会无聊。",
+      "blank_word": "return",
+      "distractors": [
+        "approached",
+        "powerful",
+        "mountain"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    }
+  ],
+  "question": {
+    "kind": "mcq",
+    "prompt": "What biome has no hostile mob spawns?",
+    "payload": {
+      "options": [
+        "Mushroom island",
+        "Cherry grove",
+        "Desert",
+        "Dark forest"
+      ],
+      "correct": 0
+    },
+    "xp_reward": 10,
+    "sort_order": 0
+  }
+}

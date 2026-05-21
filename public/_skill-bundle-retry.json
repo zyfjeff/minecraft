@@ -1,0 +1,4472 @@
+[
+  {
+    "course": {
+      "id": "reading-minecraft-hardcore-1-my-first-night",
+      "kind": "reading",
+      "title": "Learn English with Minecraft Hardcore #1 – My First Night — Reading",
+      "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore #1 – My First Night\" — 5 reading segments with mixed quizzes.",
+      "difficulty": 3,
+      "est_minutes": 8,
+      "xp_reward": 50,
+      "unlock_level": 3,
+      "thumbnail_key": "reading",
+      "source_label": "Based on Learn English with Minecraft — Ep. 22",
+      "source_url": "https://www.youtube.com/watch?v=fdP-zeNxvVQ",
+      "source_license": "youtube-embed",
+      "sort_order": 122,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Learn English with Minecraft Hardcore #1 – My First Night — Reading Practice",
+      "passage_md": "On my first night in Minecraft Hardcore mode, I spawned in a **jungle** biome. I needed to find **resources** quickly before darkness fell. I chopped down trees to collect wood and crafted a **crafting** table to make basic tools.\n\nThe sun was setting fast, so I dug into a hillside to create a small **shelter**. Inside, I placed torches to keep monsters away. I could hear **zombies** groaning outside my dirt walls.\n\nWhen morning came, I ventured out with my wooden **pickaxe** to find coal and stone. I discovered a cave entrance nearby. The adventure was just beginning, but surviving the first night felt like a huge **achievement**.\n\nI found some iron ore deep in the cave and started **smelting** it in my furnace. With iron tools, I could mine faster and defend myself better against the **dangerous** creatures lurking underground.\n\nFinally, I built a proper crafting table and made a **shield** to protect myself. Hardcore mode means one life only — no respawning. Every decision matters when death is **permanent**.",
+      "transcript_zh": "在我的Minecraft极限模式第一个夜晚，我出生在一个丛林生态群系。我需要在天黑前快速找到资源。我砍倒树木收集木头，制作了工作台来做基础工具。\n\n太阳很快就要落山了，所以我挖进山坡做了一个小庇护所。里面我放了火把来防止怪物靠近。我能听到僵尸在泥墙外面呻吟。\n\n天亮后，我带着木镐外出寻找煤炭和石头。我在附近发现了一个洞穴入口。冒险才刚刚开始，但活过第一个夜晚感觉像是巨大的成就。\n\n我在洞穴深处找到了一些铁矿石，开始在熔炉中冶炼。有了铁工具，我可以挖得更快，也能更好地抵御潜伏在地下的危险生物。\n\n最后，我造了一个合适的工作台并做了一面盾牌保护自己。极限模式意味着只有一条命——不能重生。当死亡是永久的时候，每个决定都很重要。",
+      "highlight_words": [
+        "jungle",
+        "crafting",
+        "shelter",
+        "pickaxe",
+        "smelting"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "On my first night in Minecraft Hardcore mode, I spawned in a **jungle** biome. I needed to find **resources** quickly before darkness fell. I chopped down trees to collect wood and crafted a **crafting** table to make basic tools.",
+        "sentence_zh": "在我的Minecraft极限模式第一个夜晚，我出生在一个丛林生态群系。我需要在天黑前快速找到资源。我砍倒树木收集木头，制作了工作台来做基础工具。",
+        "blank_word": "jungle",
+        "distractors": [
+          "material",
+          "enormous",
+          "abandoned"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "The sun was setting fast, so I dug into a hillside to create a small **shelter**. Inside, I placed torches to keep monsters away. I could hear **zombies** groaning outside my dirt walls.",
+        "sentence_zh": "太阳很快就要落山了，所以我挖进山坡做了一个小庇护所。里面我放了火把来防止怪物靠近。我能听到僵尸在泥墙外面呻吟。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What happened in this paragraph?",
+          "options": [
+            "The sun was setting fast, so I dug into a hillside to create...",
+            "The player went to sleep in a village",
+            "Nothing interesting happened today",
+            "The player decided to quit the game"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "When morning came, I ventured out with my wooden **pickaxe** to find coal and stone. I discovered a cave entrance nearby. The adventure was just beginning, but surviving the first night felt like a huge **achievement**.",
+        "sentence_zh": "天亮后，我带着木镐外出寻找煤炭和石头。我在附近发现了一个洞穴入口。冒险才刚刚开始，但活过第一个夜晚感觉像是巨大的成就。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "word_match",
+        "quiz_payload": {
+          "pairs": [
+            {
+              "word": "pickaxe",
+              "definition": "A tool for mining stone and ore"
+            },
+            {
+              "word": "achievement",
+              "definition": "A word related to achievement"
+            },
+            {
+              "word": "pickaxe",
+              "definition": "A tool for mining stone and ore"
+            }
+          ],
+          "shuffled_defs": [
+            "A word related to achievement",
+            "A tool for mining stone and ore",
+            "A tool for mining stone and ore"
+          ]
+        }
+      },
+      {
+        "sort_order": 3,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I found some iron ore deep in the cave and started **smelting** it in my furnace. With iron tools, I could mine faster and defend myself better against the **dangerous** creatures lurking underground.",
+        "sentence_zh": "我在洞穴深处找到了一些铁矿石，开始在熔炉中冶炼。有了铁工具，我可以挖得更快，也能更好地抵御潜伏在地下的危险生物。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "sentence_order",
+        "quiz_payload": {
+          "sentences": [
+            "First action happened.",
+            "Then the next step followed.",
+            "Finally the result occurred.",
+            "The task was complete."
+          ],
+          "correct_order": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "sort_order": 4,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Finally, I built a proper crafting table and made a **shield** to protect myself. Hardcore mode means one life only — no respawning. Every decision matters when death is **permanent**.",
+        "sentence_zh": "最后，我造了一个合适的工作台并做了一面盾牌保护自己。极限模式意味着只有一条命——不能重生。当死亡是永久的时候，每个决定都很重要。",
+        "blank_word": "shield",
+        "distractors": [
+          "fortunate",
+          "entrance",
+          "valuable"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "What makes Hardcore mode different from normal Minecraft?",
+      "payload": {
+        "options": [
+          "You only have one life and cannot respawn",
+          "You have unlimited resources",
+          "There are no monsters",
+          "The world is much smaller"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-hardcore-10-happy-ghast",
+      "kind": "reading",
+      "title": "Learn English with Minecraft Hardcore #10 - Happy Ghast — Reading",
+      "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore #10 - Happy Ghast\" — 5 reading segments with mixed quizzes.",
+      "difficulty": 3,
+      "est_minutes": 8,
+      "xp_reward": 50,
+      "unlock_level": 3,
+      "thumbnail_key": "reading",
+      "source_label": "Based on Learn English with Minecraft — Ep. 13",
+      "source_url": "https://www.youtube.com/watch?v=P_Q-hrtVMUw",
+      "source_license": "youtube-embed",
+      "sort_order": 113,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Learn English with Minecraft Hardcore #10 - Happy Ghast — Reading Practice",
+      "passage_md": "Today I discovered a **ghast** in the Nether — a large, floating white creature that shoots **fireballs** at you. I needed to be very careful not to get knocked off the cliffs by its explosive attacks.\n\nI tried to deflect the fireballs back at the ghast by hitting them with my **sword**. After several attempts, I finally managed to hit one back and **defeated** the ghast. It dropped a ghast tear.\n\nThe Nether is full of **dangerous** creatures, but the ghast is one of the scariest because it attacks from far away. You need to watch the sky **constantly** while exploring.\n\nAfter collecting the ghast tear, I built a small **platform** to keep myself safe from the lava below. The Nether fortress was **visible** in the distance, waiting to be explored.\n\nI decided to head home through my **portal** before more ghasts appeared. My inventory was full of useful **materials** from this dangerous adventure in the Nether.",
+      "transcript_zh": "今天我在下界发现了一只恶魂——一种会向你发射火球的大型白色浮空生物。我需要非常小心不被它的爆炸性攻击从悬崖上击落。\n\n我试着用剑把火球打回恶魂身上。经过几次尝试，我终于成功把一个火球打回去并打败了恶魂。它掉落了一个恶魂之泪。\n\n下界充满了危险的生物，但恶魂是最可怕的之一，因为它从远处攻击。在探索时你需要不断注意天空。\n\n收集了恶魂之泪后，我建了一个小平台让自己远离下面的岩浆。下界堡垒在远处可见，等待被探索。\n\n我决定在更多恶魂出现之前通过传送门回家。我的背包里装满了这次下界危险冒险中获得的有用材料。",
+      "highlight_words": [
+        "ghast",
+        "fireballs",
+        "sword",
+        "dangerous",
+        "portal"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Today I discovered a **ghast** in the Nether — a large, floating white creature that shoots **fireballs** at you. I needed to be very careful not to get knocked off the cliffs by its explosive attacks.",
+        "sentence_zh": "今天我在下界发现了一只恶魂——一种会向你发射火球的大型白色浮空生物。我需要非常小心不被它的爆炸性攻击从悬崖上击落。",
+        "blank_word": "ghast",
+        "distractors": [
+          "abandoned",
+          "corridor",
+          "constructed"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I tried to deflect the fireballs back at the ghast by hitting them with my **sword**. After several attempts, I finally managed to hit one back and **defeated** the ghast. It dropped a ghast tear.",
+        "sentence_zh": "我试着用剑把火球打回恶魂身上。经过几次尝试，我终于成功把一个火球打回去并打败了恶魂。它掉落了一个恶魂之泪。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What happened in this paragraph?",
+          "options": [
+            "I tried to deflect the fireballs back at the ghast by hittin...",
+            "The player went to sleep in a village",
+            "Nothing interesting happened today",
+            "The player decided to quit the game"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "The Nether is full of **dangerous** creatures, but the ghast is one of the scariest because it attacks from far away. You need to watch the sky **constantly** while exploring.",
+        "sentence_zh": "下界充满了危险的生物，但恶魂是最可怕的之一，因为它从远处攻击。在探索时你需要不断注意天空。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "word_match",
+        "quiz_payload": {
+          "pairs": [
+            {
+              "word": "dangerous",
+              "definition": "Something that can hurt you"
+            },
+            {
+              "word": "constantly",
+              "definition": "All the time without stopping"
+            },
+            {
+              "word": "dangerous",
+              "definition": "Something that can hurt you"
+            }
+          ],
+          "shuffled_defs": [
+            "Something that can hurt you",
+            "Something that can hurt you",
+            "All the time without stopping"
+          ]
+        }
+      },
+      {
+        "sort_order": 3,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "After collecting the ghast tear, I built a small **platform** to keep myself safe from the lava below. The Nether fortress was **visible** in the distance, waiting to be explored.",
+        "sentence_zh": "收集了恶魂之泪后，我建了一个小平台让自己远离下面的岩浆。下界堡垒在远处可见，等待被探索。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "sentence_order",
+        "quiz_payload": {
+          "sentences": [
+            "First action happened.",
+            "Then the next step followed.",
+            "Finally the result occurred.",
+            "The task was complete."
+          ],
+          "correct_order": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "sort_order": 4,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I decided to head home through my **portal** before more ghasts appeared. My inventory was full of useful **materials** from this dangerous adventure in the Nether.",
+        "sentence_zh": "我决定在更多恶魂出现之前通过传送门回家。我的背包里装满了这次下界危险冒险中获得的有用材料。",
+        "blank_word": "portal",
+        "distractors": [
+          "collected",
+          "dangerous",
+          "prevented"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "What useful item did the ghast drop when defeated?",
+      "payload": {
+        "options": [
+          "A ghast tear for potions",
+          "A diamond",
+          "A golden apple",
+          "An enchanted book"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-hardcore-11-building-a-barn",
+      "kind": "reading",
+      "title": "Learn English with Minecraft Hardcore #11 - Building a Barn — Reading",
+      "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore #11 - Building a Barn\" — 5 reading segments with mixed quizzes.",
+      "difficulty": 3,
+      "est_minutes": 8,
+      "xp_reward": 50,
+      "unlock_level": 3,
+      "thumbnail_key": "reading",
+      "source_label": "Based on Learn English with Minecraft — Ep. 12",
+      "source_url": "https://www.youtube.com/watch?v=qEyG1_o6nbk",
+      "source_license": "youtube-embed",
+      "sort_order": 112,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Learn English with Minecraft Hardcore #11 - Building a Barn — Reading Practice",
+      "passage_md": "Today I decided to build a **barn** for my animals. I gathered lots of oak wood and **planks** to create the frame. The barn needed to be big enough for cows, sheep, and chickens.\n\nI started by placing the **foundation** using cobblestone blocks. Then I built the walls with oak planks and added large **windows** to let natural light inside for the animals.\n\nThe roof was the hardest part. I used **stairs** blocks to create a sloped design that looked realistic. I also added hay bales inside for **decoration** and for feeding the animals.\n\nNext, I needed to **lure** the animals into the barn using their favorite foods. Cows follow wheat, sheep follow wheat too, and chickens follow **seeds**. I led them one group at a time.\n\nFinally, the barn was complete with all my animals safely inside. I added a fence gate as the **entrance** so they couldn't escape. This barn will help me **breed** animals for food and resources.",
+      "transcript_zh": "今天我决定为动物建造一个谷仓。我收集了很多橡木和木板来制作框架。谷仓需要足够大来容纳牛、羊和鸡。\n\n我先用圆石方块铺设地基。然后用橡木板建造墙壁，并加了大窗户让自然光照进来给动物。\n\n屋顶是最难的部分。我用楼梯方块创造了一个看起来逼真的斜坡设计。我还在里面放了干草块作为装饰和喂养动物。\n\n接下来，我需要用动物最喜欢的食物把它们引诱进谷仓。牛跟着小麦走，羊也跟着小麦走，鸡跟着种子走。我一组一组地带它们进去。\n\n最后，谷仓完工了，所有动物都安全地在里面。我加了一个栅栏门作为入口这样它们跑不出去。这个谷仓将帮助我繁殖动物来获取食物和资源。",
+      "highlight_words": [
+        "barn",
+        "foundation",
+        "stairs",
+        "lure",
+        "breed"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Today I decided to build a **barn** for my animals. I gathered lots of oak wood and **planks** to create the frame. The barn needed to be big enough for cows, sheep, and chickens.",
+        "sentence_zh": "今天我决定为动物建造一个谷仓。我收集了很多橡木和木板来制作框架。谷仓需要足够大来容纳牛、羊和鸡。",
+        "blank_word": "barn",
+        "distractors": [
+          "material",
+          "dangerous",
+          "abandoned"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I started by placing the **foundation** using cobblestone blocks. Then I built the walls with oak planks and added large **windows** to let natural light inside for the animals.",
+        "sentence_zh": "我先用圆石方块铺设地基。然后用橡木板建造墙壁，并加了大窗户让自然光照进来给动物。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What happened in this paragraph?",
+          "options": [
+            "I started by placing the foundation using cobblestone blocks...",
+            "The player went to sleep in a village",
+            "Nothing interesting happened today",
+            "The player decided to quit the game"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "The roof was the hardest part. I used **stairs** blocks to create a sloped design that looked realistic. I also added hay bales inside for **decoration** and for feeding the animals.",
+        "sentence_zh": "屋顶是最难的部分。我用楼梯方块创造了一个看起来逼真的斜坡设计。我还在里面放了干草块作为装饰和喂养动物。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "word_match",
+        "quiz_payload": {
+          "pairs": [
+            {
+              "word": "stairs",
+              "definition": "A word related to stairs"
+            },
+            {
+              "word": "decoration",
+              "definition": "A word related to decoration"
+            },
+            {
+              "word": "stairs",
+              "definition": "A word related to stairs"
+            }
+          ],
+          "shuffled_defs": [
+            "A word related to stairs",
+            "A word related to stairs",
+            "A word related to decoration"
+          ]
+        }
+      },
+      {
+        "sort_order": 3,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Next, I needed to **lure** the animals into the barn using their favorite foods. Cows follow wheat, sheep follow wheat too, and chickens follow **seeds**. I led them one group at a time.",
+        "sentence_zh": "接下来，我需要用动物最喜欢的食物把它们引诱进谷仓。牛跟着小麦走，羊也跟着小麦走，鸡跟着种子走。我一组一组地带它们进去。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "sentence_order",
+        "quiz_payload": {
+          "sentences": [
+            "Next, I needed to lure the animals into the barn using their favorite foods.",
+            "Cows follow wheat, sheep follow wheat too, and chickens follow seeds.",
+            "I led them one group at a time."
+          ],
+          "correct_order": [
+            0,
+            1,
+            2
+          ]
+        }
+      },
+      {
+        "sort_order": 4,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Finally, the barn was complete with all my animals safely inside. I added a fence gate as the **entrance** so they couldn't escape. This barn will help me **breed** animals for food and resources.",
+        "sentence_zh": "最后，谷仓完工了，所有动物都安全地在里面。我加了一个栅栏门作为入口这样它们跑不出去。这个谷仓将帮助我繁殖动物来获取食物和资源。",
+        "blank_word": "entrance",
+        "distractors": [
+          "constructed",
+          "scattered",
+          "valuable"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "Why did the player build a barn?",
+      "payload": {
+        "options": [
+          "To keep animals safe and breed them for resources",
+          "To store weapons",
+          "To hide from monsters",
+          "To grow crops"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-hardcore-12-quest-for-the-anvil",
+      "kind": "reading",
+      "title": "Learn English with Minecraft Hardcore #12 - Quest for the Anvil! — Reading",
+      "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore #12 - Quest for the Anvil!\" — 5 reading segments with mixed quizzes.",
+      "difficulty": 3,
+      "est_minutes": 8,
+      "xp_reward": 50,
+      "unlock_level": 3,
+      "thumbnail_key": "reading",
+      "source_label": "Based on Learn English with Minecraft — Ep. 10",
+      "source_url": "https://www.youtube.com/watch?v=9b19-z45Xe0",
+      "source_license": "youtube-embed",
+      "sort_order": 110,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Learn English with Minecraft Hardcore #12 - Quest for the Anvil! — Reading Practice",
+      "passage_md": "I needed an **anvil** to repair my enchanted tools and combine enchantments. Making one requires three iron blocks and four iron **ingots** — that's a lot of iron to mine!\n\nI went deep **underground** to find enough iron ore. The caves were dark and full of hostile mobs. I had to fight off several **skeletons** while mining.\n\nAfter collecting over thirty iron ore, I returned to my base to **smelt** them all in the furnace. While waiting, I organized my chests and stored my **valuable** items safely.\n\nWith enough iron ingots ready, I crafted the anvil on my crafting table. It appeared as a heavy gray block that makes a satisfying **metallic** sound when you use it. I was so **excited** to finally have one!\n\nI immediately used the anvil to **repair** my diamond pickaxe and combine two sharpness books onto my sword. The anvil is one of the most useful blocks for **maintaining** your best gear.",
+      "transcript_zh": "我需要一个铁砧来修复附魔工具和合并附魔。制作一个需要三个铁块和四个铁锭——需要挖很多铁矿！\n\n我去了很深的地下寻找足够的铁矿石。洞穴又暗又充满敌对生物。我在挖矿时不得不击退了几只骷髅。\n\n收集了三十多个铁矿石后，我回到基地把它们全部放进熔炉冶炼。在等待的同时，我整理了箱子并安全存放了贵重物品。\n\n有了足够的铁锭，我在工作台上制作了铁砧。它是一个沉重的灰色方块，使用时会发出令人满意的金属声。我终于有了一个，太兴奋了！\n\n我立即用铁砧修复了钻石镐，并把两本锋利附魔书合并到了剑上。铁砧是维护最佳装备最有用的方块之一。",
+      "highlight_words": [
+        "anvil",
+        "underground",
+        "smelt",
+        "repair",
+        "maintaining"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I needed an **anvil** to repair my enchanted tools and combine enchantments. Making one requires three iron blocks and four iron **ingots** — that's a lot of iron to mine!",
+        "sentence_zh": "我需要一个铁砧来修复附魔工具和合并附魔。制作一个需要三个铁块和四个铁锭——需要挖很多铁矿！",
+        "blank_word": "anvil",
+        "distractors": [
+          "ancient",
+          "enormous",
+          "essential"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I went deep **underground** to find enough iron ore. The caves were dark and full of hostile mobs. I had to fight off several **skeletons** while mining.",
+        "sentence_zh": "我去了很深的地下寻找足够的铁矿石。洞穴又暗又充满敌对生物。我在挖矿时不得不击退了几只骷髅。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What happened in this paragraph?",
+          "options": [
+            "I went deep underground to find enough iron ore",
+            "The player went to sleep in a village",
+            "Nothing interesting happened today",
+            "The player decided to quit the game"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "After collecting over thirty iron ore, I returned to my base to **smelt** them all in the furnace. While waiting, I organized my chests and stored my **valuable** items safely.",
+        "sentence_zh": "收集了三十多个铁矿石后，我回到基地把它们全部放进熔炉冶炼。在等待的同时，我整理了箱子并安全存放了贵重物品。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "word_match",
+        "quiz_payload": {
+          "pairs": [
+            {
+              "word": "smelt",
+              "definition": "A word related to smelt"
+            },
+            {
+              "word": "valuable",
+              "definition": "A word related to valuable"
+            },
+            {
+              "word": "smelt",
+              "definition": "A word related to smelt"
+            }
+          ],
+          "shuffled_defs": [
+            "A word related to smelt",
+            "A word related to valuable",
+            "A word related to smelt"
+          ]
+        }
+      },
+      {
+        "sort_order": 3,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "With enough iron ingots ready, I crafted the anvil on my crafting table. It appeared as a heavy gray block that makes a satisfying **metallic** sound when you use it. I was so **excited** to finally have one!",
+        "sentence_zh": "有了足够的铁锭，我在工作台上制作了铁砧。它是一个沉重的灰色方块，使用时会发出令人满意的金属声。我终于有了一个，太兴奋了！",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "sentence_order",
+        "quiz_payload": {
+          "sentences": [
+            "With enough iron ingots ready, I crafted the anvil on my crafting table.",
+            "It appeared as a heavy gray block that makes a satisfying metallic sound when you use it.",
+            "I was so excited to finally have one."
+          ],
+          "correct_order": [
+            0,
+            1,
+            2
+          ]
+        }
+      },
+      {
+        "sort_order": 4,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I immediately used the anvil to **repair** my diamond pickaxe and combine two sharpness books onto my sword. The anvil is one of the most useful blocks for **maintaining** your best gear.",
+        "sentence_zh": "我立即用铁砧修复了钻石镐，并把两本锋利附魔书合并到了剑上。铁砧是维护最佳装备最有用的方块之一。",
+        "blank_word": "repair",
+        "distractors": [
+          "valuable",
+          "fortress",
+          "ancient"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "How much iron is needed to craft an anvil?",
+      "payload": {
+        "options": [
+          "Three iron blocks and four iron ingots",
+          "One iron block",
+          "Five diamonds",
+          "Two gold blocks"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-hardcore-13-xp-farm",
+      "kind": "reading",
+      "title": "Learn English with Minecraft Hardcore #13 - XP Farm — Reading",
+      "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore #13 - XP Farm\" — 5 reading segments with mixed quizzes.",
+      "difficulty": 3,
+      "est_minutes": 8,
+      "xp_reward": 50,
+      "unlock_level": 3,
+      "thumbnail_key": "reading",
+      "source_label": "Based on Learn English with Minecraft — Ep. 8",
+      "source_url": "https://www.youtube.com/watch?v=Ia8jk7HqtiY",
+      "source_license": "youtube-embed",
+      "sort_order": 108,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Learn English with Minecraft Hardcore #13 - XP Farm — Reading Practice",
+      "passage_md": "I decided to build an XP farm to collect **experience** points faster. Experience is needed for **enchanting** tools and weapons, making them much more powerful.\n\nThe design uses a dark room where **hostile** mobs spawn naturally. They fall through a hole and take damage from the drop, leaving them with very little **health** for easy kills.\n\nI built the spawning platform high above the ground using lots of **cobblestone**. The water channels push the mobs toward the central drop **shaft** where they fall down.\n\nAfter hours of building, the farm was finally working! Zombies, skeletons, and spiders were falling down and I could **defeat** them with one hit. The XP orbs flew toward me **rapidly**.\n\nWithin minutes I gained enough levels to enchant my diamond sword with **Sharpness** V. This XP farm will be **essential** for keeping all my gear enchanted throughout the game.",
+      "transcript_zh": "我决定建一个经验值农场来更快地收集经验值。经验值是附魔工具和武器所需要的，能让它们变得更强大。\n\n这个设计使用一个暗室让敌对生物自然生成。它们通过一个洞掉落并受到坠落伤害，只剩下很少的血量方便击杀。\n\n我在高处用大量圆石建造了生成平台。水流把怪物推向中央坠落通道让它们掉下去。\n\n经过数小时的建造，农场终于运作了！僵尸、骷髅和蜘蛛不断掉落，我一击就能打败它们。经验球快速地飞向我。\n\n几分钟内我就获得了足够的等级来给钻石剑附魔锋利V。这个经验值农场对于在整个游戏中保持装备附魔至关重要。",
+      "highlight_words": [
+        "experience",
+        "enchanting",
+        "hostile",
+        "cobblestone",
+        "essential"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I decided to build an XP farm to collect **experience** points faster. Experience is needed for **enchanting** tools and weapons, making them much more powerful.",
+        "sentence_zh": "我决定建一个经验值农场来更快地收集经验值。经验值是附魔工具和武器所需要的，能让它们变得更强大。",
+        "blank_word": "experience",
+        "distractors": [
+          "collected",
+          "mysterious",
+          "mountain"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "The design uses a dark room where **hostile** mobs spawn naturally. They fall through a hole and take damage from the drop, leaving them with very little **health** for easy kills.",
+        "sentence_zh": "这个设计使用一个暗室让敌对生物自然生成。它们通过一个洞掉落并受到坠落伤害，只剩下很少的血量方便击杀。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What happened in this paragraph?",
+          "options": [
+            "The design uses a dark room where hostile mobs spawn natural...",
+            "The player went to sleep in a village",
+            "Nothing interesting happened today",
+            "The player decided to quit the game"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I built the spawning platform high above the ground using lots of **cobblestone**. The water channels push the mobs toward the central drop **shaft** where they fall down.",
+        "sentence_zh": "我在高处用大量圆石建造了生成平台。水流把怪物推向中央坠落通道让它们掉下去。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "word_match",
+        "quiz_payload": {
+          "pairs": [
+            {
+              "word": "cobblestone",
+              "definition": "Rough grey building stone"
+            },
+            {
+              "word": "shaft",
+              "definition": "A word related to shaft"
+            },
+            {
+              "word": "cobblestone",
+              "definition": "Rough grey building stone"
+            }
+          ],
+          "shuffled_defs": [
+            "Rough grey building stone",
+            "A word related to shaft",
+            "Rough grey building stone"
+          ]
+        }
+      },
+      {
+        "sort_order": 3,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "After hours of building, the farm was finally working! Zombies, skeletons, and spiders were falling down and I could **defeat** them with one hit. The XP orbs flew toward me **rapidly**.",
+        "sentence_zh": "经过数小时的建造，农场终于运作了！僵尸、骷髅和蜘蛛不断掉落，我一击就能打败它们。经验球快速地飞向我。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "sentence_order",
+        "quiz_payload": {
+          "sentences": [
+            "After hours of building, the farm was finally working.",
+            "Zombies, skeletons, and spiders were falling down and I could defeat them with one hit.",
+            "The XP orbs flew toward me rapidly."
+          ],
+          "correct_order": [
+            0,
+            1,
+            2
+          ]
+        }
+      },
+      {
+        "sort_order": 4,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Within minutes I gained enough levels to enchant my diamond sword with **Sharpness** V. This XP farm will be **essential** for keeping all my gear enchanted throughout the game.",
+        "sentence_zh": "几分钟内我就获得了足够的等级来给钻石剑附魔锋利V。这个经验值农场对于在整个游戏中保持装备附魔至关重要。",
+        "blank_word": "Sharpness",
+        "distractors": [
+          "attempted",
+          "destroyed",
+          "corridor"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "What is the main purpose of an XP farm?",
+      "payload": {
+        "options": [
+          "To collect experience points for enchanting",
+          "To grow food",
+          "To find diamonds",
+          "To breed animals"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-hardcore-14-enchanting-weapons",
+      "kind": "reading",
+      "title": "Learn English with Minecraft Hardcore #14 - Enchanting Weapons!! — Reading",
+      "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore #14 - Enchanting Weapons!!\" — 5 reading segments with mixed quizzes.",
+      "difficulty": 3,
+      "est_minutes": 8,
+      "xp_reward": 50,
+      "unlock_level": 3,
+      "thumbnail_key": "reading",
+      "source_label": "Based on Learn English with Minecraft — Ep. 6",
+      "source_url": "https://www.youtube.com/watch?v=4qYXqdCiOkQ",
+      "source_license": "youtube-embed",
+      "sort_order": 106,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Learn English with Minecraft Hardcore #14 - Enchanting Weapons!! — Reading Practice",
+      "passage_md": "With plenty of experience points from my XP farm, I was ready to **enchant** my best weapons and tools. I placed my enchanting table surrounded by **bookshelves** for maximum power.\n\nThe enchanting table needs fifteen bookshelves arranged around it to unlock the highest level **enchantments**. Each bookshelf must be exactly two blocks away with nothing **blocking** the path.\n\nI enchanted my diamond sword first and got Sharpness IV and Fire Aspect. Fire Aspect is amazing because it sets enemies on **fire** when you hit them, dealing extra **damage** over time.\n\nNext, I enchanted my bow with Power V and Infinity. **Infinity** means I never run out of arrows — I only need one arrow in my **inventory** and it works forever.\n\nMy diamond pickaxe received Efficiency V and Fortune III. Fortune makes ore blocks drop **multiple** items instead of one. Now every diamond block could give me up to four **diamonds**!",
+      "transcript_zh": "有了经验值农场提供的大量经验值，我准备好给最好的武器和工具附魔了。我把附魔台放在书架环绕的地方以获得最大能力。\n\n附魔台需要十五个书架环绕排列才能解锁最高等级的附魔。每个书架必须刚好两格远且中间没有任何东西阻挡。\n\n我首先给钻石剑附魔，获得了锋利IV和火焰附加。火焰附加很棒因为当你击中敌人时会点燃他们，随时间造成额外伤害。\n\n接下来，我给弓附魔了力量V和无限。无限意味着我永远不会用完箭——我只需要背包里有一支箭它就能永远使用。\n\n我的钻石镐获得了效率V和时运III。时运让矿石方块掉落多个物品而不是一个。现在每个钻石矿最多能给我四颗钻石！",
+      "highlight_words": [
+        "enchant",
+        "bookshelves",
+        "damage",
+        "Infinity",
+        "multiple"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "With plenty of experience points from my XP farm, I was ready to **enchant** my best weapons and tools. I placed my enchanting table surrounded by **bookshelves** for maximum power.",
+        "sentence_zh": "有了经验值农场提供的大量经验值，我准备好给最好的武器和工具附魔了。我把附魔台放在书架环绕的地方以获得最大能力。",
+        "blank_word": "enchant",
+        "distractors": [
+          "prevented",
+          "mountain",
+          "powerful"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "The enchanting table needs fifteen bookshelves arranged around it to unlock the highest level **enchantments**. Each bookshelf must be exactly two blocks away with nothing **blocking** the path.",
+        "sentence_zh": "附魔台需要十五个书架环绕排列才能解锁最高等级的附魔。每个书架必须刚好两格远且中间没有任何东西阻挡。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What happened in this paragraph?",
+          "options": [
+            "The enchanting table needs fifteen bookshelves arranged arou...",
+            "The player went to sleep in a village",
+            "Nothing interesting happened today",
+            "The player decided to quit the game"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I enchanted my diamond sword first and got Sharpness IV and Fire Aspect. Fire Aspect is amazing because it sets enemies on **fire** when you hit them, dealing extra **damage** over time.",
+        "sentence_zh": "我首先给钻石剑附魔，获得了锋利IV和火焰附加。火焰附加很棒因为当你击中敌人时会点燃他们，随时间造成额外伤害。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "word_match",
+        "quiz_payload": {
+          "pairs": [
+            {
+              "word": "fire",
+              "definition": "A word related to fire"
+            },
+            {
+              "word": "damage",
+              "definition": "A word related to damage"
+            },
+            {
+              "word": "fire",
+              "definition": "A word related to fire"
+            }
+          ],
+          "shuffled_defs": [
+            "A word related to fire",
+            "A word related to damage",
+            "A word related to fire"
+          ]
+        }
+      },
+      {
+        "sort_order": 3,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Next, I enchanted my bow with Power V and Infinity. **Infinity** means I never run out of arrows — I only need one arrow in my **inventory** and it works forever.",
+        "sentence_zh": "接下来，我给弓附魔了力量V和无限。无限意味着我永远不会用完箭——我只需要背包里有一支箭它就能永远使用。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "sentence_order",
+        "quiz_payload": {
+          "sentences": [
+            "First action happened.",
+            "Then the next step followed.",
+            "Finally the result occurred.",
+            "The task was complete."
+          ],
+          "correct_order": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "sort_order": 4,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "My diamond pickaxe received Efficiency V and Fortune III. Fortune makes ore blocks drop **multiple** items instead of one. Now every diamond block could give me up to four **diamonds**!",
+        "sentence_zh": "我的钻石镐获得了效率V和时运III。时运让矿石方块掉落多个物品而不是一个。现在每个钻石矿最多能给我四颗钻石！",
+        "blank_word": "multiple",
+        "distractors": [
+          "surrounded",
+          "discovered",
+          "ancient"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "How many bookshelves are needed for maximum enchanting power?",
+      "payload": {
+        "options": [
+          "Fifteen bookshelves",
+          "Five bookshelves",
+          "Twenty bookshelves",
+          "Ten bookshelves"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-hardcore-15-diamond-armor",
+      "kind": "reading",
+      "title": "Learn English with Minecraft Hardcore #15 - Diamond Armor — Reading",
+      "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore #15 - Diamond Armor\" — 5 reading segments with mixed quizzes.",
+      "difficulty": 3,
+      "est_minutes": 8,
+      "xp_reward": 50,
+      "unlock_level": 3,
+      "thumbnail_key": "reading",
+      "source_label": "Based on Learn English with Minecraft — Ep. 4",
+      "source_url": "https://www.youtube.com/watch?v=xlNG7Ffpkbg",
+      "source_license": "youtube-embed",
+      "sort_order": 104,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Learn English with Minecraft Hardcore #15 - Diamond Armor — Reading Practice",
+      "passage_md": "Today I finally had enough diamonds to craft a full set of **armor**: helmet, chestplate, leggings, and boots. I needed twenty-four diamonds in total — a huge **investment** of resources.\n\nThe chestplate alone uses eight diamonds and provides the most **protection** of any armor piece. Combined with my enchantments, I felt nearly **invincible** against normal mobs.\n\nI enchanted each piece with Protection IV and added Unbreaking III to make them last much longer. My helmet also got **Respiration** III so I can breathe longer **underwater**.\n\nThe boots received Feather Falling IV which **reduces** fall damage significantly. In Hardcore mode, falling from a high place could end your entire world, so this enchantment is **crucial**.\n\nWith full diamond armor, an enchanted sword, and my shield, I felt truly prepared for any **challenge** the game could throw at me. The Ender Dragon won't stand a **chance**!",
+      "transcript_zh": "今天我终于有了足够的钻石来制作一整套盔甲：头盔、胸甲、护腿和靴子。我总共需要二十四颗钻石——一笔巨大的资源投入。\n\n光胸甲就用了八颗钻石，提供所有盔甲部件中最高的防护。加上我的附魔，对付普通怪物我感觉几乎无敌。\n\n我给每件装备都附了保护IV并加了耐久III让它们用得更久。我的头盔还附了水下呼吸III这样我在水下能呼吸更久。\n\n靴子获得了摔落保护IV，能显著减少坠落伤害。在极限模式中，从高处掉落可能终结你的整个世界，所以这个附魔至关重要。\n\n有了全套钻石盔甲、附魔剑和盾牌，我感觉真正准备好了迎接游戏可能带来的任何挑战。末影龙没有机会！",
+      "highlight_words": [
+        "armor",
+        "protection",
+        "Respiration",
+        "reduces",
+        "challenge"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Today I finally had enough diamonds to craft a full set of **armor**: helmet, chestplate, leggings, and boots. I needed twenty-four diamonds in total — a huge **investment** of resources.",
+        "sentence_zh": "今天我终于有了足够的钻石来制作一整套盔甲：头盔、胸甲、护腿和靴子。我总共需要二十四颗钻石——一笔巨大的资源投入。",
+        "blank_word": "armor",
+        "distractors": [
+          "dangerous",
+          "destroyed",
+          "fortress"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "The chestplate alone uses eight diamonds and provides the most **protection** of any armor piece. Combined with my enchantments, I felt nearly **invincible** against normal mobs.",
+        "sentence_zh": "光胸甲就用了八颗钻石，提供所有盔甲部件中最高的防护。加上我的附魔，对付普通怪物我感觉几乎无敌。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What happened in this paragraph?",
+          "options": [
+            "The chestplate alone uses eight diamonds and provides the mo...",
+            "The player went to sleep in a village",
+            "Nothing interesting happened today",
+            "The player decided to quit the game"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I enchanted each piece with Protection IV and added Unbreaking III to make them last much longer. My helmet also got **Respiration** III so I can breathe longer **underwater**.",
+        "sentence_zh": "我给每件装备都附了保护IV并加了耐久III让它们用得更久。我的头盔还附了水下呼吸III这样我在水下能呼吸更久。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "word_match",
+        "quiz_payload": {
+          "pairs": [
+            {
+              "word": "Respiration",
+              "definition": "A word related to Respiration"
+            },
+            {
+              "word": "underwater",
+              "definition": "A word related to underwater"
+            },
+            {
+              "word": "Respiration",
+              "definition": "A word related to Respiration"
+            }
+          ],
+          "shuffled_defs": [
+            "A word related to underwater",
+            "A word related to Respiration",
+            "A word related to Respiration"
+          ]
+        }
+      },
+      {
+        "sort_order": 3,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "The boots received Feather Falling IV which **reduces** fall damage significantly. In Hardcore mode, falling from a high place could end your entire world, so this enchantment is **crucial**.",
+        "sentence_zh": "靴子获得了摔落保护IV，能显著减少坠落伤害。在极限模式中，从高处掉落可能终结你的整个世界，所以这个附魔至关重要。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "sentence_order",
+        "quiz_payload": {
+          "sentences": [
+            "First action happened.",
+            "Then the next step followed.",
+            "Finally the result occurred.",
+            "The task was complete."
+          ],
+          "correct_order": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "sort_order": 4,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "With full diamond armor, an enchanted sword, and my shield, I felt truly prepared for any **challenge** the game could throw at me. The Ender Dragon won't stand a **chance**!",
+        "sentence_zh": "有了全套钻石盔甲、附魔剑和盾牌，我感觉真正准备好了迎接游戏可能带来的任何挑战。末影龙没有机会！",
+        "blank_word": "challenge",
+        "distractors": [
+          "equipment",
+          "abandoned",
+          "dangerous"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "How many diamonds are needed for a full set of diamond armor?",
+      "payload": {
+        "options": [
+          "Twenty-four diamonds",
+          "Ten diamonds",
+          "Thirty-six diamonds",
+          "Sixteen diamonds"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-hardcore-16-200-days",
+      "kind": "reading",
+      "title": "Learn English with Minecraft Hardcore #16 - 200 DAYS — Reading",
+      "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore #16 - 200 DAYS\" — 5 reading segments with mixed quizzes.",
+      "difficulty": 3,
+      "est_minutes": 8,
+      "xp_reward": 50,
+      "unlock_level": 3,
+      "thumbnail_key": "reading",
+      "source_label": "Based on Learn English with Minecraft — Ep. 2",
+      "source_url": "https://www.youtube.com/watch?v=hKlhp2NcdCY",
+      "source_license": "youtube-embed",
+      "sort_order": 102,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Learn English with Minecraft Hardcore #16 - 200 DAYS — Reading Practice",
+      "passage_md": "I have now survived 200 days in Minecraft Hardcore mode! Looking back at my **journey**, I started with nothing and now have a fully **established** base with farms and enchanted gear.\n\nMy base has grown from a simple dirt hole to a **massive** compound with multiple buildings. I have a main house, a barn, an XP farm, storage rooms, and beautiful **gardens** around everything.\n\nThe most dangerous moment was when a creeper **exploded** behind me near a cliff. I almost fell into lava! That experience taught me to always stay **alert** and never let my guard down.\n\nI've defeated hundreds of mobs, explored dozens of caves, and collected more resources than I could ever use. The **satisfaction** of surviving this long in Hardcore is **incredible**.\n\nMy next goal is to find a stronghold and **defeat** the Ender Dragon. It will be the ultimate test of everything I've prepared. One mistake could end 200 days of **progress** forever.",
+      "transcript_zh": "我现在已经在Minecraft极限模式中存活了200天！回顾我的旅程，我从一无所有开始，现在拥有一个设施完善的基地，有农场和附魔装备。\n\n我的基地从一个简单的泥洞发展成了一个巨大的建筑群。我有一栋主屋、一个谷仓、一个经验值农场、储藏室，以及周围美丽的花园。\n\n最危险的时刻是当一只苦力怕在悬崖边的我身后爆炸。我差点掉进岩浆！那次经历教会了我要始终保持警觉，永远不放松警惕。\n\n我打败了数百只怪物，探索了数十个洞穴，收集了比我能用的还多的资源。在极限模式中存活这么久的满足感是难以置信的。\n\n我的下一个目标是找到要塞并打败末影龙。这将是对我所有准备的终极考验。一个错误就可能永远终结200天的进度。",
+      "highlight_words": [
+        "journey",
+        "massive",
+        "exploded",
+        "satisfaction",
+        "defeat"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I have now survived 200 days in Minecraft Hardcore mode! Looking back at my **journey**, I started with nothing and now have a fully **established** base with farms and enchanted gear.",
+        "sentence_zh": "我现在已经在Minecraft极限模式中存活了200天！回顾我的旅程，我从一无所有开始，现在拥有一个设施完善的基地，有农场和附魔装备。",
+        "blank_word": "journey",
+        "distractors": [
+          "permanent",
+          "approached",
+          "attempted"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "My base has grown from a simple dirt hole to a **massive** compound with multiple buildings. I have a main house, a barn, an XP farm, storage rooms, and beautiful **gardens** around everything.",
+        "sentence_zh": "我的基地从一个简单的泥洞发展成了一个巨大的建筑群。我有一栋主屋、一个谷仓、一个经验值农场、储藏室，以及周围美丽的花园。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What happened in this paragraph?",
+          "options": [
+            "My base has grown from a simple dirt hole to a massive compo...",
+            "The player went to sleep in a village",
+            "Nothing interesting happened today",
+            "The player decided to quit the game"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "The most dangerous moment was when a creeper **exploded** behind me near a cliff. I almost fell into lava! That experience taught me to always stay **alert** and never let my guard down.",
+        "sentence_zh": "最危险的时刻是当一只苦力怕在悬崖边的我身后爆炸。我差点掉进岩浆！那次经历教会了我要始终保持警觉，永远不放松警惕。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "word_match",
+        "quiz_payload": {
+          "pairs": [
+            {
+              "word": "exploded",
+              "definition": "Burst apart violently"
+            },
+            {
+              "word": "alert",
+              "definition": "A word related to alert"
+            },
+            {
+              "word": "exploded",
+              "definition": "Burst apart violently"
+            }
+          ],
+          "shuffled_defs": [
+            "A word related to alert",
+            "Burst apart violently",
+            "Burst apart violently"
+          ]
+        }
+      },
+      {
+        "sort_order": 3,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I've defeated hundreds of mobs, explored dozens of caves, and collected more resources than I could ever use. The **satisfaction** of surviving this long in Hardcore is **incredible**.",
+        "sentence_zh": "我打败了数百只怪物，探索了数十个洞穴，收集了比我能用的还多的资源。在极限模式中存活这么久的满足感是难以置信的。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "sentence_order",
+        "quiz_payload": {
+          "sentences": [
+            "First action happened.",
+            "Then the next step followed.",
+            "Finally the result occurred.",
+            "The task was complete."
+          ],
+          "correct_order": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "sort_order": 4,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "My next goal is to find a stronghold and **defeat** the Ender Dragon. It will be the ultimate test of everything I've prepared. One mistake could end 200 days of **progress** forever.",
+        "sentence_zh": "我的下一个目标是找到要塞并打败末影龙。这将是对我所有准备的终极考验。一个错误就可能永远终结200天的进度。",
+        "blank_word": "defeat",
+        "distractors": [
+          "equipment",
+          "approached",
+          "fortunate"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "What is the player's next goal after surviving 200 days?",
+      "payload": {
+        "options": [
+          "To find a stronghold and defeat the Ender Dragon",
+          "To build a bigger house",
+          "To start a new world",
+          "To find more diamonds"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-hardcore-17-wall-upgrade",
+      "kind": "reading",
+      "title": "Learn English with Minecraft Hardcore #17 - Wall Upgrade! — Reading",
+      "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore #17 - Wall Upgrade!\" — 5 reading segments with mixed quizzes.",
+      "difficulty": 3,
+      "est_minutes": 8,
+      "xp_reward": 50,
+      "unlock_level": 3,
+      "thumbnail_key": "reading",
+      "source_label": "Based on Learn English with Minecraft — Ep. 32",
+      "source_url": "https://www.youtube.com/watch?v=48KjLZ06L9Q",
+      "source_license": "youtube-embed",
+      "sort_order": 132,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Learn English with Minecraft Hardcore #17 - Wall Upgrade! — Reading Practice",
+      "passage_md": "I decided it was time to **upgrade** the walls around my base. The old wooden fence wasn't strong enough to stop creepers from getting close and **exploding** my buildings.\n\nI chose to use stone bricks for the new wall because they look great and are **resistant** to explosions. I needed hundreds of stone bricks, so I set up a large **furnace** array to smelt them quickly.\n\nThe wall design includes **towers** at each corner with archer slots for shooting arrows at mobs. I made the wall three blocks high so spiders can't climb over **easily**.\n\nI added a moat filled with water around the outside of the wall. This **prevents** creepers from reaching the wall and also slows down any mobs trying to **approach** my base.\n\nThe finished wall looks **magnificent** with its towers, iron door gate, and torches on top. My base is now truly a **fortress** that nothing can easily break into.",
+      "transcript_zh": "我决定是时候升级基地周围的墙了。旧的木栅栏不够坚固，无法阻止苦力怕靠近并炸毁我的建筑。\n\n我选择用石砖建新墙，因为它们看起来很好而且抗爆。我需要数百个石砖，所以设了一排大型熔炉来快速冶炼。\n\n墙的设计包括每个角落的塔楼，带有射箭口可以向怪物射箭。我把墙做了三格高这样蜘蛛不能轻易爬过去。\n\n我在墙外面加了一圈充满水的护城河。这能防止苦力怕靠近墙壁，也减慢了任何试图接近我基地的怪物。\n\n完工的墙看起来壮观极了，有塔楼、铁门和顶部的火把。我的基地现在真的是一座什么都不能轻易闯入的堡垒。",
+      "highlight_words": [
+        "upgrade",
+        "resistant",
+        "towers",
+        "prevents",
+        "fortress"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I decided it was time to **upgrade** the walls around my base. The old wooden fence wasn't strong enough to stop creepers from getting close and **exploding** my buildings.",
+        "sentence_zh": "我决定是时候升级基地周围的墙了。旧的木栅栏不够坚固，无法阻止苦力怕靠近并炸毁我的建筑。",
+        "blank_word": "upgrade",
+        "distractors": [
+          "dangerous",
+          "enormous",
+          "discovered"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I chose to use stone bricks for the new wall because they look great and are **resistant** to explosions. I needed hundreds of stone bricks, so I set up a large **furnace** array to smelt them quickly.",
+        "sentence_zh": "我选择用石砖建新墙，因为它们看起来很好而且抗爆。我需要数百个石砖，所以设了一排大型熔炉来快速冶炼。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What happened in this paragraph?",
+          "options": [
+            "I chose to use stone bricks for the new wall because they lo...",
+            "The player went to sleep in a village",
+            "Nothing interesting happened today",
+            "The player decided to quit the game"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "The wall design includes **towers** at each corner with archer slots for shooting arrows at mobs. I made the wall three blocks high so spiders can't climb over **easily**.",
+        "sentence_zh": "墙的设计包括每个角落的塔楼，带有射箭口可以向怪物射箭。我把墙做了三格高这样蜘蛛不能轻易爬过去。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "word_match",
+        "quiz_payload": {
+          "pairs": [
+            {
+              "word": "towers",
+              "definition": "A word related to towers"
+            },
+            {
+              "word": "easily",
+              "definition": "A word related to easily"
+            },
+            {
+              "word": "towers",
+              "definition": "A word related to towers"
+            }
+          ],
+          "shuffled_defs": [
+            "A word related to easily",
+            "A word related to towers",
+            "A word related to towers"
+          ]
+        }
+      },
+      {
+        "sort_order": 3,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I added a moat filled with water around the outside of the wall. This **prevents** creepers from reaching the wall and also slows down any mobs trying to **approach** my base.",
+        "sentence_zh": "我在墙外面加了一圈充满水的护城河。这能防止苦力怕靠近墙壁，也减慢了任何试图接近我基地的怪物。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "sentence_order",
+        "quiz_payload": {
+          "sentences": [
+            "First action happened.",
+            "Then the next step followed.",
+            "Finally the result occurred.",
+            "The task was complete."
+          ],
+          "correct_order": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "sort_order": 4,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "The finished wall looks **magnificent** with its towers, iron door gate, and torches on top. My base is now truly a **fortress** that nothing can easily break into.",
+        "sentence_zh": "完工的墙看起来壮观极了，有塔楼、铁门和顶部的火把。我的基地现在真的是一座什么都不能轻易闯入的堡垒。",
+        "blank_word": "magnificent",
+        "distractors": [
+          "surrounded",
+          "entrance",
+          "permanent"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "Why did the player add a moat around the wall?",
+      "payload": {
+        "options": [
+          "To prevent creepers from reaching the wall and slow down mobs",
+          "To grow fish",
+          "For decoration",
+          "To collect water for farming"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-hardcore-18-desert",
+      "kind": "reading",
+      "title": "Learn English with Minecraft Hardcore #18 - Desert?? — Reading",
+      "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore #18 - Desert??\" — 5 reading segments with mixed quizzes.",
+      "difficulty": 3,
+      "est_minutes": 8,
+      "xp_reward": 50,
+      "unlock_level": 3,
+      "thumbnail_key": "reading",
+      "source_label": "Based on Learn English with Minecraft — Ep. 33",
+      "source_url": "https://www.youtube.com/watch?v=6vHJSgMzMVk",
+      "source_license": "youtube-embed",
+      "sort_order": 133,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Learn English with Minecraft Hardcore #18 - Desert?? — Reading Practice",
+      "passage_md": "I set out on a long journey to find a **desert** biome. I needed sand for glass and wanted to find a desert **temple** with hidden treasure inside.\n\nAfter traveling for many minutes, the green grass **gradually** changed to sand. Cactus plants appeared and the trees **disappeared** completely. I had found the desert!\n\nI spotted a desert temple in the distance — a large **pyramid** shape made of sandstone. Inside, there are four hidden chests, but they're protected by a TNT **trap** underneath.\n\nI carefully broke the floor blocks to **avoid** triggering the pressure plate connected to TNT. One wrong step and everything would explode! I moved slowly and **precisely** to stay safe.\n\nThe treasure chests contained diamonds, gold, and enchanted books! The desert trip was **worthwhile** after all. I also collected stacks of sand to make glass for my base **windows**.",
+      "transcript_zh": "我出发去寻找沙漠生态群系。我需要沙子来做玻璃，还想找到一座里面有隐藏宝物的沙漠神殿。\n\n走了很多分钟后，绿色的草地逐渐变成了沙子。仙人掌出现了，树木完全消失了。我找到了沙漠！\n\n我发现远处有一座沙漠神殿——一个由砂岩制成的大金字塔形状。里面有四个隐藏箱子，但底下有TNT陷阱保护。\n\n我小心地打破地板方块来避免触发连接TNT的压力板。走错一步所有东西都会爆炸！我慢慢地精确移动来保持安全。\n\n宝箱里有钻石、金子和附魔书！这趟沙漠之旅终究是值得的。我还收集了成堆的沙子来为基地的窗户制作玻璃。",
+      "highlight_words": [
+        "desert",
+        "temple",
+        "pyramid",
+        "avoid",
+        "worthwhile"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I set out on a long journey to find a **desert** biome. I needed sand for glass and wanted to find a desert **temple** with hidden treasure inside.",
+        "sentence_zh": "我出发去寻找沙漠生态群系。我需要沙子来做玻璃，还想找到一座里面有隐藏宝物的沙漠神殿。",
+        "blank_word": "desert",
+        "distractors": [
+          "ancient",
+          "equipment",
+          "essential"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "After traveling for many minutes, the green grass **gradually** changed to sand. Cactus plants appeared and the trees **disappeared** completely. I had found the desert!",
+        "sentence_zh": "走了很多分钟后，绿色的草地逐渐变成了沙子。仙人掌出现了，树木完全消失了。我找到了沙漠！",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What happened in this paragraph?",
+          "options": [
+            "After traveling for many minutes, the green grass gradually ...",
+            "The player went to sleep in a village",
+            "Nothing interesting happened today",
+            "The player decided to quit the game"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I spotted a desert temple in the distance — a large **pyramid** shape made of sandstone. Inside, there are four hidden chests, but they're protected by a TNT **trap** underneath.",
+        "sentence_zh": "我发现远处有一座沙漠神殿——一个由砂岩制成的大金字塔形状。里面有四个隐藏箱子，但底下有TNT陷阱保护。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "word_match",
+        "quiz_payload": {
+          "pairs": [
+            {
+              "word": "pyramid",
+              "definition": "A word related to pyramid"
+            },
+            {
+              "word": "trap",
+              "definition": "A word related to trap"
+            },
+            {
+              "word": "pyramid",
+              "definition": "A word related to pyramid"
+            }
+          ],
+          "shuffled_defs": [
+            "A word related to pyramid",
+            "A word related to trap",
+            "A word related to pyramid"
+          ]
+        }
+      },
+      {
+        "sort_order": 3,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I carefully broke the floor blocks to **avoid** triggering the pressure plate connected to TNT. One wrong step and everything would explode! I moved slowly and **precisely** to stay safe.",
+        "sentence_zh": "我小心地打破地板方块来避免触发连接TNT的压力板。走错一步所有东西都会爆炸！我慢慢地精确移动来保持安全。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "sentence_order",
+        "quiz_payload": {
+          "sentences": [
+            "I carefully broke the floor blocks to avoid triggering the pressure plate connected to TNT.",
+            "One wrong step and everything would explode.",
+            "I moved slowly and precisely to stay safe."
+          ],
+          "correct_order": [
+            0,
+            1,
+            2
+          ]
+        }
+      },
+      {
+        "sort_order": 4,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "The treasure chests contained diamonds, gold, and enchanted books! The desert trip was **worthwhile** after all. I also collected stacks of sand to make glass for my base **windows**.",
+        "sentence_zh": "宝箱里有钻石、金子和附魔书！这趟沙漠之旅终究是值得的。我还收集了成堆的沙子来为基地的窗户制作玻璃。",
+        "blank_word": "worthwhile",
+        "distractors": [
+          "powerful",
+          "enormous",
+          "corridor"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "What danger is hidden in a desert temple?",
+      "payload": {
+        "options": [
+          "A TNT trap under the floor",
+          "Hostile mobs",
+          "Lava pits",
+          "Poison arrows"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-hardcore-2-building-a-house",
+      "kind": "reading",
+      "title": "Learn English with Minecraft Hardcore #2 – Building a House — Reading",
+      "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore #2 – Building a House\" — 5 reading segments with mixed quizzes.",
+      "difficulty": 3,
+      "est_minutes": 8,
+      "xp_reward": 50,
+      "unlock_level": 3,
+      "thumbnail_key": "reading",
+      "source_label": "Based on Learn English with Minecraft — Ep. 21",
+      "source_url": "https://www.youtube.com/watch?v=FPPHtVAnh8o",
+      "source_license": "youtube-embed",
+      "sort_order": 121,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Learn English with Minecraft Hardcore #2 – Building a House — Reading Practice",
+      "passage_md": "After surviving my first night, I decided to build a proper **house** instead of living in a dirt hole. I gathered oak logs and **converted** them into planks for the walls and floor.\n\nI chose a flat area near a river for the **location**. Having water nearby is useful for farming and escaping from mobs. I cleared the ground and started placing the **foundation** blocks.\n\nThe walls went up quickly using oak planks. I left spaces for **windows** and placed glass panes I crafted from sand. Natural light helps you see inside without using too many **torches**.\n\nFor the roof, I used dark oak stairs to create a nice **slope**. A good roof makes your house look much better and also keeps rain sounds from being too loud **inside** your home.\n\nFinally, I added a bed, crafting table, furnace, and chest inside. I also placed a wooden door as the **entrance**. My first real house in Hardcore mode felt like a huge **accomplishment**!",
+      "transcript_zh": "在度过第一个夜晚后，我决定建一栋正式的房子而不是住在泥洞里。我收集了橡木原木并把它们转化成木板来做墙壁和地板。\n\n我选了一个靠近河流的平地作为位置。附近有水对种地和逃离怪物很有用。我清理了地面并开始放置地基方块。\n\n墙壁用橡木板很快建好了。我留了窗户的位置并放了用沙子做的玻璃板。自然光帮助你在不用太多火把的情况下看清屋内。\n\n屋顶我用了深色橡木楼梯来创造一个漂亮的斜坡。好的屋顶让房子看起来好很多，还能让雨声在屋内不那么大声。\n\n最后，我在里面放了一张床、工作台、熔炉和箱子。我还放了一扇木门作为入口。在极限模式中拥有第一栋真正的房子感觉是巨大的成就！",
+      "highlight_words": [
+        "house",
+        "foundation",
+        "windows",
+        "slope",
+        "entrance"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "After surviving my first night, I decided to build a proper **house** instead of living in a dirt hole. I gathered oak logs and **converted** them into planks for the walls and floor.",
+        "sentence_zh": "在度过第一个夜晚后，我决定建一栋正式的房子而不是住在泥洞里。我收集了橡木原木并把它们转化成木板来做墙壁和地板。",
+        "blank_word": "house",
+        "distractors": [
+          "dangerous",
+          "valuable",
+          "enormous"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I chose a flat area near a river for the **location**. Having water nearby is useful for farming and escaping from mobs. I cleared the ground and started placing the **foundation** blocks.",
+        "sentence_zh": "我选了一个靠近河流的平地作为位置。附近有水对种地和逃离怪物很有用。我清理了地面并开始放置地基方块。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What happened in this paragraph?",
+          "options": [
+            "I chose a flat area near a river for the location",
+            "The player went to sleep in a village",
+            "Nothing interesting happened today",
+            "The player decided to quit the game"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "The walls went up quickly using oak planks. I left spaces for **windows** and placed glass panes I crafted from sand. Natural light helps you see inside without using too many **torches**.",
+        "sentence_zh": "墙壁用橡木板很快建好了。我留了窗户的位置并放了用沙子做的玻璃板。自然光帮助你在不用太多火把的情况下看清屋内。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "word_match",
+        "quiz_payload": {
+          "pairs": [
+            {
+              "word": "windows",
+              "definition": "A word related to windows"
+            },
+            {
+              "word": "torches",
+              "definition": "A word related to torches"
+            },
+            {
+              "word": "windows",
+              "definition": "A word related to windows"
+            }
+          ],
+          "shuffled_defs": [
+            "A word related to windows",
+            "A word related to windows",
+            "A word related to torches"
+          ]
+        }
+      },
+      {
+        "sort_order": 3,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "For the roof, I used dark oak stairs to create a nice **slope**. A good roof makes your house look much better and also keeps rain sounds from being too loud **inside** your home.",
+        "sentence_zh": "屋顶我用了深色橡木楼梯来创造一个漂亮的斜坡。好的屋顶让房子看起来好很多，还能让雨声在屋内不那么大声。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "sentence_order",
+        "quiz_payload": {
+          "sentences": [
+            "First action happened.",
+            "Then the next step followed.",
+            "Finally the result occurred.",
+            "The task was complete."
+          ],
+          "correct_order": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "sort_order": 4,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Finally, I added a bed, crafting table, furnace, and chest inside. I also placed a wooden door as the **entrance**. My first real house in Hardcore mode felt like a huge **accomplishment**!",
+        "sentence_zh": "最后，我在里面放了一张床、工作台、熔炉和箱子。我还放了一扇木门作为入口。在极限模式中拥有第一栋真正的房子感觉是巨大的成就！",
+        "blank_word": "entrance",
+        "distractors": [
+          "dangerous",
+          "treasure",
+          "prevented"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "Why did the player choose a location near a river?",
+      "payload": {
+        "options": [
+          "For farming and escaping from mobs",
+          "For fishing only",
+          "Because it looks pretty",
+          "To find diamonds"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-hardcore-3-first-diamonds",
+      "kind": "reading",
+      "title": "Learn English with Minecraft Hardcore #3 - First DIAMONDS! — Reading",
+      "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore #3 - First DIAMONDS!\" — 4 reading segments with mixed quizzes.",
+      "difficulty": 2,
+      "est_minutes": 6,
+      "xp_reward": 40,
+      "unlock_level": 2,
+      "thumbnail_key": "reading",
+      "source_label": "Based on Learn English with Minecraft — Ep. 20",
+      "source_url": "https://www.youtube.com/watch?v=MQedFZQXOUg",
+      "source_license": "youtube-embed",
+      "sort_order": 120,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Learn English with Minecraft Hardcore #3 - First DIAMONDS! — Reading Practice",
+      "passage_md": "I was determined to find **diamonds** today. They spawn deep underground below Y-level 16. I packed torches, food, and weapons before heading into the **depths**.\n\nI used the strip mining **technique** — digging long tunnels at Y-level -59 where diamonds are most **common**. Every few blocks I placed a torch to prevent mob spawning.\n\nAfter thirty minutes of mining, I finally saw the blue sparkle of diamond ore! I found a **vein** of five diamonds. My heart was beating fast with **excitement** as I carefully mined them.\n\nWith my first diamonds, I immediately crafted a diamond **pickaxe**. It mines much faster than iron and can break obsidian, which is **necessary** for building a Nether portal.",
+      "transcript_zh": "今天我下定决心要找到钻石。它们在Y坐标16以下的深处生成。我带上火把、食物和武器后前往深处。\n\n我使用了条带挖矿技术——在钻石最常见的Y坐标-59处挖长隧道。每隔几格我放一个火把来防止怪物生成。\n\n挖了三十分钟后，我终于看到了钻石矿的蓝色闪光！我找到了一脉五颗钻石。我小心翼翼地挖掘时心跳加速，充满兴奋。\n\n有了第一批钻石，我立即做了一把钻石镐。它比铁镐挖得快很多，还能破坏黑曜石，这对建造下界传送门是必要的。",
+      "highlight_words": [
+        "diamonds",
+        "technique",
+        "vein",
+        "pickaxe",
+        "necessary"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I was determined to find **diamonds** today. They spawn deep underground below Y-level 16. I packed torches, food, and weapons before heading into the **depths**.",
+        "sentence_zh": "今天我下定决心要找到钻石。它们在Y坐标16以下的深处生成。我带上火把、食物和武器后前往深处。",
+        "blank_word": "diamonds",
+        "distractors": [
+          "prevented",
+          "enormous",
+          "attempted"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I used the strip mining **technique** — digging long tunnels at Y-level -59 where diamonds are most **common**. Every few blocks I placed a torch to prevent mob spawning.",
+        "sentence_zh": "我使用了条带挖矿技术——在钻石最常见的Y坐标-59处挖长隧道。每隔几格我放一个火把来防止怪物生成。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What happened in this paragraph?",
+          "options": [
+            "I used the strip mining technique — digging long tunnels at ...",
+            "The player went to sleep in a village",
+            "Nothing interesting happened today",
+            "The player decided to quit the game"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "After thirty minutes of mining, I finally saw the blue sparkle of diamond ore! I found a **vein** of five diamonds. My heart was beating fast with **excitement** as I carefully mined them.",
+        "sentence_zh": "挖了三十分钟后，我终于看到了钻石矿的蓝色闪光！我找到了一脉五颗钻石。我小心翼翼地挖掘时心跳加速，充满兴奋。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "word_match",
+        "quiz_payload": {
+          "pairs": [
+            {
+              "word": "vein",
+              "definition": "A word related to vein"
+            },
+            {
+              "word": "excitement",
+              "definition": "A word related to excitement"
+            },
+            {
+              "word": "vein",
+              "definition": "A word related to vein"
+            }
+          ],
+          "shuffled_defs": [
+            "A word related to excitement",
+            "A word related to vein",
+            "A word related to vein"
+          ]
+        }
+      },
+      {
+        "sort_order": 3,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "With my first diamonds, I immediately crafted a diamond **pickaxe**. It mines much faster than iron and can break obsidian, which is **necessary** for building a Nether portal.",
+        "sentence_zh": "有了第一批钻石，我立即做了一把钻石镐。它比铁镐挖得快很多，还能破坏黑曜石，这对建造下界传送门是必要的。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "true_false",
+        "quiz_payload": {
+          "statement": "With my first diamonds, I immediately crafted a diamond pickaxe.",
+          "correct": true
+        }
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "At what Y-level did the player mine for diamonds?",
+      "payload": {
+        "options": [
+          "Y-level -59",
+          "Y-level 64",
+          "Y-level 30",
+          "Y-level 0"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-hardcore-4-exploring-a-village",
+      "kind": "reading",
+      "title": "Learn English with Minecraft Hardcore #4 - Exploring a Village — Reading",
+      "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore #4 - Exploring a Village\" — 4 reading segments with mixed quizzes.",
+      "difficulty": 2,
+      "est_minutes": 6,
+      "xp_reward": 40,
+      "unlock_level": 2,
+      "thumbnail_key": "reading",
+      "source_label": "Based on Learn English with Minecraft — Ep. 19",
+      "source_url": "https://www.youtube.com/watch?v=TOsHihn6jNE",
+      "source_license": "youtube-embed",
+      "sort_order": 119,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Learn English with Minecraft Hardcore #4 - Exploring a Village — Reading Practice",
+      "passage_md": "I discovered a **village** while exploring the plains biome. Villages have useful resources and **villagers** who trade items with you using emeralds as currency.\n\nThe blacksmith's chest contained iron ingots and an iron sword! Villager houses also have beds, which you can use to set your **respawn** point. I traded wheat for **emeralds** with a farmer.\n\nI found a librarian villager who sells **enchanted** books! These are incredibly valuable because you can apply them to your tools using an anvil. I bought a Fortune III book.\n\nAt night, zombies tried to attack the villagers. I had to **defend** them by fighting off the zombies and placing torches around the village to **prevent** spawning.",
+      "transcript_zh": "我在探索平原生态群系时发现了一个村庄。村庄有有用的资源和村民，他们用绿宝石作为货币与你交易物品。\n\n铁匠的箱子里有铁锭和一把铁剑！村民的房子还有床，你可以用来设置重生点。我用小麦跟农民交换了绿宝石。\n\n我找到了一个卖附魔书的图书管理员村民！这些非常珍贵因为你可以用铁砧把它们应用到工具上。我买了一本时运III书。\n\n到了晚上，僵尸试图攻击村民。我不得不通过击退僵尸和在村庄周围放火把来保护他们防止生成。",
+      "highlight_words": [
+        "village",
+        "villagers",
+        "emeralds",
+        "enchanted",
+        "defend"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I discovered a **village** while exploring the plains biome. Villages have useful resources and **villagers** who trade items with you using emeralds as currency.",
+        "sentence_zh": "我在探索平原生态群系时发现了一个村庄。村庄有有用的资源和村民，他们用绿宝石作为货币与你交易物品。",
+        "blank_word": "village",
+        "distractors": [
+          "collected",
+          "valuable",
+          "attempted"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "The blacksmith's chest contained iron ingots and an iron sword! Villager houses also have beds, which you can use to set your **respawn** point. I traded wheat for **emeralds** with a farmer.",
+        "sentence_zh": "铁匠的箱子里有铁锭和一把铁剑！村民的房子还有床，你可以用来设置重生点。我用小麦跟农民交换了绿宝石。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What happened in this paragraph?",
+          "options": [
+            "The blacksmith's chest contained iron ingots and an iron swo...",
+            "The player went to sleep in a village",
+            "Nothing interesting happened today",
+            "The player decided to quit the game"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I found a librarian villager who sells **enchanted** books! These are incredibly valuable because you can apply them to your tools using an anvil. I bought a Fortune III book.",
+        "sentence_zh": "我找到了一个卖附魔书的图书管理员村民！这些非常珍贵因为你可以用铁砧把它们应用到工具上。我买了一本时运III书。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "word_match",
+        "quiz_payload": {
+          "pairs": [
+            {
+              "word": "enchanted",
+              "definition": "A word related to enchanted"
+            },
+            {
+              "word": "enchanted",
+              "definition": "A word related to enchanted"
+            },
+            {
+              "word": "valuable",
+              "definition": "A word related to valuable"
+            }
+          ],
+          "shuffled_defs": [
+            "A word related to valuable",
+            "A word related to enchanted",
+            "A word related to enchanted"
+          ]
+        }
+      },
+      {
+        "sort_order": 3,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "At night, zombies tried to attack the villagers. I had to **defend** them by fighting off the zombies and placing torches around the village to **prevent** spawning.",
+        "sentence_zh": "到了晚上，僵尸试图攻击村民。我不得不通过击退僵尸和在村庄周围放火把来保护他们防止生成。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "true_false",
+        "quiz_payload": {
+          "statement": "At night, zombies tried to attack the villagers.",
+          "correct": true
+        }
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "What currency do villagers use for trading?",
+      "payload": {
+        "options": [
+          "Emeralds",
+          "Diamonds",
+          "Gold coins",
+          "Iron ingots"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-hardcore-5-building-a-chest-room",
+      "kind": "reading",
+      "title": "Learn English with Minecraft Hardcore #5 - Building a Chest Room — Reading",
+      "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore #5 - Building a Chest Room\" — 4 reading segments with mixed quizzes.",
+      "difficulty": 2,
+      "est_minutes": 6,
+      "xp_reward": 40,
+      "unlock_level": 2,
+      "thumbnail_key": "reading",
+      "source_label": "Based on Learn English with Minecraft — Ep. 18",
+      "source_url": "https://www.youtube.com/watch?v=8wJSC4i1-nw",
+      "source_license": "youtube-embed",
+      "sort_order": 118,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Learn English with Minecraft Hardcore #5 - Building a Chest Room — Reading Practice",
+      "passage_md": "My inventory was always full, so I decided to build a dedicated **storage** room. Organization is important in Minecraft because you collect so many different **materials** over time.\n\nI dug out a large underground room and filled it with double chests. I **organized** them by category: ores and metals, wood and plants, food, weapons, and **miscellaneous** items.\n\nI made item frames and placed them on each chest to show what's inside without **opening** them. This visual system makes finding specific items much **faster** when you're in a hurry.\n\nThe chest room connects to my main house through a **corridor**. I added redstone lamps along the ceiling for automatic lighting. Now I always know exactly where **everything** is stored!",
+      "transcript_zh": "我的背包总是满的，所以我决定建一个专门的储藏室。在Minecraft中整理很重要，因为你随时间会收集很多不同的材料。\n\n我挖出了一个大型地下房间并放满了双箱子。我按类别整理它们：矿石和金属、木材和植物、食物、武器和杂项物品。\n\n我做了物品展示框放在每个箱子上来展示里面的东西而不需要打开它们。这个视觉系统让你在赶时间时找特定物品快得多。\n\n储藏室通过一条走廊连接到主屋。我在天花板上加了红石灯来自动照明。现在我总是确切知道所有东西存放在哪里！",
+      "highlight_words": [
+        "storage",
+        "organized",
+        "materials",
+        "corridor",
+        "faster"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "My inventory was always full, so I decided to build a dedicated **storage** room. Organization is important in Minecraft because you collect so many different **materials** over time.",
+        "sentence_zh": "我的背包总是满的，所以我决定建一个专门的储藏室。在Minecraft中整理很重要，因为你随时间会收集很多不同的材料。",
+        "blank_word": "storage",
+        "distractors": [
+          "organized",
+          "permanent",
+          "structure"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I dug out a large underground room and filled it with double chests. I **organized** them by category: ores and metals, wood and plants, food, weapons, and **miscellaneous** items.",
+        "sentence_zh": "我挖出了一个大型地下房间并放满了双箱子。我按类别整理它们：矿石和金属、木材和植物、食物、武器和杂项物品。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What happened in this paragraph?",
+          "options": [
+            "I dug out a large underground room and filled it with double...",
+            "The player went to sleep in a village",
+            "Nothing interesting happened today",
+            "The player decided to quit the game"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I made item frames and placed them on each chest to show what's inside without **opening** them. This visual system makes finding specific items much **faster** when you're in a hurry.",
+        "sentence_zh": "我做了物品展示框放在每个箱子上来展示里面的东西而不需要打开它们。这个视觉系统让你在赶时间时找特定物品快得多。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "word_match",
+        "quiz_payload": {
+          "pairs": [
+            {
+              "word": "opening",
+              "definition": "A word related to opening"
+            },
+            {
+              "word": "faster",
+              "definition": "A word related to faster"
+            },
+            {
+              "word": "opening",
+              "definition": "A word related to opening"
+            }
+          ],
+          "shuffled_defs": [
+            "A word related to opening",
+            "A word related to opening",
+            "A word related to faster"
+          ]
+        }
+      },
+      {
+        "sort_order": 3,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "The chest room connects to my main house through a **corridor**. I added redstone lamps along the ceiling for automatic lighting. Now I always know exactly where **everything** is stored!",
+        "sentence_zh": "储藏室通过一条走廊连接到主屋。我在天花板上加了红石灯来自动照明。现在我总是确切知道所有东西存放在哪里！",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "true_false",
+        "quiz_payload": {
+          "statement": "The chest room connects to my main house through a corridor.",
+          "correct": true
+        }
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "How did the player label the chests?",
+      "payload": {
+        "options": [
+          "Using item frames on each chest",
+          "Writing signs",
+          "Using colored wool",
+          "They didn't label them"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-hardcore-6-potato-farm",
+      "kind": "reading",
+      "title": "Learn English with Minecraft Hardcore #6 - Potato Farm! — Reading",
+      "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore #6 - Potato Farm!\" — 4 reading segments with mixed quizzes.",
+      "difficulty": 2,
+      "est_minutes": 6,
+      "xp_reward": 40,
+      "unlock_level": 2,
+      "thumbnail_key": "reading",
+      "source_label": "Based on Learn English with Minecraft — Ep. 17",
+      "source_url": "https://www.youtube.com/watch?v=t3CcSNOqoSs",
+      "source_license": "youtube-embed",
+      "sort_order": 117,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Learn English with Minecraft Hardcore #6 - Potato Farm! — Reading Practice",
+      "passage_md": "Food is essential for survival, so I built an automatic **potato** farm. Potatoes are one of the best foods because they're easy to grow and give good **hunger** restoration.\n\nI started by creating rows of farmland using my hoe. Water must be within four blocks of farmland to keep it **hydrated**. I placed water **channels** between every row of crops.\n\nThe automatic **harvesting** system uses water dispensers controlled by redstone. When I press a button, water flows across the farm and breaks all the mature crops, **collecting** them at the bottom.\n\nI planted over a hundred potatoes and waited for them to grow. Baked potatoes restore five hunger points and are the **simplest** cooked food to make — just put raw potatoes in a **furnace**!",
+      "transcript_zh": "食物对生存至关重要，所以我建了一个自动化土豆农场。土豆是最好的食物之一，因为容易种植且恢复饥饿值效果好。\n\n我先用锄头创建一排排农田。水必须在农田四格以内才能保持湿润。我在每排作物之间放了水道。\n\n自动收割系统使用由红石控制的水发射器。当我按按钮时，水流过农场并打破所有成熟作物，把它们收集到底部。\n\n我种了一百多个土豆等它们生长。烤土豆恢复五点饥饿值，是最简单的熟食——只需把生土豆放进熔炉！",
+      "highlight_words": [
+        "potato",
+        "hydrated",
+        "harvesting",
+        "collecting",
+        "simplest"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Food is essential for survival, so I built an automatic **potato** farm. Potatoes are one of the best foods because they're easy to grow and give good **hunger** restoration.",
+        "sentence_zh": "食物对生存至关重要，所以我建了一个自动化土豆农场。土豆是最好的食物之一，因为容易种植且恢复饥饿值效果好。",
+        "blank_word": "potato",
+        "distractors": [
+          "fortress",
+          "enormous",
+          "ancient"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I started by creating rows of farmland using my hoe. Water must be within four blocks of farmland to keep it **hydrated**. I placed water **channels** between every row of crops.",
+        "sentence_zh": "我先用锄头创建一排排农田。水必须在农田四格以内才能保持湿润。我在每排作物之间放了水道。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What happened in this paragraph?",
+          "options": [
+            "I started by creating rows of farmland using my hoe",
+            "The player went to sleep in a village",
+            "Nothing interesting happened today",
+            "The player decided to quit the game"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "The automatic **harvesting** system uses water dispensers controlled by redstone. When I press a button, water flows across the farm and breaks all the mature crops, **collecting** them at the bottom.",
+        "sentence_zh": "自动收割系统使用由红石控制的水发射器。当我按按钮时，水流过农场并打破所有成熟作物，把它们收集到底部。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "word_match",
+        "quiz_payload": {
+          "pairs": [
+            {
+              "word": "harvesting",
+              "definition": "A word related to harvesting"
+            },
+            {
+              "word": "collecting",
+              "definition": "A word related to collecting"
+            },
+            {
+              "word": "harvesting",
+              "definition": "A word related to harvesting"
+            }
+          ],
+          "shuffled_defs": [
+            "A word related to harvesting",
+            "A word related to harvesting",
+            "A word related to collecting"
+          ]
+        }
+      },
+      {
+        "sort_order": 3,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I planted over a hundred potatoes and waited for them to grow. Baked potatoes restore five hunger points and are the **simplest** cooked food to make — just put raw potatoes in a **furnace**!",
+        "sentence_zh": "我种了一百多个土豆等它们生长。烤土豆恢复五点饥饿值，是最简单的熟食——只需把生土豆放进熔炉！",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "true_false",
+        "quiz_payload": {
+          "statement": "I planted over a hundred potatoes and waited for them to grow.",
+          "correct": true
+        }
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "How does the automatic farm harvest crops?",
+      "payload": {
+        "options": [
+          "Water flows and breaks mature crops",
+          "Pistons push them",
+          "Villagers collect them",
+          "The player must harvest manually"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-hardcore-7-enchanting-table",
+      "kind": "reading",
+      "title": "Learn English with Minecraft Hardcore #7 -  Enchanting Table — Reading",
+      "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore #7 -  Enchanting Table\" — 4 reading segments with mixed quizzes.",
+      "difficulty": 2,
+      "est_minutes": 6,
+      "xp_reward": 40,
+      "unlock_level": 2,
+      "thumbnail_key": "reading",
+      "source_label": "Based on Learn English with Minecraft — Ep. 16",
+      "source_url": "https://www.youtube.com/watch?v=oNDic1ldnvg",
+      "source_license": "youtube-embed",
+      "sort_order": 116,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Learn English with Minecraft Hardcore #7 -  Enchanting Table — Reading Practice",
+      "passage_md": "To enchant my tools, I needed to craft an **enchanting** table. This requires two diamonds, four obsidian blocks, and a book — all **expensive** materials to gather.\n\nMining obsidian was the hardest part. You need a diamond pickaxe and each block takes about ten seconds to break. The obsidian forms where water meets **lava** and turns it into a hard black **substance**.\n\nI placed the enchanting table in a special room and surrounded it with fifteen bookshelves. The bookshelves must have one block of air between them and the table for the **magic** to flow **properly**.\n\nMy first enchantment was Efficiency IV on my pickaxe! The enchanting table shows three **options** at different levels. Spending lapis lazuli and experience levels **activates** the enchantment.",
+      "transcript_zh": "为了给工具附魔，我需要制作一个附魔台。这需要两颗钻石、四块黑曜石和一本书——都是昂贵的材料。\n\n挖黑曜石是最难的部分。你需要钻石镐，每块大约需要十秒钟才能打破。黑曜石在水遇到岩浆并将其变成坚硬黑色物质时形成。\n\n我把附魔台放在一个特殊房间并用十五个书架环绕。书架和台子之间必须有一格空气让魔法正常流通。\n\n我的第一个附魔是给镐附的效率IV！附魔台显示三个不同等级的选项。花费青金石和经验等级激活附魔。",
+      "highlight_words": [
+        "enchanting",
+        "lava",
+        "substance",
+        "magic",
+        "activates"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "To enchant my tools, I needed to craft an **enchanting** table. This requires two diamonds, four obsidian blocks, and a book — all **expensive** materials to gather.",
+        "sentence_zh": "为了给工具附魔，我需要制作一个附魔台。这需要两颗钻石、四块黑曜石和一本书——都是昂贵的材料。",
+        "blank_word": "enchanting",
+        "distractors": [
+          "constructed",
+          "permanent",
+          "organized"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Mining obsidian was the hardest part. You need a diamond pickaxe and each block takes about ten seconds to break. The obsidian forms where water meets **lava** and turns it into a hard black **substance**.",
+        "sentence_zh": "挖黑曜石是最难的部分。你需要钻石镐，每块大约需要十秒钟才能打破。黑曜石在水遇到岩浆并将其变成坚硬黑色物质时形成。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What happened in this paragraph?",
+          "options": [
+            "Mining obsidian was the hardest part",
+            "The player went to sleep in a village",
+            "Nothing interesting happened today",
+            "The player decided to quit the game"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I placed the enchanting table in a special room and surrounded it with fifteen bookshelves. The bookshelves must have one block of air between them and the table for the **magic** to flow **properly**.",
+        "sentence_zh": "我把附魔台放在一个特殊房间并用十五个书架环绕。书架和台子之间必须有一格空气让魔法正常流通。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "word_match",
+        "quiz_payload": {
+          "pairs": [
+            {
+              "word": "magic",
+              "definition": "A word related to magic"
+            },
+            {
+              "word": "properly",
+              "definition": "A word related to properly"
+            },
+            {
+              "word": "magic",
+              "definition": "A word related to magic"
+            }
+          ],
+          "shuffled_defs": [
+            "A word related to magic",
+            "A word related to properly",
+            "A word related to magic"
+          ]
+        }
+      },
+      {
+        "sort_order": 3,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "My first enchantment was Efficiency IV on my pickaxe! The enchanting table shows three **options** at different levels. Spending lapis lazuli and experience levels **activates** the enchantment.",
+        "sentence_zh": "我的第一个附魔是给镐附的效率IV！附魔台显示三个不同等级的选项。花费青金石和经验等级激活附魔。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "true_false",
+        "quiz_payload": {
+          "statement": "My first enchantment was Efficiency IV on my pickaxe.",
+          "correct": true
+        }
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "What materials are needed to craft an enchanting table?",
+      "payload": {
+        "options": [
+          "Two diamonds, four obsidian, and a book",
+          "Three iron blocks",
+          "Five emeralds",
+          "One diamond and wood"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-hardcore-8-the-nether",
+      "kind": "reading",
+      "title": "Learn English with Minecraft Hardcore #8 - The Nether — Reading",
+      "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore #8 - The Nether\" — 5 reading segments with mixed quizzes.",
+      "difficulty": 3,
+      "est_minutes": 8,
+      "xp_reward": 50,
+      "unlock_level": 3,
+      "thumbnail_key": "reading",
+      "source_label": "Based on Learn English with Minecraft — Ep. 15",
+      "source_url": "https://www.youtube.com/watch?v=XbPnLlUwv6k",
+      "source_license": "youtube-embed",
+      "sort_order": 115,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Learn English with Minecraft Hardcore #8 - The Nether — Reading Practice",
+      "passage_md": "Today I finally entered the **Nether** — a dangerous dimension made of fire, lava, and hostile creatures. I built a portal using obsidian blocks arranged in a **rectangular** frame.\n\nThe Nether looks terrifying. The ground is made of netherrack, there are seas of lava everywhere, and **enormous** fortresses made of dark bricks stretch across the landscape.\n\nGhasts flew overhead shooting fireballs while piglins **guarded** the bastion ruins. I wore gold armor to stop piglins from attacking me — they respect players wearing **gold**.\n\nI collected blaze rods from blazes in the Nether fortress. These are **essential** for brewing potions and crafting Eyes of Ender needed to find the stronghold and **eventually** defeat the dragon.\n\nThe Nether is eight times faster for **traveling** than the overworld. Every block you walk in the Nether equals eight blocks in the normal world, making it useful for building long-distance **shortcuts**.",
+      "transcript_zh": "今天我终于进入了下界——一个由火焰、岩浆和敌对生物组成的危险维度。我用黑曜石方块排列成长方形框架建造了传送门。\n\n下界看起来很可怕。地面由下界岩组成，到处都是岩浆海，还有由暗色砖块建成的巨大堡垒横跨景观。\n\n恶魂在头顶飞过发射火球，猪灵守卫着堡垒遗迹。我穿了金甲来阻止猪灵攻击我——它们尊重穿金甲的玩家。\n\n我在下界堡垒从烈焰人那里收集了烈焰棒。这些对酿造药水和制作末影之眼至关重要——找到要塞并最终打败龙需要它们。\n\n下界旅行比主世界快八倍。你在下界走一格等于正常世界的八格，使其对建造远距离捷径很有用。",
+      "highlight_words": [
+        "Nether",
+        "enormous",
+        "guarded",
+        "essential",
+        "traveling"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Today I finally entered the **Nether** — a dangerous dimension made of fire, lava, and hostile creatures. I built a portal using obsidian blocks arranged in a **rectangular** frame.",
+        "sentence_zh": "今天我终于进入了下界——一个由火焰、岩浆和敌对生物组成的危险维度。我用黑曜石方块排列成长方形框架建造了传送门。",
+        "blank_word": "Nether",
+        "distractors": [
+          "incredible",
+          "fortress",
+          "discovered"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "The Nether looks terrifying. The ground is made of netherrack, there are seas of lava everywhere, and **enormous** fortresses made of dark bricks stretch across the landscape.",
+        "sentence_zh": "下界看起来很可怕。地面由下界岩组成，到处都是岩浆海，还有由暗色砖块建成的巨大堡垒横跨景观。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What happened in this paragraph?",
+          "options": [
+            "The Nether looks terrifying",
+            "The player went to sleep in a village",
+            "Nothing interesting happened today",
+            "The player decided to quit the game"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Ghasts flew overhead shooting fireballs while piglins **guarded** the bastion ruins. I wore gold armor to stop piglins from attacking me — they respect players wearing **gold**.",
+        "sentence_zh": "恶魂在头顶飞过发射火球，猪灵守卫着堡垒遗迹。我穿了金甲来阻止猪灵攻击我——它们尊重穿金甲的玩家。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "word_match",
+        "quiz_payload": {
+          "pairs": [
+            {
+              "word": "guarded",
+              "definition": "A word related to guarded"
+            },
+            {
+              "word": "gold",
+              "definition": "A word related to gold"
+            },
+            {
+              "word": "guarded",
+              "definition": "A word related to guarded"
+            }
+          ],
+          "shuffled_defs": [
+            "A word related to guarded",
+            "A word related to gold",
+            "A word related to guarded"
+          ]
+        }
+      },
+      {
+        "sort_order": 3,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I collected blaze rods from blazes in the Nether fortress. These are **essential** for brewing potions and crafting Eyes of Ender needed to find the stronghold and **eventually** defeat the dragon.",
+        "sentence_zh": "我在下界堡垒从烈焰人那里收集了烈焰棒。这些对酿造药水和制作末影之眼至关重要——找到要塞并最终打败龙需要它们。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "sentence_order",
+        "quiz_payload": {
+          "sentences": [
+            "First action happened.",
+            "Then the next step followed.",
+            "Finally the result occurred.",
+            "The task was complete."
+          ],
+          "correct_order": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "sort_order": 4,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "The Nether is eight times faster for **traveling** than the overworld. Every block you walk in the Nether equals eight blocks in the normal world, making it useful for building long-distance **shortcuts**.",
+        "sentence_zh": "下界旅行比主世界快八倍。你在下界走一格等于正常世界的八格，使其对建造远距离捷径很有用。",
+        "blank_word": "traveling",
+        "distractors": [
+          "ancient",
+          "structure",
+          "mountain"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "Why did the player wear gold armor in the Nether?",
+      "payload": {
+        "options": [
+          "To stop piglins from attacking",
+          "For better protection",
+          "Because it looks nice",
+          "To trade with villagers"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-hardcore-9-dried-ghast",
+      "kind": "reading",
+      "title": "Learn English with Minecraft Hardcore #9 - Dried Ghast — Reading",
+      "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore #9 - Dried Ghast\" — 4 reading segments with mixed quizzes.",
+      "difficulty": 2,
+      "est_minutes": 6,
+      "xp_reward": 40,
+      "unlock_level": 2,
+      "thumbnail_key": "reading",
+      "source_label": "Based on Learn English with Minecraft — Ep. 14",
+      "source_url": "https://www.youtube.com/watch?v=soiVEJ5Njsg",
+      "source_license": "youtube-embed",
+      "sort_order": 114,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Learn English with Minecraft Hardcore #9 - Dried Ghast — Reading Practice",
+      "passage_md": "I returned to the Nether to hunt more ghasts for their **tears**. Ghast tears are a key ingredient for brewing **regeneration** potions that slowly restore your health over time.\n\nFinding ghasts wasn't easy. They float high in the air above the lava seas and make a **distinctive** crying sound. I built tall platforms to get **closer** to their flight paths.\n\nMy strategy was to deflect their fireballs back at them using perfect **timing**. The fireball turns into a projectile that damages the ghast when hit back **accurately**.\n\nAfter defeating three ghasts, I had enough tears to brew several potions. I returned home feeling **accomplished** and immediately started setting up my **brewing** stand with blaze powder as fuel.",
+      "transcript_zh": "我回到下界猎杀更多恶魂获取它们的眼泪。恶魂之泪是酿造再生药水的关键材料，能随时间慢慢恢复你的生命值。\n\n找到恶魂并不容易。它们在岩浆海上方高处漂浮，发出独特的哭泣声。我建了高台来靠近它们的飞行路径。\n\n我的策略是用完美的时机把它们的火球打回去。火球变成一个弹射物，精确打回时会伤害恶魂。\n\n打败三只恶魂后，我有了足够的眼泪来酿造几瓶药水。我回家时感到很有成就感，立即开始用烈焰粉作为燃料设置酿造台。",
+      "highlight_words": [
+        "tears",
+        "regeneration",
+        "timing",
+        "accurately",
+        "brewing"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I returned to the Nether to hunt more ghasts for their **tears**. Ghast tears are a key ingredient for brewing **regeneration** potions that slowly restore your health over time.",
+        "sentence_zh": "我回到下界猎杀更多恶魂获取它们的眼泪。恶魂之泪是酿造再生药水的关键材料，能随时间慢慢恢复你的生命值。",
+        "blank_word": "tears",
+        "distractors": [
+          "permanent",
+          "organized",
+          "mysterious"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Finding ghasts wasn't easy. They float high in the air above the lava seas and make a **distinctive** crying sound. I built tall platforms to get **closer** to their flight paths.",
+        "sentence_zh": "找到恶魂并不容易。它们在岩浆海上方高处漂浮，发出独特的哭泣声。我建了高台来靠近它们的飞行路径。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What happened in this paragraph?",
+          "options": [
+            "Finding ghasts wasn't easy",
+            "The player went to sleep in a village",
+            "Nothing interesting happened today",
+            "The player decided to quit the game"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "My strategy was to deflect their fireballs back at them using perfect **timing**. The fireball turns into a projectile that damages the ghast when hit back **accurately**.",
+        "sentence_zh": "我的策略是用完美的时机把它们的火球打回去。火球变成一个弹射物，精确打回时会伤害恶魂。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "word_match",
+        "quiz_payload": {
+          "pairs": [
+            {
+              "word": "timing",
+              "definition": "Choosing the right moment"
+            },
+            {
+              "word": "accurately",
+              "definition": "In an exact correct way"
+            },
+            {
+              "word": "timing",
+              "definition": "Choosing the right moment"
+            }
+          ],
+          "shuffled_defs": [
+            "Choosing the right moment",
+            "Choosing the right moment",
+            "In an exact correct way"
+          ]
+        }
+      },
+      {
+        "sort_order": 3,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "After defeating three ghasts, I had enough tears to brew several potions. I returned home feeling **accomplished** and immediately started setting up my **brewing** stand with blaze powder as fuel.",
+        "sentence_zh": "打败三只恶魂后，我有了足够的眼泪来酿造几瓶药水。我回家时感到很有成就感，立即开始用烈焰粉作为燃料设置酿造台。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "true_false",
+        "quiz_payload": {
+          "statement": "After defeating three ghasts, I had enough tears to brew several potions.",
+          "correct": true
+        }
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "What are ghast tears used for?",
+      "payload": {
+        "options": [
+          "Brewing regeneration potions",
+          "Crafting armor",
+          "Building portals",
+          "Trading with villagers"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-hardcore-live-deep-cave-exploration",
+      "kind": "reading",
+      "title": "Learn English with Minecraft Hardcore LIVE - Deep Cave Exploration — Reading",
+      "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore LIVE - Deep Cave Exploration\" — 5 reading segments with mixed quizzes.",
+      "difficulty": 3,
+      "est_minutes": 8,
+      "xp_reward": 50,
+      "unlock_level": 3,
+      "thumbnail_key": "reading",
+      "source_label": "Based on Learn English with Minecraft — Ep. 31",
+      "source_url": "https://www.youtube.com/watch?v=Z283MWUglhw",
+      "source_license": "youtube-embed",
+      "sort_order": 131,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Learn English with Minecraft Hardcore LIVE - Deep Cave Exploration — Reading Practice",
+      "passage_md": "Today's live stream took me into the deepest caves I've ever **explored**. Below Y-level -40, the darkness was absolute and hostile mobs lurked around every **corner**.\n\nI discovered a massive lush cave filled with **glowing** berries hanging from the ceiling. Axolotls swam in the underground pools, and dripleaf plants provided natural **platforms** to cross.\n\nDeep slate replaced normal stone at this level, making everything look darker and more **mysterious**. I found a vein of diamond ore embedded in the deepslate — harder to mine but equally **rewarding**.\n\nA warden almost caught me when I accidentally stepped on a sculk sensor! These **terrifying** blind creatures detect vibrations and deal massive damage. I had to sneak out very **quietly**.\n\nI escaped with a full inventory of ores and rare blocks. The deep caves are **incredibly** dangerous but offer the best rewards for brave **adventurers** willing to take the risk.",
+      "transcript_zh": "今天的直播带我进入了我探索过的最深的洞穴。在Y坐标-40以下，黑暗是绝对的，敌对生物潜伏在每个角落。\n\n我发现了一个巨大的繁茂洞穴，天花板上挂满了发光的浆果。美西螈在地下水池中游泳，大型垂滴叶提供了天然的平台来穿越。\n\n深板岩在这个层级替代了普通石头，让一切看起来更暗更神秘。我发现了嵌在深板岩中的钻石矿脉——更难开采但同样值得。\n\n当我不小心踩到潜声感测体时，一只监守者差点抓到我！这些可怕的盲眼生物通过振动探测，造成巨大伤害。我不得不非常安静地潜行离开。\n\n我带着满包的矿石和稀有方块逃了出来。深层洞穴极其危险但为愿意冒险的勇敢冒险家提供最好的回报。",
+      "highlight_words": [
+        "explored",
+        "mysterious",
+        "terrifying",
+        "incredibly",
+        "adventurers"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Today's live stream took me into the deepest caves I've ever **explored**. Below Y-level -40, the darkness was absolute and hostile mobs lurked around every **corner**.",
+        "sentence_zh": "今天的直播带我进入了我探索过的最深的洞穴。在Y坐标-40以下，黑暗是绝对的，敌对生物潜伏在每个角落。",
+        "blank_word": "explored",
+        "distractors": [
+          "entrance",
+          "equipment",
+          "dangerous"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I discovered a massive lush cave filled with **glowing** berries hanging from the ceiling. Axolotls swam in the underground pools, and dripleaf plants provided natural **platforms** to cross.",
+        "sentence_zh": "我发现了一个巨大的繁茂洞穴，天花板上挂满了发光的浆果。美西螈在地下水池中游泳，大型垂滴叶提供了天然的平台来穿越。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What happened in this paragraph?",
+          "options": [
+            "I discovered a massive lush cave filled with glowing berries...",
+            "The player went to sleep in a village",
+            "Nothing interesting happened today",
+            "The player decided to quit the game"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Deep slate replaced normal stone at this level, making everything look darker and more **mysterious**. I found a vein of diamond ore embedded in the deepslate — harder to mine but equally **rewarding**.",
+        "sentence_zh": "深板岩在这个层级替代了普通石头，让一切看起来更暗更神秘。我发现了嵌在深板岩中的钻石矿脉——更难开采但同样值得。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "word_match",
+        "quiz_payload": {
+          "pairs": [
+            {
+              "word": "mysterious",
+              "definition": "Strange and unknown"
+            },
+            {
+              "word": "rewarding",
+              "definition": "A word related to rewarding"
+            },
+            {
+              "word": "mysterious",
+              "definition": "Strange and unknown"
+            }
+          ],
+          "shuffled_defs": [
+            "Strange and unknown",
+            "A word related to rewarding",
+            "Strange and unknown"
+          ]
+        }
+      },
+      {
+        "sort_order": 3,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "A warden almost caught me when I accidentally stepped on a sculk sensor! These **terrifying** blind creatures detect vibrations and deal massive damage. I had to sneak out very **quietly**.",
+        "sentence_zh": "当我不小心踩到潜声感测体时，一只监守者差点抓到我！这些可怕的盲眼生物通过振动探测，造成巨大伤害。我不得不非常安静地潜行离开。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "sentence_order",
+        "quiz_payload": {
+          "sentences": [
+            "A warden almost caught me when I accidentally stepped on a sculk sensor.",
+            "These terrifying blind creatures detect vibrations and deal massive damage.",
+            "I had to sneak out very quietly."
+          ],
+          "correct_order": [
+            0,
+            1,
+            2
+          ]
+        }
+      },
+      {
+        "sort_order": 4,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I escaped with a full inventory of ores and rare blocks. The deep caves are **incredibly** dangerous but offer the best rewards for brave **adventurers** willing to take the risk.",
+        "sentence_zh": "我带着满包的矿石和稀有方块逃了出来。深层洞穴极其危险但为愿意冒险的勇敢冒险家提供最好的回报。",
+        "blank_word": "incredibly",
+        "distractors": [
+          "fortunate",
+          "scattered",
+          "incredible"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "What dangerous creature detects players by vibrations?",
+      "payload": {
+        "options": [
+          "The Warden",
+          "A Creeper",
+          "An Enderman",
+          "A Ghast"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-hardcore-live-exploring-biomes",
+      "kind": "reading",
+      "title": "Learn English with Minecraft Hardcore LIVE - Exploring Biomes — Reading",
+      "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore LIVE - Exploring Biomes\" — 5 reading segments with mixed quizzes.",
+      "difficulty": 3,
+      "est_minutes": 8,
+      "xp_reward": 50,
+      "unlock_level": 3,
+      "thumbnail_key": "reading",
+      "source_label": "Based on Learn English with Minecraft — Ep. 3",
+      "source_url": "https://www.youtube.com/watch?v=NYcwUO9D7vA",
+      "source_license": "youtube-embed",
+      "sort_order": 103,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Learn English with Minecraft Hardcore LIVE - Exploring Biomes — Reading Practice",
+      "passage_md": "I embarked on an epic **journey** to explore as many biomes as possible. My goal was to find a cherry grove, a rare pink biome with beautiful **blossoming** trees.\n\nI traveled through forests, plains, swamps, and taigas. Each biome had **unique** features: the swamp had witch huts, the taiga had foxes, and the plains had **horses** I could tame.\n\nThe most **spectacular** biome I found was a mushroom island surrounded by ocean. No hostile mobs spawn there naturally, making it the safest place in the entire **world**.\n\nAfter hours of exploring, I finally spotted the pink trees of a cherry grove on a distant **hilltop**. The petals floated down like snow and the whole area looked absolutely **magical**.\n\nI collected cherry saplings to plant back at my base and made the long **return** trip home. Exploring different biomes reminds me why Minecraft never gets **boring**.",
+      "transcript_zh": "我踏上了一场史诗般的旅程来探索尽可能多的生态群系。我的目标是找到樱花林，一个有美丽开花树木的稀有粉色生态群系。\n\n我穿越了森林、平原、沼泽和针叶林。每个生态群系都有独特的特征：沼泽有女巫小屋，针叶林有狐狸，平原有可以驯服的马。\n\n我找到的最壮观的生态群系是一个被海洋环绕的蘑菇岛。那里不会自然生成敌对生物，使它成为整个世界最安全的地方。\n\n探索了数小时后，我终于在远处的山顶看到了樱花林的粉色树木。花瓣像雪一样飘落，整个区域看起来绝对神奇。\n\n我收集了樱花树苗带回基地种植并踏上了漫长的回家路。探索不同的生态群系让我想起为什么Minecraft永远不会无聊。",
+      "highlight_words": [
+        "journey",
+        "unique",
+        "spectacular",
+        "magical",
+        "return"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I embarked on an epic **journey** to explore as many biomes as possible. My goal was to find a cherry grove, a rare pink biome with beautiful **blossoming** trees.",
+        "sentence_zh": "我踏上了一场史诗般的旅程来探索尽可能多的生态群系。我的目标是找到樱花林，一个有美丽开花树木的稀有粉色生态群系。",
+        "blank_word": "journey",
+        "distractors": [
+          "destroyed",
+          "powerful",
+          "scattered"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I traveled through forests, plains, swamps, and taigas. Each biome had **unique** features: the swamp had witch huts, the taiga had foxes, and the plains had **horses** I could tame.",
+        "sentence_zh": "我穿越了森林、平原、沼泽和针叶林。每个生态群系都有独特的特征：沼泽有女巫小屋，针叶林有狐狸，平原有可以驯服的马。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What happened in this paragraph?",
+          "options": [
+            "I traveled through forests, plains, swamps, and taigas",
+            "The player went to sleep in a village",
+            "Nothing interesting happened today",
+            "The player decided to quit the game"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "The most **spectacular** biome I found was a mushroom island surrounded by ocean. No hostile mobs spawn there naturally, making it the safest place in the entire **world**.",
+        "sentence_zh": "我找到的最壮观的生态群系是一个被海洋环绕的蘑菇岛。那里不会自然生成敌对生物，使它成为整个世界最安全的地方。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "word_match",
+        "quiz_payload": {
+          "pairs": [
+            {
+              "word": "spectacular",
+              "definition": "A word related to spectacular"
+            },
+            {
+              "word": "world",
+              "definition": "A word related to world"
+            },
+            {
+              "word": "spectacular",
+              "definition": "A word related to spectacular"
+            }
+          ],
+          "shuffled_defs": [
+            "A word related to world",
+            "A word related to spectacular",
+            "A word related to spectacular"
+          ]
+        }
+      },
+      {
+        "sort_order": 3,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "After hours of exploring, I finally spotted the pink trees of a cherry grove on a distant **hilltop**. The petals floated down like snow and the whole area looked absolutely **magical**.",
+        "sentence_zh": "探索了数小时后，我终于在远处的山顶看到了樱花林的粉色树木。花瓣像雪一样飘落，整个区域看起来绝对神奇。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "sentence_order",
+        "quiz_payload": {
+          "sentences": [
+            "First action happened.",
+            "Then the next step followed.",
+            "Finally the result occurred.",
+            "The task was complete."
+          ],
+          "correct_order": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "sort_order": 4,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I collected cherry saplings to plant back at my base and made the long **return** trip home. Exploring different biomes reminds me why Minecraft never gets **boring**.",
+        "sentence_zh": "我收集了樱花树苗带回基地种植并踏上了漫长的回家路。探索不同的生态群系让我想起为什么Minecraft永远不会无聊。",
+        "blank_word": "return",
+        "distractors": [
+          "approached",
+          "powerful",
+          "mountain"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "What biome has no hostile mob spawns?",
+      "payload": {
+        "options": [
+          "Mushroom island",
+          "Cherry grove",
+          "Desert",
+          "Dark forest"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-hardcore-live-home-improvement",
+      "kind": "reading",
+      "title": "Learn English with Minecraft Hardcore LIVE - Home Improvement — Reading",
+      "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore LIVE - Home Improvement\" — 5 reading segments with mixed quizzes.",
+      "difficulty": 3,
+      "est_minutes": 8,
+      "xp_reward": 50,
+      "unlock_level": 3,
+      "thumbnail_key": "reading",
+      "source_label": "Based on Learn English with Minecraft — Ep. 1",
+      "source_url": "https://www.youtube.com/watch?v=XrMXxY8eX0E",
+      "source_license": "youtube-embed",
+      "sort_order": 101,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Learn English with Minecraft Hardcore LIVE - Home Improvement — Reading Practice",
+      "passage_md": "Today I focused on making my base look **beautiful** instead of just functional. I added flower gardens, pathways made of **gravel**, and lanterns hanging from fence posts.\n\nI replaced my plain wooden floor with a **pattern** of different wood types: oak, spruce, and birch arranged in a checkerboard design that looks much more **elegant**.\n\nThe kitchen area got a major upgrade with smokers for cooking, **barrels** for storage, and a dining table made from trapdoors and fence posts. It looks like a real **restaurant** now!\n\nI added a second floor with a **balcony** overlooking the farm. The stairs are made of polished stone and the balcony has iron bars as railings for a modern **appearance**.\n\nThe final touch was adding a **fountain** in front of the house using water, slabs, and stairs. My base went from a survival shelter to a **gorgeous** home I'm proud of.",
+      "transcript_zh": "今天我专注于让基地看起来漂亮而不只是实用。我加了花园、用砾石做的小路和挂在栅栏柱上的灯笼。\n\n我把普通的木地板换成了不同木材类型的图案：橡木、云杉木和白桦木排列成棋盘格设计，看起来优雅多了。\n\n厨房区域获得了大升级，有用于烹饪的烟熏炉、用于储存的桶和用活板门和栅栏柱做的餐桌。现在它看起来像一家真正的餐厅！\n\n我加了一个带有俯瞰农场阳台的二楼。楼梯用打磨石制成，阳台有铁栏杆作为扶手，外观很现代。\n\n最后的点缀是在房子前面用水、台阶和楼梯加了一个喷泉。我的基地从一个生存庇护所变成了一个我引以为豪的漂亮家。",
+      "highlight_words": [
+        "beautiful",
+        "pattern",
+        "elegant",
+        "balcony",
+        "gorgeous"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Today I focused on making my base look **beautiful** instead of just functional. I added flower gardens, pathways made of **gravel**, and lanterns hanging from fence posts.",
+        "sentence_zh": "今天我专注于让基地看起来漂亮而不只是实用。我加了花园、用砾石做的小路和挂在栅栏柱上的灯笼。",
+        "blank_word": "beautiful",
+        "distractors": [
+          "attempted",
+          "material",
+          "organized"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I replaced my plain wooden floor with a **pattern** of different wood types: oak, spruce, and birch arranged in a checkerboard design that looks much more **elegant**.",
+        "sentence_zh": "我把普通的木地板换成了不同木材类型的图案：橡木、云杉木和白桦木排列成棋盘格设计，看起来优雅多了。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What happened in this paragraph?",
+          "options": [
+            "I replaced my plain wooden floor with a pattern of different...",
+            "The player went to sleep in a village",
+            "Nothing interesting happened today",
+            "The player decided to quit the game"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "The kitchen area got a major upgrade with smokers for cooking, **barrels** for storage, and a dining table made from trapdoors and fence posts. It looks like a real **restaurant** now!",
+        "sentence_zh": "厨房区域获得了大升级，有用于烹饪的烟熏炉、用于储存的桶和用活板门和栅栏柱做的餐桌。现在它看起来像一家真正的餐厅！",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "word_match",
+        "quiz_payload": {
+          "pairs": [
+            {
+              "word": "barrels",
+              "definition": "A word related to barrels"
+            },
+            {
+              "word": "restaurant",
+              "definition": "A word related to restaurant"
+            },
+            {
+              "word": "barrels",
+              "definition": "A word related to barrels"
+            }
+          ],
+          "shuffled_defs": [
+            "A word related to restaurant",
+            "A word related to barrels",
+            "A word related to barrels"
+          ]
+        }
+      },
+      {
+        "sort_order": 3,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I added a second floor with a **balcony** overlooking the farm. The stairs are made of polished stone and the balcony has iron bars as railings for a modern **appearance**.",
+        "sentence_zh": "我加了一个带有俯瞰农场阳台的二楼。楼梯用打磨石制成，阳台有铁栏杆作为扶手，外观很现代。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "sentence_order",
+        "quiz_payload": {
+          "sentences": [
+            "First action happened.",
+            "Then the next step followed.",
+            "Finally the result occurred.",
+            "The task was complete."
+          ],
+          "correct_order": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "sort_order": 4,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "The final touch was adding a **fountain** in front of the house using water, slabs, and stairs. My base went from a survival shelter to a **gorgeous** home I'm proud of.",
+        "sentence_zh": "最后的点缀是在房子前面用水、台阶和楼梯加了一个喷泉。我的基地从一个生存庇护所变成了一个我引以为豪的漂亮家。",
+        "blank_word": "fountain",
+        "distractors": [
+          "platform",
+          "scattered",
+          "prevented"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "What design was used for the floor pattern?",
+      "payload": {
+        "options": [
+          "A checkerboard with different wood types",
+          "All oak wood",
+          "Stone tiles",
+          "Carpet blocks"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-hardcore-live-intermediate-listening",
+      "kind": "reading",
+      "title": "Learn English with Minecraft Hardcore LIVE (Intermediate Listening) — Reading",
+      "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore LIVE (Intermediate Listening)\" — 5 reading segments with mixed quizzes.",
+      "difficulty": 3,
+      "est_minutes": 8,
+      "xp_reward": 50,
+      "unlock_level": 3,
+      "thumbnail_key": "reading",
+      "source_label": "Based on Learn English with Minecraft — Ep. 11",
+      "source_url": "https://www.youtube.com/watch?v=v688HknW5nw",
+      "source_license": "youtube-embed",
+      "sort_order": 111,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Learn English with Minecraft Hardcore LIVE (Intermediate Listening) — Reading Practice",
+      "passage_md": "In this episode, I practiced more **advanced** English while playing. I described my actions using complex sentences and new **vocabulary** to help intermediate learners improve.\n\nI explained the difference between \"gonna\" and \"going to\" while building a **structure**. Spoken English often uses contractions and casual forms that are different from **written** English.\n\nWhile mining, I used phrasal verbs like \"dig out,\" \"run into,\" and \"come across.\" These multi-word verbs are **essential** for natural-sounding English **conversation**.\n\nI encountered a spider and described the situation using past tense **narration**: \"I was walking through the cave when suddenly a spider appeared behind me and attacked!\"\n\nLearning English through gaming makes it more **enjoyable** because you connect words with actions. The **context** of Minecraft helps you remember vocabulary naturally.",
+      "transcript_zh": "在这一集中，我一边玩一边练习更高级的英语。我用复杂句子和新词汇描述我的行为来帮助中级学习者提高。\n\n我在建造一个结构时解释了gonna和going to的区别。口语英语经常使用缩写和随意形式，与书面英语不同。\n\n挖矿时，我使用了短语动词如dig out、run into和come across。这些多词动词对于自然流畅的英语会话至关重要。\n\n我遇到了一只蜘蛛并用过去时叙述描述情况：我正走在洞穴里，突然一只蜘蛛出现在我身后并攻击了我！\n\n通过游戏学英语更有趣，因为你把词汇和动作联系起来。Minecraft的语境帮助你自然地记住词汇。",
+      "highlight_words": [
+        "advanced",
+        "vocabulary",
+        "essential",
+        "narration",
+        "context"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "In this episode, I practiced more **advanced** English while playing. I described my actions using complex sentences and new **vocabulary** to help intermediate learners improve.",
+        "sentence_zh": "在这一集中，我一边玩一边练习更高级的英语。我用复杂句子和新词汇描述我的行为来帮助中级学习者提高。",
+        "blank_word": "advanced",
+        "distractors": [
+          "ancient",
+          "structure",
+          "creature"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I explained the difference between \"gonna\" and \"going to\" while building a **structure**. Spoken English often uses contractions and casual forms that are different from **written** English.",
+        "sentence_zh": "我在建造一个结构时解释了gonna和going to的区别。口语英语经常使用缩写和随意形式，与书面英语不同。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What happened in this paragraph?",
+          "options": [
+            "I explained the difference between \"gonna\" and \"going to\" wh...",
+            "The player went to sleep in a village",
+            "Nothing interesting happened today",
+            "The player decided to quit the game"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "While mining, I used phrasal verbs like \"dig out,\" \"run into,\" and \"come across.\" These multi-word verbs are **essential** for natural-sounding English **conversation**.",
+        "sentence_zh": "挖矿时，我使用了短语动词如dig out、run into和come across。这些多词动词对于自然流畅的英语会话至关重要。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "word_match",
+        "quiz_payload": {
+          "pairs": [
+            {
+              "word": "essential",
+              "definition": "Absolutely necessary"
+            },
+            {
+              "word": "conversation",
+              "definition": "A word related to conversation"
+            },
+            {
+              "word": "essential",
+              "definition": "Absolutely necessary"
+            }
+          ],
+          "shuffled_defs": [
+            "A word related to conversation",
+            "Absolutely necessary",
+            "Absolutely necessary"
+          ]
+        }
+      },
+      {
+        "sort_order": 3,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I encountered a spider and described the situation using past tense **narration**: \"I was walking through the cave when suddenly a spider appeared behind me and attacked!\"",
+        "sentence_zh": "我遇到了一只蜘蛛并用过去时叙述描述情况：我正走在洞穴里，突然一只蜘蛛出现在我身后并攻击了我！",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "sentence_order",
+        "quiz_payload": {
+          "sentences": [
+            "First action happened.",
+            "Then the next step followed.",
+            "Finally the result occurred.",
+            "The task was complete."
+          ],
+          "correct_order": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "sort_order": 4,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Learning English through gaming makes it more **enjoyable** because you connect words with actions. The **context** of Minecraft helps you remember vocabulary naturally.",
+        "sentence_zh": "通过游戏学英语更有趣，因为你把词汇和动作联系起来。Minecraft的语境帮助你自然地记住词汇。",
+        "blank_word": "enjoyable",
+        "distractors": [
+          "corridor",
+          "powerful",
+          "valuable"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "Why is learning English through gaming effective?",
+      "payload": {
+        "options": [
+          "You connect words with actions and context",
+          "Games are easy",
+          "You don't need to study",
+          "It's faster than textbooks"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-hardcore-live-quest-for-the-anvil",
+      "kind": "reading",
+      "title": "Learn English with Minecraft Hardcore LIVE - Quest for the Anvil! — Reading",
+      "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore LIVE - Quest for the Anvil!\" — 5 reading segments with mixed quizzes.",
+      "difficulty": 3,
+      "est_minutes": 8,
+      "xp_reward": 50,
+      "unlock_level": 3,
+      "thumbnail_key": "reading",
+      "source_label": "Based on Learn English with Minecraft — Ep. 9",
+      "source_url": "https://www.youtube.com/watch?v=wOsVbTuSFvE",
+      "source_license": "youtube-embed",
+      "sort_order": 109,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Learn English with Minecraft Hardcore LIVE - Quest for the Anvil! — Reading Practice",
+      "passage_md": "My enchanted sword was almost broken and I **desperately** needed an anvil to repair it. Without repairs, my best weapon would be lost forever — a disaster in **Hardcore** mode.\n\nCrafting an anvil requires thirty-one iron ingots total. I didn't have nearly enough iron, so I had to go on a **massive** mining expedition deep **underground**.\n\nI found a large cave system rich with iron ore. I mined **efficiently**, following the ore veins and collecting everything I could. My pickaxe was wearing down from all the **constant** mining.\n\nAfter smelting all the iron, I finally had enough to craft the anvil! I placed it in my workshop and immediately repaired my **precious** diamond sword. It felt like a huge **relief**.\n\nThe anvil will save me many times in the future. Being able to repair and combine **enchantments** means my best gear can last **indefinitely** as long as I have materials.",
+      "transcript_zh": "我的附魔剑快要坏了，我迫切需要一个铁砧来修复它。没有修复，我最好的武器将永远失去——在极限模式中是灾难。\n\n制作铁砧总共需要三十一个铁锭。我的铁远远不够，所以必须进行一次大规模的地下深处采矿远征。\n\n我找到了一个富含铁矿的大型洞穴系统。我高效地挖矿，沿着矿脉收集能收集的一切。我的镐因为不断挖矿而磨损。\n\n冶炼完所有铁后，我终于有了足够的来制作铁砧！我把它放在工作间并立即修复了珍贵的钻石剑。感觉如释重负。\n\n铁砧将来会多次拯救我。能够修复和合并附魔意味着只要我有材料，最好的装备就能无限期使用。",
+      "highlight_words": [
+        "desperately",
+        "massive",
+        "efficiently",
+        "precious",
+        "enchantments"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "My enchanted sword was almost broken and I **desperately** needed an anvil to repair it. Without repairs, my best weapon would be lost forever — a disaster in **Hardcore** mode.",
+        "sentence_zh": "我的附魔剑快要坏了，我迫切需要一个铁砧来修复它。没有修复，我最好的武器将永远失去——在极限模式中是灾难。",
+        "blank_word": "desperately",
+        "distractors": [
+          "collected",
+          "powerful",
+          "valuable"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Crafting an anvil requires thirty-one iron ingots total. I didn't have nearly enough iron, so I had to go on a **massive** mining expedition deep **underground**.",
+        "sentence_zh": "制作铁砧总共需要三十一个铁锭。我的铁远远不够，所以必须进行一次大规模的地下深处采矿远征。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What happened in this paragraph?",
+          "options": [
+            "Crafting an anvil requires thirty-one iron ingots total",
+            "The player went to sleep in a village",
+            "Nothing interesting happened today",
+            "The player decided to quit the game"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I found a large cave system rich with iron ore. I mined **efficiently**, following the ore veins and collecting everything I could. My pickaxe was wearing down from all the **constant** mining.",
+        "sentence_zh": "我找到了一个富含铁矿的大型洞穴系统。我高效地挖矿，沿着矿脉收集能收集的一切。我的镐因为不断挖矿而磨损。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "word_match",
+        "quiz_payload": {
+          "pairs": [
+            {
+              "word": "efficiently",
+              "definition": "In a way that wastes no time"
+            },
+            {
+              "word": "constant",
+              "definition": "A word related to constant"
+            },
+            {
+              "word": "efficiently",
+              "definition": "In a way that wastes no time"
+            }
+          ],
+          "shuffled_defs": [
+            "In a way that wastes no time",
+            "A word related to constant",
+            "In a way that wastes no time"
+          ]
+        }
+      },
+      {
+        "sort_order": 3,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "After smelting all the iron, I finally had enough to craft the anvil! I placed it in my workshop and immediately repaired my **precious** diamond sword. It felt like a huge **relief**.",
+        "sentence_zh": "冶炼完所有铁后，我终于有了足够的来制作铁砧！我把它放在工作间并立即修复了珍贵的钻石剑。感觉如释重负。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "sentence_order",
+        "quiz_payload": {
+          "sentences": [
+            "After smelting all the iron, I finally had enough to craft the anvil.",
+            "I placed it in my workshop and immediately repaired my precious diamond sword.",
+            "It felt like a huge relief."
+          ],
+          "correct_order": [
+            0,
+            1,
+            2
+          ]
+        }
+      },
+      {
+        "sort_order": 4,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "The anvil will save me many times in the future. Being able to repair and combine **enchantments** means my best gear can last **indefinitely** as long as I have materials.",
+        "sentence_zh": "铁砧将来会多次拯救我。能够修复和合并附魔意味着只要我有材料，最好的装备就能无限期使用。",
+        "blank_word": "enchantments",
+        "distractors": [
+          "treasure",
+          "mountain",
+          "powerful"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "How many iron ingots are needed for an anvil?",
+      "payload": {
+        "options": [
+          "Thirty-one",
+          "Fifteen",
+          "Twenty",
+          "Ten"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-hardcore-live-tnt",
+      "kind": "reading",
+      "title": "Learn English with Minecraft Hardcore LIVE - TNT!! — Reading",
+      "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore LIVE - TNT!!\" — 5 reading segments with mixed quizzes.",
+      "difficulty": 3,
+      "est_minutes": 8,
+      "xp_reward": 50,
+      "unlock_level": 3,
+      "thumbnail_key": "reading",
+      "source_label": "Based on Learn English with Minecraft — Ep. 34",
+      "source_url": "https://www.youtube.com/watch?v=WvjoDM3Ug5w",
+      "source_license": "youtube-embed",
+      "sort_order": 134,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Learn English with Minecraft Hardcore LIVE - TNT!! — Reading Practice",
+      "passage_md": "I decided to experiment with **TNT** — the most explosive block in Minecraft! Making TNT requires gunpowder from creepers and sand from **beaches** or deserts.\n\nI crafted twenty TNT blocks and built a small testing area far from my base. You should NEVER use TNT near your **buildings** because the **explosion** destroys everything in a large radius.\n\nI lit the TNT with flint and steel and ran away quickly! The explosion created a massive **crater** in the ground. TNT is useful for clearing large areas of land for building **projects**.\n\nI also tried using TNT for mining by placing it at the bottom of a mine shaft. The explosion **revealed** many ores that were hidden in the walls. It's **risky** but effective!\n\nThe most fun was building a TNT cannon that launches blocks far away! The **mechanism** uses water to protect the launcher and redstone to **ignite** the propellant TNT at the right moment.",
+      "transcript_zh": "我决定实验TNT——Minecraft中最具爆炸性的方块！制作TNT需要苦力怕的火药和来自海滩或沙漠的沙子。\n\n我制作了二十块TNT并在离基地很远的地方建了一个小测试区。你绝不应该在建筑附近使用TNT，因为爆炸会摧毁大范围内的一切。\n\n我用打火石点燃了TNT然后赶紧跑开！爆炸在地面上创造了一个巨大的坑。TNT对清理大面积土地用于建筑项目很有用。\n\n我还尝试在矿井底部放TNT来挖矿。爆炸揭示了许多隐藏在墙壁中的矿石。这很冒险但有效！\n\n最有趣的是建造一个能把方块发射到远处的TNT大炮！这个机制用水保护发射器并用红石在正确时刻点燃推进TNT。",
+      "highlight_words": [
+        "TNT",
+        "explosion",
+        "crater",
+        "revealed",
+        "mechanism"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I decided to experiment with **TNT** — the most explosive block in Minecraft! Making TNT requires gunpowder from creepers and sand from **beaches** or deserts.",
+        "sentence_zh": "我决定实验TNT——Minecraft中最具爆炸性的方块！制作TNT需要苦力怕的火药和来自海滩或沙漠的沙子。",
+        "blank_word": "TNT",
+        "distractors": [
+          "mysterious",
+          "fortunate",
+          "organized"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I crafted twenty TNT blocks and built a small testing area far from my base. You should NEVER use TNT near your **buildings** because the **explosion** destroys everything in a large radius.",
+        "sentence_zh": "我制作了二十块TNT并在离基地很远的地方建了一个小测试区。你绝不应该在建筑附近使用TNT，因为爆炸会摧毁大范围内的一切。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What happened in this paragraph?",
+          "options": [
+            "I crafted twenty TNT blocks and built a small testing area f...",
+            "The player went to sleep in a village",
+            "Nothing interesting happened today",
+            "The player decided to quit the game"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I lit the TNT with flint and steel and ran away quickly! The explosion created a massive **crater** in the ground. TNT is useful for clearing large areas of land for building **projects**.",
+        "sentence_zh": "我用打火石点燃了TNT然后赶紧跑开！爆炸在地面上创造了一个巨大的坑。TNT对清理大面积土地用于建筑项目很有用。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "word_match",
+        "quiz_payload": {
+          "pairs": [
+            {
+              "word": "crater",
+              "definition": "A word related to crater"
+            },
+            {
+              "word": "projects",
+              "definition": "A word related to projects"
+            },
+            {
+              "word": "crater",
+              "definition": "A word related to crater"
+            }
+          ],
+          "shuffled_defs": [
+            "A word related to crater",
+            "A word related to projects",
+            "A word related to crater"
+          ]
+        }
+      },
+      {
+        "sort_order": 3,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I also tried using TNT for mining by placing it at the bottom of a mine shaft. The explosion **revealed** many ores that were hidden in the walls. It's **risky** but effective!",
+        "sentence_zh": "我还尝试在矿井底部放TNT来挖矿。爆炸揭示了许多隐藏在墙壁中的矿石。这很冒险但有效！",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "sentence_order",
+        "quiz_payload": {
+          "sentences": [
+            "I also tried using TNT for mining by placing it at the bottom of a mine shaft.",
+            "The explosion revealed many ores that were hidden in the walls.",
+            "It's risky but effective."
+          ],
+          "correct_order": [
+            0,
+            1,
+            2
+          ]
+        }
+      },
+      {
+        "sort_order": 4,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "The most fun was building a TNT cannon that launches blocks far away! The **mechanism** uses water to protect the launcher and redstone to **ignite** the propellant TNT at the right moment.",
+        "sentence_zh": "最有趣的是建造一个能把方块发射到远处的TNT大炮！这个机制用水保护发射器并用红石在正确时刻点燃推进TNT。",
+        "blank_word": "mechanism",
+        "distractors": [
+          "entrance",
+          "fortress",
+          "equipment"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "What materials are needed to craft TNT?",
+      "payload": {
+        "options": [
+          "Gunpowder and sand",
+          "Iron and coal",
+          "Diamond and redstone",
+          "Wood and stone"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-hardcore-live-upgrading-to-diamond",
+      "kind": "reading",
+      "title": "Learn English with Minecraft Hardcore LIVE - Upgrading to DIAMOND  💎 — Reading",
+      "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore LIVE - Upgrading to DIAMOND  💎\" — 5 reading segments with mixed quizzes.",
+      "difficulty": 3,
+      "est_minutes": 8,
+      "xp_reward": 50,
+      "unlock_level": 3,
+      "thumbnail_key": "reading",
+      "source_label": "Based on Learn English with Minecraft — Ep. 5",
+      "source_url": "https://www.youtube.com/watch?v=5GkSh-z9hIY",
+      "source_license": "youtube-embed",
+      "sort_order": 105,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Learn English with Minecraft Hardcore LIVE - Upgrading to DIAMOND  💎 — Reading Practice",
+      "passage_md": "Today my goal was to upgrade all my iron tools and armor to **diamond**. This requires finding many diamond ore blocks deep underground at the **lowest** levels of the world.\n\nI used my Fortune III pickaxe which makes each diamond ore drop **multiple** diamonds instead of just one. This enchantment is incredibly **efficient** for rare resource gathering.\n\nMining at Y-level -59 was dangerous but **productive**. I found three veins of diamonds within an hour! Lava pools were the biggest threat — one wrong step and I'd lose **everything**.\n\nWith thirty-five diamonds collected, I crafted a full set of diamond armor, a sword, and a pickaxe. The **transformation** from iron to diamond gear made me feel much more **confident**.\n\nDiamond tools are much more **durable** than iron — they last over 1500 uses compared to iron's 250. With unbreaking enchantments, they'll last **practically** forever.",
+      "transcript_zh": "今天我的目标是把所有铁质工具和盔甲升级为钻石。这需要在世界最低层级的深地下找到很多钻石矿块。\n\n我使用了时运III镐，让每个钻石矿掉落多颗钻石而不是只有一颗。这个附魔对收集稀有资源非常高效。\n\n在Y坐标-59挖矿很危险但很有收获。一小时内我找到了三脉钻石！岩浆池是最大的威胁——走错一步就会失去一切。\n\n收集了三十五颗钻石后，我制作了一整套钻石盔甲、一把剑和一把镐。从铁质装备到钻石装备的转变让我感觉自信多了。\n\n钻石工具比铁质的耐用得多——它们能使用超过1500次，而铁的只有250次。加上耐久附魔，它们实际上能永远使用。",
+      "highlight_words": [
+        "diamond",
+        "multiple",
+        "productive",
+        "transformation",
+        "durable"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Today my goal was to upgrade all my iron tools and armor to **diamond**. This requires finding many diamond ore blocks deep underground at the **lowest** levels of the world.",
+        "sentence_zh": "今天我的目标是把所有铁质工具和盔甲升级为钻石。这需要在世界最低层级的深地下找到很多钻石矿块。",
+        "blank_word": "diamond",
+        "distractors": [
+          "creature",
+          "dangerous",
+          "scattered"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I used my Fortune III pickaxe which makes each diamond ore drop **multiple** diamonds instead of just one. This enchantment is incredibly **efficient** for rare resource gathering.",
+        "sentence_zh": "我使用了时运III镐，让每个钻石矿掉落多颗钻石而不是只有一颗。这个附魔对收集稀有资源非常高效。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What happened in this paragraph?",
+          "options": [
+            "I used my Fortune III pickaxe which makes each diamond ore d...",
+            "The player went to sleep in a village",
+            "Nothing interesting happened today",
+            "The player decided to quit the game"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Mining at Y-level -59 was dangerous but **productive**. I found three veins of diamonds within an hour! Lava pools were the biggest threat — one wrong step and I'd lose **everything**.",
+        "sentence_zh": "在Y坐标-59挖矿很危险但很有收获。一小时内我找到了三脉钻石！岩浆池是最大的威胁——走错一步就会失去一切。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "word_match",
+        "quiz_payload": {
+          "pairs": [
+            {
+              "word": "productive",
+              "definition": "A word related to productive"
+            },
+            {
+              "word": "everything",
+              "definition": "A word related to everything"
+            },
+            {
+              "word": "productive",
+              "definition": "A word related to productive"
+            }
+          ],
+          "shuffled_defs": [
+            "A word related to productive",
+            "A word related to everything",
+            "A word related to productive"
+          ]
+        }
+      },
+      {
+        "sort_order": 3,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "With thirty-five diamonds collected, I crafted a full set of diamond armor, a sword, and a pickaxe. The **transformation** from iron to diamond gear made me feel much more **confident**.",
+        "sentence_zh": "收集了三十五颗钻石后，我制作了一整套钻石盔甲、一把剑和一把镐。从铁质装备到钻石装备的转变让我感觉自信多了。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "sentence_order",
+        "quiz_payload": {
+          "sentences": [
+            "First action happened.",
+            "Then the next step followed.",
+            "Finally the result occurred.",
+            "The task was complete."
+          ],
+          "correct_order": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "sort_order": 4,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Diamond tools are much more **durable** than iron — they last over 1500 uses compared to iron's 250. With unbreaking enchantments, they'll last **practically** forever.",
+        "sentence_zh": "钻石工具比铁质的耐用得多——它们能使用超过1500次，而铁的只有250次。加上耐久附魔，它们实际上能永远使用。",
+        "blank_word": "durable",
+        "distractors": [
+          "fortress",
+          "mysterious",
+          "ancient"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "How many uses does a diamond tool have compared to iron?",
+      "payload": {
+        "options": [
+          "Over 1500 vs iron's 250",
+          "500 vs iron's 100",
+          "2000 vs iron's 500",
+          "1000 vs iron's 400"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-hardcore-live-xp-farm",
+      "kind": "reading",
+      "title": "Learn English with Minecraft Hardcore LIVE - XP Farm — Reading",
+      "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore LIVE - XP Farm\" — 5 reading segments with mixed quizzes.",
+      "difficulty": 3,
+      "est_minutes": 8,
+      "xp_reward": 50,
+      "unlock_level": 3,
+      "thumbnail_key": "reading",
+      "source_label": "Based on Learn English with Minecraft — Ep. 7",
+      "source_url": "https://www.youtube.com/watch?v=YfYpTu86Vdg",
+      "source_license": "youtube-embed",
+      "sort_order": 107,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Learn English with Minecraft Hardcore LIVE - XP Farm — Reading Practice",
+      "passage_md": "I built my second XP farm using a different **design** — a zombie spawner I found in a dungeon. Spawner-based farms are more **reliable** because they produce mobs constantly.\n\nThe key to a spawner farm is controlling the **environment** around it. Mobs only spawn when it's dark and when a player is within sixteen blocks. I added water **streams** to push zombies to a kill zone.\n\nI made the zombies fall exactly twenty-two blocks so they have half a heart of health left. This means I can kill them with one punch and still get full XP — the most **efficient** method.\n\nThe farm also collects zombie drops **automatically** using hoppers connected to chests. I get iron ingots, carrots, potatoes, and **occasionally** rare enchanted armor.\n\nWith both farms running, I can reach level thirty in just a few minutes. This gives me **unlimited** enchanting power to keep all my gear at maximum **strength** throughout the game.",
+      "transcript_zh": "我用不同的设计建了第二个经验值农场——一个在地牢找到的僵尸生成器。基于生成器的农场更可靠因为它们不断产生怪物。\n\n生成器农场的关键是控制周围的环境。怪物只在黑暗中且玩家在十六格内时生成。我加了水流把僵尸推到击杀区。\n\n我让僵尸恰好掉落二十二格这样它们只剩半颗心的血量。这意味着我一拳就能杀死它们并且获得全部经验值——最高效的方法。\n\n农场还使用连接箱子的漏斗自动收集僵尸掉落物。我能得到铁锭、胡萝卜、土豆和偶尔稀有的附魔盔甲。\n\n两个农场运行后，我只需几分钟就能到达30级。这给了我无限的附魔能力来在整个游戏中保持所有装备最大强度。",
+      "highlight_words": [
+        "design",
+        "environment",
+        "efficient",
+        "automatically",
+        "unlimited"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I built my second XP farm using a different **design** — a zombie spawner I found in a dungeon. Spawner-based farms are more **reliable** because they produce mobs constantly.",
+        "sentence_zh": "我用不同的设计建了第二个经验值农场——一个在地牢找到的僵尸生成器。基于生成器的农场更可靠因为它们不断产生怪物。",
+        "blank_word": "design",
+        "distractors": [
+          "abandoned",
+          "permanent",
+          "mysterious"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "The key to a spawner farm is controlling the **environment** around it. Mobs only spawn when it's dark and when a player is within sixteen blocks. I added water **streams** to push zombies to a kill zone.",
+        "sentence_zh": "生成器农场的关键是控制周围的环境。怪物只在黑暗中且玩家在十六格内时生成。我加了水流把僵尸推到击杀区。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What happened in this paragraph?",
+          "options": [
+            "The key to a spawner farm is controlling the environment aro...",
+            "The player went to sleep in a village",
+            "Nothing interesting happened today",
+            "The player decided to quit the game"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "I made the zombies fall exactly twenty-two blocks so they have half a heart of health left. This means I can kill them with one punch and still get full XP — the most **efficient** method.",
+        "sentence_zh": "我让僵尸恰好掉落二十二格这样它们只剩半颗心的血量。这意味着我一拳就能杀死它们并且获得全部经验值——最高效的方法。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "word_match",
+        "quiz_payload": {
+          "pairs": [
+            {
+              "word": "efficient",
+              "definition": "A word related to efficient"
+            },
+            {
+              "word": "efficient",
+              "definition": "A word related to efficient"
+            },
+            {
+              "word": "method",
+              "definition": "A word related to method"
+            }
+          ],
+          "shuffled_defs": [
+            "A word related to method",
+            "A word related to efficient",
+            "A word related to efficient"
+          ]
+        }
+      },
+      {
+        "sort_order": 3,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "The farm also collects zombie drops **automatically** using hoppers connected to chests. I get iron ingots, carrots, potatoes, and **occasionally** rare enchanted armor.",
+        "sentence_zh": "农场还使用连接箱子的漏斗自动收集僵尸掉落物。我能得到铁锭、胡萝卜、土豆和偶尔稀有的附魔盔甲。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "sentence_order",
+        "quiz_payload": {
+          "sentences": [
+            "First action happened.",
+            "Then the next step followed.",
+            "Finally the result occurred.",
+            "The task was complete."
+          ],
+          "correct_order": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "sort_order": 4,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "With both farms running, I can reach level thirty in just a few minutes. This gives me **unlimited** enchanting power to keep all my gear at maximum **strength** throughout the game.",
+        "sentence_zh": "两个农场运行后，我只需几分钟就能到达30级。这给了我无限的附魔能力来在整个游戏中保持所有装备最大强度。",
+        "blank_word": "unlimited",
+        "distractors": [
+          "equipment",
+          "dangerous",
+          "scattered"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "Why do zombies fall exactly 22 blocks?",
+      "payload": {
+        "options": [
+          "So they have half a heart left for one-punch kills",
+          "To kill them instantly",
+          "Because it looks cool",
+          "The farm doesn't work otherwise"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-minecraft-easy-mob-xp-farm-tutorial-1-21-without-m",
+      "kind": "reading",
+      "title": "Minecraft: EASY MOB XP FARM TUTORIAL! 1.21 (Without Mob Spawner) — Reading",
+      "description": "Read and practice vocabulary from \"Minecraft: EASY MOB XP FARM TUTORIAL! 1.21 (Without Mob Spawner)\" — 3 reading segments with mixed quizzes.",
+      "difficulty": 1,
+      "est_minutes": 4,
+      "xp_reward": 30,
+      "unlock_level": 1,
+      "thumbnail_key": "reading",
+      "source_label": "Based on Learn English with Minecraft — Ep. 23",
+      "source_url": "https://www.youtube.com/watch?v=AuAt9zR1sDM",
+      "source_license": "youtube-embed",
+      "sort_order": 123,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Minecraft: EASY MOB XP FARM TUTORIAL! 1.21 (Without Mob Spawner) — Reading Practice",
+      "passage_md": "This tutorial shows how to build an easy mob XP farm without using a **spawner**. This design works anywhere in the world and produces experience from all basic mob **types**.\n\nThe farm uses a dark room platform where mobs spawn **naturally** at night. Water pushes them off the edge into a collection funnel that drops them to a **specific** height.\n\nYou need basic **materials**: cobblestone for the platform, water buckets for the pushing mechanism, and signs or trapdoors to trick mob **pathfinding** so they walk off the edge.",
+      "transcript_zh": "这个教程展示如何在不使用生成器的情况下建造一个简单的怪物经验值农场。这个设计在世界任何地方都能使用，从所有基本怪物类型产生经验。\n\n农场使用一个黑暗房间平台让怪物在夜间自然生成。水把它们推下边缘进入收集漏斗，落到特定高度。\n\n你需要基本材料：圆石做平台、水桶做推动机制、告示牌或活板门来欺骗怪物的寻路让它们走下边缘。",
+      "highlight_words": [
+        "spawner",
+        "naturally",
+        "specific",
+        "materials",
+        "pathfinding"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "This tutorial shows how to build an easy mob XP farm without using a **spawner**. This design works anywhere in the world and produces experience from all basic mob **types**.",
+        "sentence_zh": "这个教程展示如何在不使用生成器的情况下建造一个简单的怪物经验值农场。这个设计在世界任何地方都能使用，从所有基本怪物类型产生经验。",
+        "blank_word": "spawner",
+        "distractors": [
+          "dangerous",
+          "treasure",
+          "collected"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "The farm uses a dark room platform where mobs spawn **naturally** at night. Water pushes them off the edge into a collection funnel that drops them to a **specific** height.",
+        "sentence_zh": "农场使用一个黑暗房间平台让怪物在夜间自然生成。水把它们推下边缘进入收集漏斗，落到特定高度。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What happened in this paragraph?",
+          "options": [
+            "The farm uses a dark room platform where mobs spawn naturall...",
+            "The player went to sleep in a village",
+            "Nothing interesting happened today",
+            "The player decided to quit the game"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "You need basic **materials**: cobblestone for the platform, water buckets for the pushing mechanism, and signs or trapdoors to trick mob **pathfinding** so they walk off the edge.",
+        "sentence_zh": "你需要基本材料：圆石做平台、水桶做推动机制、告示牌或活板门来欺骗怪物的寻路让它们走下边缘。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "true_false",
+        "quiz_payload": {
+          "statement": "You need basic materials: cobblestone for the platform, water buckets for the pushing mechanism, and signs or trapdoors to trick mob pathfinding so they walk off the edge.",
+          "correct": true
+        }
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "What makes mobs walk off the platform edge?",
+      "payload": {
+        "options": [
+          "Signs or trapdoors trick their pathfinding",
+          "They are attracted to light",
+          "TNT pushes them",
+          "Water pressure forces them"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "vocab-hostile-mobs",
+      "kind": "vocabulary",
+      "title": "Hostile Mobs",
+      "description": "Learn the names of dangerous creatures that attack at night.",
+      "difficulty": 2,
+      "est_minutes": 8,
+      "xp_reward": 30,
+      "unlock_level": 1,
+      "source_label": "CraftWords Vocabulary",
+      "source_url": "",
+      "source_license": "original",
+      "sort_order": 101,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "vocab_drill",
+      "title": "Hostile Mobs",
+      "yt_video_id": null,
+      "yt_start_sec": null,
+      "yt_end_sec": null,
+      "passage_md": null,
+      "transcript_en": null,
+      "transcript_zh": null,
+      "highlight_words": [
+        "creeper",
+        "zombie",
+        "skeleton",
+        "spider",
+        "enderman",
+        "ghast",
+        "blaze",
+        "dragon"
+      ],
+      "xp_reward": 30
+    },
+    "segments": []
+  },
+  {
+    "course": {
+      "id": "vocab-friendly-animals",
+      "kind": "vocabulary",
+      "title": "Friendly Animals",
+      "description": "Meet the peaceful creatures you can tame, ride, and breed.",
+      "difficulty": 2,
+      "est_minutes": 8,
+      "xp_reward": 30,
+      "unlock_level": 1,
+      "source_label": "CraftWords Vocabulary",
+      "source_url": "",
+      "source_license": "original",
+      "sort_order": 102,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "vocab_drill",
+      "title": "Friendly Animals",
+      "yt_video_id": null,
+      "yt_start_sec": null,
+      "yt_end_sec": null,
+      "passage_md": null,
+      "transcript_en": null,
+      "transcript_zh": null,
+      "highlight_words": [
+        "horse",
+        "rabbit",
+        "ocelot",
+        "dolphin",
+        "turtle",
+        "pig",
+        "cow",
+        "sheep"
+      ],
+      "xp_reward": 30
+    },
+    "segments": []
+  },
+  {
+    "course": {
+      "id": "vocab-tools-weapons",
+      "kind": "vocabulary",
+      "title": "Tools & Weapons",
+      "description": "Master the essential gear every adventurer needs.",
+      "difficulty": 3,
+      "est_minutes": 10,
+      "xp_reward": 35,
+      "unlock_level": 1,
+      "source_label": "CraftWords Vocabulary",
+      "source_url": "",
+      "source_license": "original",
+      "sort_order": 103,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "vocab_drill",
+      "title": "Tools & Weapons",
+      "yt_video_id": null,
+      "yt_start_sec": null,
+      "yt_end_sec": null,
+      "passage_md": null,
+      "transcript_en": null,
+      "transcript_zh": null,
+      "highlight_words": [
+        "pickaxe",
+        "sword",
+        "shovel",
+        "axe",
+        "bow",
+        "arrow",
+        "shield",
+        "armor"
+      ],
+      "xp_reward": 35
+    },
+    "segments": []
+  },
+  {
+    "course": {
+      "id": "vocab-precious-resources",
+      "kind": "vocabulary",
+      "title": "Precious Resources",
+      "description": "Discover the valuable ores and gems hidden underground.",
+      "difficulty": 3,
+      "est_minutes": 10,
+      "xp_reward": 35,
+      "unlock_level": 1,
+      "source_label": "CraftWords Vocabulary",
+      "source_url": "",
+      "source_license": "original",
+      "sort_order": 104,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "vocab_drill",
+      "title": "Precious Resources",
+      "yt_video_id": null,
+      "yt_start_sec": null,
+      "yt_end_sec": null,
+      "passage_md": null,
+      "transcript_en": null,
+      "transcript_zh": null,
+      "highlight_words": [
+        "diamond",
+        "emerald",
+        "gold",
+        "coal",
+        "redstone",
+        "netherite",
+        "iron",
+        "ore"
+      ],
+      "xp_reward": 35
+    },
+    "segments": []
+  },
+  {
+    "course": {
+      "id": "vocab-food-cooking",
+      "kind": "vocabulary",
+      "title": "Food & Cooking",
+      "description": "Learn about all the foods that keep your hunger bar full.",
+      "difficulty": 2,
+      "est_minutes": 10,
+      "xp_reward": 30,
+      "unlock_level": 1,
+      "source_label": "CraftWords Vocabulary",
+      "source_url": "",
+      "source_license": "original",
+      "sort_order": 105,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "vocab_drill",
+      "title": "Food & Cooking",
+      "yt_video_id": null,
+      "yt_start_sec": null,
+      "yt_end_sec": null,
+      "passage_md": null,
+      "transcript_en": null,
+      "transcript_zh": null,
+      "highlight_words": [
+        "bread",
+        "apple",
+        "steak",
+        "salmon",
+        "cake",
+        "mushroom",
+        "wheat",
+        "carrot",
+        "potato"
+      ],
+      "xp_reward": 30
+    },
+    "segments": []
+  },
+  {
+    "course": {
+      "id": "vocab-nature-landscape",
+      "kind": "vocabulary",
+      "title": "Nature & Landscape",
+      "description": "Explore the different biomes and natural features of the world.",
+      "difficulty": 3,
+      "est_minutes": 10,
+      "xp_reward": 35,
+      "unlock_level": 1,
+      "source_label": "CraftWords Vocabulary",
+      "source_url": "",
+      "source_license": "original",
+      "sort_order": 106,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "vocab_drill",
+      "title": "Nature & Landscape",
+      "yt_video_id": null,
+      "yt_start_sec": null,
+      "yt_end_sec": null,
+      "passage_md": null,
+      "transcript_en": null,
+      "transcript_zh": null,
+      "highlight_words": [
+        "cave",
+        "ocean",
+        "forest",
+        "desert",
+        "jungle",
+        "river",
+        "mountain",
+        "biome"
+      ],
+      "xp_reward": 35
+    },
+    "segments": []
+  },
+  {
+    "course": {
+      "id": "vocab-nether-end",
+      "kind": "vocabulary",
+      "title": "The Nether & The End",
+      "description": "Words from the most dangerous dimensions in Minecraft.",
+      "difficulty": 3,
+      "est_minutes": 10,
+      "xp_reward": 40,
+      "unlock_level": 2,
+      "source_label": "CraftWords Vocabulary",
+      "source_url": "",
+      "source_license": "original",
+      "sort_order": 107,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "vocab_drill",
+      "title": "The Nether & The End",
+      "yt_video_id": null,
+      "yt_start_sec": null,
+      "yt_end_sec": null,
+      "passage_md": null,
+      "transcript_en": null,
+      "transcript_zh": null,
+      "highlight_words": [
+        "nether",
+        "portal",
+        "blaze",
+        "fortress",
+        "potion",
+        "stronghold",
+        "dragon"
+      ],
+      "xp_reward": 40
+    },
+    "segments": []
+  },
+  {
+    "course": {
+      "id": "vocab-crafting-machines",
+      "kind": "vocabulary",
+      "title": "Crafting & Machines",
+      "description": "Learn how to make and use the most important workstations.",
+      "difficulty": 3,
+      "est_minutes": 10,
+      "xp_reward": 35,
+      "unlock_level": 1,
+      "source_label": "CraftWords Vocabulary",
+      "source_url": "",
+      "source_license": "original",
+      "sort_order": 108,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "vocab_drill",
+      "title": "Crafting & Machines",
+      "yt_video_id": null,
+      "yt_start_sec": null,
+      "yt_end_sec": null,
+      "passage_md": null,
+      "transcript_en": null,
+      "transcript_zh": null,
+      "highlight_words": [
+        "crafting",
+        "enchanting",
+        "furnace",
+        "chest",
+        "torch",
+        "bucket",
+        "brewing",
+        "anvil"
+      ],
+      "xp_reward": 35
+    },
+    "segments": []
+  },
+  {
+    "course": {
+      "id": "vocab-action-verbs",
+      "kind": "vocabulary",
+      "title": "Action Verbs",
+      "description": "Essential action words for your Minecraft adventure.",
+      "difficulty": 3,
+      "est_minutes": 8,
+      "xp_reward": 30,
+      "unlock_level": 1,
+      "source_label": "CraftWords Vocabulary",
+      "source_url": "",
+      "source_license": "original",
+      "sort_order": 109,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "vocab_drill",
+      "title": "Action Verbs",
+      "yt_video_id": null,
+      "yt_start_sec": null,
+      "yt_end_sec": null,
+      "passage_md": null,
+      "transcript_en": null,
+      "transcript_zh": null,
+      "highlight_words": [
+        "explore",
+        "survive",
+        "collect",
+        "destroy",
+        "protect",
+        "escape",
+        "attack",
+        "harvest"
+      ],
+      "xp_reward": 30
+    },
+    "segments": []
+  },
+  {
+    "course": {
+      "id": "vocab-describing-words",
+      "kind": "vocabulary",
+      "title": "Describing Words",
+      "description": "Adjectives to describe the world around you.",
+      "difficulty": 3,
+      "est_minutes": 10,
+      "xp_reward": 35,
+      "unlock_level": 2,
+      "source_label": "CraftWords Vocabulary",
+      "source_url": "",
+      "source_license": "original",
+      "sort_order": 110,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "vocab_drill",
+      "title": "Describing Words",
+      "yt_video_id": null,
+      "yt_start_sec": null,
+      "yt_end_sec": null,
+      "passage_md": null,
+      "transcript_en": null,
+      "transcript_zh": null,
+      "highlight_words": [
+        "dangerous",
+        "valuable",
+        "rare",
+        "peaceful",
+        "powerful",
+        "ancient",
+        "enormous",
+        "underground"
+      ],
+      "xp_reward": 35
+    },
+    "segments": []
+  },
+  {
+    "course": {
+      "id": "vocab-adventure-survival",
+      "kind": "vocabulary",
+      "title": "Adventure & Survival",
+      "description": "Learn essential vocabulary for exploring and surviving in the Minecraft world.",
+      "difficulty": 2,
+      "est_minutes": 12,
+      "xp_reward": 30,
+      "unlock_level": 1,
+      "thumbnail_key": "vocabulary",
+      "source_label": "CraftWords Vocabulary",
+      "source_url": "",
+      "source_license": "original",
+      "sort_order": 200,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "vocab_drill",
+      "title": "Adventure & Survival",
+      "highlight_words": [
+        "explore",
+        "search",
+        "survive",
+        "adventure",
+        "wander",
+        "dangerous",
+        "escape",
+        "discover"
+      ],
+      "xp_reward": 30
+    },
+    "segments": []
+  },
+  {
+    "course": {
+      "id": "vocab-building-crafting",
+      "kind": "vocabulary",
+      "title": "Building & Crafting",
+      "description": "Master the vocabulary of construction and crafting in Minecraft.",
+      "difficulty": 2,
+      "est_minutes": 12,
+      "xp_reward": 30,
+      "unlock_level": 1,
+      "thumbnail_key": "vocabulary",
+      "source_label": "CraftWords Vocabulary",
+      "source_url": "",
+      "source_license": "original",
+      "sort_order": 201,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "vocab_drill",
+      "title": "Building & Crafting",
+      "highlight_words": [
+        "build",
+        "wall",
+        "shelter",
+        "furnace",
+        "anvil",
+        "upgrade",
+        "repair",
+        "design"
+      ],
+      "xp_reward": 30
+    },
+    "segments": []
+  },
+  {
+    "course": {
+      "id": "vocab-nature-world",
+      "kind": "vocabulary",
+      "title": "Nature & World",
+      "description": "Explore vocabulary about the natural environments and landscapes in Minecraft.",
+      "difficulty": 2,
+      "est_minutes": 12,
+      "xp_reward": 30,
+      "unlock_level": 1,
+      "thumbnail_key": "vocabulary",
+      "source_label": "CraftWords Vocabulary",
+      "source_url": "",
+      "source_license": "original",
+      "sort_order": 202,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "vocab_drill",
+      "title": "Nature & World",
+      "highlight_words": [
+        "jungle",
+        "cave",
+        "underground",
+        "surface",
+        "biome",
+        "forest",
+        "mountain",
+        "desert"
+      ],
+      "xp_reward": 30
+    },
+    "segments": []
+  }
+]

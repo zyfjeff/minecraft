@@ -1,0 +1,130 @@
+{
+  "course": {
+    "id": "reading-minecraft-hardcore-3-first-diamonds",
+    "kind": "reading",
+    "title": "Learn English with Minecraft Hardcore #3 - First DIAMONDS! — Reading",
+    "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore #3 - First DIAMONDS!\" — 4 reading segments with mixed quizzes.",
+    "difficulty": 2,
+    "est_minutes": 6,
+    "xp_reward": 40,
+    "unlock_level": 2,
+    "thumbnail_key": "reading",
+    "source_label": "Based on Learn English with Minecraft — Ep. 20",
+    "source_url": "https://www.youtube.com/watch?v=MQedFZQXOUg",
+    "source_license": "youtube-embed",
+    "sort_order": 120,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "reading_passage",
+    "title": "Learn English with Minecraft Hardcore #3 - First DIAMONDS! — Reading Practice",
+    "passage_md": "I was determined to find **diamonds** today. They spawn deep underground below Y-level 16. I packed torches, food, and weapons before heading into the **depths**.\n\nI used the strip mining **technique** — digging long tunnels at Y-level -59 where diamonds are most **common**. Every few blocks I placed a torch to prevent mob spawning.\n\nAfter thirty minutes of mining, I finally saw the blue sparkle of diamond ore! I found a **vein** of five diamonds. My heart was beating fast with **excitement** as I carefully mined them.\n\nWith my first diamonds, I immediately crafted a diamond **pickaxe**. It mines much faster than iron and can break obsidian, which is **necessary** for building a Nether portal.",
+    "transcript_zh": "今天我下定决心要找到钻石。它们在Y坐标16以下的深处生成。我带上火把、食物和武器后前往深处。\n\n我使用了条带挖矿技术——在钻石最常见的Y坐标-59处挖长隧道。每隔几格我放一个火把来防止怪物生成。\n\n挖了三十分钟后，我终于看到了钻石矿的蓝色闪光！我找到了一脉五颗钻石。我小心翼翼地挖掘时心跳加速，充满兴奋。\n\n有了第一批钻石，我立即做了一把钻石镐。它比铁镐挖得快很多，还能破坏黑曜石，这对建造下界传送门是必要的。",
+    "highlight_words": [
+      "diamonds",
+      "technique",
+      "vein",
+      "pickaxe",
+      "necessary"
+    ],
+    "xp_reward": 20
+  },
+  "segments": [
+    {
+      "sort_order": 0,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I was determined to find **diamonds** today. They spawn deep underground below Y-level 16. I packed torches, food, and weapons before heading into the **depths**.",
+      "sentence_zh": "今天我下定决心要找到钻石。它们在Y坐标16以下的深处生成。我带上火把、食物和武器后前往深处。",
+      "blank_word": "diamonds",
+      "distractors": [
+        "prevented",
+        "enormous",
+        "attempted"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    },
+    {
+      "sort_order": 1,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I used the strip mining **technique** — digging long tunnels at Y-level -59 where diamonds are most **common**. Every few blocks I placed a torch to prevent mob spawning.",
+      "sentence_zh": "我使用了条带挖矿技术——在钻石最常见的Y坐标-59处挖长隧道。每隔几格我放一个火把来防止怪物生成。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "comprehension",
+      "quiz_payload": {
+        "prompt": "What happened in this paragraph?",
+        "options": [
+          "I used the strip mining technique — digging long tunnels at ...",
+          "The player went to sleep in a village",
+          "Nothing interesting happened today",
+          "The player decided to quit the game"
+        ],
+        "correct": 0
+      }
+    },
+    {
+      "sort_order": 2,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "After thirty minutes of mining, I finally saw the blue sparkle of diamond ore! I found a **vein** of five diamonds. My heart was beating fast with **excitement** as I carefully mined them.",
+      "sentence_zh": "挖了三十分钟后，我终于看到了钻石矿的蓝色闪光！我找到了一脉五颗钻石。我小心翼翼地挖掘时心跳加速，充满兴奋。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "word_match",
+      "quiz_payload": {
+        "pairs": [
+          {
+            "word": "vein",
+            "definition": "A word related to vein"
+          },
+          {
+            "word": "excitement",
+            "definition": "A word related to excitement"
+          },
+          {
+            "word": "vein",
+            "definition": "A word related to vein"
+          }
+        ],
+        "shuffled_defs": [
+          "A word related to excitement",
+          "A word related to vein",
+          "A word related to vein"
+        ]
+      }
+    },
+    {
+      "sort_order": 3,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "With my first diamonds, I immediately crafted a diamond **pickaxe**. It mines much faster than iron and can break obsidian, which is **necessary** for building a Nether portal.",
+      "sentence_zh": "有了第一批钻石，我立即做了一把钻石镐。它比铁镐挖得快很多，还能破坏黑曜石，这对建造下界传送门是必要的。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "true_false",
+      "quiz_payload": {
+        "statement": "With my first diamonds, I immediately crafted a diamond pickaxe.",
+        "correct": true
+      }
+    }
+  ],
+  "question": {
+    "kind": "mcq",
+    "prompt": "At what Y-level did the player mine for diamonds?",
+    "payload": {
+      "options": [
+        "Y-level -59",
+        "Y-level 64",
+        "Y-level 30",
+        "Y-level 0"
+      ],
+      "correct": 0
+    },
+    "xp_reward": 10,
+    "sort_order": 0
+  }
+}

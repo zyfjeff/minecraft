@@ -1,0 +1,2565 @@
+[
+  {
+    "course": {
+      "id": "reading-minecraft-10-animals",
+      "kind": "reading",
+      "title": "Animals 🐑 — Reading",
+      "description": "Read and practice vocabulary from \"Animals 🐑\" — 3 reading segments with mixed quizzes.",
+      "difficulty": 1,
+      "est_minutes": 4,
+      "xp_reward": 30,
+      "unlock_level": 1,
+      "thumbnail_key": null,
+      "source_label": "Based on Learn English with Minecraft — Ep. 10",
+      "source_url": "https://www.youtube.com/watch?v=vH0rXyK62CE",
+      "source_license": "youtube-embed",
+      "sort_order": 110,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Animals 🐑 — Reading Practice",
+      "passage_md": "Kenzo went on a trip to find animals for his barn. He used a boat and **leads** to bring them home. First, he found some sheep near the forest and pushed one into his boat.\n\nFinding animals was harder at night. There were many **monsters** but no animals. Kenzo had to fight skeletons and run back to his boat. He decided to sleep and try again in the morning.\n\nAfter many trips, Kenzo **captured** two cows, two sheep, and three pigs. He fed them carrots and wheat so they would breed and make baby animals. He was happy that his barn was finally full of life.",
+      "transcript_zh": "Kenzo 出发去为谷仓寻找动物。他用小船和牵引绳把它们带回家。首先，他在森林附近发现了一些羊，把一只推上了他的船。\n\n晚上找动物更加困难。到处都是怪物，却看不到动物。Kenzo 不得不和骷髅战斗，然后跑回船上。他决定先睡觉，早上再试。\n\n经过多次旅行，Kenzo 抓到了两头牛、两只羊和三只猪。他用胡萝卜和小麦喂它们，让它们繁殖生出小动物。他很高兴谷仓终于充满了生命。",
+      "highlight_words": [
+        "captured",
+        "monsters",
+        "leads",
+        "breed",
+        "defend"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Kenzo went on a trip to find animals for his barn. He used a boat and **leads** to bring them home. First, he found some sheep near the forest and pushed one into his boat.",
+        "sentence_zh": "Kenzo 出发去为谷仓寻找动物。他用小船和牵引绳把它们带回家。首先，他在森林附近发现了一些羊，把一只推上了他的船。",
+        "blank_word": "leads",
+        "distractors": [
+          "ropes",
+          "chains",
+          "sticks"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Finding animals was harder at night. There were many **monsters** but no animals. Kenzo had to fight skeletons and run back to his boat. He decided to sleep and try again in the morning.",
+        "sentence_zh": "晚上找动物更加困难。到处都是怪物，却看不到动物。Kenzo 不得不和骷髅战斗，然后跑回船上。他决定先睡觉，早上再试。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "Why was finding animals harder at night?",
+          "options": [
+            "Because there were many monsters but no animals",
+            "Because Kenzo could not see in the dark",
+            "Because the animals were sleeping",
+            "Because his boat was broken"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "After many trips, Kenzo **captured** two cows, two sheep, and three pigs. He fed them carrots and wheat so they would breed and make baby animals. He was happy that his barn was finally full of life.",
+        "sentence_zh": "经过多次旅行，Kenzo 抓到了两头牛、两只羊和三只猪。他用胡萝卜和小麦喂它们，让它们繁殖生出小动物。他很高兴谷仓终于充满了生命。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "true_false",
+        "quiz_payload": {
+          "statement": "Kenzo needed only one of each animal to fill his barn.",
+          "correct": false
+        }
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "What did Kenzo do to make the animals breed?",
+      "payload": {
+        "options": [
+          "He fed them carrots and wheat",
+          "He built a special machine",
+          "He used magic potions",
+          "He waited for them to breed naturally"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-13-rail-system",
+      "kind": "reading",
+      "title": "Rail System! — Reading",
+      "description": "Read and practice vocabulary from \"Rail System!\" — 4 reading segments with mixed quizzes.",
+      "difficulty": 2,
+      "est_minutes": 6,
+      "xp_reward": 40,
+      "unlock_level": 2,
+      "thumbnail_key": null,
+      "source_label": "Based on Learn English with Minecraft — Ep. 14",
+      "source_url": "https://www.youtube.com/watch?v=ki1hE5111f8",
+      "source_license": "youtube-embed",
+      "sort_order": 114,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Rail System! — Reading Practice",
+      "passage_md": "Kenzo wanted to build a **rail** system inside his mine so he could travel to the bottom quickly. He needed powered rails to go uphill, which required gold and redstone to craft.\n\nHe went down to the mine to search for gold. Deep underground, he found a huge cave full of monsters. A witch threw **potions** at him, and skeletons shot arrows. He had to fight carefully while collecting resources.\n\nBack on the surface, Kenzo smelted the gold into ingots and crafted powered rails. He placed them in a pattern: six normal rails followed by two powered rails. He used redstone torches to **supply** power to the rails.\n\nFinally, he built a minecart and tested the system. At first, the cart didn't have enough power to go uphill. He added more powered rails and tried again. This time it worked — the minecart **climbed** all the way to the top of the mine.",
+      "transcript_zh": "Kenzo 想在矿洞里建一条铁轨系统，这样他就能快速到达矿底。他需要动力铁轨来上坡，制作动力铁轨需要金锭和红石。\n\n他下到矿洞去找金子。在地下深处，他发现了一个巨大的洞穴，里面满是怪物。女巫向他扔药水，骷髅射箭。他不得不小心战斗，同时收集资源。\n\n回到地面后，Kenzo 把金矿熔炼成金锭，制作了动力铁轨。他按照六根普通铁轨接两根动力铁轨的规律铺设。他用红石火把给铁轨供电。\n\n最后，他做了一辆矿车来测试系统。一开始矿车没有足够动力上坡。他增加了更多动力铁轨后再试。这一次成功了——矿车一路爬到了矿洞顶部。",
+      "highlight_words": [
+        "rail",
+        "potions",
+        "supply",
+        "climbed",
+        "pattern"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Kenzo wanted to build a **rail** system inside his mine so he could travel to the bottom quickly. He needed powered rails to go uphill, which required gold and redstone to craft.",
+        "sentence_zh": "Kenzo 想在矿洞里建一条铁轨系统，这样他就能快速到达矿底。他需要动力铁轨来上坡，制作动力铁轨需要金锭和红石。",
+        "blank_word": "rail",
+        "distractors": [
+          "road",
+          "rope",
+          "wall"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "He went down to the mine to search for gold. Deep underground, he found a huge cave full of monsters. A witch threw **potions** at him, and skeletons shot arrows. He had to fight carefully while collecting resources.",
+        "sentence_zh": "他下到矿洞去找金子。在地下深处，他发现了一个巨大的洞穴，里面满是怪物。女巫向他扔药水，骷髅射箭。他不得不小心战斗，同时收集资源。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What materials did Kenzo need to craft powered rails?",
+          "options": [
+            "Gold and redstone",
+            "Iron and coal",
+            "Diamond and lapis",
+            "Copper and string"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Back on the surface, Kenzo smelted the gold into ingots and crafted powered rails. He placed them in a pattern: six normal rails followed by two powered rails. He used redstone torches to **supply** power to the rails.",
+        "sentence_zh": "回到地面后，Kenzo 把金矿熔炼成金锭，制作了动力铁轨。他按照六根普通铁轨接两根动力铁轨的规律铺设。他用红石火把给铁轨供电。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "word_match",
+        "quiz_payload": {
+          "pairs": [
+            {
+              "word": "smelt",
+              "definition": "To heat metal ore in a furnace to get pure metal"
+            },
+            {
+              "word": "craft",
+              "definition": "To make something using materials and a recipe"
+            },
+            {
+              "word": "powered",
+              "definition": "Having energy to move or work automatically"
+            }
+          ],
+          "shuffled_defs": [
+            "To make something using materials and a recipe",
+            "Having energy to move or work automatically",
+            "To heat metal ore in a furnace to get pure metal"
+          ]
+        }
+      },
+      {
+        "sort_order": 3,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Finally, he built a minecart and tested the system. At first, the cart didn't have enough power to go uphill. He added more powered rails and tried again. This time it worked — the minecart **climbed** all the way to the top of the mine.",
+        "sentence_zh": "最后，他做了一辆矿车来测试系统。一开始矿车没有足够动力上坡。他增加了更多动力铁轨后再试。这一次成功了——矿车一路爬到了矿洞顶部。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "true_false",
+        "quiz_payload": {
+          "statement": "The minecart worked perfectly on the first attempt without any changes.",
+          "correct": false
+        }
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "What was the main challenge Kenzo faced when building the rail system?",
+      "payload": {
+        "options": [
+          "Getting enough power for the minecart to go uphill",
+          "Finding enough iron to build the rails",
+          "Keeping monsters away from the track",
+          "Building the minecart itself"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-15-searching-for-cherry-blossoms",
+      "kind": "reading",
+      "title": "Searching for Cherry Blossoms 👀 — Reading",
+      "description": "Read and practice vocabulary from \"Searching for Cherry Blossoms 👀\" — 4 reading segments with mixed quizzes.",
+      "difficulty": 2,
+      "est_minutes": 6,
+      "xp_reward": 40,
+      "unlock_level": 2,
+      "thumbnail_key": null,
+      "source_label": "Based on Learn English with Minecraft — Ep. 16",
+      "source_url": "https://www.youtube.com/watch?v=oUvKyBGIcbw",
+      "source_license": "youtube-embed",
+      "sort_order": 116,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Searching for Cherry Blossoms 👀 — Reading Practice",
+      "passage_md": "Kenzo was completely lost. In the previous episode, he had sailed far away from home searching for new biomes added in Minecraft 1.20. Now he couldn't find his way back because he had a terrible sense of **direction**.\n\nHe tried several strategies to find home. First, he climbed to the top of a mountain to look around. Then he followed his compass, but it pointed to the wrong place. Finally, he remembered a buried **treasure** map he had found near his house. By following the map to the treasure location, he eventually recognized familiar landmarks.\n\nOn his journey to find the cherry blossom biome, Kenzo explored frozen rivers, snowy landscapes, and a village where he slept for the night. He accidentally angered a **polar** bear that was protecting its baby, and had to escape by jumping into the water.\n\nUnfortunately, Kenzo never found the cherry blossom biome in this episode. While climbing a mountain to get a better view, he was **impaled** by a stalagmite and died — ending his adventure unexpectedly.",
+      "transcript_zh": "Kenzo 彻底迷路了。在上一集里，他为了寻找 Minecraft 1.20 新增的生物群系而航行得很远。现在他找不到回家的路，因为他的方向感极差。\n\n他尝试了几种策略找到家。首先，他爬到山顶四处张望。然后他跟着指南针走，但指南针指向了错误的地方。最后，他想起自己之前在家附近找到过一张埋藏宝藏图。通过跟着地图去寻宝的位置，他终于认出了熟悉的地标。\n\n在寻找樱花林生物群系的路上，Kenzo 探索了结冰的河流、雪景，还有一个他过夜的村庄。他不小心惹怒了一只正在保护幼崽的北极熊，不得不跳进水里逃跑。\n\n可惜的是，Kenzo 这一集没有找到樱花林。在爬山想要更好地观察地形时，他被钟乳石刺穿死掉了——冒险意外结束。",
+      "highlight_words": [
+        "direction",
+        "treasure",
+        "polar",
+        "impaled",
+        "strategy"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Kenzo was completely lost. In the previous episode, he had sailed far away from home searching for new biomes added in Minecraft 1.20. Now he couldn't find his way back because he had a terrible sense of **direction**.",
+        "sentence_zh": "Kenzo 彻底迷路了。在上一集里，他为了寻找 Minecraft 1.20 新增的生物群系而航行得很远。现在他找不到回家的路，因为他的方向感极差。",
+        "blank_word": "direction",
+        "distractors": [
+          "distance",
+          "dimension",
+          "decision"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "He tried several strategies to find home. First, he climbed to the top of a mountain to look around. Then he followed his compass, but it pointed to the wrong place. Finally, he remembered a buried **treasure** map he had found near his house.",
+        "sentence_zh": "他尝试了几种策略找到家。首先，他爬到山顶四处张望。然后他跟着指南针走，但指南针指向了错误的地方。最后，他想起自己之前在家附近找到过一张埋藏宝藏图。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "How did Kenzo finally find his way back home?",
+          "options": [
+            "By following a buried treasure map to a familiar area",
+            "By using his compass correctly",
+            "By asking villagers for directions",
+            "By building a tall tower to see his house"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "On his journey to find the cherry blossom biome, Kenzo explored frozen rivers, snowy landscapes, and a village where he slept for the night. He accidentally angered a **polar** bear that was protecting its baby, and had to escape by jumping into the water.",
+        "sentence_zh": "在寻找樱花林生物群系的路上，Kenzo 探索了结冰的河流、雪景，还有一个他过夜的村庄。他不小心惹怒了一只正在保护幼崽的北极熊，不得不跳进水里逃跑。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "word_match",
+        "quiz_payload": {
+          "pairs": [
+            {
+              "word": "biome",
+              "definition": "A large area with its own climate, plants, and animals"
+            },
+            {
+              "word": "landscape",
+              "definition": "The visible features of an area of land"
+            },
+            {
+              "word": "accidentally",
+              "definition": "Without meaning to; by mistake"
+            }
+          ],
+          "shuffled_defs": [
+            "The visible features of an area of land",
+            "Without meaning to; by mistake",
+            "A large area with its own climate, plants, and animals"
+          ]
+        }
+      },
+      {
+        "sort_order": 3,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Unfortunately, Kenzo never found the cherry blossom biome in this episode. While climbing a mountain to get a better view, he was **impaled** by a stalagmite and died — ending his adventure unexpectedly.",
+        "sentence_zh": "可惜的是，Kenzo 这一集没有找到樱花林。在爬山想要更好地观察地形时，他被钟乳石刺穿死掉了——冒险意外结束。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "true_false",
+        "quiz_payload": {
+          "statement": "Kenzo successfully found the cherry blossom biome at the end of his journey.",
+          "correct": false
+        }
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "What is the main theme of this episode?",
+      "payload": {
+        "options": [
+          "Getting lost and searching for a new biome without success",
+          "Building a new house near cherry blossom trees",
+          "Fighting dangerous monsters in a frozen biome",
+          "Exploring an underwater temple"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-18-fishing",
+      "kind": "reading",
+      "title": "Fishing! 🐟 — Reading",
+      "description": "Read and practice vocabulary from \"Fishing! 🐟\" — 3 reading segments with mixed quizzes.",
+      "difficulty": 1,
+      "est_minutes": 4,
+      "xp_reward": 30,
+      "unlock_level": 1,
+      "thumbnail_key": null,
+      "source_label": "Based on Learn English with Minecraft — Ep. 19",
+      "source_url": "https://www.youtube.com/watch?v=aCy8tVrreL0",
+      "source_license": "youtube-embed",
+      "sort_order": 119,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Fishing! 🐟 — Reading Practice",
+      "passage_md": "Kenzo built a fishing hut near the river. He made a **fishing** rod using sticks and string. Fishing was a peaceful way to get food without fighting monsters.\n\nWhile fishing, Kenzo caught many things. He caught salmon, cod, and even a **puffer** fish. He also caught some strange treasures like enchanted bows and name tags.\n\nKenzo learned that fishing is very useful in Minecraft. You can get food to eat and rare **items** that are hard to find anywhere else. He spent a whole day fishing and collected many useful things.",
+      "transcript_zh": "Kenzo 在河边建了一个钓鱼小屋。他用木棍和线做了一根钓鱼竿。钓鱼是一种不用打怪就能获得食物的和平方式。\n\n钓鱼的时候，Kenzo 钓到了很多东西。他钓到了三文鱼、鳕鱼，甚至还有一条河豚。他还钓到了一些奇怪的宝物，比如附魔弓和命名牌。\n\nKenzo 学到了钓鱼在 Minecraft 里非常有用。你可以得到食物吃，还能钓到在其他地方很难找到的稀有物品。他花了一整天钓鱼，收集了很多有用的东西。",
+      "highlight_words": [
+        "fishing",
+        "puffer",
+        "items",
+        "peaceful",
+        "treasures"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Kenzo built a fishing hut near the river. He made a **fishing** rod using sticks and string. Fishing was a peaceful way to get food without fighting monsters.",
+        "sentence_zh": "Kenzo 在河边建了一个钓鱼小屋。他用木棍和线做了一根钓鱼竿。钓鱼是一种不用打怪就能获得食物的和平方式。",
+        "blank_word": "fishing",
+        "distractors": [
+          "hunting",
+          "farming",
+          "mining"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "While fishing, Kenzo caught many things. He caught salmon, cod, and even a **puffer** fish. He also caught some strange treasures like enchanted bows and name tags.",
+        "sentence_zh": "钓鱼的时候，Kenzo 钓到了很多东西。他钓到了三文鱼、鳕鱼，甚至还有一条河豚。他还钓到了一些奇怪的宝物，比如附魔弓和命名牌。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What special items did Kenzo catch while fishing?",
+          "options": [
+            "Enchanted bows and name tags",
+            "Diamonds and gold",
+            "A saddle and armor",
+            "A map and compass"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Kenzo learned that fishing is very useful in Minecraft. You can get food to eat and rare **items** that are hard to find anywhere else. He spent a whole day fishing and collected many useful things.",
+        "sentence_zh": "Kenzo 学到了钓鱼在 Minecraft 里非常有用。你可以得到食物吃，还能钓到在其他地方很难找到的稀有物品。他花了一整天钓鱼，收集了很多有用的东西。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "true_false",
+        "quiz_payload": {
+          "statement": "Fishing only gives you fish and nothing else.",
+          "correct": false
+        }
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "Why is fishing useful in Minecraft?",
+      "payload": {
+        "options": [
+          "You can get both food and rare items",
+          "It makes you level up faster",
+          "Fish can be used to tame cats",
+          "It is the only way to get string"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-19-finishing-my-house",
+      "kind": "reading",
+      "title": "Finishing my House! 🏠 — Reading",
+      "description": "Read and practice vocabulary from \"Finishing my House! 🏠\" — 4 reading segments with mixed quizzes.",
+      "difficulty": 2,
+      "est_minutes": 6,
+      "xp_reward": 40,
+      "unlock_level": 2,
+      "thumbnail_key": null,
+      "source_label": "Based on Learn English with Minecraft — Ep. 20",
+      "source_url": "https://www.youtube.com/watch?v=yLA3rTT_lh0",
+      "source_license": "youtube-embed",
+      "sort_order": 120,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Finishing my House! 🏠 — Reading Practice",
+      "passage_md": "Kenzo was far from home on a sunken ship when this episode began. A previous video had become **corrupted**, so he lost his progress from that recording. On the ship, he found smithing templates, bamboo, potatoes, and a buried treasure map.\n\nBack home, his house was almost finished. He had completed the roof and stone floor, and started building chests upstairs. He needed to collect sand to make glass for the **windows**. Using shovels, he gathered a large amount of sand from a nearby beach.\n\nWhile the sand was smelting into glass in the furnace, Kenzo showed his mine. Deep underground, it connected to a cave system with stalactites, an abandoned mineshaft, and even a deep dark city — an **underground** area with a dangerous boss called the Warden.\n\nWith 48 glass panes crafted, Kenzo installed all the windows. His house was finally complete with a beautiful view of the river and mountains. He even found buried treasure containing diamonds, emeralds, and a heart of the sea to **celebrate** finishing his home.",
+      "transcript_zh": "这一集开始时，Kenzo 远在一艘沉船上。之前录的一期视频文件损坏了，所以他丢失了那次的进度。在沉船上，他找到了锻造模板、竹子、土豆和一张埋藏宝藏图。\n\n回到家后，房子已经快完工了。他完成了屋顶和石地板，楼上也开始放箱子了。他需要收集沙子来做窗户用的玻璃。他用铁锹从附近的沙滩上挖了大量的沙子。\n\n沙子在熔炉里烧成玻璃的同时，Kenzo 展示了他的矿洞。在地下深处，矿洞连通了一个有钟乳石的洞穴系统、一座废弃矿井，甚至还有一座深暗之城——一个有危险 Boss 监守者的地下区域。\n\n做好 48 块玻璃板后，Kenzo 把所有窗户都安装好了。他的房子终于完工了，能看到河流和群山的美景。他还找到了埋藏的宝藏，里面有钻石、绿宝石和海洋之心，庆祝房子完工。",
+      "highlight_words": [
+        "corrupted",
+        "windows",
+        "underground",
+        "celebrate",
+        "treasure"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Kenzo was far from home on a sunken ship when this episode began. A previous video had become **corrupted**, so he lost his progress from that recording. On the ship, he found smithing templates, bamboo, potatoes, and a buried treasure map.",
+        "sentence_zh": "这一集开始时，Kenzo 远在一艘沉船上。之前录的一期视频文件损坏了，所以他丢失了那次的进度。在沉船上，他找到了锻造模板、竹子、土豆和一张埋藏宝藏图。",
+        "blank_word": "corrupted",
+        "distractors": [
+          "completed",
+          "collected",
+          "connected"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Back home, his house was almost finished. He had completed the roof and stone floor, and started building chests upstairs. He needed to collect sand to make glass for the **windows**. Using shovels, he gathered a large amount of sand from a nearby beach.",
+        "sentence_zh": "回到家后，房子已经快完工了。他完成了屋顶和石地板，楼上也开始放箱子了。他需要收集沙子来做窗户用的玻璃。他用铁锹从附近的沙滩上挖了大量的沙子。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What did Kenzo need sand for?",
+          "options": [
+            "To smelt into glass for windows",
+            "To build a path to the beach",
+            "To fill holes in the floor",
+            "To trade with villagers"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "While the sand was smelting into glass in the furnace, Kenzo showed his mine. Deep underground, it connected to a cave system with stalactites, an abandoned mineshaft, and even a deep dark city — an **underground** area with a dangerous boss called the Warden.",
+        "sentence_zh": "沙子在熔炉里烧成玻璃的同时，Kenzo 展示了他的矿洞。在地下深处，矿洞连通了一个有钟乳石的洞穴系统、一座废弃矿井，甚至还有一座深暗之城——一个有危险 Boss 监守者的地下区域。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "word_match",
+        "quiz_payload": {
+          "pairs": [
+            {
+              "word": "stalactite",
+              "definition": "A pointed rock that hangs down from a cave ceiling"
+            },
+            {
+              "word": "mineshaft",
+              "definition": "A deep passage dug into the ground for mining"
+            },
+            {
+              "word": "furnace",
+              "definition": "A device used for heating materials to very high temperatures"
+            }
+          ],
+          "shuffled_defs": [
+            "A deep passage dug into the ground for mining",
+            "A device used for heating materials to very high temperatures",
+            "A pointed rock that hangs down from a cave ceiling"
+          ]
+        }
+      },
+      {
+        "sort_order": 3,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "With 48 glass panes crafted, Kenzo installed all the windows. His house was finally complete with a beautiful view of the river and mountains. He even found buried treasure containing diamonds, emeralds, and a heart of the sea to **celebrate** finishing his home.",
+        "sentence_zh": "做好 48 块玻璃板后，Kenzo 把所有窗户都安装好了。他的房子终于完工了，能看到河流和群山的美景。他还找到了埋藏的宝藏，里面有钻石、绿宝石和海洋之心，庆祝房子完工。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "true_false",
+        "quiz_payload": {
+          "statement": "Kenzo needed a diamond pickaxe to enter the deep dark city.",
+          "correct": false
+        }
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "What were the two main accomplishments in this episode?",
+      "payload": {
+        "options": [
+          "Finishing the house windows and finding buried treasure",
+          "Defeating the Warden and getting diamonds",
+          "Building a new mine and finding gold",
+          "Crafting glass and building a new bridge"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-2-exploring-a-cave",
+      "kind": "reading",
+      "title": "Exploring a Cave — Reading",
+      "description": "Read and practice vocabulary from \"Exploring a Cave\" — 3 reading segments with mixed quizzes.",
+      "difficulty": 1,
+      "est_minutes": 4,
+      "xp_reward": 30,
+      "unlock_level": 1,
+      "thumbnail_key": null,
+      "source_label": "Based on Learn English with Minecraft — Ep. 2",
+      "source_url": "https://www.youtube.com/watch?v=ZbBRqpCYsB0",
+      "source_license": "youtube-embed",
+      "sort_order": 102,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Exploring a Cave — Reading Practice",
+      "passage_md": "Kenzo had two goals for this episode. He wanted to **explore** a cave to find valuable resources like iron and coal. He also wanted to finish the windows on his house.\n\nHe started **digging** down into his mine. It was very dark without torches. Finally, he found coal and used it to make torches. Now he could see! He kept digging deeper, looking for iron.\n\nDeep underground, Kenzo discovered a huge cave system. He found lapis lazuli, redstone, and iron. But it was very dangerous — skeletons shot arrows at him and he almost fell into lava. He had to use all his **tools** and skills to survive.",
+      "transcript_zh": "Kenzo 这一集有两个目标。他想探索一个洞穴，寻找铁和煤等有用的资源。他还想把房子的窗户做好。\n\n他开始往矿里向下挖。没有火把的时候非常黑暗。终于，他找到了煤，用它做了火把。现在他能看见了！他继续往更深处挖，寻找铁矿。\n\n在地下深处，Kenzo 发现了一个巨大的洞穴系统。他找到了青金石、红石和铁。但那里非常危险——骷髅向他射箭，他差点掉进岩浆。他不得不用尽所有工具和技能才能活下来。",
+      "highlight_words": [
+        "explore",
+        "digging",
+        "tools",
+        "dangerous",
+        "discover"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Kenzo had two goals for this episode. He wanted to **explore** a cave to find valuable resources like iron and coal. He also wanted to finish the windows on his house.",
+        "sentence_zh": "Kenzo 这一集有两个目标。他想探索一个洞穴，寻找铁和煤等有用的资源。他还想把房子的窗户做好。",
+        "blank_word": "explore",
+        "distractors": [
+          "destroy",
+          "escape",
+          "ignore"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "He started **digging** down into his mine. It was very dark without torches. Finally, he found coal and used it to make torches. Now he could see! He kept digging deeper, looking for iron.",
+        "sentence_zh": "他开始往矿里向下挖。没有火把的时候非常黑暗。终于，他找到了煤，用它做了火把。现在他能看见了！他继续往更深处挖，寻找铁矿。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What did Kenzo need coal for?",
+          "options": [
+            "To make torches so he could see in the dark",
+            "To build armor for protection",
+            "To trade with villagers",
+            "To cook food for energy"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Deep underground, Kenzo discovered a huge cave system. He found lapis lazuli, redstone, and iron. But it was very dangerous — skeletons shot arrows at him and he almost fell into lava. He had to use all his **tools** and skills to survive.",
+        "sentence_zh": "在地下深处，Kenzo 发现了一个巨大的洞穴系统。他找到了青金石、红石和铁。但那里非常危险——骷髅向他射箭，他差点掉进岩浆。他不得不用尽所有工具和技能才能活下来。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "true_false",
+        "quiz_payload": {
+          "statement": "The cave was completely safe with no monsters.",
+          "correct": false
+        }
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "What did Kenzo accomplish in this episode?",
+      "payload": {
+        "options": [
+          "He explored a cave and finished his house windows",
+          "He defeated the Ender Dragon",
+          "He built a nether portal",
+          "He tamed a wolf and a horse"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-22-bamboo",
+      "kind": "reading",
+      "title": "Bamboo 🎍 — Reading",
+      "description": "Read and practice vocabulary from \"Bamboo 🎍\" — 4 reading segments with mixed quizzes.",
+      "difficulty": 2,
+      "est_minutes": 6,
+      "xp_reward": 40,
+      "unlock_level": 2,
+      "thumbnail_key": null,
+      "source_label": "Based on Learn English with Minecraft — Ep. 23",
+      "source_url": "https://www.youtube.com/watch?v=iEUZLLLJLHM",
+      "source_license": "youtube-embed",
+      "sort_order": 123,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Bamboo 🎍 — Reading Practice",
+      "passage_md": "Kenzo built a path from his house that split in two directions. One led to his garden, and the other led to a deep hole connecting directly to his XP farm below. He could now jump down quickly instead of walking a long **staircase**.\n\nThe XP farm used a spider spawner. When Kenzo removed the torches, it became dark enough for spiders to spawn. He killed them with his sword to gain **experience** points. However, the spiders sometimes got stuck at the top and could hit him through the walls.\n\nKenzo organized all his chests by category — soil, stone, building supplies, tools, food, and monster drops. He also harvested a massive crop of potatoes from his garden. There were so many potatoes that he couldn't carry them all in his **inventory**.\n\nFor the final task, Kenzo sailed to a nearby jungle to collect bamboo for building a bamboo house. He also tamed a parrot by feeding it seeds. On his way home in the dark, he got lost and was chased by skeletons, but eventually found his way back **safely**.",
+      "transcript_zh": "Kenzo 从家门口修了一条分岔路。一条通向花园，另一条通向一个直通下方 XP 农场的深洞。他现在可以直接跳下去，不用走长长的楼梯了。\n\nXP 农场使用蜘蛛刷怪笼。当 Kenzo 移除火把后，环境变暗到足以让蜘蛛刷出。他用剑砍杀它们来获取经验值。然而，蜘蛛有时会卡在顶部，还能隔墙攻击他。\n\nKenzo 按类别整理了所有箱子——泥土、石头、建材、工具、食物和怪物掉落物。他还从花园里收获了大量的马铃薯。马铃薯多到他的背包都装不下。\n\n最后一个任务，Kenzo 划船到附近的丛林收集竹子，用来建竹屋。他还通过喂种子驯服了一只鹦鹉。在黑暗中回家的路上，他迷路了并被骷髅追赶，但最终安全回到了家。",
+      "highlight_words": [
+        "staircase",
+        "experience",
+        "inventory",
+        "safely",
+        "category"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Kenzo built a path from his house that split in two directions. One led to his garden, and the other led to a deep hole connecting directly to his XP farm below. He could now jump down quickly instead of walking a long **staircase**.",
+        "sentence_zh": "Kenzo 从家门口修了一条分岔路。一条通向花园，另一条通向一个直通下方 XP 农场的深洞。他现在可以直接跳下去，不用走长长的楼梯了。",
+        "blank_word": "staircase",
+        "distractors": [
+          "waterfall",
+          "platform",
+          "corridor"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "The XP farm used a spider spawner. When Kenzo removed the torches, it became dark enough for spiders to spawn. He killed them with his sword to gain **experience** points. However, the spiders sometimes got stuck at the top and could hit him through the walls.",
+        "sentence_zh": "XP 农场使用蜘蛛刷怪笼。当 Kenzo 移除火把后，环境变暗到足以让蜘蛛刷出。他用剑砍杀它们来获取经验值。然而，蜘蛛有时会卡在顶部，还能隔墙攻击他。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What problem did Kenzo have with his XP farm?",
+          "options": [
+            "Spiders got stuck at the top and could hit him through walls",
+            "The spiders refused to spawn in the dark",
+            "Creepers kept exploding the spawner",
+            "He didn't have a good enough sword"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Kenzo organized all his chests by category — soil, stone, building supplies, tools, food, and monster drops. He also harvested a massive crop of potatoes from his garden. There were so many potatoes that he couldn't carry them all in his **inventory**.",
+        "sentence_zh": "Kenzo 按类别整理了所有箱子——泥土、石头、建材、工具、食物和怪物掉落物。他还从花园里收获了大量的马铃薯。马铃薯多到他的背包都装不下。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "word_match",
+        "quiz_payload": {
+          "pairs": [
+            {
+              "word": "harvest",
+              "definition": "To collect crops when they are fully grown"
+            },
+            {
+              "word": "inventory",
+              "definition": "The items a player is carrying in their bag"
+            },
+            {
+              "word": "spawn",
+              "definition": "To appear or be created in the game world"
+            }
+          ],
+          "shuffled_defs": [
+            "The items a player is carrying in their bag",
+            "To appear or be created in the game world",
+            "To collect crops when they are fully grown"
+          ]
+        }
+      },
+      {
+        "sort_order": 3,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "For the final task, Kenzo sailed to a nearby jungle to collect bamboo for building a bamboo house. He also tamed a parrot by feeding it seeds. On his way home in the dark, he got lost and was chased by skeletons, but eventually found his way back **safely**.",
+        "sentence_zh": "最后一个任务，Kenzo 划船到附近的丛林收集竹子，用来建竹屋。他还通过喂种子驯服了一只鹦鹉。在黑暗中回家的路上，他迷路了并被骷髅追赶，但最终安全回到了家。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "true_false",
+        "quiz_payload": {
+          "statement": "Kenzo tamed the parrot by giving it apples.",
+          "correct": false
+        }
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "What were the main activities Kenzo did in this episode?",
+      "payload": {
+        "options": [
+          "Used the XP farm, organized chests, and collected bamboo from the jungle",
+          "Built a new house and defeated the Ender Dragon",
+          "Went fishing and found a treasure map",
+          "Explored a deep dark city and fought the Warden"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-24-nether-portal",
+      "kind": "reading",
+      "title": "Nether Portal — Reading",
+      "description": "Read and practice vocabulary from \"Nether Portal\" — 4 reading segments with mixed quizzes.",
+      "difficulty": 2,
+      "est_minutes": 6,
+      "xp_reward": 40,
+      "unlock_level": 2,
+      "thumbnail_key": null,
+      "source_label": "Based on Learn English with Minecraft — Ep. 25",
+      "source_url": "https://www.youtube.com/watch?v=lBMFCZkSA30",
+      "source_license": "youtube-embed",
+      "sort_order": 125,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Nether Portal — Reading Practice",
+      "passage_md": "Kenzo finished building his enchantment room with a dirt roof. He planned to place moss on the roof, which would slowly **spread** to the surrounding dirt blocks and turn the entire roof green to match the bamboo decorations below.\n\nTo fill the room, he needed bookshelves and an enchanting table. Bookshelves required books, which were made from leather and paper. He collected 63 sugarcane stalks and converted them into paper, then combined the paper with leather to craft 46 books and 15 **bookshelves**.\n\nFor the enchanting table, Kenzo needed obsidian. He remembered seeing trees on fire near the jungle, which meant lava was nearby on the surface. He found a large pool of lava, poured water on it to create obsidian, and mined 14 blocks with his diamond **pickaxe**.\n\nWith all the materials ready, Kenzo built a Nether portal using obsidian and lit it with flint and steel. Then he placed the enchanting table surrounded by 15 bookshelves inside the enchantment room. Now he could enchant all his diamond tools and armor using **experience** from his XP farm.",
+      "transcript_zh": "Kenzo 用泥土做屋顶完成了附魔房的建造。他计划在屋顶放苔藓，苔藓会慢慢蔓延到周围的泥土块，让整个屋顶变成绿色，与下方的竹子装饰相匹配。\n\n为了填充房间，他需要书架和附魔台。书架需要书，书由皮革和纸制成。他收集了 63 根甘蔗并转化成纸，然后将纸和皮革组合做出 46 本书和 15 个书架。\n\n做附魔台需要黑曜石。Kenzo 记得丛林附近有树着火，说明地表有岩浆。他找到了一大池岩浆，倒水上去生成黑曜石，用钻石镐挖了 14 块。\n\n材料准备齐全后，Kenzo 用黑曜石建了一个下界传送门，用打火石点燃。然后他在附魔房里放上附魔台和 15 个书架。现在他可以用 XP 农场获得的经验值来给所有钻石工具和护甲附魔了。",
+      "highlight_words": [
+        "spread",
+        "bookshelves",
+        "pickaxe",
+        "experience",
+        "obsidian"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Kenzo finished building his enchantment room with a dirt roof. He planned to place moss on the roof, which would slowly **spread** to the surrounding dirt blocks and turn the entire roof green to match the bamboo decorations below.",
+        "sentence_zh": "Kenzo 用泥土做屋顶完成了附魔房的建造。他计划在屋顶放苔藓，苔藓会慢慢蔓延到周围的泥土块，让整个屋顶变成绿色，与下方的竹子装饰相匹配。",
+        "blank_word": "spread",
+        "distractors": [
+          "shrink",
+          "melt",
+          "crack"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "To fill the room, he needed bookshelves and an enchanting table. Bookshelves required books, which were made from leather and paper. He collected 63 sugarcane stalks and converted them into paper, then combined the paper with leather to craft 46 books and 15 **bookshelves**.",
+        "sentence_zh": "为了填充房间，他需要书架和附魔台。书架需要书，书由皮革和纸制成。他收集了 63 根甘蔗并转化成纸，然后将纸和皮革组合做出 46 本书和 15 个书架。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What materials are needed to craft books?",
+          "options": [
+            "Leather and paper",
+            "Wood and string",
+            "Iron and wool",
+            "Bamboo and ink"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "For the enchanting table, Kenzo needed obsidian. He remembered seeing trees on fire near the jungle, which meant lava was nearby on the surface. He found a large pool of lava, poured water on it to create obsidian, and mined 14 blocks with his diamond **pickaxe**.",
+        "sentence_zh": "做附魔台需要黑曜石。Kenzo 记得丛林附近有树着火，说明地表有岩浆。他找到了一大池岩浆，倒水上去生成黑曜石，用钻石镐挖了 14 块。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "word_match",
+        "quiz_payload": {
+          "pairs": [
+            {
+              "word": "obsidian",
+              "definition": "A very hard dark purple rock formed when lava meets water"
+            },
+            {
+              "word": "enchant",
+              "definition": "To add magical powers to a tool or weapon"
+            },
+            {
+              "word": "ignite",
+              "definition": "To set something on fire or start a flame"
+            }
+          ],
+          "shuffled_defs": [
+            "To add magical powers to a tool or weapon",
+            "To set something on fire or start a flame",
+            "A very hard dark purple rock formed when lava meets water"
+          ]
+        }
+      },
+      {
+        "sort_order": 3,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "With all the materials ready, Kenzo built a Nether portal using obsidian and lit it with flint and steel. Then he placed the enchanting table surrounded by 15 bookshelves inside the enchantment room. Now he could enchant all his diamond tools and armor using **experience** from his XP farm.",
+        "sentence_zh": "材料准备齐全后，Kenzo 用黑曜石建了一个下界传送门，用打火石点燃。然后他在附魔房里放上附魔台和 15 个书架。现在他可以用 XP 农场获得的经验值来给所有钻石工具和护甲附魔了。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "true_false",
+        "quiz_payload": {
+          "statement": "You can mine obsidian with any type of pickaxe.",
+          "correct": false
+        }
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "What were the two main structures Kenzo built in this episode?",
+      "payload": {
+        "options": [
+          "A Nether portal and an enchanting room",
+          "A barn and a garden",
+          "A bridge and a mine",
+          "A fishing hut and a boat dock"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-27-enchanting",
+      "kind": "reading",
+      "title": "ENCHANTING! 🪄 — Reading",
+      "description": "Read and practice vocabulary from \"ENCHANTING! 🪄\" — 4 reading segments with mixed quizzes.",
+      "difficulty": 2,
+      "est_minutes": 6,
+      "xp_reward": 40,
+      "unlock_level": 2,
+      "thumbnail_key": null,
+      "source_label": "Based on Learn English with Minecraft — Ep. 28",
+      "source_url": "https://www.youtube.com/watch?v=zX6B-_xQ4zA",
+      "source_license": "youtube-embed",
+      "sort_order": 128,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "ENCHANTING! 🪄 — Reading Practice",
+      "passage_md": "Kenzo finally used his XP farm to enchant his diamond tools. He waited in the spider spawner room, killing spiders until he reached level 30. The spiders sometimes got stuck at the top of the farm, which was a **frustrating** problem he needed to fix.\n\nAt the enchanting table, he placed his diamond pickaxe with lapis lazuli and received an amazing enchantment: Efficiency IV, Fortune II, and Unbreaking III. This made his pickaxe incredibly **powerful** for mining ore and collecting extra resources.\n\nHe continued enchanting more items. His diamond sword received Knockback II and Sharpness enchantments. His diamond helmet got Fire Protection III, Unbreaking, and Respiration. He even built and enchanted a **crossbow** with Piercing IV.\n\nKenzo also showed his finished automatic bamboo and sugarcane farm. It had three floors of bamboo and three floors of sugarcane, all collected automatically into a chest. He planned to use his enchanted equipment to go exploring underground and find enough diamonds for a complete set of diamond **armor**.",
+      "transcript_zh": "Kenzo 终于用了他的 XP 农场来给钻石工具附魔。他在蜘蛛刷怪笼房间里等待，砍杀蜘蛛直到升到 30 级。蜘蛛有时会卡在农场顶部，这是一个令人沮丧的问题，他需要解决。\n\n在附魔台前，他放上钻石镐和青金石，获得了一个很棒的附魔：效率 IV、时运 II 和耐久 III。这让他的镐在挖矿和收集额外资源时变得非常强大。\n\n他继续给更多物品附魔。钻石剑获得了击退 II 和锋利附魔。钻石头盔获得了火焰保护 III、耐久和水下呼吸。他甚至制作并附魔了一把弩，获得了穿透 IV。\n\nKenzo 还展示了他完工的自动竹子和甘蔗农场。它有三层竹子和三层甘蔗，全部自动收集到箱子里。他计划用附魔装备去地下探险，找到足够的钻石做一套完整的钻石护甲。",
+      "highlight_words": [
+        "frustrating",
+        "powerful",
+        "crossbow",
+        "armor",
+        "enchantment"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Kenzo finally used his XP farm to enchant his diamond tools. He waited in the spider spawner room, killing spiders until he reached level 30. The spiders sometimes got stuck at the top of the farm, which was a **frustrating** problem he needed to fix.",
+        "sentence_zh": "Kenzo 终于用了他的 XP 农场来给钻石工具附魔。他在蜘蛛刷怪笼房间里等待，砍杀蜘蛛直到升到 30 级。蜘蛛有时会卡在农场顶部，这是一个令人沮丧的问题，他需要解决。",
+        "blank_word": "frustrating",
+        "distractors": [
+          "fascinating",
+          "fortunate",
+          "frightening"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "At the enchanting table, he placed his diamond pickaxe with lapis lazuli and received an amazing enchantment: Efficiency IV, Fortune II, and Unbreaking III. This made his pickaxe incredibly **powerful** for mining ore and collecting extra resources.",
+        "sentence_zh": "在附魔台前，他放上钻石镐和青金石，获得了一个很棒的附魔：效率 IV、时运 II 和耐久 III。这让他的镐在挖矿和收集额外资源时变得非常强大。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What does the Fortune II enchantment do for the pickaxe?",
+          "options": [
+            "Helps collect extra resources when mining ore",
+            "Makes the pickaxe unbreakable",
+            "Allows mining faster than normal",
+            "Protects the player from fire damage"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "He continued enchanting more items. His diamond sword received Knockback II and Sharpness enchantments. His diamond helmet got Fire Protection III, Unbreaking, and Respiration. He even built and enchanted a **crossbow** with Piercing IV.",
+        "sentence_zh": "他继续给更多物品附魔。钻石剑获得了击退 II 和锋利附魔。钻石头盔获得了火焰保护 III、耐久和水下呼吸。他甚至制作并附魔了一把弩，获得了穿透 IV。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "word_match",
+        "quiz_payload": {
+          "pairs": [
+            {
+              "word": "knockback",
+              "definition": "A force that pushes enemies away when you hit them"
+            },
+            {
+              "word": "respiration",
+              "definition": "The ability to breathe longer underwater"
+            },
+            {
+              "word": "piercing",
+              "definition": "Making arrows pass through multiple enemies"
+            }
+          ],
+          "shuffled_defs": [
+            "The ability to breathe longer underwater",
+            "Making arrows pass through multiple enemies",
+            "A force that pushes enemies away when you hit them"
+          ]
+        }
+      },
+      {
+        "sort_order": 3,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Kenzo also showed his finished automatic bamboo and sugarcane farm. It had three floors of bamboo and three floors of sugarcane, all collected automatically into a chest. He planned to use his enchanted equipment to go exploring underground and find enough diamonds for a complete set of diamond **armor**.",
+        "sentence_zh": "Kenzo 还展示了他完工的自动竹子和甘蔗农场。它有三层竹子和三层甘蔗，全部自动收集到箱子里。他计划用附魔装备去地下探险，找到足够的钻石做一套完整的钻石护甲。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "true_false",
+        "quiz_payload": {
+          "statement": "The automatic farm collects bamboo and sugarcane by hand.",
+          "correct": false
+        }
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "What was the main purpose of this episode?",
+      "payload": {
+        "options": [
+          "Using XP to enchant diamond tools and armor",
+          "Building an automatic farm from scratch",
+          "Exploring the Nether for the first time",
+          "Finding and taming animals for the barn"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-29-diamond-mine",
+      "kind": "reading",
+      "title": "Diamond Mine! 💎💎 — Reading",
+      "description": "Read and practice vocabulary from \"Diamond Mine! 💎💎\" — 4 reading segments with mixed quizzes.",
+      "difficulty": 2,
+      "est_minutes": 6,
+      "xp_reward": 40,
+      "unlock_level": 2,
+      "thumbnail_key": null,
+      "source_label": "Based on Learn English with Minecraft — Ep. 30",
+      "source_url": "https://www.youtube.com/watch?v=3XJ7lyUyhSw",
+      "source_license": "youtube-embed",
+      "sort_order": 130,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Diamond Mine! 💎💎 — Reading Practice",
+      "passage_md": "With his newly enchanted diamond boots giving him Protection III, Kenzo was ready to explore deep underground. He also discovered that a smoker could cook food faster than a regular furnace, so he built one using logs and a **furnace**.\n\nDuring his exploration, Kenzo found a village where he collected emeralds and bread. He also discovered a ravine with a dangerous lava pool at the bottom. He accidentally fell near the lava and caught fire, but managed to find water just in time to **survive**.\n\nThe biggest discovery was an abandoned mineshaft filled with diamonds. His enchanted pickaxe with Fortune II helped him collect extra gems from each ore block. He found 11 diamonds in one area alone — more than in his entire previous video. However, cave spiders kept poisoning him, making the **exploration** very risky.\n\nBy the end of his adventure, Kenzo had collected an impressive 32 diamonds total. He planned to use them to craft a complete set of diamond armor. The Fortune enchantment on his pickaxe proved **essential** for maximizing his diamond collection from each ore block.",
+      "transcript_zh": "穿上附有保护 III 的钻石靴，Kenzo 准备好去地下深处探险。他还发现熏炉比普通熔炉烤食物更快，于是用原木和熔炉做了一个。\n\n探险过程中，Kenzo 找到了一个村庄，收集了绿宝石和面包。他还发现了一条峡谷，底部有危险的岩浆池。他不小心掉到岩浆附近着了火，但及时找到水活了下来。\n\n最大的发现是一座废弃矿井，里面充满了钻石。他附有时运 II 的镐帮助他从每块矿石中收集更多宝石。仅在一个区域他就找到了 11 颗钻石——比上一集整集找到的还多。但洞穴蜘蛛不断毒他，让探险非常危险。\n\n冒险结束时，Kenzo 总共收集了令人印象深刻的 32 颗钻石。他计划用它们制作一套完整的钻石护甲。镐上的时运附魔证明对从每块矿石中最大化钻石收集至关重要。",
+      "highlight_words": [
+        "furnace",
+        "survive",
+        "exploration",
+        "essential",
+        "impressive"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "With his newly enchanted diamond boots giving him Protection III, Kenzo was ready to explore deep underground. He also discovered that a smoker could cook food faster than a regular furnace, so he built one using logs and a **furnace**.",
+        "sentence_zh": "穿上附有保护 III 的钻石靴，Kenzo 准备好去地下深处探险。他还发现熏炉比普通熔炉烤食物更快，于是用原木和熔炉做了一个。",
+        "blank_word": "furnace",
+        "distractors": [
+          "firepit",
+          "foundry",
+          "factory"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "During his exploration, Kenzo found a village where he collected emeralds and bread. He also discovered a ravine with a dangerous lava pool at the bottom. He accidentally fell near the lava and caught fire, but managed to find water just in time to **survive**.",
+        "sentence_zh": "探险过程中，Kenzo 找到了一个村庄，收集了绿宝石和面包。他还发现了一条峡谷，底部有危险的岩浆池。他不小心掉到岩浆附近着了火，但及时找到水活了下来。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What happened when Kenzo fell near the lava?",
+          "options": [
+            "He caught fire but found water to save himself",
+            "He died and lost all his items",
+            "He used a fire resistance potion",
+            "His diamond boots protected him completely"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "The biggest discovery was an abandoned mineshaft filled with diamonds. His enchanted pickaxe with Fortune II helped him collect extra gems from each ore block. He found 11 diamonds in one area alone — more than in his entire previous video. However, cave spiders kept poisoning him, making the **exploration** very risky.",
+        "sentence_zh": "最大的发现是一座废弃矿井，里面充满了钻石。他附有时运 II 的镐帮助他从每块矿石中收集更多宝石。仅在一个区域他就找到了 11 颗钻石——比上一集整集找到的还多。但洞穴蜘蛛不断毒他，让探险非常危险。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "word_match",
+        "quiz_payload": {
+          "pairs": [
+            {
+              "word": "fortune",
+              "definition": "An enchantment that gives more drops from mining"
+            },
+            {
+              "word": "poisoning",
+              "definition": "Causing slow damage over time with toxic substances"
+            },
+            {
+              "word": "ravine",
+              "definition": "A deep narrow valley with steep sides"
+            }
+          ],
+          "shuffled_defs": [
+            "Causing slow damage over time with toxic substances",
+            "A deep narrow valley with steep sides",
+            "An enchantment that gives more drops from mining"
+          ]
+        }
+      },
+      {
+        "sort_order": 3,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "By the end of his adventure, Kenzo had collected an impressive 32 diamonds total. He planned to use them to craft a complete set of diamond armor. The Fortune enchantment on his pickaxe proved **essential** for maximizing his diamond collection from each ore block.",
+        "sentence_zh": "冒险结束时，Kenzo 总共收集了令人印象深刻的 32 颗钻石。他计划用它们制作一套完整的钻石护甲。镐上的时运附魔证明对从每块矿石中最大化钻石收集至关重要。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "true_false",
+        "quiz_payload": {
+          "statement": "Kenzo found fewer diamonds than in his previous episode.",
+          "correct": false
+        }
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "Why was Kenzo able to collect so many diamonds in this episode?",
+      "payload": {
+        "options": [
+          "His Fortune II enchantment gave extra drops from each ore",
+          "He found a secret diamond room",
+          "He traded emeralds for diamonds with villagers",
+          "He used a special diamond detector tool"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-32-taming-a-horse",
+      "kind": "reading",
+      "title": "Taming a Horse! 🐎 — Reading",
+      "description": "Read and practice vocabulary from \"Taming a Horse! 🐎\" — 5 reading segments with mixed quizzes.",
+      "difficulty": 3,
+      "est_minutes": 8,
+      "xp_reward": 50,
+      "unlock_level": 3,
+      "thumbnail_key": null,
+      "source_label": "Based on Learn English with Minecraft — Ep. 33",
+      "source_url": "https://www.youtube.com/watch?v=ytFisw_FDdg",
+      "source_license": "youtube-embed",
+      "sort_order": 133,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Taming a Horse! 🐎 — Reading Practice",
+      "passage_md": "Unfortunately, Kenzo's baby zombie pigman friend had **vanished** from his house. Despite this sad news, he had two goals: build a stable for horses, and find and tame a horse using the saddles and diamond horse armor he found in the Nether fortress.\n\nKenzo built the stable next to his barn using cherry wood. He experimented with the dimensions, eventually settling on three blocks wide by four blocks long. He decorated it with stripped logs, stairs for the roof, lanterns, trapdoors, and fence gates on both sides for **convenient** access.\n\nFinding apples to tame the horse proved surprisingly difficult. Kenzo spent an entire day chopping cherry trees before realizing that apples only drop from oak trees, not cherry trees. He felt embarrassed about this mistake but eventually collected four apples from nearby **oak** trees.\n\nWith apples in hand, Kenzo found a horse and fed it all four apples. The horse was **successfully** tamed on his first riding attempt. He equipped it with the saddle and diamond horse armor, making it look magnificent.\n\nHowever, when Kenzo tried to bring the horse into the stable, it wouldn't fit through the entrance. He had to **demolish** part of the doorway to make it two blocks wide, learning that horses need wider passages than players do.",
+      "transcript_zh": "不幸的是，Kenzo 的小僵尸猪人朋友从家里消失了。尽管这个坏消息很难过，他还是有两个目标：建一个马厩，以及用他在下界堡垒找到的马鞍和钻石马铠去找并驯服一匹马。\n\nKenzo 用樱花木在谷仓旁边建了马厩。他尝试了不同的尺寸，最终确定为三格宽四格长。他用去皮原木、楼梯做屋顶、灯笼、活板门和两侧的栅栏门来装饰，方便进出。\n\n找苹果来驯马意外地困难。Kenzo 花了一整天砍樱花树，然后才意识到苹果只会从橡树上掉落，不是樱花树。他对这个错误感到尴尬，但最终从附近的橡树上收集了四个苹果。\n\n拿着苹果，Kenzo 找到了一匹马并喂了它四个苹果。马在他第一次骑上时就被成功驯服了。他给马装上马鞍和钻石马铠，看起来非常威风。\n\n然而，当 Kenzo 试图把马带进马厩时，马进不去。他不得不拆掉部分门口让它变成两格宽，这才知道马需要比玩家更宽的通道。",
+      "highlight_words": [
+        "vanished",
+        "convenient",
+        "oak",
+        "successfully",
+        "demolish"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Unfortunately, Kenzo's baby zombie pigman friend had **vanished** from his house. Despite this sad news, he had two goals: build a stable for horses, and find and tame a horse using the saddles and diamond horse armor he found in the Nether fortress.",
+        "sentence_zh": "不幸的是，Kenzo 的小僵尸猪人朋友从家里消失了。尽管这个坏消息很难过，他还是有两个目标：建一个马厩，以及用他在下界堡垒找到的马鞍和钻石马铠去找并驯服一匹马。",
+        "blank_word": "vanished",
+        "distractors": [
+          "wandered",
+          "returned",
+          "appeared"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Kenzo built the stable next to his barn using cherry wood. He experimented with the dimensions, eventually settling on three blocks wide by four blocks long. He decorated it with stripped logs, stairs for the roof, lanterns, trapdoors, and fence gates on both sides for **convenient** access.",
+        "sentence_zh": "Kenzo 用樱花木在谷仓旁边建了马厩。他尝试了不同的尺寸，最终确定为三格宽四格长。他用去皮原木、楼梯做屋顶、灯笼、活板门和两侧的栅栏门来装饰，方便进出。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What final dimensions did Kenzo choose for the stable?",
+          "options": [
+            "Three blocks wide by four blocks long",
+            "Four blocks wide by six blocks long",
+            "Two blocks wide by five blocks long",
+            "Five blocks wide by three blocks long"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Finding apples to tame the horse proved surprisingly difficult. Kenzo spent an entire day chopping cherry trees before realizing that apples only drop from oak trees, not cherry trees. He felt embarrassed about this mistake but eventually collected four apples from nearby **oak** trees.",
+        "sentence_zh": "找苹果来驯马意外地困难。Kenzo 花了一整天砍樱花树，然后才意识到苹果只会从橡树上掉落，不是樱花树。他对这个错误感到尴尬，但最终从附近的橡树上收集了四个苹果。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "word_match",
+        "quiz_payload": {
+          "pairs": [
+            {
+              "word": "tame",
+              "definition": "To make a wild animal friendly and obedient"
+            },
+            {
+              "word": "stable",
+              "definition": "A building where horses are kept and sheltered"
+            },
+            {
+              "word": "embarrassed",
+              "definition": "Feeling ashamed or awkward about a mistake"
+            },
+            {
+              "word": "dimensions",
+              "definition": "The measurements of size like width and length"
+            }
+          ],
+          "shuffled_defs": [
+            "A building where horses are kept and sheltered",
+            "The measurements of size like width and length",
+            "Feeling ashamed or awkward about a mistake",
+            "To make a wild animal friendly and obedient"
+          ]
+        }
+      },
+      {
+        "sort_order": 3,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "With apples in hand, Kenzo found a horse and fed it all four apples. The horse was **successfully** tamed on his first riding attempt. He equipped it with the saddle and diamond horse armor, making it look magnificent.",
+        "sentence_zh": "拿着苹果，Kenzo 找到了一匹马并喂了它四个苹果。马在他第一次骑上时就被成功驯服了。他给马装上马鞍和钻石马铠，看起来非常威风。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "sentence_order",
+        "quiz_payload": {
+          "sentences": [
+            "Kenzo found a horse in the wild.",
+            "He fed the horse four apples.",
+            "He rode the horse for the first time.",
+            "He equipped the saddle and diamond armor."
+          ],
+          "correct_order": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "sort_order": 4,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "However, when Kenzo tried to bring the horse into the stable, it wouldn't fit through the entrance. He had to **demolish** part of the doorway to make it two blocks wide, learning that horses need wider passages than players do.",
+        "sentence_zh": "然而，当 Kenzo 试图把马带进马厩时，马进不去。他不得不拆掉部分门口让它变成两格宽，这才知道马需要比玩家更宽的通道。",
+        "blank_word": "demolish",
+        "distractors": [
+          "decorate",
+          "discover",
+          "describe"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "What was the main lesson Kenzo learned in this episode?",
+      "payload": {
+        "options": [
+          "Different tree types drop different items, and horses need wider entrances",
+          "Horses can only be found in the Nether",
+          "Diamond armor makes horses run faster",
+          "You need emeralds to tame a horse"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-35-finding-a-stronghold",
+      "kind": "reading",
+      "title": "Finding a Stronghold — Reading",
+      "description": "Read and practice vocabulary from \"Finding a Stronghold\" — 5 reading segments with mixed quizzes.",
+      "difficulty": 3,
+      "est_minutes": 8,
+      "xp_reward": 50,
+      "unlock_level": 3,
+      "thumbnail_key": null,
+      "source_label": "Based on Learn English with Minecraft — Ep. 36",
+      "source_url": "https://www.youtube.com/watch?v=EcgdnWeqigk",
+      "source_license": "youtube-embed",
+      "sort_order": 136,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Finding a Stronghold — Reading Practice",
+      "passage_md": "Kenzo's ultimate goal was to find a stronghold, which contains the End Portal needed to reach the final dimension and fight the Ender Dragon. To locate it, he needed Eyes of Ender — crafted from ender pearls and blaze powder — which float toward the **stronghold** when thrown into the air.\n\nThe journey was long and dangerous. Kenzo threw Eyes of Ender repeatedly, following their direction across vast oceans and unfamiliar terrain. Some eyes shattered upon use, which concerned him because he had a **limited** supply of materials to craft more.\n\nAfter traveling far from home, the Eyes of Ender began pointing downward instead of forward, indicating the stronghold was directly below. Kenzo started digging straight down — a risky strategy that experienced players typically **discourage** because of potential lava or deep falls.\n\nDeep underground, Kenzo finally broke through into the stronghold's stone brick corridors. He explored the maze-like structure, finding libraries filled with bookshelves, mysterious silverfish spawners, and eventually the portal room itself — a dark chamber with an **incomplete** End Portal frame.\n\nThe End Portal required twelve Eyes of Ender to activate. Some frames already contained eyes, but Kenzo needed to place the remaining ones himself. He carefully counted the empty slots and placed each eye, knowing that once **activated**, the portal would transport him to the most dangerous dimension in the game.",
+      "transcript_zh": "Kenzo 的终极目标是找到要塞，里面有通往最终维度的末地传送门，用来打败末影龙。为了定位要塞，他需要末影之眼——用末影珠和烈焰粉制作——抛向空中时会飘向要塞方向。\n\n旅程漫长而危险。Kenzo 反复抛出末影之眼，跟着它们的方向穿越广阔的海洋和陌生的地形。有些末影之眼使用后会碎裂，这让他担心，因为他制作更多的材料有限。\n\n走了很远之后，末影之眼开始朝下方指而不是向前，表明要塞就在正下方。Kenzo 开始向下挖——这是一个冒险的策略，有经验的玩家通常不推荐这样做，因为可能会碰到岩浆或深坑。\n\n在地下深处，Kenzo 终于挖穿进入了要塞的石砖走廊。他探索了迷宫般的结构，发现了填满书架的图书馆、神秘的融虫刷怪笼，最终找到了传送门房间——一个漆黑的房间，里面有一个不完整的末地传送门框架。\n\n末地传送门需要十二颗末影之眼才能激活。一些框架已经含有末影之眼，但 Kenzo 需要自己放置剩余的。他仔细数空槽并放入每颗眼睛，知道一旦激活，传送门将把他传送到游戏中最危险的维度。",
+      "highlight_words": [
+        "stronghold",
+        "limited",
+        "discourage",
+        "incomplete",
+        "activated"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Kenzo's ultimate goal was to find a stronghold, which contains the End Portal needed to reach the final dimension and fight the Ender Dragon. To locate it, he needed Eyes of Ender — crafted from ender pearls and blaze powder — which float toward the **stronghold** when thrown into the air.",
+        "sentence_zh": "Kenzo 的终极目标是找到要塞，里面有通往最终维度的末地传送门，用来打败末影龙。为了定位要塞，他需要末影之眼——用末影珠和烈焰粉制作——抛向空中时会飘向要塞方向。",
+        "blank_word": "stronghold",
+        "distractors": [
+          "structure",
+          "fortress",
+          "monument"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "The journey was long and dangerous. Kenzo threw Eyes of Ender repeatedly, following their direction across vast oceans and unfamiliar terrain. Some eyes shattered upon use, which concerned him because he had a **limited** supply of materials to craft more.",
+        "sentence_zh": "旅程漫长而危险。Kenzo 反复抛出末影之眼，跟着它们的方向穿越广阔的海洋和陌生的地形。有些末影之眼使用后会碎裂，这让他担心，因为他制作更多的材料有限。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "Why was Kenzo concerned about the Eyes of Ender shattering?",
+          "options": [
+            "He had limited materials to craft replacements",
+            "Each shattered eye released a dangerous monster",
+            "The eyes were very expensive to buy",
+            "Shattering eyes damage nearby blocks"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "After traveling far from home, the Eyes of Ender began pointing downward instead of forward, indicating the stronghold was directly below. Kenzo started digging straight down — a risky strategy that experienced players typically **discourage** because of potential lava or deep falls.",
+        "sentence_zh": "走了很远之后，末影之眼开始朝下方指而不是向前，表明要塞就在正下方。Kenzo 开始向下挖——这是一个冒险的策略，有经验的玩家通常不推荐这样做，因为可能会碰到岩浆或深坑。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "word_match",
+        "quiz_payload": {
+          "pairs": [
+            {
+              "word": "stronghold",
+              "definition": "An underground structure containing the End Portal"
+            },
+            {
+              "word": "terrain",
+              "definition": "The physical features and shape of land"
+            },
+            {
+              "word": "shatter",
+              "definition": "To break suddenly into many small pieces"
+            },
+            {
+              "word": "indicate",
+              "definition": "To show or point to something clearly"
+            }
+          ],
+          "shuffled_defs": [
+            "The physical features and shape of land",
+            "To break suddenly into many small pieces",
+            "To show or point to something clearly",
+            "An underground structure containing the End Portal"
+          ]
+        }
+      },
+      {
+        "sort_order": 3,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Deep underground, Kenzo finally broke through into the stronghold's stone brick corridors. He explored the maze-like structure, finding libraries filled with bookshelves, mysterious silverfish spawners, and eventually the portal room itself — a dark chamber with an **incomplete** End Portal frame.",
+        "sentence_zh": "在地下深处，Kenzo 终于挖穿进入了要塞的石砖走廊。他探索了迷宫般的结构，发现了填满书架的图书馆、神秘的融虫刷怪笼，最终找到了传送门房间——一个漆黑的房间，里面有一个不完整的末地传送门框架。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "sentence_order",
+        "quiz_payload": {
+          "sentences": [
+            "Kenzo threw Eyes of Ender to find the direction.",
+            "The eyes started pointing downward.",
+            "He dug straight down into the ground.",
+            "He found the stronghold's stone corridors."
+          ],
+          "correct_order": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "sort_order": 4,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "The End Portal required twelve Eyes of Ender to activate. Some frames already contained eyes, but Kenzo needed to place the remaining ones himself. He carefully counted the empty slots and placed each eye, knowing that once **activated**, the portal would transport him to the most dangerous dimension in the game.",
+        "sentence_zh": "末地传送门需要十二颗末影之眼才能激活。一些框架已经含有末影之眼，但 Kenzo 需要自己放置剩余的。他仔细数空槽并放入每颗眼睛，知道一旦激活，传送门将把他传送到游戏中最危险的维度。",
+        "blank_word": "activated",
+        "distractors": [
+          "abandoned",
+          "assembled",
+          "attempted"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "What is the correct sequence to reach the End dimension?",
+      "payload": {
+        "options": [
+          "Craft Eyes of Ender, find the stronghold, complete the portal",
+          "Mine obsidian, build a portal, light it with flint",
+          "Defeat the Warden, find the portal room, jump in",
+          "Collect blaze rods, trade with villagers, teleport"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-37-the-end",
+      "kind": "reading",
+      "title": "THE END — Reading",
+      "description": "Read and practice vocabulary from \"THE END\" — 5 reading segments with mixed quizzes.",
+      "difficulty": 3,
+      "est_minutes": 8,
+      "xp_reward": 50,
+      "unlock_level": 3,
+      "thumbnail_key": null,
+      "source_label": "Based on Learn English with Minecraft — Ep. 38",
+      "source_url": "https://www.youtube.com/watch?v=0hwVU0YueLQ",
+      "source_license": "youtube-embed",
+      "sort_order": 138,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "THE END — Reading Practice",
+      "passage_md": "After weeks of preparation, Kenzo was finally ready to enter the End and face the Ender Dragon. He brought his best enchanted diamond equipment, plenty of food, and building blocks for the **inevitable** tower climbing he would need to do.\n\nThe End dimension was a dark, floating island surrounded by an endless void. Obsidian pillars topped with End Crystals rose high into the sky. These crystals continuously healed the dragon, so Kenzo needed to destroy them first. Some crystals were protected by iron cages, requiring him to climb the pillars and break the cages before he could **eliminate** each crystal.\n\nThe Ender Dragon was enormous and terrifying. It circled the island, diving at Kenzo and knocking him backward with tremendous force. He had to time his attacks carefully, hitting the dragon only when it perched on the central fountain. Between attacks, he ate food to **regenerate** his health.\n\nDestroying the final crystal made the dragon vulnerable. Without healing, each hit from Kenzo's enchanted sword dealt significant damage. The dragon made increasingly **desperate** attacks, but Kenzo dodged them and kept striking until the dragon finally exploded into thousands of experience points.\n\nWith the Ender Dragon defeated, a portal back to the Overworld appeared, along with the Dragon Egg — the rarest trophy in the game. Kenzo had **accomplished** his ultimate goal after more than thirty episodes of learning English with Minecraft.",
+      "transcript_zh": "经过数周的准备，Kenzo 终于准备好进入末地并面对末影龙。他带了最好的附魔钻石装备、充足的食物，以及用于爬塔的建筑方块。\n\n末地维度是一座黑暗的浮岛，四周是无尽的虚空。黑曜石柱顶端放着末影水晶，高耸入云。这些水晶不断治疗龙，所以 Kenzo 需要先摧毁它们。有些水晶被铁笼保护，他需要爬上柱子打破铁笼才能消灭每个水晶。\n\n末影龙巨大而可怕。它绕岛盘旋，俯冲向 Kenzo 并以巨大力量将他击退。他必须仔细把握攻击时机，只在龙停在中央喷泉上时才能攻击。攻击间隙他吃食物恢复血量。\n\n摧毁最后一个水晶使龙变得脆弱。没有了治疗，Kenzo 的附魔剑每一击都造成巨大伤害。龙越来越拼命地攻击，但 Kenzo 躲开并不断砍击，直到龙最终爆炸成万千经验值。\n\n末影龙被打败后，一个回到主世界的传送门出现了，还有龙蛋——游戏中最稀有的战利品。Kenzo 在三十多集的用 Minecraft 学英语后，终于完成了他的终极目标。",
+      "highlight_words": [
+        "inevitable",
+        "eliminate",
+        "regenerate",
+        "desperate",
+        "accomplished"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "After weeks of preparation, Kenzo was finally ready to enter the End and face the Ender Dragon. He brought his best enchanted diamond equipment, plenty of food, and building blocks for the **inevitable** tower climbing he would need to do.",
+        "sentence_zh": "经过数周的准备，Kenzo 终于准备好进入末地并面对末影龙。他带了最好的附魔钻石装备、充足的食物，以及用于爬塔的建筑方块。",
+        "blank_word": "inevitable",
+        "distractors": [
+          "invisible",
+          "incredible",
+          "immediate"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "The End dimension was a dark, floating island surrounded by an endless void. Obsidian pillars topped with End Crystals rose high into the sky. These crystals continuously healed the dragon, so Kenzo needed to destroy them first. Some crystals were protected by iron cages, requiring him to climb the pillars and break the cages before he could **eliminate** each crystal.",
+        "sentence_zh": "末地维度是一座黑暗的浮岛，四周是无尽的虚空。黑曜石柱顶端放着末影水晶，高耸入云。这些水晶不断治疗龙，所以 Kenzo 需要先摧毁它们。有些水晶被铁笼保护，他需要爬上柱子打破铁笼才能消灭每个水晶。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "Why did Kenzo need to destroy the End Crystals first?",
+          "options": [
+            "They continuously healed the Ender Dragon",
+            "They shot lasers at the player",
+            "They blocked the exit portal",
+            "They spawned more Endermen"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "The Ender Dragon was enormous and terrifying. It circled the island, diving at Kenzo and knocking him backward with tremendous force. He had to time his attacks carefully, hitting the dragon only when it perched on the central fountain. Between attacks, he ate food to **regenerate** his health.",
+        "sentence_zh": "末影龙巨大而可怕。它绕岛盘旋，俯冲向 Kenzo 并以巨大力量将他击退。他必须仔细把握攻击时机，只在龙停在中央喷泉上时才能攻击。攻击间隙他吃食物恢复血量。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "word_match",
+        "quiz_payload": {
+          "pairs": [
+            {
+              "word": "perch",
+              "definition": "To sit or rest on top of something high"
+            },
+            {
+              "word": "tremendous",
+              "definition": "Extremely large, powerful, or great in amount"
+            },
+            {
+              "word": "void",
+              "definition": "An empty space with nothing in it"
+            },
+            {
+              "word": "vulnerable",
+              "definition": "Easy to harm or attack because of no protection"
+            }
+          ],
+          "shuffled_defs": [
+            "Extremely large, powerful, or great in amount",
+            "An empty space with nothing in it",
+            "Easy to harm or attack because of no protection",
+            "To sit or rest on top of something high"
+          ]
+        }
+      },
+      {
+        "sort_order": 3,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Destroying the final crystal made the dragon vulnerable. Without healing, each hit from Kenzo's enchanted sword dealt significant damage. The dragon made increasingly **desperate** attacks, but Kenzo dodged them and kept striking until the dragon finally exploded into thousands of experience points.",
+        "sentence_zh": "摧毁最后一个水晶使龙变得脆弱。没有了治疗，Kenzo 的附魔剑每一击都造成巨大伤害。龙越来越拼命地攻击，但 Kenzo 躲开并不断砍击，直到龙最终爆炸成万千经验值。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "sentence_order",
+        "quiz_payload": {
+          "sentences": [
+            "Kenzo destroyed the End Crystals on the pillars.",
+            "The dragon became vulnerable without healing.",
+            "Kenzo attacked the dragon with his enchanted sword.",
+            "The dragon exploded into experience points."
+          ],
+          "correct_order": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "sort_order": 4,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "With the Ender Dragon defeated, a portal back to the Overworld appeared, along with the Dragon Egg — the rarest trophy in the game. Kenzo had **accomplished** his ultimate goal after more than thirty episodes of learning English with Minecraft.",
+        "sentence_zh": "末影龙被打败后，一个回到主世界的传送门出现了，还有龙蛋——游戏中最稀有的战利品。Kenzo 在三十多集的用 Minecraft 学英语后，终于完成了他的终极目标。",
+        "blank_word": "accomplished",
+        "distractors": [
+          "abandoned",
+          "approached",
+          "anticipated"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "What was the key strategy for defeating the Ender Dragon?",
+      "payload": {
+        "options": [
+          "Destroy the End Crystals first, then attack the dragon when it perches",
+          "Use a bow to shoot the dragon out of the sky",
+          "Build a tall tower and jump on the dragon's back",
+          "Lure the dragon into lava to damage it"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-4-exploring-the-wild",
+      "kind": "reading",
+      "title": "Exploring the Wild 🧭 — Reading",
+      "description": "Read and practice vocabulary from \"Exploring the Wild 🧭\" — 3 reading segments with mixed quizzes.",
+      "difficulty": 1,
+      "est_minutes": 4,
+      "xp_reward": 30,
+      "unlock_level": 1,
+      "thumbnail_key": null,
+      "source_label": "Based on Learn English with Minecraft — Ep. 4",
+      "source_url": "https://www.youtube.com/watch?v=CwQ4D9U5dfs",
+      "source_license": "youtube-embed",
+      "sort_order": 104,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Exploring the Wild 🧭 — Reading Practice",
+      "passage_md": "Kenzo decided to go on an **adventure** far from his house. He wanted to explore the wild areas and find new things. He took his sword, some food, and his boat.\n\nHe sailed across the water and found new lands with tall mountains and deep rivers. He saw many **animals** like pigs, cows, and sheep. He also found a jungle with parrots and pandas.\n\nBut exploring was not easy. Kenzo got lost several times because he did not have a map. When night came, he had to **survive** against zombies and creepers. He learned that exploring is exciting but also very dangerous.",
+      "transcript_zh": "Kenzo 决定去离家很远的地方冒险。他想探索野外，寻找新的东西。他带上了剑、一些食物和小船。\n\n他划船穿过水面，发现了有着高山和深河的新大陆。他看到了很多动物，比如猪、牛和羊。他还发现了一片有鹦鹉和熊猫的丛林。\n\n但探索并不容易。Kenzo 好几次迷路了，因为他没有地图。夜晚来临时，他不得不对抗僵尸和苦力怕求生。他学到了探索虽然令人兴奋，但也非常危险。",
+      "highlight_words": [
+        "adventure",
+        "animals",
+        "survive",
+        "explore",
+        "jungle"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Kenzo decided to go on an **adventure** far from his house. He wanted to explore the wild areas and find new things. He took his sword, some food, and his boat.",
+        "sentence_zh": "Kenzo 决定去离家很远的地方冒险。他想探索野外，寻找新的东西。他带上了剑、一些食物和小船。",
+        "blank_word": "adventure",
+        "distractors": [
+          "accident",
+          "argument",
+          "apartment"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "He sailed across the water and found new lands with tall mountains and deep rivers. He saw many **animals** like pigs, cows, and sheep. He also found a jungle with parrots and pandas.",
+        "sentence_zh": "他划船穿过水面，发现了有着高山和深河的新大陆。他看到了很多动物，比如猪、牛和羊。他还发现了一片有鹦鹉和熊猫的丛林。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What animals did Kenzo find in the jungle?",
+          "options": [
+            "Parrots and pandas",
+            "Wolves and foxes",
+            "Dolphins and turtles",
+            "Horses and donkeys"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "But exploring was not easy. Kenzo got lost several times because he did not have a map. When night came, he had to **survive** against zombies and creepers. He learned that exploring is exciting but also very dangerous.",
+        "sentence_zh": "但探索并不容易。Kenzo 好几次迷路了，因为他没有地图。夜晚来临时，他不得不对抗僵尸和苦力怕求生。他学到了探索虽然令人兴奋，但也非常危险。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "true_false",
+        "quiz_payload": {
+          "statement": "Kenzo had a map to help him find his way home.",
+          "correct": false
+        }
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "What lesson did Kenzo learn from exploring the wild?",
+      "payload": {
+        "options": [
+          "Exploring is exciting but also dangerous",
+          "You should never leave your house",
+          "Animals are always friendly",
+          "Night time is the best time to explore"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-6-making-friends",
+      "kind": "reading",
+      "title": "Making Friends? — Reading",
+      "description": "Read and practice vocabulary from \"Making Friends?\" — 3 reading segments with mixed quizzes.",
+      "difficulty": 1,
+      "est_minutes": 4,
+      "xp_reward": 30,
+      "unlock_level": 1,
+      "thumbnail_key": null,
+      "source_label": "Based on Learn English with Minecraft — Ep. 6",
+      "source_url": "https://www.youtube.com/watch?v=Ddf6ok5GXoo",
+      "source_license": "youtube-embed",
+      "sort_order": 106,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Making Friends? — Reading Practice",
+      "passage_md": "Kenzo wanted to make **friends** in Minecraft. He found a village with many villagers. The villagers had different jobs — some were farmers, some were librarians, and some were blacksmiths.\n\nKenzo tried to **trade** with the villagers. He gave them emeralds and they gave him useful items like bread, armor, and books. Trading was a good way to get things he needed.\n\nHe also found some **animals** that he wanted to tame. He used seeds to attract chickens and wheat to attract cows. Soon he had many animal friends following him around his base.",
+      "transcript_zh": "Kenzo 想在 Minecraft 里交朋友。他找到了一个有很多村民的村庄。村民们有不同的工作——有的是农民，有的是图书管理员，有的是铁匠。\n\nKenzo 试着和村民做交易。他给他们绿宝石，他们给他面包、盔甲和书等有用的物品。交易是获得所需物品的好方法。\n\n他还发现了一些想要驯服的动物。他用种子吸引鸡，用小麦吸引牛。很快他就有很多动物朋友跟着他在基地周围转了。",
+      "highlight_words": [
+        "friends",
+        "trade",
+        "village",
+        "tame",
+        "attract"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Kenzo wanted to make **friends** in Minecraft. He found a village with many villagers. The villagers had different jobs — some were farmers, some were librarians, and some were blacksmiths.",
+        "sentence_zh": "Kenzo 想在 Minecraft 里交朋友。他找到了一个有很多村民的村庄。村民们有不同的工作——有的是农民，有的是图书管理员，有的是铁匠。",
+        "blank_word": "friends",
+        "distractors": [
+          "enemies",
+          "monsters",
+          "diamonds"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Kenzo tried to **trade** with the villagers. He gave them emeralds and they gave him useful items like bread, armor, and books. Trading was a good way to get things he needed.",
+        "sentence_zh": "Kenzo 试着和村民做交易。他给他们绿宝石，他们给他面包、盔甲和书等有用的物品。交易是获得所需物品的好方法。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What did Kenzo give the villagers for trading?",
+          "options": [
+            "Emeralds",
+            "Diamonds",
+            "Gold",
+            "Iron"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "He also found some **animals** that he wanted to tame. He used seeds to attract chickens and wheat to attract cows. Soon he had many animal friends following him around his base.",
+        "sentence_zh": "他还发现了一些想要驯服的动物。他用种子吸引鸡，用小麦吸引牛。很快他就有很多动物朋友跟着他在基地周围转了。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "true_false",
+        "quiz_payload": {
+          "statement": "Kenzo used carrots to attract the chickens.",
+          "correct": false
+        }
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "How did Kenzo make friends in this episode?",
+      "payload": {
+        "options": [
+          "By trading with villagers and taming animals",
+          "By fighting monsters together with villagers",
+          "By building houses for the villagers",
+          "By giving diamonds to everyone"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-9-building-a-barn",
+      "kind": "reading",
+      "title": "Building a Barn! — Reading",
+      "description": "Read and practice vocabulary from \"Building a Barn!\" — 3 reading segments with mixed quizzes.",
+      "difficulty": 1,
+      "est_minutes": 4,
+      "xp_reward": 30,
+      "unlock_level": 1,
+      "thumbnail_key": null,
+      "source_label": "Based on Learn English with Minecraft — Ep. 9",
+      "source_url": "https://www.youtube.com/watch?v=1XC8h5UwU50",
+      "source_license": "youtube-embed",
+      "sort_order": 109,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Building a Barn! — Reading Practice",
+      "passage_md": "Kenzo decided to **build** a big barn for his animals. He needed a lot of wood, so he chopped down many trees. He felt bad about cutting the trees, but he planted new saplings so they would grow back.\n\nThe barn was a large building with a stone **roof** and wooden walls. Kenzo worked very hard to finish it. He used stairs for the roof and fences for the animal pens inside.\n\nWhen the barn was finished, it was completely **empty**. Kenzo planned to fill it with cows, sheep, pigs, and chickens in his next adventure. He was proud of his new building.",
+      "transcript_zh": "Kenzo 决定为他的动物建一个大谷仓。他需要很多木头，所以砍了很多树。他为砍树感到愧疚，但他种下了新树苗，这样树会重新长出来。\n\n谷仓是一座有石头屋顶和木墙的大建筑。Kenzo 非常努力地完成了它。他用楼梯做屋顶，用围栏做里面的动物圈。\n\n谷仓建好后，里面完全是空的。Kenzo 计划在下一次冒险中把牛、羊、猪和鸡带回来填满它。他为自己的新建筑感到自豪。",
+      "highlight_words": [
+        "build",
+        "roof",
+        "empty",
+        "saplings",
+        "proud"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Kenzo decided to **build** a big barn for his animals. He needed a lot of wood, so he chopped down many trees. He felt bad about cutting the trees, but he planted new saplings so they would grow back.",
+        "sentence_zh": "Kenzo 决定为他的动物建一个大谷仓。他需要很多木头，所以砍了很多树。他为砍树感到愧疚，但他种下了新树苗，这样树会重新长出来。",
+        "blank_word": "build",
+        "distractors": [
+          "break",
+          "burn",
+          "bury"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "The barn was a large building with a stone **roof** and wooden walls. Kenzo worked very hard to finish it. He used stairs for the roof and fences for the animal pens inside.",
+        "sentence_zh": "谷仓是一座有石头屋顶和木墙的大建筑。Kenzo 非常努力地完成了它。他用楼梯做屋顶，用围栏做里面的动物圈。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What material did Kenzo use for the barn's roof?",
+          "options": [
+            "Stone",
+            "Wood",
+            "Glass",
+            "Iron"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "When the barn was finished, it was completely **empty**. Kenzo planned to fill it with cows, sheep, pigs, and chickens in his next adventure. He was proud of his new building.",
+        "sentence_zh": "谷仓建好后，里面完全是空的。Kenzo 计划在下一次冒险中把牛、羊、猪和鸡带回来填满它。他为自己的新建筑感到自豪。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "true_false",
+        "quiz_payload": {
+          "statement": "The barn was already full of animals when Kenzo finished building it.",
+          "correct": false
+        }
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "What was Kenzo's plan for the barn?",
+      "payload": {
+        "options": [
+          "To fill it with different farm animals",
+          "To use it as a storage room",
+          "To live inside it himself",
+          "To sell it to villagers"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-easy-english-listening",
+      "kind": "reading",
+      "title": "Learn English with Minecraft! Easy English Listening — Reading",
+      "description": "Read and practice vocabulary from \"Learn English with Minecraft! Easy English Listening\" — 3 reading segments with mixed quizzes.",
+      "difficulty": 1,
+      "est_minutes": 4,
+      "xp_reward": 30,
+      "unlock_level": 1,
+      "thumbnail_key": null,
+      "source_label": "Based on Learn English with Minecraft — Ep. 1",
+      "source_url": "https://www.youtube.com/watch?v=O0PozHc7Rrk",
+      "source_license": "youtube-embed",
+      "sort_order": 101,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Learn English with Minecraft! Easy English Listening — Reading Practice",
+      "passage_md": "Kenzo started a new Minecraft world called Fish Land. He wanted to find a place near the **ocean** so he could travel by boat. He also needed to be close to a **forest** because he needed a lot of wood.\n\nHe found a good spot near a village, a river, and some trees. He started to **build** a basic shelter on the beach. He used wood to make planks, a crafting table, and stone tools.\n\nWhen night came, **monsters** appeared everywhere. Kenzo had to fight skeletons and spiders with his sword. He ran to the village to find a bed. In the morning, the monsters burned in the sunlight and he was safe again.",
+      "transcript_zh": "Kenzo 创建了一个新的 Minecraft 世界，叫做 Fish Land。他想找一个靠近大海的地方，这样可以乘船旅行。他还需要靠近森林，因为他需要很多木头。\n\n他找到了一个好地方，靠近村庄、河流和树林。他开始在沙滩上建造一个简易避难所。他用木头做成木板、工作台和石制工具。\n\n当夜晚来临时，怪物到处出现。Kenzo 不得不用剑跟骷髅和蜘蛛战斗。他跑到村庄找了一张床。早上，怪物在阳光下燃烧，他又安全了。",
+      "highlight_words": [
+        "ocean",
+        "build",
+        "forest",
+        "monsters",
+        "shelter"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Kenzo started a new Minecraft world called Fish Land. He wanted to find a place near the **ocean** so he could travel by boat. He also needed to be close to a **forest** because he needed a lot of wood.",
+        "sentence_zh": "Kenzo 创建了一个新的 Minecraft 世界，叫做 Fish Land。他想找一个靠近大海的地方，这样可以乘船旅行。他还需要靠近森林，因为他需要很多木头。",
+        "blank_word": "ocean",
+        "distractors": [
+          "river",
+          "desert",
+          "mountain"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "He found a good spot near a village, a river, and some trees. He started to **build** a basic shelter on the beach. He used wood to make planks, a crafting table, and stone tools.",
+        "sentence_zh": "他找到了一个好地方，靠近村庄、河流和树林。他开始在沙滩上建造一个简易避难所。他用木头做成木板、工作台和石制工具。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What did Kenzo use to make his tools?",
+          "options": [
+            "Wood and stone",
+            "Iron and gold",
+            "Diamond and obsidian",
+            "Sand and gravel"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "When night came, **monsters** appeared everywhere. Kenzo had to fight skeletons and spiders with his sword. He ran to the village to find a bed. In the morning, the monsters burned in the sunlight and he was safe again.",
+        "sentence_zh": "当夜晚来临时，怪物到处出现。Kenzo 不得不用剑跟骷髅和蜘蛛战斗。他跑到村庄找了一张床。早上，怪物在阳光下燃烧，他又安全了。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "true_false",
+        "quiz_payload": {
+          "statement": "Kenzo used a bow to fight the monsters at night.",
+          "correct": false
+        }
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "What was Kenzo's main goal in this episode?",
+      "payload": {
+        "options": [
+          "Create a new world and build a basic shelter",
+          "Defeat the Ender Dragon",
+          "Find diamonds underground",
+          "Trade with villagers"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-intermediate-english-minecraft-1",
+      "kind": "reading",
+      "title": "Intermediate English - Minecraft #1 — Reading",
+      "description": "Read and practice vocabulary from \"Intermediate English - Minecraft #1\" — 5 reading segments with mixed quizzes.",
+      "difficulty": 3,
+      "est_minutes": 8,
+      "xp_reward": 50,
+      "unlock_level": 3,
+      "thumbnail_key": null,
+      "source_label": "Based on Learn English with Minecraft — Ep. 39",
+      "source_url": "https://www.youtube.com/watch?v=H11VGRQlDrg",
+      "source_license": "youtube-embed",
+      "sort_order": 139,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Intermediate English - Minecraft #1 — Reading Practice",
+      "passage_md": "Kenzo started a brand new Minecraft world for his intermediate English series. Unlike his beginner episodes, this series used more complex vocabulary and faster-paced **narration** to challenge viewers who already had basic English skills.\n\nHis first priority was establishing a base of operations. He gathered wood, crafted essential tools, and built a small shelter before nightfall. The process required careful **prioritization** — he needed to balance collecting resources with building protection against the monsters that would appear after dark.\n\nDuring his exploration, Kenzo encountered various biomes including forests, plains, and mountains. He explained the characteristics of each biome and discussed the strategic **advantages** of settling in different locations. Eventually, he chose a spot near water and a forest for optimal resource access.\n\nAs night fell, Kenzo experienced the full danger of survival mode. Creepers, skeletons, and zombies surrounded his basic shelter. He had to defend himself while simultaneously trying to upgrade his tools and armor — a challenging **multitasking** exercise that tested both his gaming and English skills.\n\nBy the end of the episode, Kenzo had established a functional base with basic amenities. He reflected on the differences between this series and his beginner content, noting that the vocabulary and sentence structures would become **progressively** more advanced as the series continued.",
+      "transcript_zh": "Kenzo 为他的中级英语系列开始了一个全新的 Minecraft 世界。与初级集数不同，这个系列使用更复杂的词汇和更快的叙事节奏，挑战那些已有基础英语技能的观众。\n\n他的首要任务是建立一个操作基地。他收集木材，制作必要工具，并在天黑前建了一个小避难所。这个过程需要仔细的优先级排序——他需要在收集资源和建造防御工事之间取得平衡。\n\n探索过程中，Kenzo 遇到了各种生物群系，包括森林、平原和山脉。他解释了每个生物群系的特征，并讨论了在不同位置定居的战略优势。最终，他选择了一个靠近水和森林的地点，以获得最佳的资源获取。\n\n夜幕降临时，Kenzo 体验到了生存模式的全部危险。苦力怕、骷髅和僵尸包围了他的简陋避难所。他必须一边防御一边升级工具和护甲——这是一个具有挑战性的多任务练习。\n\n到这集结束时，Kenzo 已经建立了一个功能齐全的基地。他反思了这个系列和初级内容的区别，指出词汇和句式结构会随着系列继续而逐步变得更加高级。",
+      "highlight_words": [
+        "narration",
+        "prioritization",
+        "advantages",
+        "multitasking",
+        "progressively"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Kenzo started a brand new Minecraft world for his intermediate English series. Unlike his beginner episodes, this series used more complex vocabulary and faster-paced **narration** to challenge viewers who already had basic English skills.",
+        "sentence_zh": "Kenzo 为他的中级英语系列开始了一个全新的 Minecraft 世界。与初级集数不同，这个系列使用更复杂的词汇和更快的叙事节奏，挑战那些已有基础英语技能的观众。",
+        "blank_word": "narration",
+        "distractors": [
+          "notation",
+          "navigation",
+          "nomination"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "His first priority was establishing a base of operations. He gathered wood, crafted essential tools, and built a small shelter before nightfall. The process required careful **prioritization** — he needed to balance collecting resources with building protection against the monsters that would appear after dark.",
+        "sentence_zh": "他的首要任务是建立一个操作基地。他收集木材，制作必要工具，并在天黑前建了一个小避难所。这个过程需要仔细的优先级排序——他需要在收集资源和建造防御工事之间取得平衡。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "Why did Kenzo need to prioritize his tasks?",
+          "options": [
+            "He needed to balance resource gathering with building defenses before dark",
+            "He wanted to find diamonds before other players",
+            "He needed to reach the Nether before morning",
+            "He was competing against a timer"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "During his exploration, Kenzo encountered various biomes including forests, plains, and mountains. He explained the characteristics of each biome and discussed the strategic **advantages** of settling in different locations. Eventually, he chose a spot near water and a forest for optimal resource access.",
+        "sentence_zh": "探索过程中，Kenzo 遇到了各种生物群系，包括森林、平原和山脉。他解释了每个生物群系的特征，并讨论了在不同位置定居的战略优势。最终，他选择了一个靠近水和森林的地点。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "word_match",
+        "quiz_payload": {
+          "pairs": [
+            {
+              "word": "biome",
+              "definition": "A large natural area with distinct climate and life forms"
+            },
+            {
+              "word": "strategic",
+              "definition": "Carefully planned to achieve a specific goal"
+            },
+            {
+              "word": "optimal",
+              "definition": "The best or most favorable option available"
+            },
+            {
+              "word": "establish",
+              "definition": "To set up or create something for the first time"
+            }
+          ],
+          "shuffled_defs": [
+            "Carefully planned to achieve a specific goal",
+            "The best or most favorable option available",
+            "To set up or create something for the first time",
+            "A large natural area with distinct climate and life forms"
+          ]
+        }
+      },
+      {
+        "sort_order": 3,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "As night fell, Kenzo experienced the full danger of survival mode. Creepers, skeletons, and zombies surrounded his basic shelter. He had to defend himself while simultaneously trying to upgrade his tools and armor — a challenging **multitasking** exercise that tested both his gaming and English skills.",
+        "sentence_zh": "夜幕降临时，Kenzo 体验到了生存模式的全部危险。苦力怕、骷髅和僵尸包围了他的简陋避难所。他必须一边防御一边升级工具和护甲——这是一个具有挑战性的多任务练习。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "sentence_order",
+        "quiz_payload": {
+          "sentences": [
+            "Kenzo gathered wood and crafted basic tools.",
+            "He built a small shelter before nightfall.",
+            "Monsters surrounded his shelter at night.",
+            "He defended himself while upgrading equipment."
+          ],
+          "correct_order": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "sort_order": 4,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "By the end of the episode, Kenzo had established a functional base with basic amenities. He reflected on the differences between this series and his beginner content, noting that the vocabulary and sentence structures would become **progressively** more advanced as the series continued.",
+        "sentence_zh": "到这集结束时，Kenzo 已经建立了一个功能齐全的基地。他反思了这个系列和初级内容的区别，指出词汇和句式结构会随着系列继续而逐步变得更加高级。",
+        "blank_word": "progressively",
+        "distractors": [
+          "permanently",
+          "previously",
+          "practically"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "What makes this intermediate series different from the beginner series?",
+      "payload": {
+        "options": [
+          "More complex vocabulary and faster narration pace",
+          "It uses a different game instead of Minecraft",
+          "The episodes are much shorter",
+          "It focuses only on grammar rules"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-intermediate-english-minecraft-10",
+      "kind": "reading",
+      "title": "Intermediate English - Minecraft #10 — Reading",
+      "description": "Read and practice vocabulary from \"Intermediate English - Minecraft #10\" — 5 reading segments with mixed quizzes.",
+      "difficulty": 3,
+      "est_minutes": 8,
+      "xp_reward": 50,
+      "unlock_level": 3,
+      "thumbnail_key": null,
+      "source_label": "Based on Learn English with Minecraft — Ep. 48",
+      "source_url": "https://www.youtube.com/watch?v=tS7K_xBgCxQ",
+      "source_license": "youtube-embed",
+      "sort_order": 148,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Intermediate English - Minecraft #10 — Reading Practice",
+      "passage_md": "In the tenth episode of his intermediate series, Kenzo prepared for what he described as the most **consequential** adventure yet — entering the Nether dimension for the first time. The Nether is a hellish landscape filled with lava, dangerous terrain, and powerful hostile creatures.\n\nBefore entering the portal, Kenzo made thorough preparations. He crafted extra tools, brought abundant food, and ensured he had fire resistance potions. He emphasized that **inadequate** preparation was the most common reason players die in the Nether, losing all their valuable items.\n\nThe Nether was overwhelming. Rivers of lava flowed between massive formations of netherrack, while ghasts — enormous floating creatures — shot explosive fireballs from the sky. Kenzo had to **simultaneously** navigate treacherous terrain and dodge incoming attacks.\n\nHis primary objective was finding a Nether fortress, which contained blaze spawners. Blaze rods dropped by blazes are essential for crafting Eyes of Ender, which would eventually lead him to the End Portal. The fortress was **fortified** with dark brick corridors and populated by dangerous wither skeletons.\n\nAfter a harrowing battle at the blaze spawner, Kenzo collected enough blaze rods to continue his journey. He reflected on how far his English had come since the beginning of the series, noting that his ability to describe complex situations and express **abstract** concepts had improved significantly.",
+      "transcript_zh": "在中级系列的第十集中，Kenzo 准备进行他所说的最关键的冒险——第一次进入下界维度。下界是一个充满岩浆、危险地形和强大敌对生物的地狱般景观。\n\n进入传送门前，Kenzo 做了充分的准备。他制作了额外的工具，带了充足的食物，并确保有抗火药水。他强调，准备不足是玩家死在下界的最常见原因，会失去所有贵重物品。\n\n下界令人应接不暇。岩浆河流淌在巨大的下界岩层之间，恶魂——巨大的漂浮生物——从空中发射爆炸性火球。Kenzo 必须同时应对危险地形和躺避来袭的攻击。\n\n他的主要目标是找到下界堡垒，里面有烈焰人刷怪笼。烈焰人掉落的烈焰棒是制作末影之眼的关键材料，最终会引导他找到末地传送门。堡垒由深色砖块走廊构成，里面住着危险的凋灵骷髅。\n\n在烈焰人刷怪笼旁经历了一场惊心动魄的战斗后，Kenzo 收集了足够的烈焰棒继续他的旅程。他反思了自己的英语从系列开始以来进步了多少，注意到他描述复杂情况和表达抽象概念的能力已经显著提高。",
+      "highlight_words": [
+        "consequential",
+        "inadequate",
+        "simultaneously",
+        "fortified",
+        "abstract"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "In the tenth episode of his intermediate series, Kenzo prepared for what he described as the most **consequential** adventure yet — entering the Nether dimension for the first time. The Nether is a hellish landscape filled with lava, dangerous terrain, and powerful hostile creatures.",
+        "sentence_zh": "在中级系列的第十集中，Kenzo 准备进行他所说的最关键的冒险——第一次进入下界维度。下界是一个充满岩浆、危险地形和强大敌对生物的地狱般景观。",
+        "blank_word": "consequential",
+        "distractors": [
+          "controversial",
+          "conventional",
+          "confidential"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Before entering the portal, Kenzo made thorough preparations. He crafted extra tools, brought abundant food, and ensured he had fire resistance potions. He emphasized that **inadequate** preparation was the most common reason players die in the Nether, losing all their valuable items.",
+        "sentence_zh": "进入传送门前，Kenzo 做了充分的准备。他制作了额外的工具，带了充足的食物，并确保有抗火药水。他强调，准备不足是玩家死在下界的最常见原因。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What did Kenzo say was the most common reason players die in the Nether?",
+          "options": [
+            "Inadequate preparation before entering",
+            "Getting lost without a map",
+            "Running out of building blocks",
+            "Being attacked by the Ender Dragon"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "The Nether was overwhelming. Rivers of lava flowed between massive formations of netherrack, while ghasts — enormous floating creatures — shot explosive fireballs from the sky. Kenzo had to **simultaneously** navigate treacherous terrain and dodge incoming attacks.",
+        "sentence_zh": "下界令人应接不暇。岩浆河流淌在巨大的下界岩层之间，恶魂——巨大的漂浮生物——从空中发射爆炸性火球。Kenzo 必须同时应对危险地形和躺避来袭的攻击。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "word_match",
+        "quiz_payload": {
+          "pairs": [
+            {
+              "word": "ghast",
+              "definition": "A large flying creature that shoots explosive fireballs"
+            },
+            {
+              "word": "treacherous",
+              "definition": "Very dangerous and unpredictable, likely to cause harm"
+            },
+            {
+              "word": "harrowing",
+              "definition": "Extremely frightening and distressing"
+            },
+            {
+              "word": "abundant",
+              "definition": "Existing in very large quantities; plentiful"
+            }
+          ],
+          "shuffled_defs": [
+            "Very dangerous and unpredictable, likely to cause harm",
+            "Extremely frightening and distressing",
+            "Existing in very large quantities; plentiful",
+            "A large flying creature that shoots explosive fireballs"
+          ]
+        }
+      },
+      {
+        "sort_order": 3,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "His primary objective was finding a Nether fortress, which contained blaze spawners. Blaze rods dropped by blazes are essential for crafting Eyes of Ender, which would eventually lead him to the End Portal. The fortress was **fortified** with dark brick corridors and populated by dangerous wither skeletons.",
+        "sentence_zh": "他的主要目标是找到下界堡垒，里面有烈焰人刷怪笼。烈焰人掉落的烈焰棒是制作末影之眼的关键材料。堡垒由深色砖块走廊构成，里面住着危险的凋灵骷髅。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "sentence_order",
+        "quiz_payload": {
+          "sentences": [
+            "Kenzo prepared tools, food, and fire resistance potions.",
+            "He entered the Nether portal.",
+            "He navigated past ghasts and lava rivers.",
+            "He found the Nether fortress and fought blazes."
+          ],
+          "correct_order": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "sort_order": 4,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "After a harrowing battle at the blaze spawner, Kenzo collected enough blaze rods to continue his journey. He reflected on how far his English had come since the beginning of the series, noting that his ability to describe complex situations and express **abstract** concepts had improved significantly.",
+        "sentence_zh": "在烈焰人刷怪笼旁经历了一场惊心动魄的战斗后，Kenzo 收集了足够的烈焰棒继续他的旅程。他反思了自己的英语从系列开始以来进步了多少，注意到他描述复杂情况和表达抽象概念的能力已经显著提高。",
+        "blank_word": "abstract",
+        "distractors": [
+          "absolute",
+          "abundant",
+          "accurate"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "Why were blaze rods important for Kenzo's overall journey?",
+      "payload": {
+        "options": [
+          "They are needed to craft Eyes of Ender to find the End Portal",
+          "They can be used as fuel for furnaces",
+          "They are required to build a Nether portal",
+          "They give the player fire resistance permanently"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  },
+  {
+    "course": {
+      "id": "reading-minecraft-intermediate-english-minecraft-5",
+      "kind": "reading",
+      "title": "Intermediate English - Minecraft #5 — Reading",
+      "description": "Read and practice vocabulary from \"Intermediate English - Minecraft #5\" — 5 reading segments with mixed quizzes.",
+      "difficulty": 3,
+      "est_minutes": 8,
+      "xp_reward": 50,
+      "unlock_level": 3,
+      "thumbnail_key": null,
+      "source_label": "Based on Learn English with Minecraft — Ep. 43",
+      "source_url": "https://www.youtube.com/watch?v=ByvgpXK-qVE",
+      "source_license": "youtube-embed",
+      "sort_order": 143,
+      "is_active": true
+    },
+    "lesson": {
+      "step_index": 0,
+      "kind": "reading_passage",
+      "title": "Intermediate English - Minecraft #5 — Reading Practice",
+      "passage_md": "In this intermediate episode, Kenzo undertook an **ambitious** mining expedition deep underground. His goal was to find enough diamonds to craft a complete set of diamond armor and tools, which would be essential for surviving the more dangerous areas of the game.\n\nThe mining strategy involved strip mining at level -59, which is considered the optimal depth for diamond **distribution**. Kenzo dug long tunnels with branches spaced two blocks apart, maximizing his chances of exposing diamond ore while minimizing wasted effort.\n\nDuring his excavation, Kenzo discovered a massive cave system filled with hostile mobs. The cave contained valuable resources but was extremely dangerous. He had to navigate through narrow passages while fighting off cave spiders whose poison could **gradually** drain his health over time.\n\nAfter hours of mining, Kenzo collected enough diamonds to craft a full set of armor. He explained the **significance** of each piece — the helmet provides water breathing, the chestplate offers the most protection, leggings balance defense with mobility, and boots can be enchanted with feather falling.\n\nReturning to the surface, Kenzo enchanted his new diamond gear at the enchanting table. He discussed how different enchantments **complement** each other, creating powerful combinations that would prepare him for the challenges ahead.",
+      "transcript_zh": "在这集中级节目中，Kenzo 进行了一次雄心勃勃的地下深处挖矿远征。他的目标是找到足够的钻石来制作一套完整的钻石护甲和工具，这对于在更危险的区域生存至关重要。\n\n挖矿策略是在 -59 层进行带状挖矿，这被认为是钻石分布的最佳深度。Kenzo 挖了很长的隋道，分支每隔两格，最大化暴露钻石矿的机会，同时减少浪费的劳动。\n\n挖掘过程中，Kenzo 发现了一个巨大的洞穴系统，里面充满敌对生物。洞穴包含宝贵资源但极其危险。他必须在狭窄的通道中穿行，同时打击能逐渐消耗他血量的洞穴蜘蛛。\n\n经过数小时的挖矿，Kenzo 收集了足够的钻石来制作一套完整的护甲。他解释了每件装备的重要性——头盔提供水下呼吸，胸甲提供最多保护，护腿在防御和机动性之间取得平衡，靴子可以附魔缓降。\n\n回到地面后，Kenzo 在附魔台上给新的钻石装备附魔。他讨论了不同的附魔如何互相补充，创造出强大的组合，为接下来的挑战做准备。",
+      "highlight_words": [
+        "ambitious",
+        "distribution",
+        "gradually",
+        "significance",
+        "complement"
+      ],
+      "xp_reward": 20
+    },
+    "segments": [
+      {
+        "sort_order": 0,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "In this intermediate episode, Kenzo undertook an **ambitious** mining expedition deep underground. His goal was to find enough diamonds to craft a complete set of diamond armor and tools, which would be essential for surviving the more dangerous areas of the game.",
+        "sentence_zh": "在这集中级节目中，Kenzo 进行了一次雄心勃勃的地下深处挖矿远征。他的目标是找到足够的钻石来制作一套完整的钻石护甲和工具。",
+        "blank_word": "ambitious",
+        "distractors": [
+          "anonymous",
+          "automatic",
+          "authentic"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      },
+      {
+        "sort_order": 1,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "The mining strategy involved strip mining at level -59, which is considered the optimal depth for diamond **distribution**. Kenzo dug long tunnels with branches spaced two blocks apart, maximizing his chances of exposing diamond ore while minimizing wasted effort.",
+        "sentence_zh": "挖矿策略是在 -59 层进行带状挖矿，这被认为是钻石分布的最佳深度。Kenzo 挖了很长的隋道，分支每隔两格，最大化暴露钻石矿的机会。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "comprehension",
+        "quiz_payload": {
+          "prompt": "What mining strategy did Kenzo use to find diamonds?",
+          "options": [
+            "Strip mining at level -59 with branches two blocks apart",
+            "Digging random holes from the surface",
+            "Following lava flows to find diamonds nearby",
+            "Using a map to locate diamond deposits"
+          ],
+          "correct": 0
+        }
+      },
+      {
+        "sort_order": 2,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "During his excavation, Kenzo discovered a massive cave system filled with hostile mobs. The cave contained valuable resources but was extremely dangerous. He had to navigate through narrow passages while fighting off cave spiders whose poison could **gradually** drain his health over time.",
+        "sentence_zh": "挖掘过程中，Kenzo 发现了一个巨大的洞穴系统，里面充满敌对生物。洞穴包含宝贵资源但极其危险。他必须在狭窄的通道中穿行，同时打击能逐渐消耗他血量的洞穴蜘蛛。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "word_match",
+        "quiz_payload": {
+          "pairs": [
+            {
+              "word": "excavation",
+              "definition": "The process of digging to remove earth or rock"
+            },
+            {
+              "word": "hostile",
+              "definition": "Unfriendly and ready to attack or fight"
+            },
+            {
+              "word": "navigate",
+              "definition": "To find your way through a difficult area"
+            },
+            {
+              "word": "expedition",
+              "definition": "A long journey taken for a specific purpose"
+            }
+          ],
+          "shuffled_defs": [
+            "Unfriendly and ready to attack or fight",
+            "To find your way through a difficult area",
+            "A long journey taken for a specific purpose",
+            "The process of digging to remove earth or rock"
+          ]
+        }
+      },
+      {
+        "sort_order": 3,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "After hours of mining, Kenzo collected enough diamonds to craft a full set of armor. He explained the **significance** of each piece — the helmet provides water breathing, the chestplate offers the most protection, leggings balance defense with mobility, and boots can be enchanted with feather falling.",
+        "sentence_zh": "经过数小时的挖矿，Kenzo 收集了足够的钻石来制作一套完整的护甲。他解释了每件装备的重要性——头盔提供水下呼吸，胸甲提供最多保护，护腿平衡防御和机动性，靴子可以附魔缓降。",
+        "blank_word": null,
+        "distractors": [],
+        "qtype": "sentence_order",
+        "quiz_payload": {
+          "sentences": [
+            "Kenzo mined at the optimal depth for diamonds.",
+            "He discovered a cave system with hostile mobs.",
+            "He collected enough diamonds for a full armor set.",
+            "He enchanted the diamond gear at the enchanting table."
+          ],
+          "correct_order": [
+            0,
+            1,
+            2,
+            3
+          ]
+        }
+      },
+      {
+        "sort_order": 4,
+        "start_sec": 0,
+        "end_sec": 0,
+        "sentence_en": "Returning to the surface, Kenzo enchanted his new diamond gear at the enchanting table. He discussed how different enchantments **complement** each other, creating powerful combinations that would prepare him for the challenges ahead.",
+        "sentence_zh": "回到地面后，Kenzo 在附魔台上给新的钻石装备附魔。他讨论了不同的附魔如何互相补充，创造出强大的组合，为接下来的挑战做准备。",
+        "blank_word": "complement",
+        "distractors": [
+          "complicate",
+          "compromise",
+          "compensate"
+        ],
+        "qtype": "vocabulary_cloze",
+        "quiz_payload": null
+      }
+    ],
+    "question": {
+      "kind": "mcq",
+      "prompt": "What was Kenzo's main strategy for finding diamonds efficiently?",
+      "payload": {
+        "options": [
+          "Strip mining at the optimal depth with spaced branches",
+          "Exploring existing caves and looking on walls",
+          "Trading with villagers for diamonds",
+          "Using TNT to blast open large areas"
+        ],
+        "correct": 0
+      },
+      "xp_reward": 10,
+      "sort_order": 0
+    }
+  }
+]

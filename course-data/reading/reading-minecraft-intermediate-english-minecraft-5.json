@@ -1,0 +1,85 @@
+{
+  "course": {
+    "id": "reading-minecraft-intermediate-english-minecraft-5",
+    "kind": "reading",
+    "title": "Intermediate English - Minecraft #5 — Reading",
+    "description": "Read and practice vocabulary from \"Intermediate English - Minecraft #5\" — 5 reading segments with mixed quizzes.",
+    "difficulty": 3,
+    "est_minutes": 8,
+    "xp_reward": 50,
+    "unlock_level": 3,
+    "thumbnail_key": "reading",
+    "source_label": "Based on Learn English with Minecraft — Ep. 43",
+    "source_url": "https://www.youtube.com/watch?v=ByvgpXK-qVE",
+    "source_license": "youtube-embed",
+    "sort_order": 143,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "reading_passage",
+    "title": "Intermediate English - Minecraft #5 — Reading Practice",
+    "passage_md": "",
+    "transcript_zh": "",
+    "highlight_words": [],
+    "xp_reward": 20
+  },
+  "segments": [
+    {
+      "sort_order": 0,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "",
+      "sentence_zh": "",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    },
+    {
+      "sort_order": 1,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "",
+      "sentence_zh": "",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "comprehension",
+      "quiz_payload": null
+    },
+    {
+      "sort_order": 2,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "",
+      "sentence_zh": "",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "word_match",
+      "quiz_payload": null
+    },
+    {
+      "sort_order": 3,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "",
+      "sentence_zh": "",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "sentence_order",
+      "quiz_payload": null
+    },
+    {
+      "sort_order": 4,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "",
+      "sentence_zh": "",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    }
+  ],
+  "question": null
+}

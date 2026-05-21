@@ -1,0 +1,155 @@
+{
+  "course": {
+    "id": "reading-minecraft-hardcore-live-home-improvement",
+    "kind": "reading",
+    "title": "Learn English with Minecraft Hardcore LIVE - Home Improvement — Reading",
+    "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore LIVE - Home Improvement\" — 5 reading segments with mixed quizzes.",
+    "difficulty": 3,
+    "est_minutes": 8,
+    "xp_reward": 50,
+    "unlock_level": 3,
+    "thumbnail_key": "reading",
+    "source_label": "Based on Learn English with Minecraft — Ep. 1",
+    "source_url": "https://www.youtube.com/watch?v=XrMXxY8eX0E",
+    "source_license": "youtube-embed",
+    "sort_order": 101,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "reading_passage",
+    "title": "Learn English with Minecraft Hardcore LIVE - Home Improvement — Reading Practice",
+    "passage_md": "Today I focused on making my base look **beautiful** instead of just functional. I added flower gardens, pathways made of **gravel**, and lanterns hanging from fence posts.\n\nI replaced my plain wooden floor with a **pattern** of different wood types: oak, spruce, and birch arranged in a checkerboard design that looks much more **elegant**.\n\nThe kitchen area got a major upgrade with smokers for cooking, **barrels** for storage, and a dining table made from trapdoors and fence posts. It looks like a real **restaurant** now!\n\nI added a second floor with a **balcony** overlooking the farm. The stairs are made of polished stone and the balcony has iron bars as railings for a modern **appearance**.\n\nThe final touch was adding a **fountain** in front of the house using water, slabs, and stairs. My base went from a survival shelter to a **gorgeous** home I'm proud of.",
+    "transcript_zh": "今天我专注于让基地看起来漂亮而不只是实用。我加了花园、用砾石做的小路和挂在栅栏柱上的灯笼。\n\n我把普通的木地板换成了不同木材类型的图案：橡木、云杉木和白桦木排列成棋盘格设计，看起来优雅多了。\n\n厨房区域获得了大升级，有用于烹饪的烟熏炉、用于储存的桶和用活板门和栅栏柱做的餐桌。现在它看起来像一家真正的餐厅！\n\n我加了一个带有俯瞰农场阳台的二楼。楼梯用打磨石制成，阳台有铁栏杆作为扶手，外观很现代。\n\n最后的点缀是在房子前面用水、台阶和楼梯加了一个喷泉。我的基地从一个生存庇护所变成了一个我引以为豪的漂亮家。",
+    "highlight_words": [
+      "beautiful",
+      "pattern",
+      "elegant",
+      "balcony",
+      "gorgeous"
+    ],
+    "xp_reward": 20
+  },
+  "segments": [
+    {
+      "sort_order": 0,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "Today I focused on making my base look **beautiful** instead of just functional. I added flower gardens, pathways made of **gravel**, and lanterns hanging from fence posts.",
+      "sentence_zh": "今天我专注于让基地看起来漂亮而不只是实用。我加了花园、用砾石做的小路和挂在栅栏柱上的灯笼。",
+      "blank_word": "beautiful",
+      "distractors": [
+        "attempted",
+        "material",
+        "organized"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    },
+    {
+      "sort_order": 1,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I replaced my plain wooden floor with a **pattern** of different wood types: oak, spruce, and birch arranged in a checkerboard design that looks much more **elegant**.",
+      "sentence_zh": "我把普通的木地板换成了不同木材类型的图案：橡木、云杉木和白桦木排列成棋盘格设计，看起来优雅多了。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "comprehension",
+      "quiz_payload": {
+        "prompt": "What happened in this paragraph?",
+        "options": [
+          "I replaced my plain wooden floor with a pattern of different...",
+          "The player went to sleep in a village",
+          "Nothing interesting happened today",
+          "The player decided to quit the game"
+        ],
+        "correct": 0
+      }
+    },
+    {
+      "sort_order": 2,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "The kitchen area got a major upgrade with smokers for cooking, **barrels** for storage, and a dining table made from trapdoors and fence posts. It looks like a real **restaurant** now!",
+      "sentence_zh": "厨房区域获得了大升级，有用于烹饪的烟熏炉、用于储存的桶和用活板门和栅栏柱做的餐桌。现在它看起来像一家真正的餐厅！",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "word_match",
+      "quiz_payload": {
+        "pairs": [
+          {
+            "word": "barrels",
+            "definition": "A word related to barrels"
+          },
+          {
+            "word": "restaurant",
+            "definition": "A word related to restaurant"
+          },
+          {
+            "word": "barrels",
+            "definition": "A word related to barrels"
+          }
+        ],
+        "shuffled_defs": [
+          "A word related to restaurant",
+          "A word related to barrels",
+          "A word related to barrels"
+        ]
+      }
+    },
+    {
+      "sort_order": 3,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I added a second floor with a **balcony** overlooking the farm. The stairs are made of polished stone and the balcony has iron bars as railings for a modern **appearance**.",
+      "sentence_zh": "我加了一个带有俯瞰农场阳台的二楼。楼梯用打磨石制成，阳台有铁栏杆作为扶手，外观很现代。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "sentence_order",
+      "quiz_payload": {
+        "sentences": [
+          "First action happened.",
+          "Then the next step followed.",
+          "Finally the result occurred.",
+          "The task was complete."
+        ],
+        "correct_order": [
+          0,
+          1,
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "sort_order": 4,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "The final touch was adding a **fountain** in front of the house using water, slabs, and stairs. My base went from a survival shelter to a **gorgeous** home I'm proud of.",
+      "sentence_zh": "最后的点缀是在房子前面用水、台阶和楼梯加了一个喷泉。我的基地从一个生存庇护所变成了一个我引以为豪的漂亮家。",
+      "blank_word": "fountain",
+      "distractors": [
+        "platform",
+        "scattered",
+        "prevented"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    }
+  ],
+  "question": {
+    "kind": "mcq",
+    "prompt": "What design was used for the floor pattern?",
+    "payload": {
+      "options": [
+        "A checkerboard with different wood types",
+        "All oak wood",
+        "Stone tiles",
+        "Carpet blocks"
+      ],
+      "correct": 0
+    },
+    "xp_reward": 10,
+    "sort_order": 0
+  }
+}

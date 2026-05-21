@@ -1,0 +1,155 @@
+{
+  "course": {
+    "id": "reading-minecraft-hardcore-8-the-nether",
+    "kind": "reading",
+    "title": "Learn English with Minecraft Hardcore #8 - The Nether — Reading",
+    "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore #8 - The Nether\" — 5 reading segments with mixed quizzes.",
+    "difficulty": 3,
+    "est_minutes": 8,
+    "xp_reward": 50,
+    "unlock_level": 3,
+    "thumbnail_key": "reading",
+    "source_label": "Based on Learn English with Minecraft — Ep. 15",
+    "source_url": "https://www.youtube.com/watch?v=XbPnLlUwv6k",
+    "source_license": "youtube-embed",
+    "sort_order": 115,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "reading_passage",
+    "title": "Learn English with Minecraft Hardcore #8 - The Nether — Reading Practice",
+    "passage_md": "Today I finally entered the **Nether** — a dangerous dimension made of fire, lava, and hostile creatures. I built a portal using obsidian blocks arranged in a **rectangular** frame.\n\nThe Nether looks terrifying. The ground is made of netherrack, there are seas of lava everywhere, and **enormous** fortresses made of dark bricks stretch across the landscape.\n\nGhasts flew overhead shooting fireballs while piglins **guarded** the bastion ruins. I wore gold armor to stop piglins from attacking me — they respect players wearing **gold**.\n\nI collected blaze rods from blazes in the Nether fortress. These are **essential** for brewing potions and crafting Eyes of Ender needed to find the stronghold and **eventually** defeat the dragon.\n\nThe Nether is eight times faster for **traveling** than the overworld. Every block you walk in the Nether equals eight blocks in the normal world, making it useful for building long-distance **shortcuts**.",
+    "transcript_zh": "今天我终于进入了下界——一个由火焰、岩浆和敌对生物组成的危险维度。我用黑曜石方块排列成长方形框架建造了传送门。\n\n下界看起来很可怕。地面由下界岩组成，到处都是岩浆海，还有由暗色砖块建成的巨大堡垒横跨景观。\n\n恶魂在头顶飞过发射火球，猪灵守卫着堡垒遗迹。我穿了金甲来阻止猪灵攻击我——它们尊重穿金甲的玩家。\n\n我在下界堡垒从烈焰人那里收集了烈焰棒。这些对酿造药水和制作末影之眼至关重要——找到要塞并最终打败龙需要它们。\n\n下界旅行比主世界快八倍。你在下界走一格等于正常世界的八格，使其对建造远距离捷径很有用。",
+    "highlight_words": [
+      "Nether",
+      "enormous",
+      "guarded",
+      "essential",
+      "traveling"
+    ],
+    "xp_reward": 20
+  },
+  "segments": [
+    {
+      "sort_order": 0,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "Today I finally entered the **Nether** — a dangerous dimension made of fire, lava, and hostile creatures. I built a portal using obsidian blocks arranged in a **rectangular** frame.",
+      "sentence_zh": "今天我终于进入了下界——一个由火焰、岩浆和敌对生物组成的危险维度。我用黑曜石方块排列成长方形框架建造了传送门。",
+      "blank_word": "Nether",
+      "distractors": [
+        "incredible",
+        "fortress",
+        "discovered"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    },
+    {
+      "sort_order": 1,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "The Nether looks terrifying. The ground is made of netherrack, there are seas of lava everywhere, and **enormous** fortresses made of dark bricks stretch across the landscape.",
+      "sentence_zh": "下界看起来很可怕。地面由下界岩组成，到处都是岩浆海，还有由暗色砖块建成的巨大堡垒横跨景观。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "comprehension",
+      "quiz_payload": {
+        "prompt": "What happened in this paragraph?",
+        "options": [
+          "The Nether looks terrifying",
+          "The player went to sleep in a village",
+          "Nothing interesting happened today",
+          "The player decided to quit the game"
+        ],
+        "correct": 0
+      }
+    },
+    {
+      "sort_order": 2,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "Ghasts flew overhead shooting fireballs while piglins **guarded** the bastion ruins. I wore gold armor to stop piglins from attacking me — they respect players wearing **gold**.",
+      "sentence_zh": "恶魂在头顶飞过发射火球，猪灵守卫着堡垒遗迹。我穿了金甲来阻止猪灵攻击我——它们尊重穿金甲的玩家。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "word_match",
+      "quiz_payload": {
+        "pairs": [
+          {
+            "word": "guarded",
+            "definition": "A word related to guarded"
+          },
+          {
+            "word": "gold",
+            "definition": "A word related to gold"
+          },
+          {
+            "word": "guarded",
+            "definition": "A word related to guarded"
+          }
+        ],
+        "shuffled_defs": [
+          "A word related to guarded",
+          "A word related to gold",
+          "A word related to guarded"
+        ]
+      }
+    },
+    {
+      "sort_order": 3,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I collected blaze rods from blazes in the Nether fortress. These are **essential** for brewing potions and crafting Eyes of Ender needed to find the stronghold and **eventually** defeat the dragon.",
+      "sentence_zh": "我在下界堡垒从烈焰人那里收集了烈焰棒。这些对酿造药水和制作末影之眼至关重要——找到要塞并最终打败龙需要它们。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "sentence_order",
+      "quiz_payload": {
+        "sentences": [
+          "First action happened.",
+          "Then the next step followed.",
+          "Finally the result occurred.",
+          "The task was complete."
+        ],
+        "correct_order": [
+          0,
+          1,
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "sort_order": 4,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "The Nether is eight times faster for **traveling** than the overworld. Every block you walk in the Nether equals eight blocks in the normal world, making it useful for building long-distance **shortcuts**.",
+      "sentence_zh": "下界旅行比主世界快八倍。你在下界走一格等于正常世界的八格，使其对建造远距离捷径很有用。",
+      "blank_word": "traveling",
+      "distractors": [
+        "ancient",
+        "structure",
+        "mountain"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    }
+  ],
+  "question": {
+    "kind": "mcq",
+    "prompt": "Why did the player wear gold armor in the Nether?",
+    "payload": {
+      "options": [
+        "To stop piglins from attacking",
+        "For better protection",
+        "Because it looks nice",
+        "To trade with villagers"
+      ],
+      "correct": 0
+    },
+    "xp_reward": 10,
+    "sort_order": 0
+  }
+}

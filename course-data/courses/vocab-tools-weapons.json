@@ -1,0 +1,40 @@
+{
+  "course": {
+    "id": "vocab-tools-weapons",
+    "kind": "vocabulary",
+    "title": "Tools & Weapons",
+    "description": "Master the essential gear every adventurer needs.",
+    "difficulty": 3,
+    "est_minutes": 10,
+    "xp_reward": 35,
+    "unlock_level": 1,
+    "source_label": "CraftWords Vocabulary",
+    "source_url": "",
+    "source_license": "original",
+    "sort_order": 103,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "vocab_drill",
+    "title": "Tools & Weapons",
+    "yt_video_id": null,
+    "yt_start_sec": null,
+    "yt_end_sec": null,
+    "passage_md": null,
+    "transcript_en": null,
+    "transcript_zh": null,
+    "highlight_words": [
+      "pickaxe",
+      "sword",
+      "shovel",
+      "axe",
+      "bow",
+      "arrow",
+      "shield",
+      "armor"
+    ],
+    "xp_reward": 35
+  },
+  "segments": []
+}

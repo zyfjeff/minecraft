@@ -1,0 +1,155 @@
+{
+  "course": {
+    "id": "reading-minecraft-hardcore-15-diamond-armor",
+    "kind": "reading",
+    "title": "Learn English with Minecraft Hardcore #15 - Diamond Armor — Reading",
+    "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore #15 - Diamond Armor\" — 5 reading segments with mixed quizzes.",
+    "difficulty": 3,
+    "est_minutes": 8,
+    "xp_reward": 50,
+    "unlock_level": 3,
+    "thumbnail_key": "reading",
+    "source_label": "Based on Learn English with Minecraft — Ep. 4",
+    "source_url": "https://www.youtube.com/watch?v=xlNG7Ffpkbg",
+    "source_license": "youtube-embed",
+    "sort_order": 104,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "reading_passage",
+    "title": "Learn English with Minecraft Hardcore #15 - Diamond Armor — Reading Practice",
+    "passage_md": "Today I finally had enough diamonds to craft a full set of **armor**: helmet, chestplate, leggings, and boots. I needed twenty-four diamonds in total — a huge **investment** of resources.\n\nThe chestplate alone uses eight diamonds and provides the most **protection** of any armor piece. Combined with my enchantments, I felt nearly **invincible** against normal mobs.\n\nI enchanted each piece with Protection IV and added Unbreaking III to make them last much longer. My helmet also got **Respiration** III so I can breathe longer **underwater**.\n\nThe boots received Feather Falling IV which **reduces** fall damage significantly. In Hardcore mode, falling from a high place could end your entire world, so this enchantment is **crucial**.\n\nWith full diamond armor, an enchanted sword, and my shield, I felt truly prepared for any **challenge** the game could throw at me. The Ender Dragon won't stand a **chance**!",
+    "transcript_zh": "今天我终于有了足够的钻石来制作一整套盔甲：头盔、胸甲、护腿和靴子。我总共需要二十四颗钻石——一笔巨大的资源投入。\n\n光胸甲就用了八颗钻石，提供所有盔甲部件中最高的防护。加上我的附魔，对付普通怪物我感觉几乎无敌。\n\n我给每件装备都附了保护IV并加了耐久III让它们用得更久。我的头盔还附了水下呼吸III这样我在水下能呼吸更久。\n\n靴子获得了摔落保护IV，能显著减少坠落伤害。在极限模式中，从高处掉落可能终结你的整个世界，所以这个附魔至关重要。\n\n有了全套钻石盔甲、附魔剑和盾牌，我感觉真正准备好了迎接游戏可能带来的任何挑战。末影龙没有机会！",
+    "highlight_words": [
+      "armor",
+      "protection",
+      "Respiration",
+      "reduces",
+      "challenge"
+    ],
+    "xp_reward": 20
+  },
+  "segments": [
+    {
+      "sort_order": 0,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "Today I finally had enough diamonds to craft a full set of **armor**: helmet, chestplate, leggings, and boots. I needed twenty-four diamonds in total — a huge **investment** of resources.",
+      "sentence_zh": "今天我终于有了足够的钻石来制作一整套盔甲：头盔、胸甲、护腿和靴子。我总共需要二十四颗钻石——一笔巨大的资源投入。",
+      "blank_word": "armor",
+      "distractors": [
+        "dangerous",
+        "destroyed",
+        "fortress"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    },
+    {
+      "sort_order": 1,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "The chestplate alone uses eight diamonds and provides the most **protection** of any armor piece. Combined with my enchantments, I felt nearly **invincible** against normal mobs.",
+      "sentence_zh": "光胸甲就用了八颗钻石，提供所有盔甲部件中最高的防护。加上我的附魔，对付普通怪物我感觉几乎无敌。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "comprehension",
+      "quiz_payload": {
+        "prompt": "What happened in this paragraph?",
+        "options": [
+          "The chestplate alone uses eight diamonds and provides the mo...",
+          "The player went to sleep in a village",
+          "Nothing interesting happened today",
+          "The player decided to quit the game"
+        ],
+        "correct": 0
+      }
+    },
+    {
+      "sort_order": 2,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I enchanted each piece with Protection IV and added Unbreaking III to make them last much longer. My helmet also got **Respiration** III so I can breathe longer **underwater**.",
+      "sentence_zh": "我给每件装备都附了保护IV并加了耐久III让它们用得更久。我的头盔还附了水下呼吸III这样我在水下能呼吸更久。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "word_match",
+      "quiz_payload": {
+        "pairs": [
+          {
+            "word": "Respiration",
+            "definition": "A word related to Respiration"
+          },
+          {
+            "word": "underwater",
+            "definition": "A word related to underwater"
+          },
+          {
+            "word": "Respiration",
+            "definition": "A word related to Respiration"
+          }
+        ],
+        "shuffled_defs": [
+          "A word related to underwater",
+          "A word related to Respiration",
+          "A word related to Respiration"
+        ]
+      }
+    },
+    {
+      "sort_order": 3,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "The boots received Feather Falling IV which **reduces** fall damage significantly. In Hardcore mode, falling from a high place could end your entire world, so this enchantment is **crucial**.",
+      "sentence_zh": "靴子获得了摔落保护IV，能显著减少坠落伤害。在极限模式中，从高处掉落可能终结你的整个世界，所以这个附魔至关重要。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "sentence_order",
+      "quiz_payload": {
+        "sentences": [
+          "First action happened.",
+          "Then the next step followed.",
+          "Finally the result occurred.",
+          "The task was complete."
+        ],
+        "correct_order": [
+          0,
+          1,
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "sort_order": 4,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "With full diamond armor, an enchanted sword, and my shield, I felt truly prepared for any **challenge** the game could throw at me. The Ender Dragon won't stand a **chance**!",
+      "sentence_zh": "有了全套钻石盔甲、附魔剑和盾牌，我感觉真正准备好了迎接游戏可能带来的任何挑战。末影龙没有机会！",
+      "blank_word": "challenge",
+      "distractors": [
+        "equipment",
+        "abandoned",
+        "dangerous"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    }
+  ],
+  "question": {
+    "kind": "mcq",
+    "prompt": "How many diamonds are needed for a full set of diamond armor?",
+    "payload": {
+      "options": [
+        "Twenty-four diamonds",
+        "Ten diamonds",
+        "Thirty-six diamonds",
+        "Sixteen diamonds"
+      ],
+      "correct": 0
+    },
+    "xp_reward": 10,
+    "sort_order": 0
+  }
+}

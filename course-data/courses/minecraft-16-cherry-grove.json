@@ -1,0 +1,107 @@
+{
+  "course": {
+    "id": "minecraft-16-cherry-grove",
+    "kind": "listening",
+    "title": "CHERRY GROVE!!",
+    "description": "Learn English with Minecraft — Episode 17. 5 curated listening segments with cloze quizzes.",
+    "difficulty": 2,
+    "est_minutes": 10,
+    "xp_reward": 55,
+    "unlock_level": 1,
+    "source_label": "Learn English with Minecraft — Ep. 17",
+    "source_url": "https://www.youtube.com/watch?v=1D7FJ8SDnFM",
+    "source_license": "youtube-embed",
+    "sort_order": 17,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "video_segment",
+    "title": "Learn English with Minecraft #16 - CHERRY GROVE!!",
+    "yt_video_id": "1D7FJ8SDnFM",
+    "yt_start_sec": 0,
+    "yt_end_sec": 1189,
+    "transcript_en": "And welcome back to learn English with Minecraft the series where I teach English while trying to beat Minecraft and hopefully this video goes better than the last video where I got impaled by a stalagmite and died all right let's go single player black dragons Flame and now we're loading the world all right oh no oh no I forgot that I slept in this Village instead of respawning at my house I respawned here at the Village which is really far away from my house and I don't have a map I have no way of getting back home oh no well I guess I'll start by collecting some wood and searching these people's houses to see if they have any materials inside chests do you have a chest yes you do do you have any chests no chests no but I will steal one of these beds um but not a white bed I want a bed that's a different color any chests nope do you have a chest nope all right I'll take this blue bed there we go the snow is floating in the air it's floating do you have any chests all right well I guess I'll start punching wood all right it's night time so I'll place my bed like this and sleep I'll pick up my bed and continue punching wood all right nope another wood up there all right and I'll plant this sapling so the tree will regrow hello iron golem all right now I'll turn all of this wood wooden planks like that I'll build a crafting table with one two three four wood all right I'll place it and now I'll build some sticks and I'll build a wooden pickaxe now I'm going to search for some Stone aha Stone and I'll start collecting some Stone so I can build stone tools oh there's a cat up there swimming in the water all right now I have 22 stone so I'm going to throw this pickaxe in the waterfall like that because I don't need it anymore all right crafting table so now I've built some of the different stone tools a stone pickaxe ax and sword and I accidentally built a wooden shovel all right oh and I also built a boat because I'm going to continue my search for the Cherry Grove biome I think that before I went this way this time I'm going to go this way towards the forest let's go I'm going to kill some of these animals because I'm going to need the meat to sorry cow all right I have 12 beef and three pork chop that should be enough for now all right into the forest a river that means I can place my boat and begin let's see boat and let's Sail all right time to get out of the boat and I'll pick it up and continue searching on land but first I need to eat let's see I'll place my crafting table and build a and now with the furnace I will the beef with wood using wood as fuel so now I have to wait for this meat to cook in the furnace I think that is the mountain that I died trying to climb so I'm not going to try climbing that mountain again there's a b flying up there all right I'm going to eat this steak the sun's going down I guess I'll place my bed and go to sleep come on it's almost night there we go all right morning and all of the steak is finished cooking there we go I will break the furnace and break the crafting table and the bed now let's continue our search that is a huge cave there are huge mountains over there those mountains are huge all right I'll swim across the river oh my goodness I can see some lava and some water over right next to each other and a frozen River which means that I can travel by boat really fast like this in the boat oh oh no no die oh oh run run I left my boat behind okay I'm running away run run that was a lot of enemies it's still chasing me I'm going to quickly place my crafting table and build a boat no no what what are you doing what are you doing there we go Boat Boat oh wow that was close place my boat and sail away it's another Village another Snow Village I'll check it out any chests any chests oh an empty map okay I could use a map because I have no idea where I am let's see ah all right cool so I am right there chests no any chests Yes red well let's continue it doesn't look like any of the crops are ready to be harvested all right let's climb up finally land that's not covered in snow over there I'm going to go that way but first the Sun is going down so I'm going to pick up my bed and let's continue polar bear is I know how dangerous polar bears are polar bears oh geez all right boats and let's start sailing and once again it's ocean as far as I can see ocean ocean there's lots of seaweed down there hello dolphins do you hear the Dolphins look at that it's a mushroom biome I'm going over there to check out the mushroom biome it's not a Cherry Grove but it's still really cool all right I'm getting out of the boat mushrooms are like cows they're red and they have mushrooms growing from their backs mushroom mushroom mushroom they have mushrooms growing from their backs and there are giant mushrooms another Island over there where's my boat there it is all right goodbye mushroom biome time to find a Cherry Grove biome I'll go this way towards the other Mushroom Island whoa what is that what is that that is huge wow but it's not a Cherry Grove biome the dolphin jumped out of the water 's going down pretty soon it'll be night time the Moon is coming up but I'm going to continue searching for the Cherry Grove biome because I've been searching for it for three videos now I need to find it I'm not ending this video until I find the Cherry Grove when I started searching for the Cherry Grove I thought it would be easy to find I didn't think it was going to be this maybe I don't have any Cherry Groves in this world and it's raining three hours later up up a b I saw these pink flowers and I got excited because I thought it was a cherry blossom biome we'll continue searching jump oh what was that that was a weird sound but look I found the cherry blossom biome I finally found the Cherry Grove biome wow with the pink trees all right I'm going to end this video right here oh I heard a zombie close by anyways I'm going to end this video right here and in the next video I'll explore this Cherry Grove biome thank you so much for watching if you liked this video there we go if you liked this video like And subscribe and I will see you in the next video see ya",
+    "transcript_zh": "",
+    "highlight_words": [
+      "pickaxe",
+      "furnace",
+      "build",
+      "biome",
+      "liked"
+    ],
+    "xp_reward": 20
+  },
+  "segments": [
+    {
+      "start_sec": 316,
+      "end_sec": 331,
+      "sentence_en": "I'm going to throw this pickaxe in the waterfall like that because I don't need it anymore all right.",
+      "sentence_zh": "",
+      "blank_word": "pickaxe",
+      "distractors": [
+        "lightning",
+        "leather",
+        "growing"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 487,
+      "end_sec": 502,
+      "sentence_en": "This meat to cook in the furnace I think that is the mountain that I died trying to climb.",
+      "sentence_zh": "",
+      "blank_word": "furnace",
+      "distractors": [
+        "hammer",
+        "piece",
+        "flowers"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 692,
+      "end_sec": 714,
+      "sentence_en": "And build a boat no no what what are you doing what are you doing there we go Boat Boat oh wow.",
+      "sentence_zh": "",
+      "blank_word": "build",
+      "distractors": [
+        "sand",
+        "iron",
+        "grove"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 886,
+      "end_sec": 903,
+      "sentence_en": "Look at that it's a mushroom biome I'm going over there to check out the mushroom biome it's not a Cherry Grove.",
+      "sentence_zh": "",
+      "blank_word": "biome",
+      "distractors": [
+        "milk",
+        "beach",
+        "learn"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    },
+    {
+      "start_sec": 1167,
+      "end_sec": 1182,
+      "sentence_en": "This Cherry Grove biome thank you so much for watching if you liked this video there we go if you liked this.",
+      "sentence_zh": "",
+      "blank_word": "liked",
+      "distractors": [
+        "magic",
+        "metal",
+        "sound"
+      ],
+      "qtype": "cloze",
+      "quiz_payload": null
+    }
+  ]
+}

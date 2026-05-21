@@ -1,0 +1,153 @@
+{
+  "course": {
+    "id": "reading-minecraft-hardcore-live-quest-for-the-anvil",
+    "kind": "reading",
+    "title": "Learn English with Minecraft Hardcore LIVE - Quest for the Anvil! — Reading",
+    "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore LIVE - Quest for the Anvil!\" — 5 reading segments with mixed quizzes.",
+    "difficulty": 3,
+    "est_minutes": 8,
+    "xp_reward": 50,
+    "unlock_level": 3,
+    "thumbnail_key": "reading",
+    "source_label": "Based on Learn English with Minecraft — Ep. 9",
+    "source_url": "https://www.youtube.com/watch?v=wOsVbTuSFvE",
+    "source_license": "youtube-embed",
+    "sort_order": 109,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "reading_passage",
+    "title": "Learn English with Minecraft Hardcore LIVE - Quest for the Anvil! — Reading Practice",
+    "passage_md": "My enchanted sword was almost broken and I **desperately** needed an anvil to repair it. Without repairs, my best weapon would be lost forever — a disaster in **Hardcore** mode.\n\nCrafting an anvil requires thirty-one iron ingots total. I didn't have nearly enough iron, so I had to go on a **massive** mining expedition deep **underground**.\n\nI found a large cave system rich with iron ore. I mined **efficiently**, following the ore veins and collecting everything I could. My pickaxe was wearing down from all the **constant** mining.\n\nAfter smelting all the iron, I finally had enough to craft the anvil! I placed it in my workshop and immediately repaired my **precious** diamond sword. It felt like a huge **relief**.\n\nThe anvil will save me many times in the future. Being able to repair and combine **enchantments** means my best gear can last **indefinitely** as long as I have materials.",
+    "transcript_zh": "我的附魔剑快要坏了，我迫切需要一个铁砧来修复它。没有修复，我最好的武器将永远失去——在极限模式中是灾难。\n\n制作铁砧总共需要三十一个铁锭。我的铁远远不够，所以必须进行一次大规模的地下深处采矿远征。\n\n我找到了一个富含铁矿的大型洞穴系统。我高效地挖矿，沿着矿脉收集能收集的一切。我的镐因为不断挖矿而磨损。\n\n冶炼完所有铁后，我终于有了足够的来制作铁砧！我把它放在工作间并立即修复了珍贵的钻石剑。感觉如释重负。\n\n铁砧将来会多次拯救我。能够修复和合并附魔意味着只要我有材料，最好的装备就能无限期使用。",
+    "highlight_words": [
+      "desperately",
+      "massive",
+      "efficiently",
+      "precious",
+      "enchantments"
+    ],
+    "xp_reward": 20
+  },
+  "segments": [
+    {
+      "sort_order": 0,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "My enchanted sword was almost broken and I **desperately** needed an anvil to repair it. Without repairs, my best weapon would be lost forever — a disaster in **Hardcore** mode.",
+      "sentence_zh": "我的附魔剑快要坏了，我迫切需要一个铁砧来修复它。没有修复，我最好的武器将永远失去——在极限模式中是灾难。",
+      "blank_word": "desperately",
+      "distractors": [
+        "collected",
+        "powerful",
+        "valuable"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    },
+    {
+      "sort_order": 1,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "Crafting an anvil requires thirty-one iron ingots total. I didn't have nearly enough iron, so I had to go on a **massive** mining expedition deep **underground**.",
+      "sentence_zh": "制作铁砧总共需要三十一个铁锭。我的铁远远不够，所以必须进行一次大规模的地下深处采矿远征。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "comprehension",
+      "quiz_payload": {
+        "prompt": "What happened in this paragraph?",
+        "options": [
+          "Crafting an anvil requires thirty-one iron ingots total",
+          "The player went to sleep in a village",
+          "Nothing interesting happened today",
+          "The player decided to quit the game"
+        ],
+        "correct": 0
+      }
+    },
+    {
+      "sort_order": 2,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I found a large cave system rich with iron ore. I mined **efficiently**, following the ore veins and collecting everything I could. My pickaxe was wearing down from all the **constant** mining.",
+      "sentence_zh": "我找到了一个富含铁矿的大型洞穴系统。我高效地挖矿，沿着矿脉收集能收集的一切。我的镐因为不断挖矿而磨损。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "word_match",
+      "quiz_payload": {
+        "pairs": [
+          {
+            "word": "efficiently",
+            "definition": "In a way that wastes no time"
+          },
+          {
+            "word": "constant",
+            "definition": "A word related to constant"
+          },
+          {
+            "word": "efficiently",
+            "definition": "In a way that wastes no time"
+          }
+        ],
+        "shuffled_defs": [
+          "In a way that wastes no time",
+          "A word related to constant",
+          "In a way that wastes no time"
+        ]
+      }
+    },
+    {
+      "sort_order": 3,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "After smelting all the iron, I finally had enough to craft the anvil! I placed it in my workshop and immediately repaired my **precious** diamond sword. It felt like a huge **relief**.",
+      "sentence_zh": "冶炼完所有铁后，我终于有了足够的来制作铁砧！我把它放在工作间并立即修复了珍贵的钻石剑。感觉如释重负。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "sentence_order",
+      "quiz_payload": {
+        "sentences": [
+          "After smelting all the iron, I finally had enough to craft the anvil.",
+          "I placed it in my workshop and immediately repaired my precious diamond sword.",
+          "It felt like a huge relief."
+        ],
+        "correct_order": [
+          0,
+          1,
+          2
+        ]
+      }
+    },
+    {
+      "sort_order": 4,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "The anvil will save me many times in the future. Being able to repair and combine **enchantments** means my best gear can last **indefinitely** as long as I have materials.",
+      "sentence_zh": "铁砧将来会多次拯救我。能够修复和合并附魔意味着只要我有材料，最好的装备就能无限期使用。",
+      "blank_word": "enchantments",
+      "distractors": [
+        "treasure",
+        "mountain",
+        "powerful"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    }
+  ],
+  "question": {
+    "kind": "mcq",
+    "prompt": "How many iron ingots are needed for an anvil?",
+    "payload": {
+      "options": [
+        "Thirty-one",
+        "Fifteen",
+        "Twenty",
+        "Ten"
+      ],
+      "correct": 0
+    },
+    "xp_reward": 10,
+    "sort_order": 0
+  }
+}

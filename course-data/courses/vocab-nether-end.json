@@ -1,0 +1,39 @@
+{
+  "course": {
+    "id": "vocab-nether-end",
+    "kind": "vocabulary",
+    "title": "The Nether & The End",
+    "description": "Words from the most dangerous dimensions in Minecraft.",
+    "difficulty": 4,
+    "est_minutes": 10,
+    "xp_reward": 40,
+    "unlock_level": 2,
+    "source_label": "CraftWords Vocabulary",
+    "source_url": "",
+    "source_license": "original",
+    "sort_order": 107,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "vocab_drill",
+    "title": "The Nether & The End",
+    "yt_video_id": null,
+    "yt_start_sec": null,
+    "yt_end_sec": null,
+    "passage_md": null,
+    "transcript_en": null,
+    "transcript_zh": null,
+    "highlight_words": [
+      "nether",
+      "portal",
+      "blaze",
+      "fortress",
+      "potion",
+      "stronghold",
+      "dragon"
+    ],
+    "xp_reward": 40
+  },
+  "segments": []
+}

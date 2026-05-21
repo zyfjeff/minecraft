@@ -1,0 +1,155 @@
+{
+  "course": {
+    "id": "reading-minecraft-hardcore-17-wall-upgrade",
+    "kind": "reading",
+    "title": "Learn English with Minecraft Hardcore #17 - Wall Upgrade! — Reading",
+    "description": "Read and practice vocabulary from \"Learn English with Minecraft Hardcore #17 - Wall Upgrade!\" — 5 reading segments with mixed quizzes.",
+    "difficulty": 3,
+    "est_minutes": 8,
+    "xp_reward": 50,
+    "unlock_level": 3,
+    "thumbnail_key": "reading",
+    "source_label": "Based on Learn English with Minecraft — Ep. 32",
+    "source_url": "https://www.youtube.com/watch?v=48KjLZ06L9Q",
+    "source_license": "youtube-embed",
+    "sort_order": 132,
+    "is_active": true
+  },
+  "lesson": {
+    "step_index": 0,
+    "kind": "reading_passage",
+    "title": "Learn English with Minecraft Hardcore #17 - Wall Upgrade! — Reading Practice",
+    "passage_md": "I decided it was time to **upgrade** the walls around my base. The old wooden fence wasn't strong enough to stop creepers from getting close and **exploding** my buildings.\n\nI chose to use stone bricks for the new wall because they look great and are **resistant** to explosions. I needed hundreds of stone bricks, so I set up a large **furnace** array to smelt them quickly.\n\nThe wall design includes **towers** at each corner with archer slots for shooting arrows at mobs. I made the wall three blocks high so spiders can't climb over **easily**.\n\nI added a moat filled with water around the outside of the wall. This **prevents** creepers from reaching the wall and also slows down any mobs trying to **approach** my base.\n\nThe finished wall looks **magnificent** with its towers, iron door gate, and torches on top. My base is now truly a **fortress** that nothing can easily break into.",
+    "transcript_zh": "我决定是时候升级基地周围的墙了。旧的木栅栏不够坚固，无法阻止苦力怕靠近并炸毁我的建筑。\n\n我选择用石砖建新墙，因为它们看起来很好而且抗爆。我需要数百个石砖，所以设了一排大型熔炉来快速冶炼。\n\n墙的设计包括每个角落的塔楼，带有射箭口可以向怪物射箭。我把墙做了三格高这样蜘蛛不能轻易爬过去。\n\n我在墙外面加了一圈充满水的护城河。这能防止苦力怕靠近墙壁，也减慢了任何试图接近我基地的怪物。\n\n完工的墙看起来壮观极了，有塔楼、铁门和顶部的火把。我的基地现在真的是一座什么都不能轻易闯入的堡垒。",
+    "highlight_words": [
+      "upgrade",
+      "resistant",
+      "towers",
+      "prevents",
+      "fortress"
+    ],
+    "xp_reward": 20
+  },
+  "segments": [
+    {
+      "sort_order": 0,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I decided it was time to **upgrade** the walls around my base. The old wooden fence wasn't strong enough to stop creepers from getting close and **exploding** my buildings.",
+      "sentence_zh": "我决定是时候升级基地周围的墙了。旧的木栅栏不够坚固，无法阻止苦力怕靠近并炸毁我的建筑。",
+      "blank_word": "upgrade",
+      "distractors": [
+        "dangerous",
+        "enormous",
+        "discovered"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    },
+    {
+      "sort_order": 1,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I chose to use stone bricks for the new wall because they look great and are **resistant** to explosions. I needed hundreds of stone bricks, so I set up a large **furnace** array to smelt them quickly.",
+      "sentence_zh": "我选择用石砖建新墙，因为它们看起来很好而且抗爆。我需要数百个石砖，所以设了一排大型熔炉来快速冶炼。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "comprehension",
+      "quiz_payload": {
+        "prompt": "What happened in this paragraph?",
+        "options": [
+          "I chose to use stone bricks for the new wall because they lo...",
+          "The player went to sleep in a village",
+          "Nothing interesting happened today",
+          "The player decided to quit the game"
+        ],
+        "correct": 0
+      }
+    },
+    {
+      "sort_order": 2,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "The wall design includes **towers** at each corner with archer slots for shooting arrows at mobs. I made the wall three blocks high so spiders can't climb over **easily**.",
+      "sentence_zh": "墙的设计包括每个角落的塔楼，带有射箭口可以向怪物射箭。我把墙做了三格高这样蜘蛛不能轻易爬过去。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "word_match",
+      "quiz_payload": {
+        "pairs": [
+          {
+            "word": "towers",
+            "definition": "A word related to towers"
+          },
+          {
+            "word": "easily",
+            "definition": "A word related to easily"
+          },
+          {
+            "word": "towers",
+            "definition": "A word related to towers"
+          }
+        ],
+        "shuffled_defs": [
+          "A word related to easily",
+          "A word related to towers",
+          "A word related to towers"
+        ]
+      }
+    },
+    {
+      "sort_order": 3,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "I added a moat filled with water around the outside of the wall. This **prevents** creepers from reaching the wall and also slows down any mobs trying to **approach** my base.",
+      "sentence_zh": "我在墙外面加了一圈充满水的护城河。这能防止苦力怕靠近墙壁，也减慢了任何试图接近我基地的怪物。",
+      "blank_word": null,
+      "distractors": [],
+      "qtype": "sentence_order",
+      "quiz_payload": {
+        "sentences": [
+          "First action happened.",
+          "Then the next step followed.",
+          "Finally the result occurred.",
+          "The task was complete."
+        ],
+        "correct_order": [
+          0,
+          1,
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "sort_order": 4,
+      "start_sec": 0,
+      "end_sec": 0,
+      "sentence_en": "The finished wall looks **magnificent** with its towers, iron door gate, and torches on top. My base is now truly a **fortress** that nothing can easily break into.",
+      "sentence_zh": "完工的墙看起来壮观极了，有塔楼、铁门和顶部的火把。我的基地现在真的是一座什么都不能轻易闯入的堡垒。",
+      "blank_word": "magnificent",
+      "distractors": [
+        "surrounded",
+        "entrance",
+        "permanent"
+      ],
+      "qtype": "vocabulary_cloze",
+      "quiz_payload": null
+    }
+  ],
+  "question": {
+    "kind": "mcq",
+    "prompt": "Why did the player add a moat around the wall?",
+    "payload": {
+      "options": [
+        "To prevent creepers from reaching the wall and slow down mobs",
+        "To grow fish",
+        "For decoration",
+        "To collect water for farming"
+      ],
+      "correct": 0
+    },
+    "xp_reward": 10,
+    "sort_order": 0
+  }
+}
