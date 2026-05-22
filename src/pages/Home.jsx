@@ -309,7 +309,7 @@ export default function Home(qoderProps) {
         </div>
 
         {/* Character illustration area */}
-        <div style={{
+        <div data-component="hero-avatar" style={{
           width: 100, height: 100, borderRadius: 'var(--radius-lg)',
           background: 'var(--color-grass)',
           display: 'flex', alignItems: 'center', justifyContent: 'center',
@@ -332,7 +332,7 @@ export default function Home(qoderProps) {
           </svg>
         </div>
 
-        <div style={{ flex: 1 }} data-qoder-id="qel-div-92456619" data-qoder-source="{&quot;qoderId&quot;:&quot;qel-div-92456619&quot;,&quot;filePath&quot;:&quot;react-vite/src/pages/Home.jsx&quot;,&quot;componentName&quot;:&quot;Home&quot;,&quot;elementRole&quot;:&quot;div&quot;,&quot;loc&quot;:{&quot;line&quot;:94,&quot;column&quot;:9}}">
+        <div data-component="hero-text" style={{ flex: 1, minWidth: 0 }} data-qoder-id="qel-div-92456619" data-qoder-source="{&quot;qoderId&quot;:&quot;qel-div-92456619&quot;,&quot;filePath&quot;:&quot;react-vite/src/pages/Home.jsx&quot;,&quot;componentName&quot;:&quot;Home&quot;,&quot;elementRole&quot;:&quot;div&quot;,&quot;loc&quot;:{&quot;line&quot;:94,&quot;column&quot;:9}}">
           <h2 style={{ marginBottom: 'var(--space-sm)' }} data-qoder-id="qel-h2-dca08720" data-qoder-source="{&quot;qoderId&quot;:&quot;qel-h2-dca08720&quot;,&quot;filePath&quot;:&quot;react-vite/src/pages/Home.jsx&quot;,&quot;componentName&quot;:&quot;Home&quot;,&quot;elementRole&quot;:&quot;h2&quot;,&quot;loc&quot;:{&quot;line&quot;:95,&quot;column&quot;:11}}">{greeting}, {displayName}!</h2>
           <p style={{ color: 'var(--color-muted)', marginBottom: 'var(--space-md)', fontSize: '15px' }} data-qoder-id="qel-p-f7d2321b" data-qoder-source="{&quot;qoderId&quot;:&quot;qel-p-f7d2321b&quot;,&quot;filePath&quot;:&quot;react-vite/src/pages/Home.jsx&quot;,&quot;componentName&quot;:&quot;Home&quot;,&quot;elementRole&quot;:&quot;p&quot;,&quot;loc&quot;:{&quot;line&quot;:96,&quot;column&quot;:11}}">
             {pendingCount > 0

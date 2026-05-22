@@ -472,6 +472,37 @@ h4 {
   .course-grid { grid-template-columns: repeat(4, minmax(0, 1fr)); }
 }
 
+/* --- Mobile portrait (手机竖屏) ---
+   首页 Welcome Hero 在 ≤640px 下被 inline 写死的 padding-xl/gap-xl + 100px
+   角色图压缩，导致右侧文字区只剩 ~130px，h2(24px) 与 displayName 长串
+   会触发逐词甚至逐字换行（视觉上像竖排）。这里：
+   1) 缩小 hero 的 padding/gap、avatar 尺寸；
+   2) 给文字容器 min-width:0，解除 flex item 默认 min-width:auto；
+   3) 调小 h2/段落字号并允许任意位置断行兜底超长用户名。 */
+@media (max-width: 640px) {
+  [data-component="welcome-hero"] {
+    padding: var(--space-lg) !important;
+    gap: var(--space-md) !important;
+  }
+  [data-component="hero-avatar"] {
+    width: 72px !important;
+    height: 72px !important;
+  }
+  [data-component="hero-avatar"] svg {
+    width: 48px !important;
+    height: 48px !important;
+  }
+  [data-component="hero-text"] { min-width: 0; }
+  [data-component="welcome-hero"] h2 {
+    font-size: 18px;
+    line-height: 1.25;
+    overflow-wrap: anywhere;
+  }
+  [data-component="welcome-hero"] p {
+    font-size: 13px !important;
+  }
+}
+
 /* --- Mobile landscape (手机横屏) ---
    在 iPhone/Android 横屏下高度仅 ≤3×原高，容易让详情页出现
    上下都要滚动的犼局。这里动态压缩 padding / nav 尺寸，以免
