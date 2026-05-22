@@ -4,6 +4,7 @@ import { fetchLearnedVocabCount } from '../lib/courses'
 import { getLevelTitle, fetchQuestCount } from '../lib/rewards'
 import { computeCoursePercent } from '../lib/courses'
 import { exportStatsCsv, printWeeklyReport } from '../lib/exportStats'
+import { withTimeout } from '../lib/withTimeout'
 
 // Pixel-art chart icon
 function ChartIcon({ size = 24, color = 'currentColor' }) {
@@ -37,9 +38,14 @@ export default function StatsPage() {
     const uid = authUser?.id
     if (!uid) { setExtraLoading(false); return }
     let cancelled = false
+    // 为该页面专属请求加 8s 超时兜底：移动端锁屏/切后台返回时
+    // 这些 fetch 可能永远 pending，导致 extraLoading 卡住，整个 Stats
+    // 页面陷入骨架态，仅能手动刷新恢复。
     Promise.allSettled([
-      fetchQuestCount(uid).then((v) => { if (!cancelled) setQuestCount(v) }),
-      fetchLearnedVocabCount(uid).then((v) => { if (!cancelled) setLearnedVocab(v) }),
+      withTimeout(fetchQuestCount(uid), 8000, 'quest count')
+        .then((v) => { if (!cancelled) setQuestCount(v) }),
+      withTimeout(fetchLearnedVocabCount(uid), 8000, 'learned vocab count')
+        .then((v) => { if (!cancelled) setLearnedVocab(v) }),
     ]).finally(() => { if (!cancelled) setExtraLoading(false) })
     return () => { cancelled = true }
   }, [authUser?.id, completionTrigger, progressTrigger])

@@ -15,6 +15,7 @@ import {
   saveSegmentAttempt,
   saveLessonReport,
 } from '../lib/courses'
+import { withTimeout } from '../lib/withTimeout'
 import VocabPopover from '../components/VocabPopover'
 import ReadingQuiz from '../components/ReadingQuiz'
 import ReadingReport from '../components/ReadingReport'
@@ -165,14 +166,16 @@ export default function ReadingPractice() {
     startTimeRef.current = Date.now()
     ;(async () => {
       try {
-        const lessons = await listLessonsForCourse(courseId)
+        // 移动端切后台返回时 supabase 请求可能永远 pending，超时兜底
+        // 避免页面卡在 loaded=false 骨架态。
+        const lessons = await withTimeout(listLessonsForCourse(courseId), 8000, 'reading lessons')
         const first = (lessons || []).find(l => l.kind === 'reading_passage') || null
         if (cancelled) return
         setLesson(first)
         if (first) {
           const [segs, qs] = await Promise.all([
-            fetchLessonSegments(first.id),
-            listQuestionsForLesson(first.id),
+            withTimeout(fetchLessonSegments(first.id), 8000, 'reading segments'),
+            withTimeout(listQuestionsForLesson(first.id), 8000, 'reading questions'),
           ])
           if (cancelled) return
           setSegments(segs || [])

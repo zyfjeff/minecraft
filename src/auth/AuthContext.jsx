@@ -14,6 +14,11 @@ import {
   recordQuestionAnswer as dbRecordQuestionAnswer,
 } from '../lib/courses'
 import { getCachedJson, setCachedJson, CACHE_KEYS } from '../lib/offlineCache'
+import { withTimeout } from '../lib/withTimeout'
+
+// 关键 catalog 请求超时上限（毫秒）。移动端切换前后台时挂起的 fetch
+// 必须在该上限内被强制 reject，否则 *Loaded 标志永远翻不到 true。
+const NET_TIMEOUT_MS = 8000
 
 const AuthContext = createContext(null)
 
@@ -145,7 +150,7 @@ export function AuthProvider({ children }) {
     }
     return dedup(`isAdmin:${userId}`, async () => {
       try {
-        const { data, error } = await supabase.rpc('is_admin')
+        const { data, error } = await withTimeout(supabase.rpc('is_admin'), NET_TIMEOUT_MS, 'is_admin')
         if (error) throw error
         setIsAdmin(!!data)
       } catch (err) {
@@ -166,7 +171,7 @@ export function AuthProvider({ children }) {
     }
     return dedup(`todayCompletions:${userId}`, async () => {
       try {
-        const rows = await listTodayCompletions(userId)
+        const rows = await withTimeout(listTodayCompletions(userId), NET_TIMEOUT_MS, 'today completions')
         setTodayCompletions(rows)
       } catch (err) {
         // eslint-disable-next-line no-console
@@ -184,7 +189,7 @@ export function AuthProvider({ children }) {
     }
     return dedup(`weekDots:${userId}`, async () => {
       try {
-        const dates = await listThisWeekCompletedDates(userId)
+        const dates = await withTimeout(listThisWeekCompletedDates(userId), NET_TIMEOUT_MS, 'week dots')
         setWeekDots(computeWeekDots(dates))
       } catch (err) {
         // eslint-disable-next-line no-console
@@ -197,7 +202,7 @@ export function AuthProvider({ children }) {
   const refreshQuests = useCallback(async () => {
     return dedup('quests', async () => {
       try {
-        const rows = await listAllQuests()
+        const rows = await withTimeout(listAllQuests(), NET_TIMEOUT_MS, 'quests catalog')
         setQuests(rows)
       } catch (err) {
         // eslint-disable-next-line no-console
@@ -226,7 +231,7 @@ export function AuthProvider({ children }) {
       } catch (_) { /* cache read is best-effort */ }
   
       try {
-        const rows = await listCourses()
+        const rows = await withTimeout(listCourses(), NET_TIMEOUT_MS, 'courses catalog')
         setCourses(rows)
         // Persist asynchronously so we never block the UI on the write.
         setCachedJson(CACHE_KEYS.courses, rows).catch(() => {})
@@ -256,7 +261,7 @@ export function AuthProvider({ children }) {
       } catch (_) { /* best-effort */ }
   
       try {
-        const rows = await listVocab()
+        const rows = await withTimeout(listVocab(), NET_TIMEOUT_MS, 'vocab catalog')
         setVocabMap(buildVocabMap(rows))
         setCachedJson(CACHE_KEYS.vocab, rows).catch(() => {})
       } catch (err) {
@@ -280,7 +285,7 @@ export function AuthProvider({ children }) {
     }
     return dedup(`userCourseProgress:${userId}`, async () => {
       try {
-        const rows = await listUserCourseProgress(userId)
+        const rows = await withTimeout(listUserCourseProgress(userId), NET_TIMEOUT_MS, 'user course progress')
         setUserCourseProgress(buildProgressMap(rows))
       } catch (err) {
         // eslint-disable-next-line no-console
@@ -296,7 +301,7 @@ export function AuthProvider({ children }) {
     const userId = uid || session?.user?.id
     return dedup(`achievements:${userId || 'guest'}`, async () => {
       try {
-        const catalog = await listAchievements()
+        const catalog = await withTimeout(listAchievements(), NET_TIMEOUT_MS, 'achievements catalog')
         setAchievements(catalog)
         if (!userId) {
           setUserUnlocks([])
@@ -306,7 +311,7 @@ export function AuthProvider({ children }) {
         // newly satisfied rows, 23505 is swallowed) and ensures users who met
         // the criteria *before* the evaluate-on-claim hook existed still see
         // their badges on first load.
-        const unlocks = await evaluateAndUnlock(userId)
+        const unlocks = await withTimeout(evaluateAndUnlock(userId), NET_TIMEOUT_MS, 'evaluate achievements')
         setUserUnlocks(unlocks)
       } catch (err) {
         // eslint-disable-next-line no-console
@@ -477,6 +482,39 @@ export function AuthProvider({ children }) {
       sub?.subscription?.unsubscribe?.()
     }
   }, [loadProfile])
+
+  // 移动端从后台/锁屏返回时，上一轮被挂起的 fetch 可能已被 withTimeout
+  // 强行 reject，dedup inflight 也被 finally 清掉，但此时页面仍处于 *Loaded=false
+  // 的骨架态。监听 visibilitychange：当 tab 重新可见且任一关键 loaded
+  // 标志仍未翻转时，主动重试这些请求，避免用户需要手动刷新。
+  useEffect(() => {
+    if (typeof document === 'undefined') return
+    const onVisible = () => {
+      if (document.visibilityState !== 'visible') return
+      const uid = session?.user?.id
+      if (!coursesLoaded) refreshCourses().catch(() => {})
+      if (!vocabLoaded) refreshVocab().catch(() => {})
+      if (uid) {
+        if (!progressLoaded) refreshUserCourseProgress(uid).catch(() => {})
+        if (!achievementsLoaded) refreshAchievements(uid).catch(() => {})
+        if (!questsLoaded) refreshQuests().catch(() => {})
+      }
+    }
+    document.addEventListener('visibilitychange', onVisible)
+    return () => document.removeEventListener('visibilitychange', onVisible)
+  }, [
+    session,
+    coursesLoaded,
+    vocabLoaded,
+    progressLoaded,
+    achievementsLoaded,
+    questsLoaded,
+    refreshCourses,
+    refreshVocab,
+    refreshUserCourseProgress,
+    refreshAchievements,
+    refreshQuests,
+  ])
 
   const signUp = useCallback(async ({ email, password, displayName }) => {
     const { data, error } = await supabase.auth.signUp({

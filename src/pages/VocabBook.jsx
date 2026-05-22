@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom'
 import { useAuth } from '../auth/AuthContext'
 import { fetchLearnedVocabWords } from '../lib/courses'
 import { countDueWords } from '../lib/srs'
+import { withTimeout } from '../lib/withTimeout'
 
 // Pixel-art book icon (page-local; distinct from the outline BookIcon in App.jsx)
 function PixelBookIcon({ size = 24, color = 'currentColor' }) {
@@ -55,7 +56,9 @@ export default function VocabBook() {
     const uid = authUser?.id
     if (!uid) { setLearnedLoading(false); return }
     let cancelled = false
-    fetchLearnedVocabWords(uid)
+    // 移动端切换后台返回时请求可能永远 pending，使用 8s 超时兜底避免
+    // learnedLoading 卡住，页面仅能手动刷新才能恢复。
+    withTimeout(fetchLearnedVocabWords(uid), 8000, 'learned vocab words')
       .then((words) => { if (!cancelled) setLearnedWords(words) })
       .catch((err) => {
         // eslint-disable-next-line no-console

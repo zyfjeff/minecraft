@@ -15,6 +15,7 @@ import { useState, useEffect, useMemo, useCallback, useRef } from 'react'
 import { useParams, useNavigate } from 'react-router-dom'
 import { useAuth } from '../auth/AuthContext'
 import { listLessonsForCourse, markLessonComplete, saveLessonReport } from '../lib/courses'
+import { withTimeout } from '../lib/withTimeout'
 import VocabCard from '../components/VocabCard'
 import VocabQuiz from '../components/VocabQuiz'
 import VocabReport from '../components/VocabReport'
@@ -66,7 +67,9 @@ export default function VocabPractice() {
     async function load() {
       try {
         setLoading(true)
-        const lessons = await listLessonsForCourse(courseId)
+        // 移动端切后台返回时 supabase 请求可能永远 pending，超时兜底避免
+        // 页面卡在 "Loading vocabulary..." 骨架态。
+        const lessons = await withTimeout(listLessonsForCourse(courseId), 8000, 'vocab lessons')
         const drill = lessons.find(l => l.kind === 'vocab_drill')
         if (!cancelled) {
           if (drill) {

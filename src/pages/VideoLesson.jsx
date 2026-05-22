@@ -8,6 +8,7 @@ import {
   saveSegmentAttempt,
   saveLessonReport,
 } from '../lib/courses'
+import { withTimeout } from '../lib/withTimeout'
 import {
   createPlayer,
   startPolling,
@@ -251,7 +252,9 @@ export default function VideoLesson(qoderProps) {
     setDbSegments([])
     ;(async () => {
       try {
-        const lessons = await listLessonsForCourse(courseId)
+        // 移动端切后台返回时 supabase 请求可能永远 pending，超时兜底
+        // 避免页面卡在 lessonLoaded=false 骨架态。
+        const lessons = await withTimeout(listLessonsForCourse(courseId), 8000, 'video lessons')
         const first = (lessons || []).find((l) => l.kind === 'video_segment') || null
         if (cancelled) return
         setLesson(first)
@@ -259,8 +262,8 @@ export default function VideoLesson(qoderProps) {
           // Fetch quiz + pre-cut segments in parallel — both live in different
           // tables and have no dependency on each other.
           const [qs, segs] = await Promise.all([
-            listQuestionsForLesson(first.id),
-            fetchLessonSegments(first.id).catch((err) => {
+            withTimeout(listQuestionsForLesson(first.id), 8000, 'video questions'),
+            withTimeout(fetchLessonSegments(first.id), 8000, 'video segments').catch((err) => {
               // eslint-disable-next-line no-console
               console.warn('[VideoLesson] fetchLessonSegments failed, falling back', err)
               return []

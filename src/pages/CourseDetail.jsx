@@ -17,6 +17,7 @@ import { Link, useParams, useNavigate } from 'react-router-dom'
 import { useAuth } from '../auth/AuthContext'
 import { computeCoursePercent, listLessonsForCourse } from '../lib/courses'
 import { resolveThumbnailKey } from '../lib/courseThumbnails'
+import { withTimeout } from '../lib/withTimeout'
 
 const KIND_LABEL = {
   listening: 'Listening',
@@ -65,7 +66,9 @@ export default function CourseDetail() {
     setLoadError(null)
     ;(async () => {
       try {
-        const rows = await listLessonsForCourse(courseId)
+        // 移动端切后台返回时 supabase 请求可能永远 pending，超时兜底
+        // 避免详情页卡在 lessonsLoaded=false 骨架态。
+        const rows = await withTimeout(listLessonsForCourse(courseId), 8000, 'course detail lessons')
         if (cancelled) return
         setLessons(rows || [])
       } catch (err) {
